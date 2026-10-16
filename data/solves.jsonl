@@ -494,7 +494,7 @@
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9062686,"platform":"luogu","problem_id":"P1032","solved_at":1708823945.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 提高组] 字串变换（疑似错题）"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9062715,"platform":"luogu","problem_id":"P1035","solved_at":1665628719.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 级数求和"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906274,"platform":"luogu","problem_id":"P1036","solved_at":1654253415.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 选数"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9062846,"platform":"luogu","problem_id":"P1042","solved_at":1665913168.0,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 乒乓球"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9062846,"platform":"luogu","problem_id":"P1042","solved_at":1645279061.0,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 乒乓球"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906288,"platform":"luogu","problem_id":"P1044","solved_at":1666451992.0,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9062905,"platform":"luogu","problem_id":"P1046","solved_at":1665629036.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9062932,"platform":"luogu","problem_id":"P1047","solved_at":1665630218.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 校门外的树"}
@@ -527,18 +527,18 @@
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9063573,"platform":"luogu","problem_id":"P1195","solved_at":1674046115.0,"source":"luogu-practice-snapshot","title":"口袋的天空"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.90636,"platform":"luogu","problem_id":"P1199","solved_at":1688272652.0,"source":"luogu-practice-snapshot","title":"[NOIP 2010 普及组] 三国游戏"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063623,"platform":"luogu","problem_id":"P1203","solved_at":1721920525.0,"source":"luogu-practice-snapshot","title":"[IOI 1993 / USACO1.1] 坏掉的项链 Broken Necklace"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906365,"platform":"luogu","problem_id":"P1219","solved_at":1655270897.0,"source":"luogu-practice-snapshot","title":"[USACO1.5] 八皇后 Checker Challenge"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906365,"platform":"luogu","problem_id":"P1219","solved_at":1647092953.0,"source":"luogu-practice-snapshot","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063678,"platform":"luogu","problem_id":"P1226","solved_at":1678026155.0,"source":"luogu-practice-snapshot","title":"【模板】快速幂"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063704,"platform":"luogu","problem_id":"P1303","solved_at":1660197763.0,"source":"luogu-practice-snapshot","title":"A*B Problem"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906373,"platform":"luogu","problem_id":"P1305","solved_at":1679205170.0,"source":"luogu-practice-snapshot","title":"新二叉树"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063754,"platform":"luogu","problem_id":"P1331","solved_at":null,"source":"luogu-practice-snapshot","title":"海战"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906378,"platform":"luogu","problem_id":"P1332","solved_at":null,"source":"luogu-practice-snapshot","title":"血色先锋队"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063754,"platform":"luogu","problem_id":"P1331","solved_at":1647699574.0,"source":"luogu-practice-snapshot","title":"海战"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906378,"platform":"luogu","problem_id":"P1332","solved_at":1651347969.0,"source":"luogu-practice-snapshot","title":"血色先锋队"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9063802,"platform":"luogu","problem_id":"P1339","solved_at":1660976335.0,"source":"luogu-practice-snapshot","title":"[USACO09OCT] Heat Wave G"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906383,"platform":"luogu","problem_id":"P1359","solved_at":1656790020.0,"source":"luogu-practice-snapshot","title":"租用游艇"}
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9063854,"platform":"luogu","problem_id":"P1379","solved_at":1693363756.0,"source":"luogu-practice-snapshot","title":"八数码难题"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063883,"platform":"luogu","problem_id":"P1387","solved_at":1732836883.0,"source":"luogu-practice-snapshot","title":"最大正方形"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063907,"platform":"luogu","problem_id":"P1403","solved_at":1721977201.0,"source":"luogu-practice-snapshot","title":"[AHOI2005] 约数研究"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9063933,"platform":"luogu","problem_id":"P1434","solved_at":null,"source":"luogu-practice-snapshot","title":"[SHOI2002] 滑雪"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9063933,"platform":"luogu","problem_id":"P1434","solved_at":1653755608.0,"source":"luogu-practice-snapshot","title":"[SHOI2002] 滑雪"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906396,"platform":"luogu","problem_id":"P1440","solved_at":1714544351.0,"source":"luogu-practice-snapshot","title":"求m区间内的最小值"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9063983,"platform":"luogu","problem_id":"P1443","solved_at":1680968580.0,"source":"luogu-practice-snapshot","title":"马的遍历"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064007,"platform":"luogu","problem_id":"P1455","solved_at":1721234046.0,"source":"luogu-practice-snapshot","title":"搭配购买"}
@@ -554,23 +554,23 @@
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064267,"platform":"luogu","problem_id":"P1551","solved_at":1672402410.0,"source":"luogu-practice-snapshot","title":"亲戚"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064293,"platform":"luogu","problem_id":"P1563","solved_at":1727921417.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 提高组] 玩具谜题"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906432,"platform":"luogu","problem_id":"P1577","solved_at":1719035875.0,"source":"luogu-practice-snapshot","title":"切绳子"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064348,"platform":"luogu","problem_id":"P1579","solved_at":null,"source":"luogu-practice-snapshot","title":"哥德巴赫猜想（升级版）"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064379,"platform":"luogu","problem_id":"P1605","solved_at":null,"source":"luogu-practice-snapshot","title":"迷宫"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064348,"platform":"luogu","problem_id":"P1579","solved_at":1636820045.0,"source":"luogu-practice-snapshot","title":"哥德巴赫猜想（升级版）"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064379,"platform":"luogu","problem_id":"P1605","solved_at":1646483952.0,"source":"luogu-practice-snapshot","title":"迷宫"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064412,"platform":"luogu","problem_id":"P1719","solved_at":1720064246.0,"source":"luogu-practice-snapshot","title":"最大加权矩形"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906444,"platform":"luogu","problem_id":"P1746","solved_at":1680967182.0,"source":"luogu-practice-snapshot","title":"离开中山路"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.906444,"platform":"luogu","problem_id":"P1746","solved_at":1650033195.0,"source":"luogu-practice-snapshot","title":"离开中山路"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906447,"platform":"luogu","problem_id":"P1747","solved_at":1680969334.0,"source":"luogu-practice-snapshot","title":"好奇怪的游戏"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064493,"platform":"luogu","problem_id":"P1802","solved_at":1676634945.0,"source":"luogu-practice-snapshot","title":"5 倍经验日"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064522,"platform":"luogu","problem_id":"P1843","solved_at":1719846318.0,"source":"luogu-practice-snapshot","title":"奶牛晒衣服"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064546,"platform":"luogu","problem_id":"P1865","solved_at":1722440149.0,"source":"luogu-practice-snapshot","title":"A % B Problem"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064522,"platform":"luogu","problem_id":"P1843","solved_at":1644651069.0,"source":"luogu-practice-snapshot","title":"奶牛晒衣服"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064546,"platform":"luogu","problem_id":"P1865","solved_at":1636206986.0,"source":"luogu-practice-snapshot","title":"A % B Problem"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064572,"platform":"luogu","problem_id":"P1886","solved_at":1714533093.0,"source":"luogu-practice-snapshot","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9064596,"platform":"luogu","problem_id":"P1892","solved_at":1721233874.0,"source":"luogu-practice-snapshot","title":"[BalticOI 2003] 团伙 (Day 2)"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9064627,"platform":"luogu","problem_id":"P1897","solved_at":1690515351.0,"source":"luogu-practice-snapshot","title":"电梯里的尴尬"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9064674,"platform":"luogu","problem_id":"P1914","solved_at":1690092893.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064698,"platform":"luogu","problem_id":"P1958","solved_at":null,"source":"luogu-practice-snapshot","title":"[JOI2007 预选赛] 上学路线"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064698,"platform":"luogu","problem_id":"P1958","solved_at":1646484999.0,"source":"luogu-practice-snapshot","title":"[JOI2007 预选赛] 上学路线"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064724,"platform":"luogu","problem_id":"P1981","solved_at":1694929462.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 普及组] 表达式求值"}
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9064755,"platform":"luogu","problem_id":"P2023","solved_at":1708181231.0,"source":"luogu-practice-snapshot","title":"[AHOI2009] 维护序列"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064782,"platform":"luogu","problem_id":"P2032","solved_at":1714581872.0,"source":"luogu-practice-snapshot","title":"扫描"}
-{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064806,"platform":"luogu","problem_id":"P2036","solved_at":null,"source":"luogu-practice-snapshot","title":"[COCI 2008/2009 #2] PERKET"}
+{"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9064806,"platform":"luogu","problem_id":"P2036","solved_at":1648307554.0,"source":"luogu-practice-snapshot","title":"[COCI 2008/2009 #2] PERKET"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064832,"platform":"luogu","problem_id":"P2058","solved_at":1662831562.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 海港"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064858,"platform":"luogu","problem_id":"P2078","solved_at":1721234114.0,"source":"luogu-practice-snapshot","title":"朋友"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9064882,"platform":"luogu","problem_id":"P2085","solved_at":1691301868.0,"source":"luogu-practice-snapshot","title":"最小函数值"}
@@ -581,7 +581,7 @@
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9065032,"platform":"luogu","problem_id":"P2330","solved_at":1674788375.0,"source":"luogu-practice-snapshot","title":"[SCOI2005] 繁忙的都市"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9065008,"platform":"luogu","problem_id":"P2367","solved_at":1688816977.0,"source":"luogu-practice-snapshot","title":"语文成绩"}
 {"account_id":"a5","difficulty":5,"member_id":"m3","observed_at":1792072188.9065058,"platform":"luogu","problem_id":"P2375","solved_at":1721013893.0,"source":"luogu-practice-snapshot","title":"[NOI2014] 动物园"}
-{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906508,"platform":"luogu","problem_id":"P2383","solved_at":null,"source":"luogu-practice-snapshot","title":"狗哥玩木棒"}
+{"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906508,"platform":"luogu","problem_id":"P2383","solved_at":1652605013.0,"source":"luogu-practice-snapshot","title":"狗哥玩木棒"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9066362,"platform":"luogu","problem_id":"P2669","solved_at":1665051820.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 普及组] 金币"}
 {"account_id":"a5","difficulty":1,"member_id":"m3","observed_at":1792072188.9066434,"platform":"luogu","problem_id":"P2670","solved_at":1665053123.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.90665,"platform":"luogu","problem_id":"P2677","solved_at":1712148770.0,"source":"luogu-practice-snapshot","title":"[USACO07DEC] Bookshelf 2 B"}
@@ -3180,7 +3180,7 @@
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.415567,"platform":"luogu","problem_id":"P1706","solved_at":null,"source":"luogu-practice-snapshot","title":"全排列问题"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4155805,"platform":"luogu","problem_id":"P1725","solved_at":null,"source":"luogu-practice-snapshot","title":"琪露诺"}
 {"account_id":"a28","difficulty":1,"member_id":"m12","observed_at":1792083216.4155989,"platform":"luogu","problem_id":"P1739","solved_at":null,"source":"luogu-practice-snapshot","title":"表达式括号匹配"}
-{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4156106,"platform":"luogu","problem_id":"P1774","solved_at":null,"source":"luogu-practice-snapshot","title":"最接近神的人"}
+{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4156106,"platform":"luogu","problem_id":"P1774","solved_at":1695815149.0,"source":"luogu-practice-snapshot","title":"最接近神的人"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4156594,"platform":"luogu","problem_id":"P1775","solved_at":null,"source":"luogu-practice-snapshot","title":"石子合并（弱化版）"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.415675,"platform":"luogu","problem_id":"P1789","solved_at":null,"source":"luogu-practice-snapshot","title":"【Mc生存】插火把"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4157054,"platform":"luogu","problem_id":"P1802","solved_at":null,"source":"luogu-practice-snapshot","title":"5 倍经验日"}
@@ -3221,7 +3221,7 @@
 {"account_id":"a28","difficulty":7,"member_id":"m12","observed_at":1792083216.416167,"platform":"luogu","problem_id":"P2042","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI2005] 维护数列"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.416178,"platform":"luogu","problem_id":"P2044","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI2012] 随机数生成器"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4161901,"platform":"luogu","problem_id":"P2066","solved_at":null,"source":"luogu-practice-snapshot","title":"机器分配"}
-{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4162047,"platform":"luogu","problem_id":"P2068","solved_at":null,"source":"luogu-practice-snapshot","title":"统计和"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4162047,"platform":"luogu","problem_id":"P2068","solved_at":1695736796.0,"source":"luogu-practice-snapshot","title":"统计和"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.416216,"platform":"luogu","problem_id":"P2071","solved_at":1696813169.0,"source":"luogu-practice-snapshot","title":"座位安排"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4162564,"platform":"luogu","problem_id":"P2107","solved_at":1763189581.0,"source":"luogu-practice-snapshot","title":"小 Z 的 AK 计划"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4164188,"platform":"luogu","problem_id":"P2141","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2014 普及组] 珠心算测验"}
@@ -3280,7 +3280,7 @@
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.417426,"platform":"luogu","problem_id":"P2865","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Roadblocks G"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4174385,"platform":"luogu","problem_id":"P2866","solved_at":1761304383.0,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Bad Hair Day S"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.417451,"platform":"luogu","problem_id":"P2872","solved_at":1763712467.0,"source":"luogu-practice-snapshot","title":"[USACO07DEC] Building Roads S"}
-{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4174638,"platform":"luogu","problem_id":"P2880","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO07JAN] Balanced Lineup G"}
+{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4174638,"platform":"luogu","problem_id":"P2880","solved_at":1695804583.0,"source":"luogu-practice-snapshot","title":"[USACO07JAN] Balanced Lineup G"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.417476,"platform":"luogu","problem_id":"P2926","solved_at":1769153623.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Patting Heads S"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4174888,"platform":"luogu","problem_id":"P2939","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO09FEB] Revamping Trails G"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4175012,"platform":"luogu","problem_id":"P2945","solved_at":1769839625.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
@@ -3298,13 +3298,13 @@
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.417711,"platform":"luogu","problem_id":"P3258","solved_at":null,"source":"luogu-practice-snapshot","title":"[JLOI2014] 松鼠的新家"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4169078,"platform":"luogu","problem_id":"P3366","solved_at":1763553783.0,"source":"luogu-practice-snapshot","title":"【模板】最小生成树"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.41692,"platform":"luogu","problem_id":"P3367","solved_at":1762346547.0,"source":"luogu-practice-snapshot","title":"【模板】并查集"}
-{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4171245,"platform":"luogu","problem_id":"P3368","solved_at":1696598509.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4171245,"platform":"luogu","problem_id":"P3368","solved_at":1695885936.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
 {"account_id":"a28","difficulty":6,"member_id":"m12","observed_at":1792083216.4172323,"platform":"luogu","problem_id":"P3369","solved_at":1696904090.0,"source":"luogu-practice-snapshot","title":"【模板】普通平衡树"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4172573,"platform":"luogu","problem_id":"P3370","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】字符串哈希"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4169316,"platform":"luogu","problem_id":"P3371","solved_at":1764159482.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（弱化版）"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4169466,"platform":"luogu","problem_id":"P3372","solved_at":1696229702.0,"source":"luogu-practice-snapshot","title":"【模板】线段树 1"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.416958,"platform":"luogu","problem_id":"P3373","solved_at":1773389373.0,"source":"luogu-practice-snapshot","title":"【模板】线段树 2"}
-{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.41697,"platform":"luogu","problem_id":"P3374","solved_at":1696598305.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.41697,"platform":"luogu","problem_id":"P3374","solved_at":1695973296.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.416982,"platform":"luogu","problem_id":"P3375","solved_at":1760683226.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4172928,"platform":"luogu","problem_id":"P3378","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】堆"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4173086,"platform":"luogu","problem_id":"P3379","solved_at":1778219035.0,"source":"luogu-practice-snapshot","title":"【模板】最近公共祖先（LCA）"}
@@ -3332,7 +3332,7 @@
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4179041,"platform":"luogu","problem_id":"P3812","solved_at":1784710396.0,"source":"luogu-practice-snapshot","title":"【模板】线性基"}
 {"account_id":"a28","difficulty":6,"member_id":"m12","observed_at":1792083216.4179451,"platform":"luogu","problem_id":"P3834","solved_at":1778747921.0,"source":"luogu-practice-snapshot","title":"【模板】可持久化线段树 2（静态区间第 k 小）"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4179318,"platform":"luogu","problem_id":"P3850","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2007] 书架"}
-{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4179764,"platform":"luogu","problem_id":"P3865","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】ST 表 & RMQ 问题"}
+{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4179764,"platform":"luogu","problem_id":"P3865","solved_at":1696207711.0,"source":"luogu-practice-snapshot","title":"【模板】ST 表 & RMQ 问题"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4179895,"platform":"luogu","problem_id":"P3868","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2009] 猜数字"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4179633,"platform":"luogu","problem_id":"P3870","solved_at":1772257646.0,"source":"luogu-practice-snapshot","title":"[TJOI2009] 开关"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4180012,"platform":"luogu","problem_id":"P3901","solved_at":1764763051.0,"source":"luogu-practice-snapshot","title":"数列找不同"}
@@ -3348,7 +3348,7 @@
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4186997,"platform":"luogu","problem_id":"P4279","solved_at":1768898498.0,"source":"luogu-practice-snapshot","title":"[SHOI2008] 小约翰的游戏"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4187124,"platform":"luogu","problem_id":"P4306","solved_at":null,"source":"luogu-practice-snapshot","title":"[JSOI2010] 连通数"}
 {"account_id":"a28","difficulty":6,"member_id":"m12","observed_at":1792083216.4187257,"platform":"luogu","problem_id":"P4360","solved_at":null,"source":"luogu-practice-snapshot","title":"[CEOI 2004] 锯木厂选址"}
-{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4187686,"platform":"luogu","problem_id":"P4378","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO18OPEN] Out of Sorts S"}
+{"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4187686,"platform":"luogu","problem_id":"P4378","solved_at":1695817392.0,"source":"luogu-practice-snapshot","title":"[USACO18OPEN] Out of Sorts S"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4187398,"platform":"luogu","problem_id":"P4391","solved_at":null,"source":"luogu-practice-snapshot","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.418756,"platform":"luogu","problem_id":"P4397","solved_at":null,"source":"luogu-practice-snapshot","title":"[JLOI2014] 聪明的燕姿"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4187818,"platform":"luogu","problem_id":"P4438","solved_at":null,"source":"luogu-practice-snapshot","title":"[HNOI/AHOI2018] 道路"}
@@ -3371,11 +3371,11 @@
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4189515,"platform":"luogu","problem_id":"P4896","solved_at":null,"source":"luogu-practice-snapshot","title":"OIer们的烦恼"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4190588,"platform":"luogu","problem_id":"P4924","solved_at":1760013826.0,"source":"luogu-practice-snapshot","title":"[1007] 魔法少女小Scarlet"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4190173,"platform":"luogu","problem_id":"P4933","solved_at":null,"source":"luogu-practice-snapshot","title":"大师"}
-{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4190438,"platform":"luogu","problem_id":"P4939","solved_at":null,"source":"luogu-practice-snapshot","title":"Agent2"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4190438,"platform":"luogu","problem_id":"P4939","solved_at":1695803937.0,"source":"luogu-practice-snapshot","title":"Agent2"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4190843,"platform":"luogu","problem_id":"P4995","solved_at":null,"source":"luogu-practice-snapshot","title":"跳跳！"}
 {"account_id":"a28","difficulty":1,"member_id":"m12","observed_at":1792083216.4191127,"platform":"luogu","problem_id":"P5015","solved_at":1758424149.0,"source":"luogu-practice-snapshot","title":"[NOIP 2018 普及组] 标题统计"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4190993,"platform":"luogu","problem_id":"P5019","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2018 提高组] 铺设道路"}
-{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4191256,"platform":"luogu","problem_id":"P5057","solved_at":1696210735.0,"source":"luogu-practice-snapshot","title":"[CQOI2006] 简单题"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4191256,"platform":"luogu","problem_id":"P5057","solved_at":1695736520.0,"source":"luogu-practice-snapshot","title":"[CQOI2006] 简单题"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4191391,"platform":"luogu","problem_id":"P5058","solved_at":null,"source":"luogu-practice-snapshot","title":"[ZJOI2004] 嗅探器"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4190714,"platform":"luogu","problem_id":"P5091","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】扩展欧拉定理"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.4195442,"platform":"luogu","problem_id":"P5266","solved_at":1771825774.0,"source":"luogu-practice-snapshot","title":"【深基17.例6】学籍管理"}
@@ -6569,9 +6569,9 @@
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3694165,"platform":"luogu","problem_id":"P1122","solved_at":null,"source":"luogu-practice-snapshot","title":"最大子树和"}
 {"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792129804.3694725,"platform":"luogu","problem_id":"P1125","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2008 提高组] 笨小猴"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3916538,"platform":"luogu","problem_id":"P11250","solved_at":null,"source":"luogu-practice-snapshot","title":"[GESP202409 八级] 手套配对"}
-{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3695889,"platform":"luogu","problem_id":"P1144","solved_at":null,"source":"luogu-practice-snapshot","title":"最短路计数"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3695889,"platform":"luogu","problem_id":"P1144","solved_at":1770712115.0,"source":"luogu-practice-snapshot","title":"最短路计数"}
 {"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.3696759,"platform":"luogu","problem_id":"P1161","solved_at":null,"source":"luogu-practice-snapshot","title":"开灯"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.391747,"platform":"luogu","problem_id":"P11681","solved_at":null,"source":"luogu-practice-snapshot","title":"[Algo Beat Contest 001 C] Creating a Queue"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.391747,"platform":"luogu","problem_id":"P11681","solved_at":1769508501.0,"source":"luogu-practice-snapshot","title":"[Algo Beat Contest 001 C] Creating a Queue"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3697243,"platform":"luogu","problem_id":"P1182","solved_at":null,"source":"luogu-practice-snapshot","title":"数列分段 Section II"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3698263,"platform":"luogu","problem_id":"P1186","solved_at":1774595819.0,"source":"luogu-practice-snapshot","title":"玛丽卡"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.39158,"platform":"luogu","problem_id":"P11863","solved_at":null,"source":"luogu-practice-snapshot","title":"「o.OI R1」CX"}
@@ -6608,12 +6608,14 @@
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3928466,"platform":"luogu","problem_id":"P14580","solved_at":1788266157.0,"source":"luogu-practice-snapshot","title":"【模板】有源汇上下界最小流"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3710093,"platform":"luogu","problem_id":"P1495","solved_at":1776584602.0,"source":"luogu-practice-snapshot","title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.37107,"platform":"luogu","problem_id":"P1516","solved_at":1776586353.0,"source":"luogu-practice-snapshot","title":"[ZJOI2002] 青蛙的约会"}
+{"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792158803.737725,"platform":"luogu","problem_id":"P15266","solved_at":1770790410.0,"source":"luogu-record-list","title":"「UTOI 1A」sp! dusttale"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792158803.7377017,"platform":"luogu","problem_id":"P15267","solved_at":1770793172.0,"source":"luogu-record-list","title":"「UTOI 1B」Chaotic Time Trio"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3711307,"platform":"luogu","problem_id":"P1537","solved_at":1778070978.0,"source":"luogu-practice-snapshot","title":"[MCERC 1999] 弹珠"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3928745,"platform":"luogu","problem_id":"P15427","solved_at":1788929575.0,"source":"luogu-practice-snapshot","title":"Nobody Tells (Original Version)"}
 {"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792129804.3712153,"platform":"luogu","problem_id":"P1553","solved_at":null,"source":"luogu-practice-snapshot","title":"数字反转（升级版）"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3712642,"platform":"luogu","problem_id":"P1559","solved_at":1772069325.0,"source":"luogu-practice-snapshot","title":"运动员最佳匹配问题"}
 {"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792129804.3713665,"platform":"luogu","problem_id":"P1601","solved_at":null,"source":"luogu-practice-snapshot","title":"高精度加法"}
-{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3714244,"platform":"luogu","problem_id":"P1608","solved_at":null,"source":"luogu-practice-snapshot","title":"路径统计"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3714244,"platform":"luogu","problem_id":"P1608","solved_at":1770713069.0,"source":"luogu-practice-snapshot","title":"路径统计"}
 {"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.392889,"platform":"luogu","problem_id":"P16113","solved_at":1775637166.0,"source":"luogu-practice-snapshot","title":"[USTCPC 2026] Acronym"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792156458.3323584,"platform":"luogu","problem_id":"P16233","solved_at":1775895752.0,"source":"luogu-record-list","title":"[蓝桥杯 2026 省 B] 双碳战略"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3715096,"platform":"luogu","problem_id":"P1637","solved_at":null,"source":"luogu-practice-snapshot","title":"三元上升子序列"}
@@ -6623,7 +6625,7 @@
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.371885,"platform":"luogu","problem_id":"P1680","solved_at":null,"source":"luogu-practice-snapshot","title":"奇怪的分组"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.371952,"platform":"luogu","problem_id":"P1726","solved_at":1774877539.0,"source":"luogu-practice-snapshot","title":"上白泽慧音"}
 {"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792129804.3720286,"platform":"luogu","problem_id":"P1803","solved_at":null,"source":"luogu-practice-snapshot","title":"凌乱的yyy / 线段覆盖"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3721447,"platform":"luogu","problem_id":"P1807","solved_at":null,"source":"luogu-practice-snapshot","title":"最长路"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3721447,"platform":"luogu","problem_id":"P1807","solved_at":1770705733.0,"source":"luogu-practice-snapshot","title":"最长路"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3722017,"platform":"luogu","problem_id":"P1833","solved_at":null,"source":"luogu-practice-snapshot","title":"樱花"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3722386,"platform":"luogu","problem_id":"P1836","solved_at":1773910241.0,"source":"luogu-practice-snapshot","title":"数页码"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3722954,"platform":"luogu","problem_id":"P1880","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI1995] 石子合并"}
@@ -6645,12 +6647,12 @@
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3734014,"platform":"luogu","problem_id":"P2158","solved_at":1773046131.0,"source":"luogu-practice-snapshot","title":"[SDOI2008] 仪仗队"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3730931,"platform":"luogu","problem_id":"P2172","solved_at":1772003635.0,"source":"luogu-practice-snapshot","title":"[国家集训队] 部落战争"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3732278,"platform":"luogu","problem_id":"P2181","solved_at":1776864878.0,"source":"luogu-practice-snapshot","title":"对角线"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3734286,"platform":"luogu","problem_id":"P2196","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 1996 提高组] 挖地雷"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3734286,"platform":"luogu","problem_id":"P2196","solved_at":1770706352.0,"source":"luogu-practice-snapshot","title":"[NOIP 1996 提高组] 挖地雷"}
 {"account_id":"a46","difficulty":2,"member_id":"m20","observed_at":1792129804.3893495,"platform":"luogu","problem_id":"P2249","solved_at":null,"source":"luogu-practice-snapshot","title":"【深基13.例1】查找"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.373687,"platform":"luogu","problem_id":"P2260","solved_at":1773039634.0,"source":"luogu-practice-snapshot","title":"[清华集训 2012] 模积和"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3735979,"platform":"luogu","problem_id":"P2261","solved_at":1773033689.0,"source":"luogu-practice-snapshot","title":"[CQOI2007] 余数求和"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3737721,"platform":"luogu","problem_id":"P2265","solved_at":null,"source":"luogu-practice-snapshot","title":"路边的水沟"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3742669,"platform":"luogu","problem_id":"P2330","solved_at":null,"source":"luogu-practice-snapshot","title":"[SCOI2005] 繁忙的都市"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3742669,"platform":"luogu","problem_id":"P2330","solved_at":1770709880.0,"source":"luogu-practice-snapshot","title":"[SCOI2005] 繁忙的都市"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3742216,"platform":"luogu","problem_id":"P2341","solved_at":1775567931.0,"source":"luogu-practice-snapshot","title":"[USACO03FALL / HAOI2006] 受欢迎的牛 G"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3743508,"platform":"luogu","problem_id":"P2375","solved_at":1789139774.0,"source":"luogu-practice-snapshot","title":"[NOI2014] 动物园"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3745067,"platform":"luogu","problem_id":"P2391","solved_at":1787831732.0,"source":"luogu-practice-snapshot","title":"白雪皑皑"}
@@ -6679,7 +6681,7 @@
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3762083,"platform":"luogu","problem_id":"P2770","solved_at":1788328491.0,"source":"luogu-practice-snapshot","title":"航空路线问题"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.376172,"platform":"luogu","problem_id":"P2774","solved_at":1788247777.0,"source":"luogu-practice-snapshot","title":"方格取数问题"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3774712,"platform":"luogu","problem_id":"P2782","solved_at":1789711645.0,"source":"luogu-practice-snapshot","title":"友好城市"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3786263,"platform":"luogu","problem_id":"P2820","solved_at":null,"source":"luogu-practice-snapshot","title":"局域网"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3786263,"platform":"luogu","problem_id":"P2820","solved_at":1770710031.0,"source":"luogu-practice-snapshot","title":"局域网"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3787346,"platform":"luogu","problem_id":"P2852","solved_at":1788621665.0,"source":"luogu-practice-snapshot","title":"[USACO06DEC] Milk Patterns G"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.378806,"platform":"luogu","problem_id":"P2857","solved_at":1771161568.0,"source":"luogu-practice-snapshot","title":"[USACO06FEB] Steady Cow Assignment G"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3788347,"platform":"luogu","problem_id":"P2863","solved_at":1774876973.0,"source":"luogu-practice-snapshot","title":"[USACO06JAN] The Cow Prom S"}
@@ -6691,16 +6693,16 @@
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3790994,"platform":"luogu","problem_id":"P3194","solved_at":1777016860.0,"source":"luogu-practice-snapshot","title":"[HNOI2008] 水平可见直线"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3792334,"platform":"luogu","problem_id":"P3232","solved_at":1789449947.0,"source":"luogu-practice-snapshot","title":"[HNOI2013 / JSOI2013] 游走"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3792698,"platform":"luogu","problem_id":"P3239","solved_at":1789642196.0,"source":"luogu-practice-snapshot","title":"[HNOI2015] 亚瑟王"}
-{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3793275,"platform":"luogu","problem_id":"P3243","solved_at":null,"source":"luogu-practice-snapshot","title":"[HNOI2015] 菜肴制作"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3793275,"platform":"luogu","problem_id":"P3243","solved_at":1770707478.0,"source":"luogu-practice-snapshot","title":"[HNOI2015] 菜肴制作"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3793552,"platform":"luogu","problem_id":"P3292","solved_at":1789305495.0,"source":"luogu-practice-snapshot","title":"[SCOI2016] 幸运数字"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3795142,"platform":"luogu","problem_id":"P3299","solved_at":1777034299.0,"source":"luogu-practice-snapshot","title":"[SDOI2013] 保护出题人"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3776562,"platform":"luogu","problem_id":"P3366","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】最小生成树"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3776562,"platform":"luogu","problem_id":"P3366","solved_at":1770709018.0,"source":"luogu-practice-snapshot","title":"【模板】最小生成树"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3777814,"platform":"luogu","problem_id":"P3367","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】并查集"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3779788,"platform":"luogu","problem_id":"P3372","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】线段树 1"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.378114,"platform":"luogu","problem_id":"P3373","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】线段树 2"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3781574,"platform":"luogu","problem_id":"P3374","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3783557,"platform":"luogu","problem_id":"P3375","solved_at":1789045884.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
-{"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3785017,"platform":"luogu","problem_id":"P3376","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
+{"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3785017,"platform":"luogu","problem_id":"P3376","solved_at":1770878405.0,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.378595,"platform":"luogu","problem_id":"P3381","solved_at":1772009246.0,"source":"luogu-practice-snapshot","title":"【模板】最小费用最大流"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3755615,"platform":"luogu","problem_id":"P3386","solved_at":1772007393.0,"source":"luogu-practice-snapshot","title":"【模板】二分图最大匹配"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.375623,"platform":"luogu","problem_id":"P3387","solved_at":1775567669.0,"source":"luogu-practice-snapshot","title":"【模板】缩点 / 强连通分量"}
@@ -6734,13 +6736,13 @@
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.38395,"platform":"luogu","problem_id":"P4013","solved_at":1788326569.0,"source":"luogu-practice-snapshot","title":"数字梯形问题"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3841338,"platform":"luogu","problem_id":"P4014","solved_at":1788279193.0,"source":"luogu-practice-snapshot","title":"分配问题"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3844013,"platform":"luogu","problem_id":"P4015","solved_at":1788284131.0,"source":"luogu-practice-snapshot","title":"运输问题"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3837948,"platform":"luogu","problem_id":"P4017","solved_at":null,"source":"luogu-practice-snapshot","title":"最大食物链计数"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3837948,"platform":"luogu","problem_id":"P4017","solved_at":1770704846.0,"source":"luogu-practice-snapshot","title":"最大食物链计数"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3757098,"platform":"luogu","problem_id":"P4053","solved_at":null,"source":"luogu-practice-snapshot","title":"[JSOI2007] 建筑抢修"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3846183,"platform":"luogu","problem_id":"P4070","solved_at":1788054146.0,"source":"luogu-practice-snapshot","title":"[SDOI2016] 生成魔咒"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.385237,"platform":"luogu","problem_id":"P4091","solved_at":1791380983.0,"source":"luogu-practice-snapshot","title":"[HEOI2016/TJOI2016] 求和"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.385352,"platform":"luogu","problem_id":"P4097","solved_at":1779199866.0,"source":"luogu-practice-snapshot","title":"【模板】李超线段树 / [HEOI2013] Segment"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3849535,"platform":"luogu","problem_id":"P4114","solved_at":null,"source":"luogu-practice-snapshot","title":"Qtree1"}
-{"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3854403,"platform":"luogu","problem_id":"P4127","solved_at":null,"source":"luogu-practice-snapshot","title":"[AHOI2009] 同类分布"}
+{"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3854403,"platform":"luogu","problem_id":"P4127","solved_at":1768724430.0,"source":"luogu-practice-snapshot","title":"[AHOI2009] 同类分布"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3855326,"platform":"luogu","problem_id":"P4139","solved_at":1778416089.0,"source":"luogu-practice-snapshot","title":"上帝与集合的正确用法"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3856006,"platform":"luogu","problem_id":"P4151","solved_at":1789292200.0,"source":"luogu-practice-snapshot","title":"[WC2011] 最大 XOR 和路径"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3856344,"platform":"luogu","problem_id":"P4206","solved_at":1789463105.0,"source":"luogu-practice-snapshot","title":"[NOI2005] 聪聪与可可"}
@@ -6748,7 +6750,7 @@
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.385704,"platform":"luogu","problem_id":"P4238","solved_at":1790357165.0,"source":"luogu-practice-snapshot","title":"【模板】多项式乘法逆"}
 {"account_id":"a46","difficulty":8,"member_id":"m20","observed_at":1792129804.3857539,"platform":"luogu","problem_id":"P4298","solved_at":1789717682.0,"source":"luogu-practice-snapshot","title":"[CTSC2008] 祭祀"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3858018,"platform":"luogu","problem_id":"P4301","solved_at":1778245566.0,"source":"luogu-practice-snapshot","title":"[CQOI2013] 新Nim游戏"}
-{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.385836,"platform":"luogu","problem_id":"P4310","solved_at":null,"source":"luogu-practice-snapshot","title":"绝世好题"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.385836,"platform":"luogu","problem_id":"P4310","solved_at":1768894628.0,"source":"luogu-practice-snapshot","title":"绝世好题"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3866563,"platform":"luogu","problem_id":"P4313","solved_at":1788257023.0,"source":"luogu-practice-snapshot","title":"文理分科"}
 {"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3858874,"platform":"luogu","problem_id":"P4316","solved_at":1789385546.0,"source":"luogu-practice-snapshot","title":"绿豆蛙的归宿"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3859906,"platform":"luogu","problem_id":"P4317","solved_at":1773911678.0,"source":"luogu-practice-snapshot","title":"花神的数论题"}
@@ -6763,11 +6765,11 @@
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3865547,"platform":"luogu","problem_id":"P4555","solved_at":1789731404.0,"source":"luogu-practice-snapshot","title":"[国家集训队] 最长双回文串"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.386236,"platform":"luogu","problem_id":"P4570","solved_at":1778231175.0,"source":"luogu-practice-snapshot","title":"[BJWC2011] 元素"}
 {"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3865988,"platform":"luogu","problem_id":"P4626","solved_at":1773128539.0,"source":"luogu-practice-snapshot","title":"一道水题 II"}
-{"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.3863304,"platform":"luogu","problem_id":"P4702","solved_at":null,"source":"luogu-practice-snapshot","title":"取石子"}
+{"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.3863304,"platform":"luogu","problem_id":"P4702","solved_at":1768809890.0,"source":"luogu-practice-snapshot","title":"取石子"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3867044,"platform":"luogu","problem_id":"P4717","solved_at":1791279389.0,"source":"luogu-practice-snapshot","title":"【模板】快速莫比乌斯 / 沃尔什变换 (FMT / FWT)"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3867571,"platform":"luogu","problem_id":"P4721","solved_at":1790663986.0,"source":"luogu-practice-snapshot","title":"【模板】分治 FFT"}
 {"account_id":"a46","difficulty":8,"member_id":"m20","observed_at":1792129804.3868985,"platform":"luogu","problem_id":"P4723","solved_at":1791281013.0,"source":"luogu-practice-snapshot","title":"【模板】常系数齐次线性递推"}
-{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3872895,"platform":"luogu","problem_id":"P4779","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（标准版）"}
+{"account_id":"a46","difficulty":3,"member_id":"m20","observed_at":1792129804.3872895,"platform":"luogu","problem_id":"P4779","solved_at":1770711184.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（标准版）"}
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.3869886,"platform":"luogu","problem_id":"P4781","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】拉格朗日插值"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3871357,"platform":"luogu","problem_id":"P4841","solved_at":1791383427.0,"source":"luogu-practice-snapshot","title":"[集训队作业2013] 城市规划"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3871195,"platform":"luogu","problem_id":"P4843","solved_at":1788277895.0,"source":"luogu-practice-snapshot","title":"清理雪道"}
@@ -6785,7 +6787,7 @@
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.387873,"platform":"luogu","problem_id":"P5178","solved_at":1788354704.0,"source":"luogu-practice-snapshot","title":"求和"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.387905,"platform":"luogu","problem_id":"P5192","solved_at":1788268426.0,"source":"luogu-practice-snapshot","title":"Shoot the Bullet | 东方文花帖"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3879924,"platform":"luogu","problem_id":"P5231","solved_at":1786993389.0,"source":"luogu-practice-snapshot","title":"[JSOI2012] 玄武密码"}
-{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3880355,"platform":"luogu","problem_id":"P5322","solved_at":null,"source":"luogu-practice-snapshot","title":"[BJOI2019] 排兵布阵"}
+{"account_id":"a46","difficulty":4,"member_id":"m20","observed_at":1792129804.3880355,"platform":"luogu","problem_id":"P5322","solved_at":1768896583.0,"source":"luogu-practice-snapshot","title":"[BJOI2019] 排兵布阵"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3880718,"platform":"luogu","problem_id":"P5339","solved_at":1791550101.0,"source":"luogu-practice-snapshot","title":"[TJOI2019] 唱、跳、rap和篮球"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3881514,"platform":"luogu","problem_id":"P5341","solved_at":1788056535.0,"source":"luogu-practice-snapshot","title":"[TJOI2019] 甲苯先生和大中锋的字符串"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3881829,"platform":"luogu","problem_id":"P5357","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】AC 自动机"}
@@ -6822,7 +6824,7 @@
 {"account_id":"a46","difficulty":5,"member_id":"m20","observed_at":1792129804.389791,"platform":"luogu","problem_id":"P6218","solved_at":1773910096.0,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Round Numbers S"}
 {"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.389822,"platform":"luogu","problem_id":"P6247","solved_at":1777021431.0,"source":"luogu-practice-snapshot","title":"[SDOI2012] 最近最远点对"}
 {"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.3898604,"platform":"luogu","problem_id":"P6284","solved_at":null,"source":"luogu-practice-snapshot","title":"[COCI 2016/2017 #1] Tarifa"}
-{"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3899205,"platform":"luogu","problem_id":"P6475","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI Online #2 入门组] 建设城市"}
+{"account_id":"a46","difficulty":6,"member_id":"m20","observed_at":1792129804.3899205,"platform":"luogu","problem_id":"P6475","solved_at":1769574862.0,"source":"luogu-practice-snapshot","title":"[NOI Online #2 入门组] 建设城市"}
 {"account_id":"a46","difficulty":1,"member_id":"m20","observed_at":1792129804.3899395,"platform":"luogu","problem_id":"P6565","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI Online #3 入门组] 最急救助"}
 {"account_id":"a46","difficulty":7,"member_id":"m20","observed_at":1792129804.3900425,"platform":"luogu","problem_id":"P6577","solved_at":1772068801.0,"source":"luogu-practice-snapshot","title":"【模板】二分图最大权完美匹配"}
 {"account_id":"a46","difficulty":8,"member_id":"m20","observed_at":1792129804.3900716,"platform":"luogu","problem_id":"P6699","solved_at":1788595503.0,"source":"luogu-practice-snapshot","title":"【模板】一般图最大权匹配"}
@@ -10922,7 +10924,7 @@
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.193539,"platform":"luogu","problem_id":"AT_abc226_b","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC226B] Counting Arrays"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1912615,"platform":"luogu","problem_id":"AT_abc250_e","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC250E] Prefix Equality"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1912577,"platform":"luogu","problem_id":"AT_abc251_d","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC251D] At Most 3 (Contestant ver.)"}
-{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1935337,"platform":"luogu","problem_id":"AT_abc254_f","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC254F] Rectangle GCD"}
+{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1935337,"platform":"luogu","problem_id":"AT_abc254_f","solved_at":1728395325.0,"source":"luogu-practice-snapshot","title":"[ABC254F] Rectangle GCD"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1935287,"platform":"luogu","problem_id":"AT_abc258_g","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC258G] Triangle"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.191254,"platform":"luogu","problem_id":"AT_abc265_a","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC265A] Apple"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.19125,"platform":"luogu","problem_id":"AT_abc266_a","solved_at":null,"source":"luogu-practice-snapshot","title":"[ABC266A] Middle  Letter"}
@@ -11193,7 +11195,7 @@
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1913471,"platform":"luogu","problem_id":"B3677","solved_at":null,"source":"luogu-practice-snapshot","title":"[语言月赛202211] Fear"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.191343,"platform":"luogu","problem_id":"B3678","solved_at":null,"source":"luogu-practice-snapshot","title":"[语言月赛202211] Gold-Purple-Blue-Green-White"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1935132,"platform":"luogu","problem_id":"B3683","solved_at":null,"source":"luogu-practice-snapshot","title":"[语言月赛202211] String Problem"}
-{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1935642,"platform":"luogu","problem_id":"B3691","solved_at":null,"source":"luogu-practice-snapshot","title":"[语言月赛202212] 狠狠地切割(Easy Version)"}
+{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1935642,"platform":"luogu","problem_id":"B3691","solved_at":1728379470.0,"source":"luogu-practice-snapshot","title":"[语言月赛202212] 狠狠地切割(Easy Version)"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1913774,"platform":"luogu","problem_id":"B3693","solved_at":null,"source":"luogu-practice-snapshot","title":"数列前缀和 4"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.193575,"platform":"luogu","problem_id":"B3694","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】数列离散化"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1913698,"platform":"luogu","problem_id":"B3696","solved_at":null,"source":"luogu-practice-snapshot","title":"[语言月赛202301] Hello, 2023"}
@@ -11469,7 +11471,7 @@
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1886666,"platform":"luogu","problem_id":"P1372","solved_at":null,"source":"luogu-practice-snapshot","title":"又是毕业季I"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1886704,"platform":"luogu","problem_id":"P1375","solved_at":null,"source":"luogu-practice-snapshot","title":"小猫"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1886742,"platform":"luogu","problem_id":"P1378","solved_at":null,"source":"luogu-practice-snapshot","title":"油滴扩展"}
-{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.191562,"platform":"luogu","problem_id":"P1381","solved_at":null,"source":"luogu-practice-snapshot","title":"单词背诵"}
+{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.191562,"platform":"luogu","problem_id":"P1381","solved_at":1728390295.0,"source":"luogu-practice-snapshot","title":"单词背诵"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1915655,"platform":"luogu","problem_id":"P1387","solved_at":null,"source":"luogu-practice-snapshot","title":"最大正方形"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1915693,"platform":"luogu","problem_id":"P1390","solved_at":null,"source":"luogu-practice-snapshot","title":"公约数的和"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1886778,"platform":"luogu","problem_id":"P1396","solved_at":null,"source":"luogu-practice-snapshot","title":"营救"}
@@ -11555,7 +11557,7 @@
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1888366,"platform":"luogu","problem_id":"P1706","solved_at":null,"source":"luogu-practice-snapshot","title":"全排列问题"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1944413,"platform":"luogu","problem_id":"P17103","solved_at":1784104603.0,"source":"luogu-practice-snapshot","title":"[入门赛 #49] 纸短情长"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1944475,"platform":"luogu","problem_id":"P17104","solved_at":1784105198.0,"source":"luogu-practice-snapshot","title":"[入门赛 #49] 奇怪的不等式题"}
-{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.191701,"platform":"luogu","problem_id":"P1712","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI2016] 区间"}
+{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.191701,"platform":"luogu","problem_id":"P1712","solved_at":1728434010.0,"source":"luogu-practice-snapshot","title":"[NOI2016] 区间"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1917048,"platform":"luogu","problem_id":"P1714","solved_at":null,"source":"luogu-practice-snapshot","title":"切蛋糕"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1888402,"platform":"luogu","problem_id":"P1720","solved_at":null,"source":"luogu-practice-snapshot","title":"月落乌啼算钱（斐波那契数列）"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1888437,"platform":"luogu","problem_id":"P1733","solved_at":null,"source":"luogu-practice-snapshot","title":"猜数（IO交互版）"}
@@ -11768,7 +11770,7 @@
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1892364,"platform":"luogu","problem_id":"P3056","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO12NOV] Clumsy Cows S"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1921575,"platform":"luogu","problem_id":"P3069","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO13JAN] Cow Lineup G"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.192161,"platform":"luogu","problem_id":"P3071","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO13JAN] Seating G"}
-{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1921647,"platform":"luogu","problem_id":"P3078","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO13MAR] Poker Hands S"}
+{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1921647,"platform":"luogu","problem_id":"P3078","solved_at":1728465772.0,"source":"luogu-practice-snapshot","title":"[USACO13MAR] Poker Hands S"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1921682,"platform":"luogu","problem_id":"P3088","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO13NOV] Crowded Cows S"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1921718,"platform":"luogu","problem_id":"P3117","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO15JAN] Cow Rectangles G"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1921756,"platform":"luogu","problem_id":"P3128","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO15DEC] Max Flow P"}
@@ -11795,7 +11797,7 @@
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1891763,"platform":"luogu","problem_id":"P3374","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
 {"account_id":"a97","difficulty":6,"member_id":"m43","observed_at":1792148610.1920834,"platform":"luogu","problem_id":"P3376","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1891866,"platform":"luogu","problem_id":"P3378","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】堆"}
-{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1920927,"platform":"luogu","problem_id":"P3379","solved_at":1728974616.0,"source":"luogu-practice-snapshot","title":"【模板】最近公共祖先（LCA）"}
+{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1920927,"platform":"luogu","problem_id":"P3379","solved_at":1728391102.0,"source":"luogu-practice-snapshot","title":"【模板】最近公共祖先（LCA）"}
 {"account_id":"a97","difficulty":6,"member_id":"m43","observed_at":1792148610.1920965,"platform":"luogu","problem_id":"P3381","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】最小费用最大流"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1921,"platform":"luogu","problem_id":"P3382","solved_at":null,"source":"luogu-practice-snapshot","title":"三分"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1891901,"platform":"luogu","problem_id":"P3383","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】线性筛素数"}
@@ -11842,7 +11844,7 @@
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.192373,"platform":"luogu","problem_id":"P3842","solved_at":1731895268.0,"source":"luogu-practice-snapshot","title":"[TJOI2007] 线段"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1892846,"platform":"luogu","problem_id":"P3853","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2007] 路标设置"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.192377,"platform":"luogu","problem_id":"P3857","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2008] 彩灯"}
-{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.189292,"platform":"luogu","problem_id":"P3865","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】ST 表 & RMQ 问题"}
+{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.189292,"platform":"luogu","problem_id":"P3865","solved_at":1728393822.0,"source":"luogu-practice-snapshot","title":"【模板】ST 表 & RMQ 问题"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1923895,"platform":"luogu","problem_id":"P3868","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2009] 猜数字"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1892881,"platform":"luogu","problem_id":"P3870","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2009] 开关"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1923945,"platform":"luogu","problem_id":"P3878","solved_at":null,"source":"luogu-practice-snapshot","title":"[TJOI2010] 分金币"}
@@ -11878,8 +11880,8 @@
 {"account_id":"a97","difficulty":7,"member_id":"m43","observed_at":1792148610.1893313,"platform":"luogu","problem_id":"P4168","solved_at":null,"source":"luogu-practice-snapshot","title":"[Violet] 蒲公英"}
 {"account_id":"a97","difficulty":7,"member_id":"m43","observed_at":1792148610.1926801,"platform":"luogu","problem_id":"P4213","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】杜教筛"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1899161,"platform":"luogu","problem_id":"P4231","solved_at":null,"source":"luogu-practice-snapshot","title":"三步必杀"}
-{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.192848,"platform":"luogu","problem_id":"P4269","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO18FEB] Snow Boots G"}
-{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1928535,"platform":"luogu","problem_id":"P4281","solved_at":null,"source":"luogu-practice-snapshot","title":"[AHOI2008] 紧急集合 / 聚会"}
+{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.192848,"platform":"luogu","problem_id":"P4269","solved_at":1728377635.0,"source":"luogu-practice-snapshot","title":"[USACO18FEB] Snow Boots G"}
+{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1928535,"platform":"luogu","problem_id":"P4281","solved_at":1728392125.0,"source":"luogu-practice-snapshot","title":"[AHOI2008] 紧急集合 / 聚会"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1928585,"platform":"luogu","problem_id":"P4296","solved_at":null,"source":"luogu-practice-snapshot","title":"[AHOI2007] 密码箱"}
 {"account_id":"a97","difficulty":6,"member_id":"m43","observed_at":1792148610.1928635,"platform":"luogu","problem_id":"P4301","solved_at":null,"source":"luogu-practice-snapshot","title":"[CQOI2013] 新Nim游戏"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1899304,"platform":"luogu","problem_id":"P4305","solved_at":null,"source":"luogu-practice-snapshot","title":"[JLOI2011] 不重复数字"}
@@ -11996,13 +11998,13 @@
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931295,"platform":"luogu","problem_id":"P6225","solved_at":null,"source":"luogu-practice-snapshot","title":"[eJOI 2019] 异或橙子"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931345,"platform":"luogu","problem_id":"P6273","solved_at":null,"source":"luogu-practice-snapshot","title":"[eJOI 2017] 魔法"}
 {"account_id":"a97","difficulty":6,"member_id":"m43","observed_at":1792148610.1931581,"platform":"luogu","problem_id":"P6348","solved_at":null,"source":"luogu-practice-snapshot","title":"[PA 2011] Journeys"}
-{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.193163,"platform":"luogu","problem_id":"P6446","solved_at":null,"source":"luogu-practice-snapshot","title":"[COCI 2010/2011 #1] TABOVI"}
+{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.193163,"platform":"luogu","problem_id":"P6446","solved_at":1728465745.0,"source":"luogu-practice-snapshot","title":"[COCI 2010/2011 #1] TABOVI"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.193143,"platform":"luogu","problem_id":"P6462","solved_at":1729670045.0,"source":"luogu-practice-snapshot","title":"[传智杯 #2 决赛] 补刀"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931484,"platform":"luogu","problem_id":"P6464","solved_at":1729673853.0,"source":"luogu-practice-snapshot","title":"[传智杯 #2 决赛] 传送门"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931534,"platform":"luogu","problem_id":"P6465","solved_at":1728696738.0,"source":"luogu-practice-snapshot","title":"[传智杯 #2 决赛] 课程安排"}
 {"account_id":"a97","difficulty":7,"member_id":"m43","observed_at":1792148610.193173,"platform":"luogu","problem_id":"P6466","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】分散层叠算法（Fractional Cascading）"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.193178,"platform":"luogu","problem_id":"P6503","solved_at":null,"source":"luogu-practice-snapshot","title":"[COCI 2010/2011 #3] DIFERENCIJA"}
-{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931827,"platform":"luogu","problem_id":"P6510","solved_at":null,"source":"luogu-practice-snapshot","title":"奶牛排队"}
+{"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1931827,"platform":"luogu","problem_id":"P6510","solved_at":1728380554.0,"source":"luogu-practice-snapshot","title":"奶牛排队"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1903257,"platform":"luogu","problem_id":"P6568","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI Online #3 提高组] 水壶"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1931677,"platform":"luogu","problem_id":"P6602","solved_at":null,"source":"luogu-practice-snapshot","title":"「EZEC-2」数轴"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1903293,"platform":"luogu","problem_id":"P6812","solved_at":null,"source":"luogu-practice-snapshot","title":"「MCOI-02」Ancestor 先辈"}
@@ -12098,9 +12100,9 @@
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1938775,"platform":"luogu","problem_id":"P9772","solved_at":null,"source":"luogu-practice-snapshot","title":"[HUSTFC 2023] 网格染色"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1938696,"platform":"luogu","problem_id":"P9779","solved_at":null,"source":"luogu-practice-snapshot","title":"[HUSTFC 2023] 不定项选择题"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1934032,"platform":"luogu","problem_id":"P9836","solved_at":null,"source":"luogu-practice-snapshot","title":"种树"}
-{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1938837,"platform":"luogu","problem_id":"P9868","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP2023] 词典"}
+{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1938837,"platform":"luogu","problem_id":"P9868","solved_at":1728444082.0,"source":"luogu-practice-snapshot","title":"[NOIP2023] 词典"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1939714,"platform":"luogu","problem_id":"P9905","solved_at":null,"source":"luogu-practice-snapshot","title":"[COCI 2023/2024 #1] AN2DL"}
-{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1936269,"platform":"luogu","problem_id":"P9914","solved_at":null,"source":"luogu-practice-snapshot","title":"「RiOI-3」匀速相遇"}
+{"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1936269,"platform":"luogu","problem_id":"P9914","solved_at":1728395867.0,"source":"luogu-practice-snapshot","title":"「RiOI-3」匀速相遇"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1940143,"platform":"luogu","problem_id":"P9963","solved_at":1728954231.0,"source":"luogu-practice-snapshot","title":"[THUPC 2024 初赛] 前缀和"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.189449,"platform":"luogu","problem_id":"SP1","solved_at":null,"source":"luogu-practice-snapshot","title":"TEST - Life, the Universe, and Everything"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.189467,"platform":"luogu","problem_id":"SP1025","solved_at":null,"source":"luogu-practice-snapshot","title":"FASHION - Fashion Shows"}
@@ -12111,7 +12113,7 @@
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1894882,"platform":"luogu","problem_id":"SP13015","solved_at":null,"source":"luogu-practice-snapshot","title":"CNTPRIME - Counting Primes"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1926858,"platform":"luogu","problem_id":"SP1437","solved_at":null,"source":"luogu-practice-snapshot","title":"PT07Z - Longest path in a tree"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.192746,"platform":"luogu","problem_id":"SP15637","solved_at":1731497392.0,"source":"luogu-practice-snapshot","title":"GNYR04H - Mr Youngs Picture Permutations"}
-{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.189474,"platform":"luogu","problem_id":"SP1716","solved_at":null,"source":"luogu-practice-snapshot","title":"GSS3 - Can you answer these queries III"}
+{"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.189474,"platform":"luogu","problem_id":"SP1716","solved_at":1728373912.0,"source":"luogu-practice-snapshot","title":"GSS3 - Can you answer these queries III"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1926906,"platform":"luogu","problem_id":"SP1805","solved_at":null,"source":"luogu-practice-snapshot","title":"HISTOGRA - Largest Rectangle in a Histogram"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1894999,"platform":"luogu","problem_id":"SP19568","solved_at":null,"source":"luogu-practice-snapshot","title":"PRMQUER - Prime queries"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1894526,"platform":"luogu","problem_id":"SP2","solved_at":null,"source":"luogu-practice-snapshot","title":"PRIME1 - Prime Generator"}
@@ -12142,6 +12144,7 @@
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792155791.2148025,"platform":"luogu","problem_id":"T288702","solved_at":1729329928.0,"source":"luogu-record-list","title":"T288702"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792155791.2147672,"platform":"luogu","problem_id":"T288704","solved_at":1729330069.0,"source":"luogu-record-list","title":"T288704"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792157700.7652833,"platform":"luogu","problem_id":"T306878","solved_at":1729064905.0,"source":"luogu-record-list","title":"T306878"}
+{"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792158734.221799,"platform":"luogu","problem_id":"T522626","solved_at":1728389883.0,"source":"luogu-record-list","title":"T522626"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792152918.043684,"platform":"luogu","problem_id":"U736577","solved_at":1791934917.0,"source":"luogu-record-list","title":"G - 鲤鱼鉴人心"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792152918.0434084,"platform":"luogu","problem_id":"U736579","solved_at":1791978809.0,"source":"luogu-record-list","title":"H - 比利吋小子 正在和 籽山民先生 闹矛盾，，，"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1899195,"platform":"luogu","problem_id":"UVA10200","solved_at":null,"source":"luogu-practice-snapshot","title":"Prime Time"}
@@ -12199,7 +12202,7 @@
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2589326,"platform":"luogu","problem_id":"CF1213G","solved_at":null,"source":"luogu-practice-snapshot","title":"Path Queries"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2594724,"platform":"luogu","problem_id":"CF1632C","solved_at":null,"source":"luogu-practice-snapshot","title":"Strange Test"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2594812,"platform":"luogu","problem_id":"CF1644D","solved_at":null,"source":"luogu-practice-snapshot","title":"Cross Coloring"}
-{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2585077,"platform":"luogu","problem_id":"CF165E","solved_at":null,"source":"luogu-practice-snapshot","title":"Compatible Numbers"}
+{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2585077,"platform":"luogu","problem_id":"CF165E","solved_at":1659773165.0,"source":"luogu-practice-snapshot","title":"Compatible Numbers"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.259498,"platform":"luogu","problem_id":"CF1719A","solved_at":1660743550.0,"source":"luogu-practice-snapshot","title":"Chip Game"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.259567,"platform":"luogu","problem_id":"CF1732C1","solved_at":1667055446.0,"source":"luogu-practice-snapshot","title":"Sheikh (Easy version)"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2584994,"platform":"luogu","problem_id":"CF173B","solved_at":null,"source":"luogu-practice-snapshot","title":"Chamber of Secrets"}
@@ -12214,7 +12217,7 @@
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2585163,"platform":"luogu","problem_id":"CF20C","solved_at":null,"source":"luogu-practice-snapshot","title":"Dijkstra?"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.258525,"platform":"luogu","problem_id":"CF2B","solved_at":null,"source":"luogu-practice-snapshot","title":"The least round way"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.258478,"platform":"luogu","problem_id":"CF337D","solved_at":null,"source":"luogu-practice-snapshot","title":"Book of Evil"}
-{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2584684,"platform":"luogu","problem_id":"CF416E","solved_at":null,"source":"luogu-practice-snapshot","title":"President's Path"}
+{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2584684,"platform":"luogu","problem_id":"CF416E","solved_at":1659840050.0,"source":"luogu-practice-snapshot","title":"President's Path"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2584598,"platform":"luogu","problem_id":"CF438D","solved_at":null,"source":"luogu-practice-snapshot","title":"The Child and Sequence"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2584517,"platform":"luogu","problem_id":"CF446C","solved_at":null,"source":"luogu-practice-snapshot","title":"DZY Loves Fibonacci Numbers"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2584434,"platform":"luogu","problem_id":"CF449B","solved_at":null,"source":"luogu-practice-snapshot","title":"Jzzhu and Cities"}
@@ -12331,12 +12334,12 @@
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2565427,"platform":"luogu","problem_id":"P1309","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 瑞士轮"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.256562,"platform":"luogu","problem_id":"P1313","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 计算系数"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.256571,"platform":"luogu","problem_id":"P1328","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2014 提高组] 生活大爆炸版石头剪刀布"}
-{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2565799,"platform":"luogu","problem_id":"P1337","solved_at":1661666432.0,"source":"luogu-practice-snapshot","title":"[JSOI2004] 平衡点 / 吊打XXX"}
+{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2565799,"platform":"luogu","problem_id":"P1337","solved_at":1660115629.0,"source":"luogu-practice-snapshot","title":"[JSOI2004] 平衡点 / 吊打XXX"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2565885,"platform":"luogu","problem_id":"P1339","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO09OCT] Heat Wave G"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2566047,"platform":"luogu","problem_id":"P1347","solved_at":null,"source":"luogu-practice-snapshot","title":"[ECNA 2001] 排序"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2566137,"platform":"luogu","problem_id":"P1350","solved_at":1770178354.0,"source":"luogu-practice-snapshot","title":"车的放置"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2566228,"platform":"luogu","problem_id":"P1351","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2014 提高组] 联合权值"}
-{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2566316,"platform":"luogu","problem_id":"P1352","solved_at":null,"source":"luogu-practice-snapshot","title":"没有上司的舞会"}
+{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2566316,"platform":"luogu","problem_id":"P1352","solved_at":1660179907.0,"source":"luogu-practice-snapshot","title":"没有上司的舞会"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.2566404,"platform":"luogu","problem_id":"P1372","solved_at":null,"source":"luogu-practice-snapshot","title":"又是毕业季I"}
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.2566497,"platform":"luogu","problem_id":"P1383","solved_at":1773211723.0,"source":"luogu-practice-snapshot","title":"高级打字机"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2566588,"platform":"luogu","problem_id":"P1390","solved_at":1661674738.0,"source":"luogu-practice-snapshot","title":"公约数的和"}
@@ -12350,7 +12353,7 @@
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.256712,"platform":"luogu","problem_id":"P1425","solved_at":null,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2567203,"platform":"luogu","problem_id":"P1427","solved_at":null,"source":"luogu-practice-snapshot","title":"小鱼的数字游戏"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.256729,"platform":"luogu","problem_id":"P1428","solved_at":null,"source":"luogu-practice-snapshot","title":"小鱼比可爱"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.256739,"platform":"luogu","problem_id":"P1433","solved_at":null,"source":"luogu-practice-snapshot","title":"吃奶酪"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.256739,"platform":"luogu","problem_id":"P1433","solved_at":1659765079.0,"source":"luogu-practice-snapshot","title":"吃奶酪"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2567484,"platform":"luogu","problem_id":"P1434","solved_at":null,"source":"luogu-practice-snapshot","title":"[SHOI2002] 滑雪"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792155111.2983484,"platform":"luogu","problem_id":"P14361","solved_at":1762257948.0,"source":"luogu-record-list","title":"[CSP-S 2025] 社团招新"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.256757,"platform":"luogu","problem_id":"P1441","solved_at":null,"source":"luogu-practice-snapshot","title":"砝码称重"}
@@ -12389,31 +12392,31 @@
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.256948,"platform":"luogu","problem_id":"P1616","solved_at":null,"source":"luogu-practice-snapshot","title":"疯狂的采药"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2569575,"platform":"luogu","problem_id":"P1629","solved_at":null,"source":"luogu-practice-snapshot","title":"邮递员送信"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2569656,"platform":"luogu","problem_id":"P1634","solved_at":null,"source":"luogu-practice-snapshot","title":"禽兽的传染病"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.256974,"platform":"luogu","problem_id":"P1637","solved_at":null,"source":"luogu-practice-snapshot","title":"三元上升子序列"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.256974,"platform":"luogu","problem_id":"P1637","solved_at":1659879975.0,"source":"luogu-practice-snapshot","title":"三元上升子序列"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.256982,"platform":"luogu","problem_id":"P1638","solved_at":null,"source":"luogu-practice-snapshot","title":"逛画展"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.25699,"platform":"luogu","problem_id":"P1644","solved_at":null,"source":"luogu-practice-snapshot","title":"跳马问题"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.256999,"platform":"luogu","problem_id":"P1706","solved_at":null,"source":"luogu-practice-snapshot","title":"全排列问题"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2597091,"platform":"luogu","problem_id":"P17093","solved_at":1784205616.0,"source":"luogu-practice-snapshot","title":"[ICPC 2017 Qingdao R] Chenchen, Tangtang and ZengZeng"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2570076,"platform":"luogu","problem_id":"P1720","solved_at":null,"source":"luogu-practice-snapshot","title":"月落乌啼算钱（斐波那契数列）"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2570164,"platform":"luogu","problem_id":"P1731","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI1999] 生日蛋糕"}
-{"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.257025,"platform":"luogu","problem_id":"P1733","solved_at":null,"source":"luogu-practice-snapshot","title":"猜数（IO交互版）"}
+{"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.257025,"platform":"luogu","problem_id":"P1733","solved_at":1659920134.0,"source":"luogu-practice-snapshot","title":"猜数（IO交互版）"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.257033,"platform":"luogu","problem_id":"P1739","solved_at":null,"source":"luogu-practice-snapshot","title":"表达式括号匹配"}
 {"account_id":"a99","difficulty":7,"member_id":"m44","observed_at":1792148849.2570415,"platform":"luogu","problem_id":"P1742","solved_at":1666170329.0,"source":"luogu-practice-snapshot","title":"最小圆覆盖"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.259718,"platform":"luogu","problem_id":"P17424","solved_at":1789475571.0,"source":"luogu-practice-snapshot","title":"[ICPC 2018 Xuzhou R] Rikka with Intersections of Paths"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792152941.8344264,"platform":"luogu","problem_id":"P17563","solved_at":1790930298.0,"source":"luogu-record-list","title":"「FAOI-R15」Program of base(x) 2029"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.259701,"platform":"luogu","problem_id":"P17568","solved_at":1790941754.0,"source":"luogu-practice-snapshot","title":"「FAOI-R15」XOR and Trivial Construction"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792152941.8344,"platform":"luogu","problem_id":"P17569","solved_at":1790934224.0,"source":"luogu-record-list","title":"「FAOI-R15」XOR and Ugly Equation"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.25705,"platform":"luogu","problem_id":"P1776","solved_at":1669291784.0,"source":"luogu-practice-snapshot","title":"宝物筛选"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.25705,"platform":"luogu","problem_id":"P1776","solved_at":1660206115.0,"source":"luogu-practice-snapshot","title":"宝物筛选"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2570584,"platform":"luogu","problem_id":"P1816","solved_at":null,"source":"luogu-practice-snapshot","title":"忠诚"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.257067,"platform":"luogu","problem_id":"P1824","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO05FEB] 进击的奶牛 Aggressive Cows G"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2570758,"platform":"luogu","problem_id":"P1833","solved_at":null,"source":"luogu-practice-snapshot","title":"樱花"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.257084,"platform":"luogu","problem_id":"P1835","solved_at":null,"source":"luogu-practice-snapshot","title":"素数密度"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.257092,"platform":"luogu","problem_id":"P1879","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Corn Fields G"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2571003,"platform":"luogu","problem_id":"P1880","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI1995] 石子合并"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2571003,"platform":"luogu","problem_id":"P1880","solved_at":1659711366.0,"source":"luogu-practice-snapshot","title":"[NOI1995] 石子合并"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2571084,"platform":"luogu","problem_id":"P1884","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO12FEB] Overplanting S"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2571166,"platform":"luogu","problem_id":"P1886","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2571251,"platform":"luogu","problem_id":"P1892","solved_at":null,"source":"luogu-practice-snapshot","title":"[BalticOI 2003] 团伙 (Day 2)"}
-{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2571337,"platform":"luogu","problem_id":"P1908","solved_at":1758700267.0,"source":"luogu-practice-snapshot","title":"逆序对"}
+{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2571337,"platform":"luogu","problem_id":"P1908","solved_at":1659854079.0,"source":"luogu-practice-snapshot","title":"逆序对"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2571566,"platform":"luogu","problem_id":"P1909","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2571661,"platform":"luogu","problem_id":"P1914","solved_at":null,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
 {"account_id":"a99","difficulty":7,"member_id":"m44","observed_at":1792148849.2571752,"platform":"luogu","problem_id":"P1919","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】高精度乘法 / A*B Problem 升级版"}
@@ -12432,7 +12435,7 @@
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.257291,"platform":"luogu","problem_id":"P2014","solved_at":null,"source":"luogu-practice-snapshot","title":"[CTSC1997] 选课"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2572997,"platform":"luogu","problem_id":"P2015","solved_at":null,"source":"luogu-practice-snapshot","title":"二叉苹果树"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2573085,"platform":"luogu","problem_id":"P2016","solved_at":null,"source":"luogu-practice-snapshot","title":"[SEERC 2000] 战略游戏"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2573168,"platform":"luogu","problem_id":"P2024","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOI2001] 食物链"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2573168,"platform":"luogu","problem_id":"P2024","solved_at":1659751064.0,"source":"luogu-practice-snapshot","title":"[NOI2001] 食物链"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.2573254,"platform":"luogu","problem_id":"P2043","solved_at":null,"source":"luogu-practice-snapshot","title":"质因子分解"}
 {"account_id":"a99","difficulty":7,"member_id":"m44","observed_at":1792148849.257334,"platform":"luogu","problem_id":"P2048","solved_at":1773199155.0,"source":"luogu-practice-snapshot","title":"[NOI2010] 超级钢琴"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.2573426,"platform":"luogu","problem_id":"P2089","solved_at":null,"source":"luogu-practice-snapshot","title":"烤鸡"}
@@ -12440,7 +12443,7 @@
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.2574382,"platform":"luogu","problem_id":"P2141","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.2573783,"platform":"luogu","problem_id":"P2142","solved_at":null,"source":"luogu-practice-snapshot","title":"高精度减法"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2573953,"platform":"luogu","problem_id":"P2148","solved_at":1785290983.0,"source":"luogu-practice-snapshot","title":"[SDOI2009] E&D"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.257404,"platform":"luogu","problem_id":"P2163","solved_at":null,"source":"luogu-practice-snapshot","title":"[SHOI2007] 园丁的烦恼"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.257404,"platform":"luogu","problem_id":"P2163","solved_at":1659947920.0,"source":"luogu-practice-snapshot","title":"[SHOI2007] 园丁的烦恼"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2573867,"platform":"luogu","problem_id":"P2181","solved_at":null,"source":"luogu-practice-snapshot","title":"对角线"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2573607,"platform":"luogu","problem_id":"P2197","solved_at":1768809476.0,"source":"luogu-practice-snapshot","title":"【模板】Nim 游戏"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.257413,"platform":"luogu","problem_id":"P2221","solved_at":null,"source":"luogu-practice-snapshot","title":"[HAOI2012] 高速公路"}
@@ -12463,7 +12466,7 @@
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2575302,"platform":"luogu","problem_id":"P2585","solved_at":1668346688.0,"source":"luogu-practice-snapshot","title":"[ZJOI2006] 三色二叉树"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2575388,"platform":"luogu","problem_id":"P2602","solved_at":1789045883.0,"source":"luogu-practice-snapshot","title":"[ZJOI2010] 数字计数"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2575474,"platform":"luogu","problem_id":"P2607","solved_at":null,"source":"luogu-practice-snapshot","title":"[ZJOI2008] 骑士"}
-{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2575788,"platform":"luogu","problem_id":"P2622","solved_at":null,"source":"luogu-practice-snapshot","title":"关灯问题 II"}
+{"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2575788,"platform":"luogu","problem_id":"P2622","solved_at":1660040795.0,"source":"luogu-practice-snapshot","title":"关灯问题 II"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2575872,"platform":"luogu","problem_id":"P2627","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO11OPEN] Mowing the Lawn G"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2576559,"platform":"luogu","problem_id":"P2668","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2015 提高组] 斗地主"}
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2576642,"platform":"luogu","problem_id":"P2670","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2015 普及组] 扫雷游戏"}
@@ -12500,13 +12503,13 @@
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.258122,"platform":"luogu","problem_id":"P3355","solved_at":null,"source":"luogu-practice-snapshot","title":"骑士共存问题"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2577949,"platform":"luogu","problem_id":"P3366","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】最小生成树"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2578032,"platform":"luogu","problem_id":"P3367","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】并查集"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578545,"platform":"luogu","problem_id":"P3368","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578545,"platform":"luogu","problem_id":"P3368","solved_at":1659852895.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.2578635,"platform":"luogu","problem_id":"P3369","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】普通平衡树"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.257876,"platform":"luogu","problem_id":"P3370","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】字符串哈希"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2578118,"platform":"luogu","problem_id":"P3371","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（弱化版）"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578206,"platform":"luogu","problem_id":"P3372","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】线段树 1"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578206,"platform":"luogu","problem_id":"P3372","solved_at":1659962579.0,"source":"luogu-practice-snapshot","title":"【模板】线段树 1"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578292,"platform":"luogu","problem_id":"P3373","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】线段树 2"}
-{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578373,"platform":"luogu","problem_id":"P3374","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
+{"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2578373,"platform":"luogu","problem_id":"P3374","solved_at":1659853015.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.257846,"platform":"luogu","problem_id":"P3375","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.2578933,"platform":"luogu","problem_id":"P3376","solved_at":null,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.257902,"platform":"luogu","problem_id":"P3377","solved_at":1669033855.0,"source":"luogu-practice-snapshot","title":"【模板】可并堆 1"}
@@ -12545,7 +12548,7 @@
 {"account_id":"a99","difficulty":1,"member_id":"m44","observed_at":1792148849.2576046,"platform":"luogu","problem_id":"P3954","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a99","difficulty":2,"member_id":"m44","observed_at":1792148849.257596,"platform":"luogu","problem_id":"P3955","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 图书管理员"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.258325,"platform":"luogu","problem_id":"P3956","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 棋盘"}
-{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2583334,"platform":"luogu","problem_id":"P4035","solved_at":null,"source":"luogu-practice-snapshot","title":"[JSOI2008] 球形空间产生器"}
+{"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2583334,"platform":"luogu","problem_id":"P4035","solved_at":1660118162.0,"source":"luogu-practice-snapshot","title":"[JSOI2008] 球形空间产生器"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2583418,"platform":"luogu","problem_id":"P4113","solved_at":1668321789.0,"source":"luogu-practice-snapshot","title":"[HEOI2012] 采花"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.2583506,"platform":"luogu","problem_id":"P4127","solved_at":1789133505.0,"source":"luogu-practice-snapshot","title":"[AHOI2009] 同类分布"}
 {"account_id":"a99","difficulty":5,"member_id":"m44","observed_at":1792148849.258368,"platform":"luogu","problem_id":"P4145","solved_at":1669090187.0,"source":"luogu-practice-snapshot","title":"上帝造题的七分钟 2 / 花神游历各国"}
@@ -12921,7 +12924,7 @@
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3169587,"platform":"luogu","problem_id":"B3647","solved_at":1770699082.0,"source":"luogu-practice-snapshot","title":"【模板】Floyd"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.317154,"platform":"luogu","problem_id":"B3748","solved_at":1764679799.0,"source":"luogu-practice-snapshot","title":"[语言月赛202304] 写大作业"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171597,"platform":"luogu","problem_id":"B3862","solved_at":null,"source":"luogu-practice-snapshot","title":"图的遍历（简单版）"}
-{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3171654,"platform":"luogu","problem_id":"B4016","solved_at":null,"source":"luogu-practice-snapshot","title":"树的直径"}
+{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3171654,"platform":"luogu","problem_id":"B4016","solved_at":1763558454.0,"source":"luogu-practice-snapshot","title":"树的直径"}
 {"account_id":"a105","difficulty":1,"member_id":"m47","observed_at":1792148927.3168178,"platform":"luogu","problem_id":"P1000","solved_at":1765601614.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a105","difficulty":1,"member_id":"m47","observed_at":1792148927.3156478,"platform":"luogu","problem_id":"P1001","solved_at":1784732134.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.315734,"platform":"luogu","problem_id":"P1002","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 过河卒"}
@@ -12932,13 +12935,13 @@
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158064,"platform":"luogu","problem_id":"P1042","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 乒乓球"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158138,"platform":"luogu","problem_id":"P1044","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3171892,"platform":"luogu","problem_id":"P10449","solved_at":1771833564.0,"source":"luogu-practice-snapshot","title":"费解的开关"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158212,"platform":"luogu","problem_id":"P1048","solved_at":1770100229.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 采药"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158286,"platform":"luogu","problem_id":"P1049","solved_at":1770270263.0,"source":"luogu-practice-snapshot","title":"[NOIP 2001 普及组] 装箱问题"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.315836,"platform":"luogu","problem_id":"P1060","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2006 普及组] 开心的金明"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158212,"platform":"luogu","problem_id":"P1048","solved_at":1763623513.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 采药"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158286,"platform":"luogu","problem_id":"P1049","solved_at":1763637755.0,"source":"luogu-practice-snapshot","title":"[NOIP 2001 普及组] 装箱问题"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.315836,"platform":"luogu","problem_id":"P1060","solved_at":1763638610.0,"source":"luogu-practice-snapshot","title":"[NOIP 2006 普及组] 开心的金明"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.315843,"platform":"luogu","problem_id":"P1073","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2009 提高组] 最优贸易"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158503,"platform":"luogu","problem_id":"P1077","solved_at":1764034480.0,"source":"luogu-practice-snapshot","title":"[NOIP 2012 普及组] 摆花"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3158576,"platform":"luogu","problem_id":"P1090","solved_at":1768974152.0,"source":"luogu-practice-snapshot","title":"[NOIP 2004 提高组] 合并果子"}
-{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317195,"platform":"luogu","problem_id":"P10909","solved_at":null,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2024 国 B] 立定跳远"}
+{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317195,"platform":"luogu","problem_id":"P10909","solved_at":1763169325.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2024 国 B] 立定跳远"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.317177,"platform":"luogu","problem_id":"P10928","solved_at":null,"source":"luogu-practice-snapshot","title":"走廊泼水节"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.317183,"platform":"luogu","problem_id":"P10935","solved_at":1769064563.0,"source":"luogu-practice-snapshot","title":"银河"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3158655,"platform":"luogu","problem_id":"P1102","solved_at":null,"source":"luogu-practice-snapshot","title":"A-B 数对"}
@@ -12960,11 +12963,11 @@
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3172183,"platform":"luogu","problem_id":"P12130","solved_at":1775826173.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2025 省 B] 移动距离"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3172243,"platform":"luogu","problem_id":"P12132","solved_at":1775827330.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.31723,"platform":"luogu","problem_id":"P12133","solved_at":1775827711.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2025 省 B] 产值调整"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3159692,"platform":"luogu","problem_id":"P1216","solved_at":null,"source":"luogu-practice-snapshot","title":"[IOI 1994 / USACO1.5] Number Triangles"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3159692,"platform":"luogu","problem_id":"P1216","solved_at":1763618243.0,"source":"luogu-practice-snapshot","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3159761,"platform":"luogu","problem_id":"P1223","solved_at":1770100010.0,"source":"luogu-practice-snapshot","title":"排队接水"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.315983,"platform":"luogu","problem_id":"P1226","solved_at":1769144814.0,"source":"luogu-practice-snapshot","title":"【模板】快速幂"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3159916,"platform":"luogu","problem_id":"P1255","solved_at":null,"source":"luogu-practice-snapshot","title":"数楼梯"}
-{"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316002,"platform":"luogu","problem_id":"P1262","solved_at":null,"source":"luogu-practice-snapshot","title":"[POI 1996 R3] 间谍网络"}
+{"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316002,"platform":"luogu","problem_id":"P1262","solved_at":1763471236.0,"source":"luogu-practice-snapshot","title":"[POI 1996 R3] 间谍网络"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.316965,"platform":"luogu","problem_id":"P1271","solved_at":null,"source":"luogu-practice-snapshot","title":"【深基9.例1】选举学生会"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3160093,"platform":"luogu","problem_id":"P1290","solved_at":1768806657.0,"source":"luogu-practice-snapshot","title":"欧几里德的游戏"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3160167,"platform":"luogu","problem_id":"P1297","solved_at":1769843398.0,"source":"luogu-practice-snapshot","title":"[国家集训队] 单选错位"}
@@ -12981,7 +12984,7 @@
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3172858,"platform":"luogu","problem_id":"P13983","solved_at":1775640673.0,"source":"luogu-practice-snapshot","title":"数列分块入门 8"}
 {"account_id":"a105","difficulty":7,"member_id":"m47","observed_at":1792148927.317291,"platform":"luogu","problem_id":"P13984","solved_at":1777626707.0,"source":"luogu-practice-snapshot","title":"数列分块入门 9"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.316048,"platform":"luogu","problem_id":"P1403","solved_at":1769142517.0,"source":"luogu-practice-snapshot","title":"[AHOI2005] 约数研究"}
-{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317236,"platform":"luogu","problem_id":"P14115","solved_at":null,"source":"luogu-practice-snapshot","title":"[IAMOI R4] 木桶效应"}
+{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317236,"platform":"luogu","problem_id":"P14115","solved_at":1763171933.0,"source":"luogu-practice-snapshot","title":"[IAMOI R4] 木桶效应"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316062,"platform":"luogu","problem_id":"P1438","solved_at":1792086685.0,"source":"luogu-practice-snapshot","title":"无聊的数列"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3160703,"platform":"luogu","problem_id":"P1443","solved_at":null,"source":"luogu-practice-snapshot","title":"马的遍历"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.316081,"platform":"luogu","problem_id":"P1449","solved_at":null,"source":"luogu-practice-snapshot","title":"后缀表达式"}
@@ -12990,7 +12993,7 @@
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3161042,"platform":"luogu","problem_id":"P1464","solved_at":null,"source":"luogu-practice-snapshot","title":"[PacNW 1999] Function"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3172963,"platform":"luogu","problem_id":"P14754","solved_at":1768976425.0,"source":"luogu-practice-snapshot","title":"猫石游戏"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3161137,"platform":"luogu","problem_id":"P1494","solved_at":1777645952.0,"source":"luogu-practice-snapshot","title":"[国家集训队] 小 Z 的袜子"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3161206,"platform":"luogu","problem_id":"P1510","solved_at":null,"source":"luogu-practice-snapshot","title":"精卫填海"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3161206,"platform":"luogu","problem_id":"P1510","solved_at":1763640270.0,"source":"luogu-practice-snapshot","title":"精卫填海"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3161297,"platform":"luogu","problem_id":"P1518","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3161383,"platform":"luogu","problem_id":"P1522","solved_at":1768894501.0,"source":"luogu-practice-snapshot","title":"[USACO2.4] 牛的旅行 Cow Tours"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316154,"platform":"luogu","problem_id":"P1525","solved_at":1774958654.0,"source":"luogu-practice-snapshot","title":"[NOIP 2010 提高组] 关押罪犯"}
@@ -13024,7 +13027,7 @@
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3163512,"platform":"luogu","problem_id":"P1928","solved_at":null,"source":"luogu-practice-snapshot","title":"外星密码"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3163579,"platform":"luogu","problem_id":"P1944","solved_at":null,"source":"luogu-practice-snapshot","title":"最长括号匹配"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3163643,"platform":"luogu","problem_id":"P1955","solved_at":1770192716.0,"source":"luogu-practice-snapshot","title":"[NOI2015] 程序自动分析"}
-{"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.316371,"platform":"luogu","problem_id":"P1967","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2013 提高组] 货车运输"}
+{"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.316371,"platform":"luogu","problem_id":"P1967","solved_at":1763390752.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 提高组] 货车运输"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3163776,"platform":"luogu","problem_id":"P1972","solved_at":1777470080.0,"source":"luogu-practice-snapshot","title":"[SDOI2009] HH 的项链"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316384,"platform":"luogu","problem_id":"P2023","solved_at":1779196963.0,"source":"luogu-practice-snapshot","title":"[AHOI2009] 维护序列"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.316391,"platform":"luogu","problem_id":"P2032","solved_at":null,"source":"luogu-practice-snapshot","title":"扫描"}
@@ -13046,7 +13049,7 @@
 {"account_id":"a105","difficulty":7,"member_id":"m47","observed_at":1792148927.3165092,"platform":"luogu","problem_id":"P2495","solved_at":1789550720.0,"source":"luogu-practice-snapshot","title":"【模板】虚树 / [SDOI2011] 消耗战"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3165197,"platform":"luogu","problem_id":"P2502","solved_at":1770621525.0,"source":"luogu-practice-snapshot","title":"[HAOI2006] 旅行"}
 {"account_id":"a105","difficulty":6,"member_id":"m47","observed_at":1792148927.3165264,"platform":"luogu","problem_id":"P2619","solved_at":1763778559.0,"source":"luogu-practice-snapshot","title":"[国家集训队] Tree I"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3165329,"platform":"luogu","problem_id":"P2639","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO09OCT] Bessie's Weight Problem G"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3165329,"platform":"luogu","problem_id":"P2639","solved_at":1763640562.0,"source":"luogu-practice-snapshot","title":"[USACO09OCT] Bessie's Weight Problem G"}
 {"account_id":"a105","difficulty":1,"member_id":"m47","observed_at":1792148927.316565,"platform":"luogu","problem_id":"P2670","solved_at":null,"source":"luogu-practice-snapshot","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3165715,"platform":"luogu","problem_id":"P2678","solved_at":1763644809.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 提高组] 跳石头"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3165777,"platform":"luogu","problem_id":"P2700","solved_at":null,"source":"luogu-practice-snapshot","title":"逐个击破"}
@@ -13057,19 +13060,19 @@
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3166022,"platform":"luogu","problem_id":"P2746","solved_at":null,"source":"luogu-practice-snapshot","title":"[IOI 1996 / USACO5.3] 校园网 Network of Schools"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.316608,"platform":"luogu","problem_id":"P2756","solved_at":null,"source":"luogu-practice-snapshot","title":"飞行员配对方案问题"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3166916,"platform":"luogu","problem_id":"P2820","solved_at":null,"source":"luogu-practice-snapshot","title":"局域网"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171484,"platform":"luogu","problem_id":"P2834","solved_at":null,"source":"luogu-practice-snapshot","title":"纸币问题 3"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171422,"platform":"luogu","problem_id":"P2840","solved_at":null,"source":"luogu-practice-snapshot","title":"纸币问题 2"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171363,"platform":"luogu","problem_id":"P2842","solved_at":null,"source":"luogu-practice-snapshot","title":"纸币问题 1"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171484,"platform":"luogu","problem_id":"P2834","solved_at":1763622558.0,"source":"luogu-practice-snapshot","title":"纸币问题 3"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171422,"platform":"luogu","problem_id":"P2840","solved_at":1763619463.0,"source":"luogu-practice-snapshot","title":"纸币问题 2"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171363,"platform":"luogu","problem_id":"P2842","solved_at":1763614833.0,"source":"luogu-practice-snapshot","title":"纸币问题 1"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3166976,"platform":"luogu","problem_id":"P2853","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06DEC] Cow Picnic S"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3167036,"platform":"luogu","problem_id":"P2860","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06JAN] Redundant Paths G"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3167093,"platform":"luogu","problem_id":"P2863","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06JAN] The Cow Prom S"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3167157,"platform":"luogu","problem_id":"P2865","solved_at":1764224686.0,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Roadblocks G"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3167217,"platform":"luogu","problem_id":"P2866","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Bad Hair Day S"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3167276,"platform":"luogu","problem_id":"P2871","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO07DEC] Charm Bracelet S"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3167276,"platform":"luogu","problem_id":"P2871","solved_at":1763626327.0,"source":"luogu-practice-snapshot","title":"[USACO07DEC] Charm Bracelet S"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3167357,"platform":"luogu","problem_id":"P2880","solved_at":1774406580.0,"source":"luogu-practice-snapshot","title":"[USACO07JAN] Balanced Lineup G"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.316742,"platform":"luogu","problem_id":"P2894","solved_at":1790516698.0,"source":"luogu-practice-snapshot","title":"[USACO08FEB] Hotel G"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3167524,"platform":"luogu","problem_id":"P2910","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO08OPEN] Clear And Present Danger S"}
-{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3167589,"platform":"luogu","problem_id":"P2925","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Hay For Sale S"}
+{"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3167589,"platform":"luogu","problem_id":"P2925","solved_at":1763640883.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Hay For Sale S"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3167648,"platform":"luogu","problem_id":"P2926","solved_at":1769148548.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Patting Heads S"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3167706,"platform":"luogu","problem_id":"P2945","solved_at":1769838563.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3167765,"platform":"luogu","problem_id":"P2947","solved_at":null,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Look Up S"}
@@ -13138,10 +13141,11 @@
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.31711,"platform":"luogu","problem_id":"P8784","solved_at":1773060098.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2022 省 B] 积木画"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317087,"platform":"luogu","problem_id":"P8895","solved_at":null,"source":"luogu-practice-snapshot","title":"「DPOI-1」优美的序列"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3171248,"platform":"luogu","problem_id":"P8896","solved_at":null,"source":"luogu-practice-snapshot","title":"「DPOI-1」道路规划"}
-{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317116,"platform":"luogu","problem_id":"P9050","solved_at":null,"source":"luogu-practice-snapshot","title":"[PA 2021] Sumy"}
+{"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.317116,"platform":"luogu","problem_id":"P9050","solved_at":1763168652.0,"source":"luogu-practice-snapshot","title":"[PA 2021] Sumy"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171308,"platform":"luogu","problem_id":"P9484","solved_at":1764385738.0,"source":"luogu-practice-snapshot","title":"「LAOI-1」GCD"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.317171,"platform":"luogu","problem_id":"P9752","solved_at":1769841110.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2023] 密码锁"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792156453.0858233,"platform":"luogu","problem_id":"U125683","solved_at":1769666469.0,"source":"luogu-record-list","title":"[ybt1347]格子游戏"}
+{"account_id":"a105","difficulty":0,"member_id":"m47","observed_at":1792158779.6477664,"platform":"luogu","problem_id":"U225113","solved_at":1763368907.0,"source":"luogu-record-list","title":"连接格点"}
 {"account_id":"a105","difficulty":0,"member_id":"m47","observed_at":1792153518.915353,"platform":"luogu","problem_id":"U41492","solved_at":1788426908.0,"source":"luogu-record-list","title":"树上数颜色"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792157741.4057677,"platform":"luogu","problem_id":"U638214","solved_at":1764982959.0,"source":"luogu-record-list","title":"地铁乘车"}
 {"account_id":"a105","difficulty":0,"member_id":"m47","observed_at":1792156453.0858898,"platform":"luogu","problem_id":"U650358","solved_at":1769149845.0,"source":"luogu-record-list","title":"Divine Divisor"}
@@ -19738,3 +19742,238 @@
 {"account_id":"a173","difficulty":2,"member_id":"m77","observed_at":1792158551.982723,"platform":"luogu","problem_id":"P9045","solved_at":null,"source":"luogu-practice-snapshot","title":"[PA 2021] Oranżada"}
 {"account_id":"a173","difficulty":2,"member_id":"m77","observed_at":1792158551.982732,"platform":"luogu","problem_id":"P9570","solved_at":null,"source":"luogu-practice-snapshot","title":"「NnOI R2-T2」Glaciaxion"}
 {"account_id":"a173","difficulty":4,"member_id":"m77","observed_at":1792158551.9827352,"platform":"luogu","problem_id":"P9606","solved_at":null,"source":"luogu-practice-snapshot","title":"[CERC2019] ABB"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652883,"platform":"codeforces","problem_id":"103118B","solved_at":1784441801.0,"source":"codeforces-api","title":"Build Roads"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6529317,"platform":"codeforces","problem_id":"103118C","solved_at":1784440295.0,"source":"codeforces-api","title":"Cat Virus"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6528475,"platform":"codeforces","problem_id":"103118D","solved_at":1784443411.0,"source":"codeforces-api","title":"Dyson Box"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6528156,"platform":"codeforces","problem_id":"103118F","solved_at":1784451571.0,"source":"codeforces-api","title":"Birthday Cake"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6529496,"platform":"codeforces","problem_id":"103118G","solved_at":1784438358.0,"source":"codeforces-api","title":"Grade Point Average"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6529129,"platform":"codeforces","problem_id":"103118H","solved_at":1784440911.0,"source":"codeforces-api","title":"Adventurer's Guild"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652865,"platform":"codeforces","problem_id":"103118M","solved_at":1784441880.0,"source":"codeforces-api","title":"Matrix Problem"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6524146,"platform":"codeforces","problem_id":"103495A","solved_at":1786856825.0,"source":"codeforces-api","title":"Spring Couplets"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652378,"platform":"codeforces","problem_id":"103495C","solved_at":1786858386.0,"source":"codeforces-api","title":"Magical Rearrangement"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652275,"platform":"codeforces","problem_id":"103495D","solved_at":1786864057.0,"source":"codeforces-api","title":"Pattern Lock"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6522386,"platform":"codeforces","problem_id":"103495H","solved_at":1786867310.0,"source":"codeforces-api","title":"Reverse the String"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6523955,"platform":"codeforces","problem_id":"103495I","solved_at":1745648561.0,"source":"codeforces-api","title":"Fake Walsh Transform"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6523612,"platform":"codeforces","problem_id":"103495J","solved_at":1786859915.0,"source":"codeforces-api","title":"Anti-merge"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6522932,"platform":"codeforces","problem_id":"103495K","solved_at":1786860447.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6522567,"platform":"codeforces","problem_id":"103495L","solved_at":1786865919.0,"source":"codeforces-api","title":"Tree Game"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6560874,"platform":"codeforces","problem_id":"104354A","solved_at":1747548604.0,"source":"codeforces-api","title":"小水獭游河南"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6560333,"platform":"codeforces","problem_id":"104354F","solved_at":1747557778.0,"source":"codeforces-api","title":"Art for Last"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6559973,"platform":"codeforces","problem_id":"104354G","solved_at":1747565996.0,"source":"codeforces-api","title":"Toxel 与字符画"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6560693,"platform":"codeforces","problem_id":"104354H","solved_at":1747551385.0,"source":"codeforces-api","title":"Travel Begins"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6560152,"platform":"codeforces","problem_id":"104354J","solved_at":1747561831.0,"source":"codeforces-api","title":"Mocha 沉迷电子游戏"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6560516,"platform":"codeforces","problem_id":"104354K","solved_at":1747555844.0,"source":"codeforces-api","title":"排列与质数"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6557117,"platform":"codeforces","problem_id":"104396A","solved_at":1748154444.0,"source":"codeforces-api","title":"Today's Word"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6556447,"platform":"codeforces","problem_id":"104396F","solved_at":1748162942.0,"source":"codeforces-api","title":"Timaeus"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6556942,"platform":"codeforces","problem_id":"104396H","solved_at":1748157036.0,"source":"codeforces-api","title":"Neil's Machine"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655676,"platform":"codeforces","problem_id":"104396I","solved_at":1748160518.0,"source":"codeforces-api","title":"Elevator"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6556172,"platform":"codeforces","problem_id":"104396J","solved_at":1748164235.0,"source":"codeforces-api","title":"Similarity (Easy Version)"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6555886,"platform":"codeforces","problem_id":"104396K","solved_at":1748166465.0,"source":"codeforces-api","title":"Similarity (Hard Version)"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6538815,"platform":"codeforces","problem_id":"104768B","solved_at":1778076602.0,"source":"codeforces-api","title":"The Game"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.653975,"platform":"codeforces","problem_id":"104768G","solved_at":1778064780.0,"source":"codeforces-api","title":"Hard Brackets Problem"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6539366,"platform":"codeforces","problem_id":"104768I","solved_at":1778075101.0,"source":"codeforces-api","title":"Barkley II"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6539564,"platform":"codeforces","problem_id":"104768K","solved_at":1778071936.0,"source":"codeforces-api","title":"Randias Permutation Task"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.653993,"platform":"codeforces","problem_id":"104768M","solved_at":1778063741.0,"source":"codeforces-api","title":"Flipping Cards"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6537898,"platform":"codeforces","problem_id":"104813B","solved_at":1778407447.0,"source":"codeforces-api","title":"Memory"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6537488,"platform":"codeforces","problem_id":"104813L","solved_at":1778415077.0,"source":"codeforces-api","title":"Palm Island"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6537683,"platform":"codeforces","problem_id":"104813M","solved_at":1778410393.0,"source":"codeforces-api","title":"Painter"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6514134,"platform":"codeforces","problem_id":"104857E","solved_at":1792062938.0,"source":"codeforces-api","title":"Matrix Distances"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.651434,"platform":"codeforces","problem_id":"104857F","solved_at":1792061700.0,"source":"codeforces-api","title":"Colorful Balloons"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.651349,"platform":"codeforces","problem_id":"104857G","solved_at":1792068865.0,"source":"codeforces-api","title":"Streak Manipulation"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6510355,"platform":"codeforces","problem_id":"104857I","solved_at":1792072415.0,"source":"codeforces-api","title":"Linguistics Puzzle"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655826,"platform":"codeforces","problem_id":"105184A","solved_at":1748064963.0,"source":"codeforces-api","title":"Update"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.65579,"platform":"codeforces","problem_id":"105184C","solved_at":1748071056.0,"source":"codeforces-api","title":"鹅鸭杀"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.65573,"platform":"codeforces","problem_id":"105184E","solved_at":1748079279.0,"source":"codeforces-api","title":"Breakfast II"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655754,"platform":"codeforces","problem_id":"105184G","solved_at":1748077046.0,"source":"codeforces-api","title":"Bracelet"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6557727,"platform":"codeforces","problem_id":"105184I","solved_at":1748072630.0,"source":"codeforces-api","title":"Subnet"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6558084,"platform":"codeforces","problem_id":"105184J","solved_at":1748068054.0,"source":"codeforces-api","title":"Iris' Food"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6558564,"platform":"codeforces","problem_id":"105184K","solved_at":1748064713.0,"source":"codeforces-api","title":"Welcome"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655874,"platform":"codeforces","problem_id":"105385A","solved_at":1747743676.0,"source":"codeforces-api","title":"Printer"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.65598,"platform":"codeforces","problem_id":"105385C","solved_at":1747730508.0,"source":"codeforces-api","title":"Colorful Segments 2"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6559267,"platform":"codeforces","problem_id":"105385D","solved_at":1747732383.0,"source":"codeforces-api","title":"Hero of the Kingdom"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6559436,"platform":"codeforces","problem_id":"105385F","solved_at":1747731597.0,"source":"codeforces-api","title":"Divide the Sequence"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6559093,"platform":"codeforces","problem_id":"105385I","solved_at":1747732816.0,"source":"codeforces-api","title":"Left Shifting"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655892,"platform":"codeforces","problem_id":"105385J","solved_at":1747740853.0,"source":"codeforces-api","title":"Colorful Spanning Tree"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655963,"platform":"codeforces","problem_id":"105385K","solved_at":1747731041.0,"source":"codeforces-api","title":"Matrix"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6517394,"platform":"codeforces","problem_id":"105459A","solved_at":1789131938.0,"source":"codeforces-api","title":"Build a Computer"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.651759,"platform":"codeforces","problem_id":"105459B","solved_at":1789130891.0,"source":"codeforces-api","title":"Concave Hull"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6518688,"platform":"codeforces","problem_id":"105459C","solved_at":1789115556.0,"source":"codeforces-api","title":"Giving Directions in Harbin"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.651832,"platform":"codeforces","problem_id":"105459G","solved_at":1789116880.0,"source":"codeforces-api","title":"Welcome to Join the Online Meeting!"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.651797,"platform":"codeforces","problem_id":"105459J","solved_at":1789120145.0,"source":"codeforces-api","title":"New Energy Vehicle"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6518147,"platform":"codeforces","problem_id":"105459K","solved_at":1789119684.0,"source":"codeforces-api","title":"Farm Management"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6517773,"platform":"codeforces","problem_id":"105459L","solved_at":1789129491.0,"source":"codeforces-api","title":"A Game On Tree"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6518505,"platform":"codeforces","problem_id":"105459M","solved_at":1789115804.0,"source":"codeforces-api","title":"Weird Ceiling"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6543868,"platform":"codeforces","problem_id":"105471G","solved_at":1776580197.0,"source":"codeforces-api","title":"An Easy Math Problem"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6543489,"platform":"codeforces","problem_id":"105471H","solved_at":1776584588.0,"source":"codeforces-api","title":"Elimination Series Once More"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6543124,"platform":"codeforces","problem_id":"105471L","solved_at":1776597552.0,"source":"codeforces-api","title":"Prism Palace"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6543694,"platform":"codeforces","problem_id":"105471N","solved_at":1776583644.0,"source":"codeforces-api","title":"Python Program"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652721,"platform":"codeforces","problem_id":"105487A","solved_at":1785735100.0,"source":"codeforces-api","title":"Box"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.65271,"platform":"codeforces","problem_id":"105487C","solved_at":1785735414.0,"source":"codeforces-api","title":"CCPC"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6526525,"platform":"codeforces","problem_id":"105487E","solved_at":1785744055.0,"source":"codeforces-api","title":"Centroid Tree"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652643,"platform":"codeforces","problem_id":"105487F","solved_at":1785748984.0,"source":"codeforces-api","title":"Perfect Square"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6526818,"platform":"codeforces","problem_id":"105487G","solved_at":1785740735.0,"source":"codeforces-api","title":"Increasing Sequence"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6527002,"platform":"codeforces","problem_id":"105487H","solved_at":1785736064.0,"source":"codeforces-api","title":"Square Root"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6526701,"platform":"codeforces","problem_id":"105487L","solved_at":1785742012.0,"source":"codeforces-api","title":"Puzzle"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652691,"platform":"codeforces","problem_id":"105487M","solved_at":1785736805.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6540806,"platform":"codeforces","problem_id":"105540A","solved_at":1777958522.0,"source":"codeforces-api","title":"The Fool"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6540298,"platform":"codeforces","problem_id":"105540B","solved_at":1777962267.0,"source":"codeforces-api","title":"The Magician"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6540635,"platform":"codeforces","problem_id":"105540F","solved_at":1777959818.0,"source":"codeforces-api","title":"The Hermit"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6540115,"platform":"codeforces","problem_id":"105540I","solved_at":1777967599.0,"source":"codeforces-api","title":"The Hanged Man"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6540468,"platform":"codeforces","problem_id":"105540J","solved_at":1777960915.0,"source":"codeforces-api","title":"Temperance"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6554596,"platform":"codeforces","problem_id":"105632C","solved_at":1763279546.0,"source":"codeforces-api","title":"Middle Point"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.655501,"platform":"codeforces","problem_id":"105632F","solved_at":1763271259.0,"source":"codeforces-api","title":"Infinite Loop"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6545625,"platform":"codeforces","problem_id":"105901A","solved_at":1775886079.0,"source":"codeforces-api","title":"Problem Setting"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.654481,"platform":"codeforces","problem_id":"105901F","solved_at":1775891814.0,"source":"codeforces-api","title":"Knapsack"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6544635,"platform":"codeforces","problem_id":"105901G","solved_at":1775896625.0,"source":"codeforces-api","title":"Path Summing Problem"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6545203,"platform":"codeforces","problem_id":"105901I","solved_at":1775888289.0,"source":"codeforces-api","title":"Bingo 3"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6544456,"platform":"codeforces","problem_id":"105901L","solved_at":1775890518.0,"source":"codeforces-api","title":"Subsequence"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6541698,"platform":"codeforces","problem_id":"105930A","solved_at":1777462464.0,"source":"codeforces-api","title":"Project Management"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.654205,"platform":"codeforces","problem_id":"105930D","solved_at":1777457380.0,"source":"codeforces-api","title":"Distributed System"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6541314,"platform":"codeforces","problem_id":"105930E","solved_at":1777468063.0,"source":"codeforces-api","title":"Greatest Common Divisor"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6541874,"platform":"codeforces","problem_id":"105930G","solved_at":1777459183.0,"source":"codeforces-api","title":"Assembly Line"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.654112,"platform":"codeforces","problem_id":"105930H","solved_at":1777472373.0,"source":"codeforces-api","title":"Minimum Spanning Tree"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6541512,"platform":"codeforces","problem_id":"105930I","solved_at":1777462592.0,"source":"codeforces-api","title":"Square Puzzle"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6542234,"platform":"codeforces","problem_id":"105930L","solved_at":1777456833.0,"source":"codeforces-api","title":"Stella"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6520197,"platform":"codeforces","problem_id":"105992A","solved_at":1788068708.0,"source":"codeforces-api","title":"序列"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6521907,"platform":"codeforces","problem_id":"105992D","solved_at":1788052575.0,"source":"codeforces-api","title":"与或博弈"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6520514,"platform":"codeforces","problem_id":"105992E","solved_at":1788064190.0,"source":"codeforces-api","title":"Djangle 的数据结构"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6521077,"platform":"codeforces","problem_id":"105992G","solved_at":1788057972.0,"source":"codeforces-api","title":"矩阵"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6522202,"platform":"codeforces","problem_id":"105992H","solved_at":1788051140.0,"source":"codeforces-api","title":"V 我 112.5"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6521251,"platform":"codeforces","problem_id":"105992I","solved_at":1788056920.0,"source":"codeforces-api","title":"真相"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6520896,"platform":"codeforces","problem_id":"105992J","solved_at":1788059692.0,"source":"codeforces-api","title":"画圈"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.65207,"platform":"codeforces","problem_id":"105992K","solved_at":1788063248.0,"source":"codeforces-api","title":"神之一手"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6521723,"platform":"codeforces","problem_id":"105992M","solved_at":1788055167.0,"source":"codeforces-api","title":"魔法使考核"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.653668,"platform":"codeforces","problem_id":"106161B","solved_at":1778585486.0,"source":"codeforces-api","title":"Blood Memories"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.653729,"platform":"codeforces","problem_id":"106161G","solved_at":1778583658.0,"source":"codeforces-api","title":"GCD of Subsets"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6536925,"platform":"codeforces","problem_id":"106161J","solved_at":1778583937.0,"source":"codeforces-api","title":"Judging Papers"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6527843,"platform":"codeforces","problem_id":"106193B","solved_at":1785045861.0,"source":"codeforces-api","title":"Bounding Boxes"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6528046,"platform":"codeforces","problem_id":"106193C","solved_at":1785042671.0,"source":"codeforces-api","title":"Compact Encoding"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6527326,"platform":"codeforces","problem_id":"106193D","solved_at":1785048607.0,"source":"codeforces-api","title":"Defense Distance"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6527622,"platform":"codeforces","problem_id":"106193F","solved_at":1785045900.0,"source":"codeforces-api","title":"Faulty Fraction"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.652795,"platform":"codeforces","problem_id":"106193J","solved_at":1785045378.0,"source":"codeforces-api","title":"Judging Problem"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6536496,"platform":"codeforces","problem_id":"106252B","solved_at":1778668482.0,"source":"codeforces-api","title":"Buggy Painting Software I"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.653611,"platform":"codeforces","problem_id":"106252F","solved_at":1778762110.0,"source":"codeforces-api","title":"The Bond Beyond Time"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1792158818.6536293,"platform":"codeforces","problem_id":"106252K","solved_at":1778669706.0,"source":"codeforces-api","title":"Relay Jump"}
+{"account_id":"a176","difficulty":2400,"member_id":"m77","observed_at":1792158818.655561,"platform":"codeforces","problem_id":"1174F","solved_at":1760538211.0,"source":"codeforces-api","title":"Ehab and the Big Finale"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.65637,"platform":"codeforces","problem_id":"1680B","solved_at":1731114453.0,"source":"codeforces-api","title":"Robots"}
+{"account_id":"a176","difficulty":1500,"member_id":"m77","observed_at":1792158818.6561348,"platform":"codeforces","problem_id":"1722G","solved_at":1745650600.0,"source":"codeforces-api","title":"Even-Odd XOR"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.6562302,"platform":"codeforces","problem_id":"1749C","solved_at":1737615548.0,"source":"codeforces-api","title":"Number Game"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.656177,"platform":"codeforces","problem_id":"1805A","solved_at":1742624128.0,"source":"codeforces-api","title":"We Need the Zero"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6561964,"platform":"codeforces","problem_id":"1855B","solved_at":1737616251.0,"source":"codeforces-api","title":"Longest Divisors Interval"}
+{"account_id":"a176","difficulty":1900,"member_id":"m77","observed_at":1792158818.6555204,"platform":"codeforces","problem_id":"1912A","solved_at":1763188696.0,"source":"codeforces-api","title":"Accumulator Apex"}
+{"account_id":"a176","difficulty":2400,"member_id":"m77","observed_at":1792158818.6550086,"platform":"codeforces","problem_id":"1936C","solved_at":1774095900.0,"source":"codeforces-api","title":"Pokémon Arena"}
+{"account_id":"a176","difficulty":1500,"member_id":"m77","observed_at":1792158818.6564357,"platform":"codeforces","problem_id":"1950E","solved_at":1730537114.0,"source":"codeforces-api","title":"Nearly Shortest Repeating Substring"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.6563354,"platform":"codeforces","problem_id":"1997C","solved_at":1731115376.0,"source":"codeforces-api","title":"Even Positions"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6565843,"platform":"codeforces","problem_id":"2000A","solved_at":1729686983.0,"source":"codeforces-api","title":"Primary Task"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6565652,"platform":"codeforces","problem_id":"2000B","solved_at":1729687881.0,"source":"codeforces-api","title":"Seating in a Bus"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6565464,"platform":"codeforces","problem_id":"2000C","solved_at":1729691253.0,"source":"codeforces-api","title":"Numeric String Template"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6565242,"platform":"codeforces","problem_id":"2022A","solved_at":1730375870.0,"source":"codeforces-api","title":"Bus to Pénjamo"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6564822,"platform":"codeforces","problem_id":"2022B","solved_at":1730384041.0,"source":"codeforces-api","title":"Kar Salesman"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6564548,"platform":"codeforces","problem_id":"2022C","solved_at":1730381776.0,"source":"codeforces-api","title":"Gerrymandering"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6564178,"platform":"codeforces","problem_id":"2026A","solved_at":1730808330.0,"source":"codeforces-api","title":"Perpendicular Segments"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6563888,"platform":"codeforces","problem_id":"2026B","solved_at":1730811802.0,"source":"codeforces-api","title":"Black Cells"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6562881,"platform":"codeforces","problem_id":"2040A","solved_at":1733916256.0,"source":"codeforces-api","title":"Game of Division"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6562698,"platform":"codeforces","problem_id":"2040B","solved_at":1733917820.0,"source":"codeforces-api","title":"Paint a Strip"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6562498,"platform":"codeforces","problem_id":"2040C","solved_at":1733922055.0,"source":"codeforces-api","title":"Ordered Permutations"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6561084,"platform":"codeforces","problem_id":"2098A","solved_at":1746267625.0,"source":"codeforces-api","title":"Vadim's Collection"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6554334,"platform":"codeforces","problem_id":"2166A","solved_at":1763994024.0,"source":"codeforces-api","title":"Same Difference"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.655412,"platform":"codeforces","problem_id":"2166B","solved_at":1763994722.0,"source":"codeforces-api","title":"Tab Closing"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.655392,"platform":"codeforces","problem_id":"2170A","solved_at":1764341026.0,"source":"codeforces-api","title":"Maximum Neighborhood"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.655374,"platform":"codeforces","problem_id":"2170B","solved_at":1764341526.0,"source":"codeforces-api","title":"Addition on a Segment"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.65534,"platform":"codeforces","problem_id":"2170C","solved_at":1764346617.0,"source":"codeforces-api","title":"Quotient and Remainder"}
+{"account_id":"a176","difficulty":2100,"member_id":"m77","observed_at":1792158818.6553056,"platform":"codeforces","problem_id":"2170E","solved_at":1765700671.0,"source":"codeforces-api","title":"Binary Strings and Blocks"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6552873,"platform":"codeforces","problem_id":"2189A","solved_at":1769179347.0,"source":"codeforces-api","title":"Table with Numbers"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.6552684,"platform":"codeforces","problem_id":"2189B","solved_at":1769180588.0,"source":"codeforces-api","title":"The Curse of the Frog"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6552355,"platform":"codeforces","problem_id":"2189C1","solved_at":1769182647.0,"source":"codeforces-api","title":"XOR Convenience (Easy Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6552176,"platform":"codeforces","problem_id":"2197A","solved_at":1770820918.0,"source":"codeforces-api","title":"Friendly Numbers"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.6551995,"platform":"codeforces","problem_id":"2197B","solved_at":1770821454.0,"source":"codeforces-api","title":"Array and Permutation"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.6551569,"platform":"codeforces","problem_id":"2197C","solved_at":1770824441.0,"source":"codeforces-api","title":"Game with a Fraction"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6551752,"platform":"codeforces","problem_id":"2197D","solved_at":1770823274.0,"source":"codeforces-api","title":"Another Problem about Beautiful Pairs"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6551218,"platform":"codeforces","problem_id":"2197E1","solved_at":1770828581.0,"source":"codeforces-api","title":"Interactive Graph (Simple Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6550827,"platform":"codeforces","problem_id":"2204A","solved_at":1773671982.0,"source":"codeforces-api","title":"Passing the Ball"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.655065,"platform":"codeforces","problem_id":"2204B","solved_at":1773672214.0,"source":"codeforces-api","title":"Right Maximum"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6550472,"platform":"codeforces","problem_id":"2204C","solved_at":1773672972.0,"source":"codeforces-api","title":"Spring"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.6550283,"platform":"codeforces","problem_id":"2204D","solved_at":1773678377.0,"source":"codeforces-api","title":"Alternating Path"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6548073,"platform":"codeforces","problem_id":"2204E","solved_at":1774265612.0,"source":"codeforces-api","title":"Sum of Digits (and Again)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6551008,"platform":"codeforces","problem_id":"2207A","solved_at":1772981037.0,"source":"codeforces-api","title":"1-1"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6548927,"platform":"codeforces","problem_id":"2207B","solved_at":1774262468.0,"source":"codeforces-api","title":"One Night At Freddy's"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6547694,"platform":"codeforces","problem_id":"2207C","solved_at":1774521560.0,"source":"codeforces-api","title":"Where's My Water?"}
+{"account_id":"a176","difficulty":2200,"member_id":"m77","observed_at":1792158818.65475,"platform":"codeforces","problem_id":"2207D","solved_at":1774599126.0,"source":"codeforces-api","title":"Boxed Like a Fish"}
+{"account_id":"a176","difficulty":2200,"member_id":"m77","observed_at":1792158818.6547315,"platform":"codeforces","problem_id":"2207E1","solved_at":1774602713.0,"source":"codeforces-api","title":"N-MEX (Constructive Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6549833,"platform":"codeforces","problem_id":"2209A","solved_at":1774106357.0,"source":"codeforces-api","title":"Flip Flops"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6549654,"platform":"codeforces","problem_id":"2209B","solved_at":1774108058.0,"source":"codeforces-api","title":"Array"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.6549475,"platform":"codeforces","problem_id":"2209C","solved_at":1774176975.0,"source":"codeforces-api","title":"Find the Zero"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.654929,"platform":"codeforces","problem_id":"2209D","solved_at":1774180605.0,"source":"codeforces-api","title":"Ghostfires"}
+{"account_id":"a176","difficulty":2200,"member_id":"m77","observed_at":1792158818.6549113,"platform":"codeforces","problem_id":"2209E","solved_at":1774261168.0,"source":"codeforces-api","title":"A Trivial String Problem"}
+{"account_id":"a176","difficulty":2700,"member_id":"m77","observed_at":1792158818.654788,"platform":"codeforces","problem_id":"2209F","solved_at":1774440741.0,"source":"codeforces-api","title":"Dynamic Values And Maximum Sum"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6546316,"platform":"codeforces","problem_id":"2210A","solved_at":1774795130.0,"source":"codeforces-api","title":"A Simple Sequence"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6546123,"platform":"codeforces","problem_id":"2210B","solved_at":1774795861.0,"source":"codeforces-api","title":"Simply Sitting on Chairs"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.6545823,"platform":"codeforces","problem_id":"2210C1","solved_at":1774796508.0,"source":"codeforces-api","title":"A Simple GCD Problem (Easy Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6547124,"platform":"codeforces","problem_id":"2211A","solved_at":1774709469.0,"source":"codeforces-api","title":"Antimedian Deletion"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.6546886,"platform":"codeforces","problem_id":"2211B","solved_at":1774714753.0,"source":"codeforces-api","title":"Mickey Mouse Constructive"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6546695,"platform":"codeforces","problem_id":"2211C1","solved_at":1774715473.0,"source":"codeforces-api","title":"Equal Multisets (Easy Version)"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6546507,"platform":"codeforces","problem_id":"2211C2","solved_at":1774717379.0,"source":"codeforces-api","title":"Equal Multisets (Hard Version)"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6544268,"platform":"codeforces","problem_id":"2216A","solved_at":1775973190.0,"source":"codeforces-api","title":"Course Wishes"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6544077,"platform":"codeforces","problem_id":"2216B","solved_at":1775976044.0,"source":"codeforces-api","title":"THU Packing Puzzle"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6538637,"platform":"codeforces","problem_id":"2224A","solved_at":1778166970.0,"source":"codeforces-api","title":"Zhily and Array Operating"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.6538465,"platform":"codeforces","problem_id":"2224B","solved_at":1778167918.0,"source":"codeforces-api","title":"Zhily and Mex and Max"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6538281,"platform":"codeforces","problem_id":"2224C","solved_at":1778169047.0,"source":"codeforces-api","title":"Zhily and Bracket Swapping"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.653809,"platform":"codeforces","problem_id":"2224D","solved_at":1778171882.0,"source":"codeforces-api","title":"Zhily and Barknights"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6542964,"platform":"codeforces","problem_id":"2226A","solved_at":1777387353.0,"source":"codeforces-api","title":"Disturbing Distribution"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6542785,"platform":"codeforces","problem_id":"2226B","solved_at":1777390085.0,"source":"codeforces-api","title":"Everything Everywhere"}
+{"account_id":"a176","difficulty":1500,"member_id":"m77","observed_at":1792158818.6542604,"platform":"codeforces","problem_id":"2226C","solved_at":1777392888.0,"source":"codeforces-api","title":"Mental Monumental (Easy Version)"}
+{"account_id":"a176","difficulty":2300,"member_id":"m77","observed_at":1792158818.654243,"platform":"codeforces","problem_id":"2226E","solved_at":1777443698.0,"source":"codeforces-api","title":"Mental Monumental (Hard Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6535773,"platform":"codeforces","problem_id":"2228A","solved_at":1779184989.0,"source":"codeforces-api","title":"Marisa Steals Reimu's Takeout"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.653557,"platform":"codeforces","problem_id":"2228B","solved_at":1779185823.0,"source":"codeforces-api","title":"Remilia Plays Soku"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6534774,"platform":"codeforces","problem_id":"2229C1","solved_at":1780049338.0,"source":"codeforces-api","title":"We Be Flipping (Easy Version)"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.6534584,"platform":"codeforces","problem_id":"2229C2","solved_at":1780049964.0,"source":"codeforces-api","title":"We Be Flipping (Hard Version)"}
+{"account_id":"a176","difficulty":1700,"member_id":"m77","observed_at":1792158818.653419,"platform":"codeforces","problem_id":"2229D","solved_at":1780051282.0,"source":"codeforces-api","title":"Me When Median Problem"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.653538,"platform":"codeforces","problem_id":"2231A","solved_at":1779374853.0,"source":"codeforces-api","title":"Construct an Array"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.653513,"platform":"codeforces","problem_id":"2231B","solved_at":1779378493.0,"source":"codeforces-api","title":"Another Sorting Problem"}
+{"account_id":"a176","difficulty":1900,"member_id":"m77","observed_at":1792158818.6534946,"platform":"codeforces","problem_id":"2231D","solved_at":1779967872.0,"source":"codeforces-api","title":"Maximum Prefix Sums"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6533992,"platform":"codeforces","problem_id":"2232A","solved_at":1780152038.0,"source":"codeforces-api","title":"Convergence"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6533768,"platform":"codeforces","problem_id":"2232B","solved_at":1780156355.0,"source":"codeforces-api","title":"Cake Leveling"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6533587,"platform":"codeforces","problem_id":"2232C1","solved_at":1780404022.0,"source":"codeforces-api","title":"Seating Arrangement (Easy Version)"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6533387,"platform":"codeforces","problem_id":"2232C2","solved_at":1780404038.0,"source":"codeforces-api","title":"Seating Arrangement (Hard Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6532865,"platform":"codeforces","problem_id":"2233A","solved_at":1781015963.0,"source":"codeforces-api","title":"AI Project Development"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6532686,"platform":"codeforces","problem_id":"2233B","solved_at":1781016435.0,"source":"codeforces-api","title":"Different Distances"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.653249,"platform":"codeforces","problem_id":"2233C","solved_at":1781019969.0,"source":"codeforces-api","title":"Cost of a Bracket Sequence"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6532307,"platform":"codeforces","problem_id":"2236A","solved_at":1781275056.0,"source":"codeforces-api","title":"Games on the Train"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6531885,"platform":"codeforces","problem_id":"2236B","solved_at":1781275399.0,"source":"codeforces-api","title":"Tatar TV Show"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.65317,"platform":"codeforces","problem_id":"2236C","solved_at":1781275814.0,"source":"codeforces-api","title":"Omsk Programmers"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6531324,"platform":"codeforces","problem_id":"2236D","solved_at":1781280914.0,"source":"codeforces-api","title":"Brand New Tatar TV Show"}
+{"account_id":"a176","difficulty":1700,"member_id":"m77","observed_at":1792158818.6531515,"platform":"codeforces","problem_id":"2236E","solved_at":1781279640.0,"source":"codeforces-api","title":"Friendly Gifts"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6531017,"platform":"codeforces","problem_id":"2237A","solved_at":1781793439.0,"source":"codeforces-api","title":"Destroying Towers"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6530814,"platform":"codeforces","problem_id":"2237B","solved_at":1781794858.0,"source":"codeforces-api","title":"Annoying the Ghost"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.653063,"platform":"codeforces","problem_id":"2237C","solved_at":1781795656.0,"source":"codeforces-api","title":"Duck Surplus"}
+{"account_id":"a176","difficulty":1600,"member_id":"m77","observed_at":1792158818.6530366,"platform":"codeforces","problem_id":"2237D","solved_at":1781797497.0,"source":"codeforces-api","title":"Fullmetal Bitchemist"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6530244,"platform":"codeforces","problem_id":"2247A","solved_at":1784385645.0,"source":"codeforces-api","title":"Zero Sum"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6530092,"platform":"codeforces","problem_id":"2247B","solved_at":1784387047.0,"source":"codeforces-api","title":"Yet Another Constructive"}
+{"account_id":"a176","difficulty":1100,"member_id":"m77","observed_at":1792158818.6529908,"platform":"codeforces","problem_id":"2247C","solved_at":1784387869.0,"source":"codeforces-api","title":"Inversion of a Subsequence"}
+{"account_id":"a176","difficulty":1500,"member_id":"m77","observed_at":1792158818.6529703,"platform":"codeforces","problem_id":"2247D1","solved_at":1784390842.0,"source":"codeforces-api","title":"XOR Sorting (Easy Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6526322,"platform":"codeforces","problem_id":"2254A","solved_at":1785854347.0,"source":"codeforces-api","title":"Riptide"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6526144,"platform":"codeforces","problem_id":"2254B","solved_at":1785855489.0,"source":"codeforces-api","title":"Evanescent"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6525967,"platform":"codeforces","problem_id":"2254C1","solved_at":1785855943.0,"source":"codeforces-api","title":"Marenol (easy version)"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.652561,"platform":"codeforces","problem_id":"2254C2","solved_at":1785857824.0,"source":"codeforces-api","title":"Marenol (hard version)"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.6525788,"platform":"codeforces","problem_id":"2254D","solved_at":1785857238.0,"source":"codeforces-api","title":"Silhouette"}
+{"account_id":"a176","difficulty":1500,"member_id":"m77","observed_at":1792158818.6525435,"platform":"codeforces","problem_id":"2254E","solved_at":1785858898.0,"source":"codeforces-api","title":"Chronostasis"}
+{"account_id":"a176","difficulty":1900,"member_id":"m77","observed_at":1792158818.652497,"platform":"codeforces","problem_id":"2254F","solved_at":1785860349.0,"source":"codeforces-api","title":"Whiplash"}
+{"account_id":"a176","difficulty":2200,"member_id":"m77","observed_at":1792158818.6524336,"platform":"codeforces","problem_id":"2254G","solved_at":1785862144.0,"source":"codeforces-api","title":"Nightcrawler"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6520026,"platform":"codeforces","problem_id":"2260A","solved_at":1788929028.0,"source":"codeforces-api","title":"Monocarp's Contest"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.651964,"platform":"codeforces","problem_id":"2260B","solved_at":1788934159.0,"source":"codeforces-api","title":"Monocarp and Projects"}
+{"account_id":"a176","difficulty":1300,"member_id":"m77","observed_at":1792158818.651983,"platform":"codeforces","problem_id":"2260C","solved_at":1788934130.0,"source":"codeforces-api","title":"Maximize XOR, Minimize Operations"}
+{"account_id":"a176","difficulty":1700,"member_id":"m77","observed_at":1792158818.6518884,"platform":"codeforces","problem_id":"2260D","solved_at":1788934387.0,"source":"codeforces-api","title":"Signs of Prefix Sums"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6517222,"platform":"codeforces","problem_id":"2263A","solved_at":1789551880.0,"source":"codeforces-api","title":"Min Max Game"}
+{"account_id":"a176","difficulty":900,"member_id":"m77","observed_at":1792158818.6517031,"platform":"codeforces","problem_id":"2263B","solved_at":1789552711.0,"source":"codeforces-api","title":"Min Matrices"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.6516857,"platform":"codeforces","problem_id":"2263C1","solved_at":1789553048.0,"source":"codeforces-api","title":"Floor of MEX (Easy Version)"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6516669,"platform":"codeforces","problem_id":"2263C2","solved_at":1789554002.0,"source":"codeforces-api","title":"Floor of MEX (Hard Version)"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.651649,"platform":"codeforces","problem_id":"2264A","solved_at":1789633563.0,"source":"codeforces-api","title":"Rumb Needs a Hand"}
+{"account_id":"a176","difficulty":1000,"member_id":"m77","observed_at":1792158818.6516314,"platform":"codeforces","problem_id":"2264B","solved_at":1789634648.0,"source":"codeforces-api","title":"Knife's Pill Farm"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.6516118,"platform":"codeforces","problem_id":"2264C","solved_at":1789635113.0,"source":"codeforces-api","title":"Madamant's Skating Dynasty"}
+{"account_id":"a176","difficulty":1900,"member_id":"m77","observed_at":1792158818.6515799,"platform":"codeforces","problem_id":"2264D","solved_at":1789636964.0,"source":"codeforces-api","title":"Dr. Agos's Dark Mode"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.651561,"platform":"codeforces","problem_id":"2267A","solved_at":1790937026.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
+{"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6515207,"platform":"codeforces","problem_id":"2267B","solved_at":1790937626.0,"source":"codeforces-api","title":"Fashionable Array"}
+{"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.651542,"platform":"codeforces","problem_id":"2267C","solved_at":1790937457.0,"source":"codeforces-api","title":"GCD Treasury"}
+{"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.651482,"platform":"codeforces","problem_id":"2267D","solved_at":1790937738.0,"source":"codeforces-api","title":"Backrooms Hill"}
+{"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6563063,"platform":"codeforces","problem_id":"471D","solved_at":1731123255.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
+{"account_id":"a176","difficulty":2300,"member_id":"m77","observed_at":1792158818.655538,"platform":"codeforces","problem_id":"600E","solved_at":1762613764.0,"source":"codeforces-api","title":"Lomsat gelral"}

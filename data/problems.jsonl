@@ -116,6 +116,13 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104172K","tags":[],"title":"Maximum GCD"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104270D","tags":[],"title":"Magic Multiplication "}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"1042B","tags":["bitmasks","brute force","dp","implementation"],"title":"Vitamins"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354A","tags":[],"title":"小水獭游河南"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354B","tags":[],"title":"Art for Rest"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354F","tags":[],"title":"Art for Last"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354G","tags":[],"title":"Toxel 与字符画"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354H","tags":[],"title":"Travel Begins"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354J","tags":[],"title":"Mocha 沉迷电子游戏"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104354K","tags":[],"title":"排列与质数"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104369A","tags":[],"title":"Programming Contest"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104369C","tags":[],"title":"Trading"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104369D","tags":[],"title":"New Houses"}
@@ -243,6 +250,13 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105176N","tags":[],"title":"圣诞树"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105176O","tags":[],"title":"筛法"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105182H","tags":[],"title":"Juice"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184A","tags":[],"title":"Update"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184C","tags":[],"title":"鹅鸭杀"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184E","tags":[],"title":"Breakfast II"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184G","tags":[],"title":"Bracelet"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184I","tags":[],"title":"Subnet"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184J","tags":[],"title":"Iris' Food"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105184K","tags":[],"title":"Welcome"}
 {"difficulty":2600,"platform":"codeforces","points":null,"problem_id":"1051E","tags":["binary search","data structures","dp","hashing","strings"],"title":"Vasya and Big Integers"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"1051F","tags":["graphs","shortest paths","trees"],"title":"The Shortest Statement"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105222A","tags":[],"title":"Reverse Pairs Coloring"}
@@ -322,6 +336,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471G","tags":[],"title":"An Easy Math Problem"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471H","tags":[],"title":"Elimination Series Once More"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471J","tags":[],"title":"Graph Changing"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471L","tags":[],"title":"Prism Palace"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471M","tags":[],"title":"Random Variables"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105471N","tags":[],"title":"Python Program"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105481A","tags":[],"title":"爱上字典"}
@@ -376,6 +391,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105588L","tags":[],"title":"Last Chance: Threads of Despair"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105588M","tags":[],"title":"Matrix Construction"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105632B","tags":[],"title":"Rolling Stones"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105632C","tags":[],"title":"Middle Point"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105632F","tags":[],"title":"Infinite Loop"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105632L","tags":[],"title":"Z-order Curve"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105632M","tags":[],"title":"Rejection Sampling"}
@@ -601,6 +617,7 @@
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1165E","tags":["greedy","math","sortings"],"title":"Two Arrays and Sum of Functions"}
 {"difficulty":3300,"platform":"codeforces","points":2750.0,"problem_id":"1172F","tags":["data structures"],"title":"Nauuo and Bug"}
 {"difficulty":1900,"platform":"codeforces","points":1750.0,"problem_id":"1174D","tags":["bitmasks","constructive algorithms"],"title":"Ehab and the Expected XOR Problem"}
+{"difficulty":2400,"platform":"codeforces","points":2500.0,"problem_id":"1174F","tags":["constructive algorithms","divide and conquer","graphs","implementation","interactive","trees"],"title":"Ehab and the Big Finale"}
 {"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"1175E","tags":["data structures","dfs and similar","divide and conquer","dp","greedy","implementation","trees"],"title":"Minimal Segment Cover"}
 {"difficulty":3000,"platform":"codeforces","points":null,"problem_id":"1175G","tags":["data structures","divide and conquer","dp","geometry","two pointers"],"title":"Yet Another Partiton Problem"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1176A","tags":["brute force","greedy","implementation"],"title":"Divide it!"}
@@ -1857,6 +1874,7 @@
 {"difficulty":1400,"platform":"codeforces","points":750.0,"problem_id":"1854A1","tags":["constructive algorithms","math"],"title":"Dual (Easy Version)"}
 {"difficulty":1900,"platform":"codeforces","points":750.0,"problem_id":"1854A2","tags":["constructive algorithms","math"],"title":"Dual (Hard Version)"}
 {"difficulty":2500,"platform":"codeforces","points":1500.0,"problem_id":"1854C","tags":["combinatorics","dp","math","probabilities"],"title":"Expected Destruction"}
+{"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"1855B","tags":["brute force","combinatorics","greedy","math","number theory"],"title":"Longest Divisors Interval"}
 {"difficulty":1400,"platform":"codeforces","points":1250.0,"problem_id":"1855C1","tags":["constructive algorithms"],"title":"Dual (Easy Version)"}
 {"difficulty":1900,"platform":"codeforces","points":1250.0,"problem_id":"1855C2","tags":["constructive algorithms","math"],"title":"Dual (Hard Version)"}
 {"difficulty":2200,"platform":"codeforces","points":2500.0,"problem_id":"1855D","tags":["bitmasks","brute force","dp"],"title":"Earn or Unlock"}
@@ -2212,6 +2230,7 @@
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"1935B","tags":["constructive algorithms"],"title":"Informatics in MAC"}
 {"difficulty":1800,"platform":"codeforces","points":1500.0,"problem_id":"1935C","tags":["binary search","brute force","constructive algorithms","data structures","dp","greedy","sortings"],"title":"Messenger in MAC"}
 {"difficulty":1800,"platform":"codeforces","points":1750.0,"problem_id":"1935D","tags":["binary search","combinatorics","implementation","math"],"title":"Exam in MAC"}
+{"difficulty":2400,"platform":"codeforces","points":1500.0,"problem_id":"1936C","tags":["data structures","graphs","greedy","implementation","shortest paths","sortings"],"title":"Pokémon Arena"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1937A","tags":["implementation","math"],"title":"Shuffle Party"}
 {"difficulty":1300,"platform":"codeforces","points":1000.0,"problem_id":"1937B","tags":["dp","greedy","implementation"],"title":"Binary Path"}
 {"difficulty":1700,"platform":"codeforces","points":1500.0,"problem_id":"1937C","tags":["bitmasks","constructive algorithms","interactive"],"title":"Bitwise Operation Wizard"}
@@ -2469,6 +2488,8 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2024A","tags":["greedy","math"],"title":"Profitable Interest Rate"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"2024B","tags":["binary search","constructive algorithms","sortings"],"title":"Buying Lemonade"}
 {"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2024C","tags":["constructive algorithms","greedy","sortings"],"title":"Concatenation of Arrays"}
+{"difficulty":900,"platform":"codeforces","points":null,"problem_id":"2026A","tags":["constructive algorithms","geometry","greedy","math"],"title":"Perpendicular Segments"}
+{"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2026B","tags":["binary search","brute force","constructive algorithms","greedy"],"title":"Black Cells"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2027A","tags":["geometry","implementation","math"],"title":"Rectangle Arrangement"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"2027B","tags":["brute force","greedy"],"title":"Stalin Sort"}
 {"difficulty":1500,"platform":"codeforces","points":1250.0,"problem_id":"2027C","tags":["brute force","data structures","dfs and similar","dp","graphs","greedy"],"title":"Add Zeros"}
@@ -3195,6 +3216,7 @@
 {"difficulty":1400,"platform":"codeforces","points":1500.0,"problem_id":"2209C","tags":["constructive algorithms","interactive"],"title":"Find the Zero"}
 {"difficulty":1800,"platform":"codeforces","points":1750.0,"problem_id":"2209D","tags":["constructive algorithms","greedy"],"title":"Ghostfires"}
 {"difficulty":2200,"platform":"codeforces","points":2250.0,"problem_id":"2209E","tags":["brute force","dp","hashing","string suffix structures","strings"],"title":"A Trivial String Problem"}
+{"difficulty":2700,"platform":"codeforces","points":3000.0,"problem_id":"2209F","tags":["data structures","greedy","implementation","trees"],"title":"Dynamic Values And Maximum Sum"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2210A","tags":["constructive algorithms","dp","greedy","number theory"],"title":"A Simple Sequence"}
 {"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"2210B","tags":["data structures","greedy"],"title":"Simply Sitting on Chairs"}
 {"difficulty":1200,"platform":"codeforces","points":1250.0,"problem_id":"2210C1","tags":["greedy","number theory"],"title":"A Simple GCD Problem (Easy Version)"}
@@ -3392,6 +3414,7 @@
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2254D","tags":["constructive algorithms","math","sortings"],"title":"Silhouette"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"2254E","tags":["binary search","data structures","greedy"],"title":"Chronostasis"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"2254F","tags":["bitmasks","constructive algorithms","math","sortings"],"title":"Whiplash"}
+{"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"2254G","tags":["data structures","dfs and similar","dp","greedy","sortings","trees"],"title":"Nightcrawler"}
 {"difficulty":1200,"platform":"codeforces","points":500.0,"problem_id":"2255A","tags":["games","greedy","implementation"],"title":"Hot Potatoes at the Fairy Warehouse"}
 {"difficulty":2100,"platform":"codeforces","points":1750.0,"problem_id":"2255C","tags":["communication","constructive algorithms","expression parsing","greedy","interactive","math","number theory"],"title":"Even If the World Turns"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2256A","tags":["math","sortings"],"title":"Three Numbers on the Blackboard"}
@@ -3427,6 +3450,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2263A","tags":["games"],"title":"Min Max Game"}
 {"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"2263B","tags":["constructive algorithms"],"title":"Min Matrices"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"2263C1","tags":["constructive algorithms","greedy"],"title":"Floor of MEX (Easy Version)"}
+{"difficulty":1800,"platform":"codeforces","points":1250.0,"problem_id":"2263C2","tags":["dp","games","two pointers"],"title":"Floor of MEX (Hard Version)"}
 {"difficulty":2000,"platform":"codeforces","points":2250.0,"problem_id":"2263D","tags":["data structures","dp","dsu","trees"],"title":"Culling Game"}
 {"difficulty":2300,"platform":"codeforces","points":2250.0,"problem_id":"2263E","tags":["graphs"],"title":"Traveling the World"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2264A","tags":["implementation","sortings","two pointers"],"title":"Rumb Needs a Hand"}
@@ -5798,6 +5822,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1521","tags":[],"title":"求逆序对"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1522","tags":[],"title":"[USACO2.4] 牛的旅行 Cow Tours"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1525","tags":[],"title":"[NOIP 2010 提高组] 关押罪犯"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P15266","tags":[],"title":"「UTOI 1A」sp! dusttale"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P15267","tags":[],"title":"「UTOI 1B」Chaotic Time Trio"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1527","tags":[],"title":"[国家集训队] 矩阵乘法"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1531","tags":[],"title":"I Hate It"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1533","tags":[],"title":"可怜的狗狗"}
@@ -8147,6 +8173,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T522626","tags":[],"title":"T522626"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T537590","tags":[],"title":"[20241109] 明月天涯（moon）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539820","tags":[],"title":"202411A Giants"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539821","tags":[],"title":"202411B Legends Never Die"}
@@ -8187,6 +8214,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U207508","tags":[],"title":"JYの解密 Round 3"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U207913","tags":[],"title":"「JeIOI Round 1」lzxの说假(fake)"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U209002","tags":[],"title":"JYの解密 Round 4"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U225113","tags":[],"title":"连接格点"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U239767","tags":[],"title":"Sky挖铁矿"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240730","tags":[],"title":"U240730"}
