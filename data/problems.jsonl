@@ -8194,6 +8194,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539824","tags":[],"title":"202411E 卡牌"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539825","tags":[],"title":"202411F Rise"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539826","tags":[],"title":"202411G 三角含数"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"T543583","tags":[],"title":"最长连续不重复子序列"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570543","tags":[],"title":"荷塘月色"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570544","tags":[],"title":"时空混乱"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570545","tags":[],"title":"出行路线"}
@@ -8235,6 +8236,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U221723","tags":[],"title":"U221723"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U223758","tags":[],"title":"U223758"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U223779","tags":[],"title":"U223779"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U224090","tags":[],"title":"最长连续不重复子序列"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U225113","tags":[],"title":"连接格点"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U225925","tags":[],"title":"Sky的回文串"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
@@ -8247,6 +8249,9 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243700","tags":[],"title":"Juicy"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243817","tags":[],"title":"Interesting"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U262369","tags":[],"title":"选择最佳线路"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U263107","tags":[],"title":"选择最佳线路"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U268985","tags":[],"title":"数组元素的目标和"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U294240","tags":[],"title":"数据结构"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U333462","tags":[],"title":"编译器(F9)"}
@@ -8262,6 +8267,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U400759","tags":[],"title":"L的拼图"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U401229","tags":[],"title":"Night of Full Moon"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U404222","tags":[],"title":"P6510 奶牛排队(HACK)"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U406747","tags":[],"title":"U406747"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U410792","tags":[],"title":"联合省选 2024 D1T1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U41492","tags":[],"title":"树上数颜色"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"U419264","tags":[],"title":"Akashi 的序列问题 1"}
@@ -8269,6 +8275,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U461211","tags":[],"title":"字符串 Hash（数据加强）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U487186","tags":[],"title":"斐波那契数列测试"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U492053","tags":[],"title":"最长连续不重复子序列"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U505744","tags":[],"title":"U505744"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U57260","tags":[],"title":"U57260"}
