@@ -2468,6 +2468,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B2142","tags":[],"title":"求 1+2+3+...+N 的值"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B2161","tags":[],"title":"十进制转二进制"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B2166","tags":[],"title":"查找不重复元素出现的位置"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"B2168","tags":[],"title":"【模板】哈夫曼编码"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B2173","tags":[],"title":"多重背包"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B2174","tags":[],"title":"完全背包"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B2600","tags":[],"title":"【深基1.例2】简单的分苹果"}
@@ -2537,7 +2538,9 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3973","tags":[],"title":"[语言月赛 202405] 小 S 大战小 Q"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3974","tags":[],"title":"[语言月赛 202405] 放行李"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3975","tags":[],"title":"[语言月赛 202405] 最大的和"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3993","tags":[],"title":"[洛谷 202406GESP 模拟 一级] 明日复明日"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B4016","tags":[],"title":"树的直径"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4022","tags":[],"title":"[语言月赛 202408] 蓝色的网易云"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4025","tags":[],"title":"最大公约数"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4053","tags":[],"title":"[语言月赛 202411] Legends Never Die"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4060","tags":[],"title":"位运算 1"}
@@ -2773,6 +2776,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1044","tags":[],"title":"[NOIP 2003 普及组] 栈"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10448","tags":[],"title":"组合型枚举"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1045","tags":[],"title":"[NOIP 2003 普及组] 麦森数"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10452","tags":[],"title":"货仓选址"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1046","tags":[],"title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10463","tags":[],"title":"Interval GCD"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10469","tags":[],"title":"后缀数组"}
@@ -2867,6 +2871,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11227","tags":[],"title":"[CSP-J 2024] 扑克牌"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11228","tags":[],"title":"[CSP-J 2024] 地图探险"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P11229","tags":[],"title":"[CSP-J 2024] 小木棍"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1123","tags":[],"title":"取数游戏"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11231","tags":[],"title":"[CSP-S 2024] 决斗"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11232","tags":[],"title":"[CSP-S 2024] 超速检测"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P11233","tags":[],"title":"[CSP-S 2024] 染色"}
@@ -2897,6 +2902,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1150","tags":[],"title":"Peter 的烟"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1151","tags":[],"title":"子数整数"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1152","tags":[],"title":"欢乐的跳"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11538","tags":[],"title":"[Code+#5] 棋子"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11559","tags":[],"title":"【MX-X7-T0】[LSOT-3] 嗯欧哎"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1156","tags":[],"title":"[USACO01OPEN] 垃圾陷阱"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1157","tags":[],"title":"组合的输出"}
@@ -2968,6 +2974,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1241","tags":[],"title":"括号序列"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1244","tags":[],"title":"[NOI2000] 青蛙过河"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1245","tags":[],"title":"电话号码"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1246","tags":[],"title":"[ECNA 1995] 编码"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1247","tags":[],"title":"取火柴游戏"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1248","tags":[],"title":"加工生产调度"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1249","tags":[],"title":"最大乘积"}
@@ -2994,6 +3001,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1278","tags":[],"title":"[COI 2001] 单词游戏"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1282","tags":[],"title":"[CEOI 1997] 多米诺骨牌"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1283","tags":[],"title":"[ICPC 1999 Tehran R] 平板涂色"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1284","tags":[],"title":"[USACO02FEB] 三角形牧场"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1287","tags":[],"title":"盒子与球"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12874","tags":[],"title":"[蓝桥杯 2025 国 Python A] 巡逻"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1288","tags":[],"title":"取数游戏 II"}
@@ -3022,6 +3030,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1330","tags":[],"title":"封锁阳光大学"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1331","tags":[],"title":"海战"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1332","tags":[],"title":"血色先锋队"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1334","tags":[],"title":"瑞瑞的木板"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1339","tags":[],"title":"[USACO09OCT] Heat Wave G"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1340","tags":[],"title":"[IOI 2003] 兽径管理"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1342","tags":[],"title":"[CERC1998] 请柬"}
@@ -3029,12 +3038,15 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1344","tags":[],"title":"[USACO4.4] 追查坏牛奶 Pollutant Control"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1345","tags":[],"title":"[USACO5.4] 奶牛的电信 Telecowmunication"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1346","tags":[],"title":"[CHCI 2002 Regional Competition Juniors] 电车"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1347","tags":[],"title":"[ECNA 2001] 排序"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1348","tags":[],"title":"Couple number"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1349","tags":[],"title":"广义斐波那契数列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1352","tags":[],"title":"没有上司的舞会"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1353","tags":[],"title":"[USACO08JAN] Running S"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1358","tags":[],"title":"扑克牌"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P13584","tags":[],"title":"[NWRRC 2023] Divisibility Trick"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1359","tags":[],"title":"租用游艇"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P13594","tags":[],"title":"『GTOI - 1A』Bath"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1361","tags":[],"title":"小M的作物"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1364","tags":[],"title":"医院设置"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1366","tags":[],"title":"有序表的合并"}
@@ -3044,6 +3056,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1376","tags":[],"title":"[USACO05MAR] Yogurt factory 机器工厂"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1377","tags":[],"title":"[TJOI2011] 树的序"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1378","tags":[],"title":"油滴扩展"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P13787","tags":[],"title":"地毯 加强版"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1379","tags":[],"title":"八数码难题"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1381","tags":[],"title":"单词背诵"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P13825","tags":[],"title":"【模板】线段树 1.5"}
@@ -3058,6 +3071,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1396","tags":[],"title":"营救"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P13962","tags":[],"title":"[ICPC 2023 Nanjing R] 电梯"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13963","tags":[],"title":"[ICPC 2023 Nanjing R] 接雨水"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13977","tags":[],"title":"数列分块入门 2"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1398","tags":[],"title":"[NOI2013] 书法家"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1402","tags":[],"title":"酒店之王"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P14024","tags":[],"title":"[ICPC 2024 Nanjing R] 纸条"}
@@ -3091,6 +3105,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1438","tags":[],"title":"无聊的数列"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1439","tags":[],"title":"两个排列的最长公共子序列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1440","tags":[],"title":"求m区间内的最小值"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1441","tags":[],"title":"砝码称重"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1443","tags":[],"title":"马的遍历"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1447","tags":[],"title":"[NOI2010] 能量采集"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1449","tags":[],"title":"后缀表达式"}
@@ -3125,15 +3140,18 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1480","tags":[],"title":"A/B Problem（高精度除法Ⅰ）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1481","tags":[],"title":"魔族密码"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1482","tags":[],"title":"Cantor表（升级版）"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1483","tags":[],"title":"序列变换"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1486","tags":[],"title":"[NOI2004] 郁闷的出纳员"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1487","tags":[],"title":"失落的成绩单"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1488","tags":[],"title":"肥猫的游戏"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1489","tags":[],"title":"猫狗大战"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1494","tags":[],"title":"[国家集训队] 小 Z 的袜子"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1495","tags":[],"title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14953","tags":[],"title":"乒乓博弈"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1496","tags":[],"title":"火烧赤壁"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1497","tags":[],"title":"木牛流马"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1502","tags":[],"title":"窗口的星星"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1503","tags":[],"title":"鬼子进村"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1505","tags":[],"title":"[国家集训队] 旅游"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1506","tags":[],"title":"拯救 oibh 总部"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1507","tags":[],"title":"NASA的食物计划"}
@@ -3151,6 +3169,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1537","tags":[],"title":"[MCERC 1999] 弹珠"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1540","tags":[],"title":"[NOIP 2010 提高组] 机器翻译"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1541","tags":[],"title":"[NOIP 2010 提高组] 乌龟棋"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1542","tags":[],"title":"包裹快递"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P15427","tags":[],"title":"Nobody Tells (Original Version)"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P15430","tags":[],"title":"[蓝桥杯 2025 国 Python B] 等差数列计数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P15432","tags":[],"title":"[蓝桥杯 2025 国 Python B] 修改密码"}
@@ -3314,6 +3333,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1847","tags":[],"title":"轰炸II"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1850","tags":[],"title":"[NOIP 2016 提高组] 换教室"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1851","tags":[],"title":"好朋友"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1853","tags":[],"title":"[NWERC 2004] 投资的最大效益"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1854","tags":[],"title":"[IOI 1999] 花店橱窗布置"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1855","tags":[],"title":"榨取kkksc03"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1856","tags":[],"title":"[IOI 1998 / USACO5.5] 矩形周长 Picture"}
@@ -3354,6 +3374,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1927","tags":[],"title":"防护伞"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1928","tags":[],"title":"外星密码"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1932","tags":[],"title":"A+B  A-B  A*B  A/B A%B Problem"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1935","tags":[],"title":"[国家集训队] 圈地计划"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1936","tags":[],"title":"水晶灯火灵"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1939","tags":[],"title":"矩阵加速（数列）"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1941","tags":[],"title":"[NOIP 2014 提高组] 飞扬的小鸟"}
@@ -3373,12 +3394,14 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1976","tags":[],"title":"鸡蛋饼"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1980","tags":[],"title":"[NOIP 2013 普及组] 计数问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1981","tags":[],"title":"[NOIP 2013 普及组] 表达式求值"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1983","tags":[],"title":"[NOIP 2013 普及组] 车站分级"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1986","tags":[],"title":"元旦晚会"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1989","tags":[],"title":"【模板】无向图三元环计数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1991","tags":[],"title":"无线通讯网"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1992","tags":[],"title":"不想兜圈的老爷爷"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1993","tags":[],"title":"小 K 的农场"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1996","tags":[],"title":"约瑟夫问题"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1997","tags":[],"title":"faebdc 的烦恼"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2000","tags":[],"title":"拯救世界"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2002","tags":[],"title":"消息扩散"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2004","tags":[],"title":"领地选择"}
@@ -3400,6 +3423,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2043","tags":[],"title":"质因子分解"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2044","tags":[],"title":"[NOI2012] 随机数生成器"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2048","tags":[],"title":"[NOI2010] 超级钢琴"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2049","tags":[],"title":"魔术棋子"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2053","tags":[],"title":"[SCOI2007] 修车"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2054","tags":[],"title":"[AHOI2005] 洗牌"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2055","tags":[],"title":"[ZJOI2009] 假期的宿舍"}
@@ -3414,6 +3438,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2074","tags":[],"title":"危险区域"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2077","tags":[],"title":"红绿灯"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2078","tags":[],"title":"朋友"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2082","tags":[],"title":"区间覆盖（加强版）"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P2084","tags":[],"title":"进制转换"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2085","tags":[],"title":"最小函数值"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2089","tags":[],"title":"烤鸡"}
@@ -3422,6 +3447,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2107","tags":[],"title":"小 Z 的 AK 计划"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2108","tags":[],"title":"学英语"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2114","tags":[],"title":"[NOI2014] 起床困难综合症"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2115","tags":[],"title":"[USACO14MAR] Sabotage G"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2116","tags":[],"title":"[NEERC 2001] 城墙"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2118","tags":[],"title":"[NOIP 2014 普及组] 比例简化"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2119","tags":[],"title":"[NOIP 2016 普及组] 魔法阵"}
@@ -3455,6 +3481,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2249","tags":[],"title":"【深基13.例1】查找"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2251","tags":[],"title":"质量检测"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2252","tags":[],"title":"【模板】威佐夫博弈 / [SHOI2002] 取石子游戏"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P2257","tags":[],"title":"YY的GCD"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2260","tags":[],"title":"[清华集训 2012] 模积和"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2261","tags":[],"title":"[CQOI2007] 余数求和"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2265","tags":[],"title":"路边的水沟"}
@@ -3515,6 +3542,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2487","tags":[],"title":"[SDOI2011] 拦截导弹"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2490","tags":[],"title":"[SDOI2011] 黑白棋"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P2491","tags":[],"title":"[SDOI2011] 消防"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2495","tags":[],"title":"【模板】虚树 / [SDOI2011] 消耗战"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2507","tags":[],"title":"[SCOI2008] 配对"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2512","tags":[],"title":"[HAOI2008] 糖果传递"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2516","tags":[],"title":"[HAOI2010] 最长公共子序列"}
@@ -3696,6 +3724,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3194","tags":[],"title":"[HNOI2008] 水平可见直线"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3195","tags":[],"title":"[HNOI2008] 玩具装箱"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3197","tags":[],"title":"[HNOI2008] 越狱"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3203","tags":[],"title":"[HNOI2010] 弹飞绵羊"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3205","tags":[],"title":"[HNOI2010] 合唱队"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3216","tags":[],"title":"[HNOI2011] 数学作业"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3224","tags":[],"title":"[HNOI2012] 永无乡"}
@@ -3732,6 +3761,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3379","tags":[],"title":"【模板】最近公共祖先（LCA）"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3380","tags":[],"title":"【模板】树套树"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3381","tags":[],"title":"【模板】最小费用最大流"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3382","tags":[],"title":"三分"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P3383","tags":[],"title":"【模板】线性筛素数"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3384","tags":[],"title":"【模板】重链剖分 / 树链剖分"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3385","tags":[],"title":"【模板】负环"}
@@ -3754,6 +3784,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P3464","tags":[],"title":"[POI 2007] WAG-Quaternary Balance"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3467","tags":[],"title":"[POI 2008] PLA-Postering"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3469","tags":[],"title":"[POI 2008] BLO-Blockade"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3478","tags":[],"title":"[POI 2008] STA-Station"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3480","tags":[],"title":"[POI 2009] KAM-Pebbles"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3519","tags":[],"title":"[POI 2011] ROZ-Difference"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P3546","tags":[],"title":"[POI 2012] PRE-Prefixuffix"}
@@ -3811,6 +3842,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3846","tags":[],"title":"【模板】BSGS / [TJOI2007] 可爱的质数"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3847","tags":[],"title":"[TJOI2007] 调整队形"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3850","tags":[],"title":"[TJOI2007] 书架"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3853","tags":[],"title":"[TJOI2007] 路标设置"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3857","tags":[],"title":"[TJOI2008] 彩灯"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3865","tags":[],"title":"【模板】ST 表 & RMQ 问题"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3868","tags":[],"title":"[TJOI2009] 猜数字"}
@@ -3861,6 +3893,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4091","tags":[],"title":"[HEOI2016/TJOI2016] 求和"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4092","tags":[],"title":"[HEOI2016/TJOI2016] 树"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4097","tags":[],"title":"【模板】李超线段树 / [HEOI2013] Segment"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4103","tags":[],"title":"[HEOI2014] 大工程"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4114","tags":[],"title":"Qtree1"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4116","tags":[],"title":"Qtree3"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4122","tags":[],"title":"[USACO17DEC] Blocked Billboard B"}
@@ -3953,6 +3986,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4700","tags":[],"title":"[CEOI 2011] Traffic"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P4702","tags":[],"title":"取石子"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4710","tags":[],"title":"「物理」平抛运动"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4715","tags":[],"title":"【深基16.例1】淘汰赛"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4717","tags":[],"title":"【模板】快速莫比乌斯 / 沃尔什变换 (FMT / FWT)"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4721","tags":[],"title":"【模板】分治 FFT"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4722","tags":[],"title":"【模板】最大流 加强版 / 预流推进"}
@@ -3966,6 +4000,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4783","tags":[],"title":"【模板】矩阵求逆"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4799","tags":[],"title":"[CEOI 2015] 世界冰球锦标赛 (Day2)"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4802","tags":[],"title":"[CCO 2015] 路短最"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4805","tags":[],"title":"[CCC 2016] 合并饭团"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4822","tags":[],"title":"[BJWC2012] 冻结"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4824","tags":[],"title":"[USACO15FEB] Censoring S"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P4826","tags":[],"title":"[USACO15FEB] Superbull S"}
@@ -4026,6 +4061,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5200","tags":[],"title":"[USACO19JAN] Sleepy Cow Sorting G"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5201","tags":[],"title":"[USACO19JAN] Shortcut G"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5231","tags":[],"title":"[JSOI2012] 玄武密码"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5250","tags":[],"title":"【深基17.例5】木材仓库"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5266","tags":[],"title":"【深基17.例6】学籍管理"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5283","tags":[],"title":"[十二省联考 2019] 异或粽子"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5299","tags":[],"title":"[PKUWC2018] Slay the Spire"}
@@ -4150,6 +4186,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6086","tags":[],"title":"【模板】Prüfer（Prufer）序列"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6097","tags":[],"title":"【模板】子集卷积"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6098","tags":[],"title":"[USACO19FEB] Cow Land G"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P6102","tags":[],"title":"[EER2] 谔运算"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6116","tags":[],"title":"[JOI 2019 Final] 有趣的家庭菜园 3 / Growing Vegetables is Fun 3"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6136","tags":[],"title":"【模板】普通平衡树（数据加强版）"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6142","tags":[],"title":"[USACO20FEB] Delegation P"}
@@ -4172,6 +4209,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6314","tags":[],"title":"[COCI 2006/2007 #3] PATULJCI"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P6338","tags":[],"title":"[COCI 2007/2008 #2] PRVA"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6368","tags":[],"title":"[COCI 2006/2007 #6] MAGIJA"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6369","tags":[],"title":"[COCI 2006/2007 #6] MARATON"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6374","tags":[],"title":"「StOI-1」树上询问"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6387","tags":[],"title":"[COCI 2007/2008 #4] VECI"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6475","tags":[],"title":"[NOI Online #2 入门组] 建设城市"}
@@ -4184,6 +4222,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6568","tags":[],"title":"[NOI Online #3 提高组] 水壶"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6577","tags":[],"title":"【模板】二分图最大权完美匹配"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6625","tags":[],"title":"[省选联考 2020 B 卷] 卡牌游戏"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6672","tags":[],"title":"[清华集训 2016] 你的生命已如风中残烛"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P6692","tags":[],"title":"出生点"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P6699","tags":[],"title":"【模板】一般图最大权匹配"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P6739","tags":[],"title":"[BalticOI 2014] Three Friends (Day1)"}
@@ -4201,6 +4240,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7074","tags":[],"title":"[CSP-J 2020] 方格取数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P7076","tags":[],"title":"[CSP-S 2020] 动物园"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P7077","tags":[],"title":"[CSP-S 2020] 函数调用"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7096","tags":[],"title":"[yLOI2020] 泸沽寻梦"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P7112","tags":[],"title":"【模板】行列式求值"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P7113","tags":[],"title":"[NOIP2020] 排水系统"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7167","tags":[],"title":"[eJOI 2020] Fountain (Day1)"}
@@ -4283,6 +4323,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8547","tags":[],"title":"小挖的时间"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8563","tags":[],"title":"Magenta Potion"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8564","tags":[],"title":"ρars/ey"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8572","tags":[],"title":"[JRKSJ R6] Eltaw"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8586","tags":[],"title":"星环防御工事"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8597","tags":[],"title":"[蓝桥杯 2013 省 B] 翻硬币"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8598","tags":[],"title":"[蓝桥杯 2013 省 AB] 错误票据"}
