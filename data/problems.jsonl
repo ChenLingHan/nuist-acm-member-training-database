@@ -4134,6 +4134,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_c","tags":[],"title":"AT_abc271_c"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_d","tags":[],"title":"AT_abc271_d"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_e","tags":[],"title":"AT_abc271_e"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc273_a","tags":[],"title":"AT_abc273_a"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc273_b","tags":[],"title":"AT_abc273_b"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc273_c","tags":[],"title":"AT_abc273_c"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"AT_abc274_h","tags":[],"title":"[ABC274Ex] XOR Sum of Arrays"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"AT_abc277_c","tags":[],"title":"[ABC277C] Ladder Takahashi"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"AT_abc277_h","tags":[],"title":"[ABC277Ex] Constrained Sums"}
@@ -5544,7 +5547,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12156","tags":[],"title":"[蓝桥杯 2025 省 Java B] 电池分组"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12158","tags":[],"title":"[蓝桥杯 2025 省 Java B] 爆破"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1216","tags":[],"title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1217","tags":[],"title":"[USACO1.5] Prime Palindromes"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1217","tags":[],"title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P12170","tags":[],"title":"[蓝桥杯 2025 省 Python B] 攻击次数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1218","tags":[],"title":"[USACO1.5] Superprime Rib"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1219","tags":[],"title":"[USACO1.5] 八皇后 Checker Challenge"}
