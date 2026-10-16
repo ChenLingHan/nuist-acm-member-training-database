@@ -4129,6 +4129,11 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc270_d","tags":[],"title":"[ABC270D] Stones"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"AT_abc270_e","tags":[],"title":"[ABC270E] Apple Baskets on Circle"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc270_f","tags":[],"title":"[ABC270F] Transportation"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_a","tags":[],"title":"AT_abc271_a"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_b","tags":[],"title":"AT_abc271_b"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_c","tags":[],"title":"AT_abc271_c"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_d","tags":[],"title":"AT_abc271_d"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc271_e","tags":[],"title":"AT_abc271_e"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"AT_abc274_h","tags":[],"title":"[ABC274Ex] XOR Sum of Arrays"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"AT_abc277_c","tags":[],"title":"[ABC277C] Ladder Takahashi"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"AT_abc277_h","tags":[],"title":"[ABC277Ex] Constrained Sums"}
@@ -7821,6 +7826,8 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8255","tags":[],"title":"[NOI Online 2022 入门组] 数学游戏"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8256","tags":[],"title":"[NOI Online 2022 入门组] 字符串"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8269","tags":[],"title":"[USACO22OPEN] Visits S"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8278","tags":[],"title":"「MCOI-08」Fill In"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8279","tags":[],"title":"「MCOI-08」Fill In REMATCH"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8289","tags":[],"title":"[省选联考 2022] 预处理器"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P8290","tags":[],"title":"[省选联考 2022] 填树"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P8292","tags":[],"title":"[省选联考 2022] 卡牌"}
