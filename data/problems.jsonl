@@ -5753,6 +5753,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14566","tags":[],"title":"【MX-S12-T1】取模"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14570","tags":[],"title":" 「LAOI-11」Metamorphosism"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P14571","tags":[],"title":" 「LAOI-11」Ice Block"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14574","tags":[],"title":"批话哥"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14578","tags":[],"title":"【模板】无源汇上下界可行流"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14579","tags":[],"title":"【模板】有源汇上下界最大流"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1458","tags":[],"title":"[USACO2.1] Ordered Fractions"}
@@ -8149,6 +8150,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T205934","tags":[],"title":"自动 AC 机"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T207704","tags":[],"title":"方阵"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T207707","tags":[],"title":"猜答案"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"T208073","tags":[],"title":"Drive with caution!"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T245060","tags":[],"title":"数数"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T246539","tags":[],"title":"T246539"}
@@ -8198,6 +8200,10 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570546","tags":[],"title":"记忆碎片"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T58249","tags":[],"title":"T58249"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699644","tags":[],"title":"[语言月赛 202511] 基米说"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699645","tags":[],"title":"[语言月赛 202511] 打火基"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699647","tags":[],"title":"[语言月赛 202511] 基米起床"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699648","tags":[],"title":"[语言月赛 202511] 天上掉下个哈基米"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T711698","tags":[],"title":"UID Problem"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715153","tags":[],"title":"[202512A] 小蓝莓和小草莓"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715158","tags":[],"title":"[202512B] AIGC 检测"}
