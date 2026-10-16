@@ -5246,7 +5246,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10337","tags":[],"title":"[UESTCPC 2024] 操作序列"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1034","tags":[],"title":"[NOIP 2002 提高组] 矩形覆盖"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1035","tags":[],"title":"[NOIP 2002 普及组] 级数求和"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1036","tags":[],"title":"[NOIP 2002 普及组] 选数"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1036","tags":[],"title":"[NOIP 2002 普及组] 选数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10368","tags":[],"title":"「LAOI-4」Colors"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10369","tags":[],"title":"「LAOI-4」Mex Tower (Easy ver.)"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1037","tags":[],"title":"[NOIP 2002 普及组] 产生数"}
@@ -5926,7 +5926,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1648","tags":[],"title":"看守"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1649","tags":[],"title":"[USACO07OCT] Obstacle Course S"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1650","tags":[],"title":"[ICPC 2004 Shanghai R] 田忌赛马"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1652","tags":[],"title":"圆"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1652","tags":[],"title":"圆"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1654","tags":[],"title":"OSU!"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1655","tags":[],"title":"小朋友的球"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1656","tags":[],"title":"炸铁路"}
@@ -8199,7 +8199,13 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570544","tags":[],"title":"时空混乱"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570545","tags":[],"title":"出行路线"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570546","tags":[],"title":"记忆碎片"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5813","tags":[],"title":"T5813"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T58249","tags":[],"title":"T58249"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5951","tags":[],"title":"T5951"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5981","tags":[],"title":"T5981"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5998","tags":[],"title":"T5998"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6046","tags":[],"title":"T6046"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6109","tags":[],"title":"T6109"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699644","tags":[],"title":"[语言月赛 202511] 基米说"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699645","tags":[],"title":"[语言月赛 202511] 打火基"}
@@ -8213,6 +8219,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715161","tags":[],"title":"[202512E] 加权求和"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715162","tags":[],"title":"[202512F] 低价机票"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715163","tags":[],"title":"[202512G] GSM8K"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T7900","tags":[],"title":"T7900"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
@@ -8255,6 +8262,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U294240","tags":[],"title":"数据结构"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U333462","tags":[],"title":"编译器(F9)"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U378358","tags":[],"title":"U378358"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379004","tags":[],"title":"U379004"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379232","tags":[],"title":"U379232"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"U380249","tags":[],"title":"seq"}
