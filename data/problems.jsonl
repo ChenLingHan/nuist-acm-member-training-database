@@ -5737,6 +5737,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1488","tags":[],"title":"肥猫的游戏"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1489","tags":[],"title":"猫狗大战"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1491","tags":[],"title":"集合位置"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14913","tags":[],"title":"「QFOI R3」难度评分"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14914","tags":[],"title":"「QFOI R3」航线交汇"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1494","tags":[],"title":"[国家集训队] 小 Z 的袜子"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1495","tags":[],"title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14953","tags":[],"title":"乒乓博弈"}
@@ -5835,6 +5837,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1617","tags":[],"title":"爱与愁的一千个伤心的理由"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1618","tags":[],"title":"三连击（升级版）"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1621","tags":[],"title":"集合"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P16233","tags":[],"title":"[蓝桥杯 2026 省 B] 双碳战略"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16236","tags":[],"title":"[蓝桥杯 2026 省 B] LQ 聚合"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16237","tags":[],"title":"[蓝桥杯 2026 省 B] 应急布线"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1626","tags":[],"title":"象棋比赛"}
@@ -8047,11 +8050,14 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258193","tags":[],"title":"低位与高位"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262705","tags":[],"title":"T262705"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262725","tags":[],"title":"T262725"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T287848","tags":[],"title":"T287848"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288165","tags":[],"title":"T288165"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288168","tags":[],"title":"T288168"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288182","tags":[],"title":"T288182"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288185","tags":[],"title":"T288185"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288702","tags":[],"title":"T288702"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288704","tags":[],"title":"T288704"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T292344","tags":[],"title":"不正经的出题人与秩序之手"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
@@ -8067,9 +8073,16 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T58249","tags":[],"title":"T58249"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T711698","tags":[],"title":"UID Problem"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715153","tags":[],"title":"[202512A] 小蓝莓和小草莓"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715158","tags":[],"title":"[202512B] AIGC 检测"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715159","tags":[],"title":"[202512C] 土豆王国"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715160","tags":[],"title":"[202512D] 破解等式"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715161","tags":[],"title":"[202512E] 加权求和"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715163","tags":[],"title":"[202512G] GSM8K"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U125683","tags":[],"title":"[ybt1347]格子游戏"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U197280","tags":[],"title":"【模板】最长公共子序列"}
