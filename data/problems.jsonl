@@ -4537,15 +4537,22 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3847","tags":[],"title":"[GESP样题 一级] 当天的第几秒"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3848","tags":[],"title":"[GESP样题 三级] 逛商场"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3849","tags":[],"title":"[GESP样题 三级] 进制转换"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3850","tags":[],"title":"[GESP202306 四级] 幸运数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3862","tags":[],"title":"图的遍历（简单版）"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3863","tags":[],"title":"[GESP202309 一级] 买文具"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3864","tags":[],"title":"[GESP202309 一级] 小明的幸运数"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3869","tags":[],"title":"[GESP202309 四级] 进制转换"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3870","tags":[],"title":"[GESP202309 四级] 变长编码"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3874","tags":[],"title":"[GESP202309 六级] 小杨的握手问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3899","tags":[],"title":"[NICA #3] 抗洪救灾"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3908","tags":[],"title":"[语言月赛 202312] 异或构造题？"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3919","tags":[],"title":"[语言月赛 202401] 二进制与一"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3927","tags":[],"title":"[GESP202312 四级] 小杨的字典"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3928","tags":[],"title":"[GESP202312 四级] 田忌赛马"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3930","tags":[],"title":"[GESP202312 五级] 烹饪问题"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3939","tags":[],"title":"[GESP样题 四级] 绝对素数"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3940","tags":[],"title":"[GESP样题 四级] 填幻方"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3958","tags":[],"title":"[GESP202403 四级] 相似字符串"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3964","tags":[],"title":"[语言月赛 202404] 天上的气球"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3973","tags":[],"title":"[语言月赛 202405] 小 S 大战小 Q"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3974","tags":[],"title":"[语言月赛 202405] 放行李"}
@@ -4567,6 +4574,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4105","tags":[],"title":"[CSP-X2024 山东] 消灭怪兽"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4119","tags":[],"title":"[JOI2025 预选赛 R1H3] 循环字符串"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4133","tags":[],"title":"[信息与未来 2014] 最大连续部分和"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4139","tags":[],"title":"[信息与未来 2016] 字符串替换"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4144","tags":[],"title":"[语言月赛 202502] 随机数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B4163","tags":[],"title":"[BCSP-X 2024 12 月初中组] 序列选择"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4198","tags":[],"title":"[常州市赛 2020] 比赛"}
@@ -5804,6 +5812,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1618","tags":[],"title":"三连击（升级版）"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1621","tags":[],"title":"集合"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16236","tags":[],"title":"[蓝桥杯 2026 省 B] LQ 聚合"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16237","tags":[],"title":"[蓝桥杯 2026 省 B] 应急布线"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1626","tags":[],"title":"象棋比赛"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16264","tags":[],"title":"[蓝桥杯 2026 省 Python B 组] 奇偶博弈"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1627","tags":[],"title":"[CQOI2009] 中位数"}
@@ -5814,7 +5823,10 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1636","tags":[],"title":"Einstein学画画"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1637","tags":[],"title":"三元上升子序列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1638","tags":[],"title":"逛画展"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P16398","tags":[],"title":"[ECUSTPC 2026 Spring] 迷路日"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1640","tags":[],"title":"[SCOI2010] 连续攻击游戏"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P16401","tags":[],"title":"[ECUSTPC 2026 Spring] 星露谷物语"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P16402","tags":[],"title":"[ECUSTPC 2026 Spring] 烈焰风暴 2"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1641","tags":[],"title":"[SCOI2010] 生成字符串"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P16425","tags":[],"title":"「YLLOI-R4-T1」珊瑚海"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1644","tags":[],"title":"跳马问题"}
@@ -5851,6 +5863,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1688","tags":[],"title":"新单词接龙问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1689","tags":[],"title":"方程求解"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1690","tags":[],"title":"贪婪的 Copy"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P16907","tags":[],"title":"「MierOI R2」雨之城"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16941","tags":[],"title":"「LAOI-18」Locus"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1702","tags":[],"title":"突击考试"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1705","tags":[],"title":"爱与愁过火"}
@@ -7976,6 +7989,9 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"SP7579","tags":[],"title":"YOKOF - Power Calculus"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"SP8099","tags":[],"title":"TABLE - Crash´s number table"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"SP8462","tags":[],"title":"BARN - Barn Allocation"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539820","tags":[],"title":"202411A Giants"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539821","tags":[],"title":"202411B Legends Never Die"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539822","tags":[],"title":"202411C K/D/A"}
@@ -7983,8 +7999,22 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712308","tags":[],"title":"我再也不要赶DDL了"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U723330","tags":[],"title":"【12-X】人造战车"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736555","tags":[],"title":"U736555"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736556","tags":[],"title":"B - 河童重工"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736568","tags":[],"title":"C - 这个勇者明明超强却过分慎重"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736569","tags":[],"title":"U736569"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736570","tags":[],"title":"E - 熊大快跑"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736575","tags":[],"title":"F - 芙兰）（达"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736577","tags":[],"title":"U736577"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736579","tags":[],"title":"H - 比利吋小子 正在和 籽山民先生 闹矛盾，，，"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736580","tags":[],"title":"U736580"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U95884","tags":[],"title":"U95884"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"UVA100","tags":[],"title":"The 3n + 1 problem"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"UVA10200","tags":[],"title":"Prime Time"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"UVA10228","tags":[],"title":"A Star not a Tree?"}
