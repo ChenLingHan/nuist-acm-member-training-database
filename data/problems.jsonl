@@ -5389,6 +5389,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1106","tags":[],"title":"删数问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1107","tags":[],"title":"[BJWC2008] 雷涛的小猫"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P11070","tags":[],"title":"「QMSOI R1」 三服同构"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11076","tags":[],"title":"「FSLOI Round I」单挑"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11077","tags":[],"title":"「FSLOI Round I」石子"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P11078","tags":[],"title":"「FSLOI Round I」迷雾"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1109","tags":[],"title":"学生分组"}
@@ -8044,6 +8045,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9735","tags":[],"title":"[COCI 2022/2023 #2] Tramvaji"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9736","tags":[],"title":"[COCI 2022/2023 #2] Ekspert"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9738","tags":[],"title":"[COCI 2022/2023 #2] Prijateljice"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9740","tags":[],"title":"「KDOI-06-J」ION 比赛"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9741","tags":[],"title":"「KDOI-06-J」翻转与反转"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9744","tags":[],"title":"「KDOI-06-S」消除序列"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9748","tags":[],"title":"[CSP-J 2023] 小苹果"}
@@ -8158,6 +8160,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T208073","tags":[],"title":"Drive with caution!"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212889","tags":[],"title":"T212889"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212890","tags":[],"title":"T212890"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212892","tags":[],"title":"T212892"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T227414","tags":[],"title":"[愚人节比赛 2022] 洛谷管理全真体验 II"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T236965","tags":[],"title":"T236965"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T245060","tags":[],"title":"数数"}
@@ -8195,11 +8199,15 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T365944","tags":[],"title":"T365944"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367645","tags":[],"title":"T367645"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367646","tags":[],"title":"T367646"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367647","tags":[],"title":"T367647"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T368263","tags":[],"title":"环上最大独立集"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T424283","tags":[],"title":"「shury OI Round I」爱情的救赎"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T429229","tags":[],"title":"「shury OI Round I」投篮比赛"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T429780","tags":[],"title":"「shury OI Round I」重题"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T498665","tags":[],"title":"S 组-单项选择"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T522626","tags":[],"title":"T522626"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T537590","tags":[],"title":"[20241109] 明月天涯（moon）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539820","tags":[],"title":"202411A Giants"}
@@ -8221,6 +8229,10 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5998","tags":[],"title":"T5998"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6046","tags":[],"title":"T6046"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6109","tags":[],"title":"T6109"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6287","tags":[],"title":"T6287"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6319","tags":[],"title":"T6319"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6320","tags":[],"title":"T6320"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6341","tags":[],"title":"T6341"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6350","tags":[],"title":"T6350"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6351","tags":[],"title":"T6351"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6352","tags":[],"title":"T6352"}
@@ -8231,6 +8243,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6411","tags":[],"title":"T6411"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6412","tags":[],"title":"T6412"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T668541","tags":[],"title":"[语言月赛 202509] 朱猪时刻"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T668542","tags":[],"title":"[语言月赛 202509] 智慧食堂"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699644","tags":[],"title":"[语言月赛 202511] 基米说"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699645","tags":[],"title":"[语言月赛 202511] 打火基"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699647","tags":[],"title":"[语言月赛 202511] 基米起床"}
@@ -8252,12 +8266,24 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U125683","tags":[],"title":"[ybt1347]格子游戏"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U137897","tags":[],"title":"破碎的饼干"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U137911","tags":[],"title":"友谊序列"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U138159","tags":[],"title":"U138159"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143723","tags":[],"title":"U143723"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143829","tags":[],"title":"U143829"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143830","tags":[],"title":"U143830"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U149047","tags":[],"title":"yzy和他的washing mchine"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166618","tags":[],"title":"pyzo2021 level 1"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166619","tags":[],"title":"pyzo2021 level 2"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166620","tags":[],"title":"pyzo2021 leveI 3"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166621","tags":[],"title":"pyzo2020 level 4"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166629","tags":[],"title":"pyzo2021 level 16"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166630","tags":[],"title":"pyzo2021 level 17"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166633","tags":[],"title":"无"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166634","tags":[],"title":"pyzo2021 level 5"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166635","tags":[],"title":"pyzo2021 level 6"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166636","tags":[],"title":"pyzo2021 level seven"}
+{"difficulty":8,"platform":"luogu","points":null,"problem_id":"U166637","tags":[],"title":"pyzo2021 level 8"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U169126","tags":[],"title":"U169126"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U173092","tags":[],"title":"A+B Problem"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U177483","tags":[],"title":"回声"}
@@ -8287,8 +8313,10 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U262369","tags":[],"title":"选择最佳线路"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U263107","tags":[],"title":"选择最佳线路"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U268985","tags":[],"title":"数组元素的目标和"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U289875","tags":[],"title":"U289875"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U294240","tags":[],"title":"数据结构"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U327387","tags":[],"title":"U327387"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U333462","tags":[],"title":"编译器(F9)"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U374832","tags":[],"title":"『ZOI Round #1』奇妙数"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U378358","tags":[],"title":"U378358"}
