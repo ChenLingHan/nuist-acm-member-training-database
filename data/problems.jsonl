@@ -4597,6 +4597,11 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3748","tags":[],"title":"[语言月赛202304] 写大作业"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3777","tags":[],"title":"[语言月赛202306] 魔方"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3784","tags":[],"title":"[语言月赛202306] 演唱会"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3822","tags":[],"title":"[NICA #2] GDP"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3823","tags":[],"title":"[NICA #2] 拉面馆"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3824","tags":[],"title":"[NICA #2] 台式烤香肠"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3825","tags":[],"title":"[NICA #2] 降雨量"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3826","tags":[],"title":"[NICA #2] 音乐播放器"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3827","tags":[],"title":"[NICA #2] 高考组题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3828","tags":[],"title":"[NICA #2] 优秀正整数"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3834","tags":[],"title":"[GESP202303 一级] 长方形面积"}
@@ -7793,6 +7798,7 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P7883","tags":[],"title":"平面最近点对（加强加强版）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7885","tags":[],"title":"「MCOI-06」Flight"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7886","tags":[],"title":"「MCOI-06」Gerrymandering"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7892","tags":[],"title":"『JROI-3』田径"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P7900","tags":[],"title":"[COCI 2006/2007 #2] SJECIŠTA"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7901","tags":[],"title":"「PMOI-0」一笔画"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7902","tags":[],"title":"「PMOI-0」假·儒略日"}
@@ -8011,6 +8017,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9215","tags":[],"title":"[入门赛 #11] [yLOI2021] 扶苏与 1 (Hard Version)"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9216","tags":[],"title":"[入门赛 #11] 写大作业 (Hard Version)"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9218","tags":[],"title":"「TAOI-1」Apollo"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9226","tags":[],"title":"糖果"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9227","tags":[],"title":"异或积"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9231","tags":[],"title":"[蓝桥杯 2023 省 A] 平方差"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9232","tags":[],"title":"[蓝桥杯 2023 省 A] 更小的数"}
