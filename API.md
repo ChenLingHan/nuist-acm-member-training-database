@@ -43,7 +43,6 @@
 
 题目难度：洛谷 0=暂无评定，1..8 为平台难度等级；CF 为原始 Rating，部分 Gym 没有 Rating；QOJ 无统一评分，使用 null。QOJ 同时识别 AC/Accepted 及带明确通过勾号的满分结果（如 25 ✓、100 ✓、200 ✓），不把单独分数当作 AC，也不假定满分必须为 100。不同平台题号不合并，同一题被不同队员通过分别计数。profile 总量与记录数可能不同：一个是去重过题，一个是包含重复通过的提交数，且采集仍可能缺失。
 
-发现延迟：accepted_submissions.discovery_delay_seconds = observed_at − accepted_at（秒），重复采集不重置 observed_at。discovery_mode 为 routine（常态最新检查且提交发生在本机常态统计起点之后）、catch_up（最新检查发现的旧提交）、backfill（历史/定向补采）、legacy（旧记录，没有可靠采集阶段证据）。discovery_kind 为首次写入时任务类型，旧记录为空。仅 routine 且延迟非负的记录可用于统计常态发现速度；其余记录的差值仍可参考，不应混算。跨机导入保留原始 observed_at；阶段信息缺失时显示 legacy。AC 时间是提交时间，延迟包含平台判题、列表更新和排队耗时，不等于单次请求耗时；负值应视为时钟或源时间异常。
 
 ## 完整性与断点
 
