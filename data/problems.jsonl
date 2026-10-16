@@ -4070,6 +4070,10 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc202_e","tags":[],"title":"[ABC202E] Count Descendants"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc203_d","tags":[],"title":"[ABC203D] Pond"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc203_e","tags":[],"title":"[ABC203E] White Pawn"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc206_a","tags":[],"title":"AT_abc206_a"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc206_b","tags":[],"title":"AT_abc206_b"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc206_c","tags":[],"title":"AT_abc206_c"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"AT_abc206_d","tags":[],"title":"AT_abc206_d"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"AT_abc206_e","tags":[],"title":"[ABC206E] Divide Both"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"AT_abc211_c","tags":[],"title":"[ABC211C] chokudai"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"AT_abc211_d","tags":[],"title":"[ABC211D] Number of Shortest paths"}
@@ -5520,7 +5524,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1205","tags":[],"title":"[USACO1.2] 方块转换 Transformations"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1206","tags":[],"title":"[USACO1.2] 回文平方数 Palindromic Squares"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1207","tags":[],"title":"[USACO1.2] 双重回文数 Dual Palindromes"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] Mixing Milk"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] 混合牛奶 Mixing Milk"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1209","tags":[],"title":"[USACO1.3] 修理牛棚 Barn Repair"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1210","tags":[],"title":"[USACO1.3] 最长的回文 Calf Flac"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1211","tags":[],"title":"[USACO1.3] Cow-Style Prime Cryptarithm"}
@@ -5769,7 +5773,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14590","tags":[],"title":"[LNCPC 2025] 计组实验"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14592","tags":[],"title":"[LNCPC 2025] 裂痕"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14593","tags":[],"title":"[LNCPC 2025] 猫猫虫打 CF"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1460","tags":[],"title":"[USACO2.1] Healthy Holsteins"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1460","tags":[],"title":"[USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1462","tags":[],"title":"通往奥格瑞玛的道路"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1463","tags":[],"title":"[POI 2001 R1 / ZJOI2006 / HAOI2007] 反素数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14635","tags":[],"title":"[NOIP2025] 糖果店"}
@@ -7970,6 +7974,8 @@
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P9288","tags":[],"title":"[ROI 2018] Innophone"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P9312","tags":[],"title":"[EGOI 2021] Lanterns / 灯笼"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9351","tags":[],"title":"[JOI 2023 Final] 迷宫 / Maze"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9354","tags":[],"title":"「SiR-1」Popsicle"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9355","tags":[],"title":"「SiR-1」Checkmate"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9373","tags":[],"title":"「DROI」Round 2 构造与取模"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9379","tags":[],"title":"[THUPC 2023 决赛] 老虎机"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9391","tags":[],"title":"红草莓"}
@@ -7984,6 +7990,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9459","tags":[],"title":"「EZEC-14」浴眼盯真"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9460","tags":[],"title":"「EZEC-14」众数 I"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9463","tags":[],"title":"[EGOI 2023] Inflation / 通货膨胀"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9471","tags":[],"title":"[yLOI2022] 签到题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9472","tags":[],"title":"[yLOI2022] 枕万梦"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9484","tags":[],"title":"「LAOI-1」GCD"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9485","tags":[],"title":"「LAOI-1」积水"}
