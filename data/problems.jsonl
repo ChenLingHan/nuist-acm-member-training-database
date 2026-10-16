@@ -4597,6 +4597,12 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4343","tags":[],"title":"[语言月赛 202506] 地铁跑酷"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B4357","tags":[],"title":"[GESP202506 二级] 幂和数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B4380","tags":[],"title":"[蓝桥杯青少年组省赛 2025] 魔术扑克牌排列"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4417","tags":[],"title":"B4417"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4418","tags":[],"title":"B4418"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4419","tags":[],"title":"B4419"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4420","tags":[],"title":"B4420"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4422","tags":[],"title":"B4422"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B4423","tags":[],"title":"B4423"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B4426","tags":[],"title":"[CSP-X2025 山东] IOI 串"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4438","tags":[],"title":"[语言月赛 202512] AIGC 检测"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B4448","tags":[],"title":"[GESP202512 二级] 黄金格"}
@@ -5921,7 +5927,12 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17116","tags":[],"title":"[Algo Beat 009 & MROI-R1] Avoid K Prefix"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1712","tags":[],"title":"[NOI2016] 区间"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1714","tags":[],"title":"切蛋糕"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17157","tags":[],"title":"[入门赛 #50] 阅读计划"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17158","tags":[],"title":"[入门赛 #50] 行列式的值"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17159","tags":[],"title":"[入门赛 #50] 矛盾纸带"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1716","tags":[],"title":"双调序列"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17160","tags":[],"title":"[入门赛 #50] 矩阵生成"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17161","tags":[],"title":"[入门赛 #50] 数论对称差"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17173","tags":[],"title":" 「MSOI R1」回响"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1718","tags":[],"title":"图形复原"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1719","tags":[],"title":"最大加权矩形"}
@@ -8032,7 +8043,7 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"SP2916","tags":[],"title":"GSS5 - Can you answer these queries V"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"SP297","tags":[],"title":"AGGRCOW - Aggressive cows"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"SP31","tags":[],"title":"MUL - Fast Multiplication"}
-{"difficulty":1,"platform":"luogu","points":null,"problem_id":"SP31087","tags":[],"title":"JHAGIRLS - AAO KABHI HAWELI PE :P（有误已隐藏）"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"SP31087","tags":[],"title":"JHAGIRLS - AAO KABHI HAWELI PE :P（有误已隐藏）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"SP32201","tags":[],"title":"RSHIFT - Right Shift"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"SP3267","tags":[],"title":"DQUERY - D-query"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"SP375","tags":[],"title":"QTREE - Query on a tree"}
@@ -8051,6 +8062,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T116792","tags":[],"title":"T116792"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T124267","tags":[],"title":"Special Judge"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T152327","tags":[],"title":"递归练习"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T158659","tags":[],"title":"T158659"}
@@ -8076,6 +8088,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T270713","tags":[],"title":"[中期自测]天天爱跑步"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"T270731","tags":[],"title":"中奖"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T274687","tags":[],"title":"T274687"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T277277","tags":[],"title":"T277277"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T277278","tags":[],"title":"T277278"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T282221","tags":[],"title":"T282221"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T287848","tags":[],"title":"T287848"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288165","tags":[],"title":"T288165"}
@@ -8085,6 +8099,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288702","tags":[],"title":"T288702"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288704","tags":[],"title":"T288704"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T292344","tags":[],"title":"不正经的出题人与秩序之手"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T306878","tags":[],"title":"T306878"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
