@@ -5516,7 +5516,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1204","tags":[],"title":"[USACO1.2] 挤牛奶 Milking Cows"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1205","tags":[],"title":"[USACO1.2] Transformations"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1206","tags":[],"title":"[USACO1.2] 回文平方数 Palindromic Squares"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1207","tags":[],"title":"[USACO1.2] Dual Palindromes"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1207","tags":[],"title":"[USACO1.2] 双重回文数 Dual Palindromes"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] 混合牛奶 Mixing Milk"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1209","tags":[],"title":"[USACO1.3] 修理牛棚 Barn Repair"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1210","tags":[],"title":"[USACO1.3] 最长的回文 Calf Flac"}
@@ -5912,6 +5912,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1629","tags":[],"title":"邮递员送信"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1631","tags":[],"title":"序列合并"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1634","tags":[],"title":"禽兽的传染病"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P16349","tags":[],"title":"「Gensokyo OI Round 1」坊巷逸闻"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1636","tags":[],"title":"Einstein学画画"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1637","tags":[],"title":"三元上升子序列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1638","tags":[],"title":"逛画展"}
@@ -8226,6 +8227,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"U109897","tags":[],"title":"[HDU5536]Chip Factory"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"U109923","tags":[],"title":"[Codechef REBXOR]Nikitosh and xor"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U125683","tags":[],"title":"[ybt1347]格子游戏"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U137897","tags":[],"title":"破碎的饼干"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U137911","tags":[],"title":"友谊序列"}
