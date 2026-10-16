@@ -5869,6 +5869,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1690","tags":[],"title":"贪婪的 Copy"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P16907","tags":[],"title":"「MierOI R2」雨之城"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P16941","tags":[],"title":"「LAOI-18」Locus"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P16953","tags":[],"title":"「NLOI Round1」白鸟过河滩"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1702","tags":[],"title":"突击考试"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1705","tags":[],"title":"爱与愁过火"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1706","tags":[],"title":"全排列问题"}
@@ -5887,6 +5888,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1718","tags":[],"title":"图形复原"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1719","tags":[],"title":"最大加权矩形"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1720","tags":[],"title":"月落乌啼算钱（斐波那契数列）"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17211","tags":[],"title":"[ICPC 2017 Nanning R] Abiyoyo"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1722","tags":[],"title":"矩阵 II"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1724","tags":[],"title":"东风谷早苗"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1725","tags":[],"title":"琪露诺"}
@@ -5912,10 +5914,12 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1746","tags":[],"title":"离开中山路"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1747","tags":[],"title":"好奇怪的游戏"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1748","tags":[],"title":"H 数"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17485","tags":[],"title":"湖上的前线基地"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17490","tags":[],"title":"[EPXLQ 2026] 乒乓博弈 II"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17494","tags":[],"title":"[ICPC 2026 Wuhan I] Sequence Operations"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17495","tags":[],"title":"[ICPC 2026 Wuhan I] Believe in You"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17496","tags":[],"title":"[ICPC 2026 Wuhan I] Prime Game"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17498","tags":[],"title":"[ICPC 2026 Wuhan I] Lottery"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17500","tags":[],"title":"[ICPC 2026 Wuhan I] Rectangle Cutting"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17506","tags":[],"title":"[入门赛 #52] 分月饼"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17507","tags":[],"title":"[入门赛 #52] 中秋竹灯"}
@@ -8035,11 +8039,14 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U400759","tags":[],"title":"L的拼图"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U401229","tags":[],"title":"Night of Full Moon"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U41492","tags":[],"title":"树上数颜色"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"U438992","tags":[],"title":"「百度之星 2024 初赛第一场」无限房间"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U461211","tags":[],"title":"字符串 Hash（数据加强）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U487186","tags":[],"title":"斐波那契数列测试"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U505744","tags":[],"title":"U505744"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U638214","tags":[],"title":"地铁乘车"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U674017","tags":[],"title":"U674017"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712308","tags":[],"title":"我再也不要赶DDL了"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712578","tags":[],"title":"U712578"}
