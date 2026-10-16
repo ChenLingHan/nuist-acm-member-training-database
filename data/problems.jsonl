@@ -5427,6 +5427,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1125","tags":[],"title":"[NOIP 2008 提高组] 笨小猴"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P11250","tags":[],"title":"[GESP202409 八级] 手套配对"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1127","tags":[],"title":"词链"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11271","tags":[],"title":"「Diligent-OI R1 A」DlgtPattern"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11275","tags":[],"title":"微观戏剧"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11276","tags":[],"title":"第一首歌"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1128","tags":[],"title":"[HNOI2001] 求正整数"}
@@ -8134,10 +8135,14 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T116792","tags":[],"title":"T116792"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T121611","tags":[],"title":"树的直径（简单版）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T124267","tags":[],"title":"Special Judge"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"T141340","tags":[],"title":"N钱买N鸡（加强版）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T141866","tags":[],"title":"小B和他的学分"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T152327","tags":[],"title":"递归练习"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T158659","tags":[],"title":"T158659"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"T168376","tags":[],"title":"[AC6-M13] The Liberation Of Gracemeria"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T171038","tags":[],"title":"温故而知新"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T173329","tags":[],"title":"A+B Problem"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T176020","tags":[],"title":"T176020"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180897","tags":[],"title":"T180897"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180898","tags":[],"title":"T180898"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180899","tags":[],"title":"T180899"}
@@ -8159,6 +8164,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T207704","tags":[],"title":"方阵"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T207707","tags":[],"title":"猜答案"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T208073","tags":[],"title":"Drive with caution!"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212887","tags":[],"title":"T212887"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212888","tags":[],"title":"T212888"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212889","tags":[],"title":"T212889"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212890","tags":[],"title":"T212890"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T212892","tags":[],"title":"T212892"}
@@ -8199,6 +8206,16 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313704","tags":[],"title":"之后就一个人都没有了吗？"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363239","tags":[],"title":"T363239"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363240","tags":[],"title":"T363240"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363241","tags":[],"title":"T363241"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363242","tags":[],"title":"T363242"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363250","tags":[],"title":"T363250"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T364863","tags":[],"title":"四个人的排名加起来没有小粉兔高"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T364884","tags":[],"title":"小粉兔喜欢下象棋吗"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T364885","tags":[],"title":"小粉兔做麻辣兔头"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T364886","tags":[],"title":"小粉兔的挂科与压力"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T364889","tags":[],"title":"小粉兔处理题解审核志愿者轮换"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T365944","tags":[],"title":"T365944"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367645","tags":[],"title":"T367645"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367646","tags":[],"title":"T367646"}
@@ -8231,9 +8248,23 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6046","tags":[],"title":"T6046"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6109","tags":[],"title":"T6109"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6287","tags":[],"title":"T6287"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6290","tags":[],"title":"T6290"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6307","tags":[],"title":"T6307"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6318","tags":[],"title":"T6318"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6319","tags":[],"title":"T6319"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6320","tags":[],"title":"T6320"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6321","tags":[],"title":"T6321"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6322","tags":[],"title":"T6322"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6323","tags":[],"title":"T6323"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6329","tags":[],"title":"T6329"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6330","tags":[],"title":"T6330"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6332","tags":[],"title":"T6332"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6337","tags":[],"title":"T6337"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6339","tags":[],"title":"T6339"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6340","tags":[],"title":"T6340"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6341","tags":[],"title":"T6341"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6343","tags":[],"title":"T6343"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6344","tags":[],"title":"T6344"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6350","tags":[],"title":"T6350"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6351","tags":[],"title":"T6351"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6352","tags":[],"title":"T6352"}
@@ -8367,6 +8398,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736579","tags":[],"title":"H - 比利吋小子 正在和 籽山民先生 闹矛盾，，，"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736580","tags":[],"title":"I - 鬼人正邪Ⅱ"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U76515","tags":[],"title":"最小生成树：联络员(liaison)"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"U82118","tags":[],"title":"【模板】Miller Rabin算法"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U95884","tags":[],"title":"U95884"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U96164","tags":[],"title":"【模板】树的重心"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"UVA100","tags":[],"title":"The 3n + 1 problem"}
