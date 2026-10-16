@@ -5511,13 +5511,14 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1201","tags":[],"title":"[USACO1.1] Greedy Gift Givers"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1202","tags":[],"title":"[USACO1.1] Friday the Thirteenth"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1203","tags":[],"title":"[IOI 1993 / USACO1.1] Broken Necklace"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12036","tags":[],"title":"[USTCPC 2025] 摩拉"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12039","tags":[],"title":"[USTCPC 2025] 高位逼抢"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1204","tags":[],"title":"[USACO1.2] 挤牛奶 Milking Cows"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1205","tags":[],"title":"[USACO1.2] Transformations"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1206","tags":[],"title":"[USACO1.2] 回文平方数 Palindromic Squares"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1207","tags":[],"title":"[USACO1.2] Dual Palindromes"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] 混合牛奶 Mixing Milk"}
-{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1209","tags":[],"title":"[USACO1.3] Barn Repair"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1209","tags":[],"title":"[USACO1.3] 修理牛棚 Barn Repair"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1210","tags":[],"title":"[USACO1.3] 最长的回文 Calf Flac"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1211","tags":[],"title":"[USACO1.3] Cow-Style Prime Cryptarithm"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12130","tags":[],"title":"[蓝桥杯 2025 省 B] 移动距离"}
@@ -6107,7 +6108,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1865","tags":[],"title":"A % B Problem"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1866","tags":[],"title":"编号"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1867","tags":[],"title":"【Mc生存】经验值"}
-{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1868","tags":[],"title":"饥饿的奶牛"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1868","tags":[],"title":"饥饿的奶牛"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1873","tags":[],"title":"[COCI 2011/2012 #5] EKO / 砍树"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1874","tags":[],"title":"快速求和"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1876","tags":[],"title":"开灯"}
@@ -8138,6 +8139,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T184475","tags":[],"title":"T184475"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189551","tags":[],"title":"T189551"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189553","tags":[],"title":"T189553"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"T189644","tags":[],"title":"助威"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"T189645","tags":[],"title":"躺平"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189650","tags":[],"title":"T189650"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189778","tags":[],"title":"T189778"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189789","tags":[],"title":"T189789"}
@@ -8222,8 +8225,10 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U207913","tags":[],"title":"「JeIOI Round 1」lzxの说假(fake)"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U209002","tags":[],"title":"JYの解密 Round 4"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U221656","tags":[],"title":"U221656"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U221659","tags":[],"title":"U221659"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U221723","tags":[],"title":"U221723"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U223758","tags":[],"title":"U223758"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U223779","tags":[],"title":"U223779"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U225113","tags":[],"title":"连接格点"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U225925","tags":[],"title":"Sky的回文串"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
@@ -8239,8 +8244,10 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U294240","tags":[],"title":"数据结构"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U333462","tags":[],"title":"编译器(F9)"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379004","tags":[],"title":"U379004"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379232","tags":[],"title":"U379232"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"U380249","tags":[],"title":"seq"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"U380261","tags":[],"title":"1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U380575","tags":[],"title":"U380575"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"U382348","tags":[],"title":"1"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U382715","tags":[],"title":"测测need read"}
