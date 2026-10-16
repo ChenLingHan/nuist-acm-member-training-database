@@ -851,6 +851,26 @@
 {"accepted_at":1792067810.0,"account_id":"a8","difficulty":2000,"observed_at":1792073909.8294582,"problem_id":"251C","submission_id":"394692055","title":"Number Transformation"}
 {"accepted_at":1792138634.0,"account_id":"a8","difficulty":1500,"observed_at":1792138703.901272,"problem_id":"264B","submission_id":"394785940","title":"Good Sequences"}
 {"accepted_at":1792141710.0,"account_id":"a8","difficulty":1700,"observed_at":1792142304.313605,"problem_id":"4D","submission_id":"394791349","title":"Mysterious Present"}
+{"accepted_at":1763540057.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8714888,"problem_id":"P10250","submission_id":"248168850","title":"[GESP样题 六级] 下楼梯"}
+{"accepted_at":1763542182.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8714736,"problem_id":"P1216","submission_id":"248177492","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
+{"accepted_at":1763542565.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8714607,"problem_id":"P1216","submission_id":"248179308","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
+{"accepted_at":1763543431.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8714483,"problem_id":"P1192","submission_id":"248183482","title":"台阶问题"}
+{"accepted_at":1763544946.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8714354,"problem_id":"B3637","submission_id":"248190325","title":"最长上升子序列"}
+{"accepted_at":1763718281.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.871405,"problem_id":"P3366","submission_id":"248553848","title":"【模板】最小生成树"}
+{"accepted_at":1763722301.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.8713915,"problem_id":"P3366","submission_id":"248567240","title":"【模板】最小生成树"}
+{"accepted_at":1763722361.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.871378,"problem_id":"P3366","submission_id":"248567537","title":"【模板】最小生成树"}
+{"accepted_at":1763725478.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.8713639,"problem_id":"P3366","submission_id":"248597597","title":"【模板】最小生成树"}
+{"accepted_at":1763726405.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.871346,"problem_id":"P1396","submission_id":"248607363","title":"营救"}
+{"accepted_at":1763727191.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.871328,"problem_id":"P1195","submission_id":"248614983","title":"口袋的天空"}
+{"accepted_at":1763729836.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8713152,"problem_id":"P1048","submission_id":"248638425","title":"[NOIP 2005 普及组] 采药"}
+{"accepted_at":1763776403.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.8712869,"problem_id":"P2712","submission_id":"248704858","title":"摄像头"}
+{"accepted_at":1763794464.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.8712735,"problem_id":"P4826","submission_id":"248803414","title":"[USACO15FEB] Superbull S"}
+{"accepted_at":1764050058.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8712604,"problem_id":"P2842","submission_id":"249460901","title":"纸币问题 1"}
+{"accepted_at":1764050402.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8712404,"problem_id":"P2842","submission_id":"249461758","title":"纸币问题 1"}
+{"accepted_at":1764250266.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.871226,"problem_id":"P3371","submission_id":"250034146","title":"【模板】单源最短路径（弱化版）"}
+{"accepted_at":1764250281.0,"account_id":"a9","difficulty":3,"observed_at":1792157224.8711803,"problem_id":"P4779","submission_id":"250034237","title":"【模板】单源最短路径（标准版）"}
+{"accepted_at":1764378003.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8711617,"problem_id":"P9484","submission_id":"250300940","title":"「LAOI-1」GCD"}
+{"accepted_at":1764378024.0,"account_id":"a9","difficulty":2,"observed_at":1792157224.8710773,"problem_id":"P9484","submission_id":"250300993","title":"「LAOI-1」GCD"}
 {"accepted_at":1764381560.0,"account_id":"a9","difficulty":3,"observed_at":1792156561.6953046,"problem_id":"P1194","submission_id":"250317199","title":"买礼物"}
 {"accepted_at":1764925341.0,"account_id":"a9","difficulty":3,"observed_at":1792156561.6952772,"problem_id":"P3865","submission_id":"251485481","title":"【模板】ST 表 & RMQ 问题"}
 {"accepted_at":1764926665.0,"account_id":"a9","difficulty":3,"observed_at":1792156561.695248,"problem_id":"P3865","submission_id":"251490054","title":"【模板】ST 表 & RMQ 问题"}
@@ -2146,6 +2166,26 @@
 {"accepted_at":1791956507.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122363,"problem_id":"105901A","submission_id":"394473155","title":"Problem Setting"}
 {"accepted_at":1791960410.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122153,"problem_id":"105901L","submission_id":"394478660","title":"Subsequence"}
 {"accepted_at":1791962568.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1120896,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
+{"accepted_at":1696904090.0,"account_id":"a28","difficulty":6,"observed_at":1792157160.5148785,"problem_id":"P3369","submission_id":"128522913","title":"【模板】普通平衡树"}
+{"accepted_at":1696908633.0,"account_id":"a28","difficulty":3,"observed_at":1792157160.5148695,"problem_id":"P4779","submission_id":"128530007","title":"【模板】单源最短路径（标准版）"}
+{"accepted_at":1697032553.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5148556,"problem_id":"P3374","submission_id":"128830769","title":"【模板】树状数组 1"}
+{"accepted_at":1697096127.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5148275,"problem_id":"P3372","submission_id":"128904855","title":"【模板】线段树 1"}
+{"accepted_at":1697200604.0,"account_id":"a28","difficulty":5,"observed_at":1792157160.5148172,"problem_id":"AT_arc117_c","submission_id":"129158295","title":"[ARC117C] Tricolor Pyramid"}
+{"accepted_at":1697334986.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5148053,"problem_id":"CF1879B","submission_id":"129460271","title":"Chips on the Board"}
+{"accepted_at":1697351758.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5147939,"problem_id":"P5057","submission_id":"129530770","title":"[CQOI2006] 简单题"}
+{"accepted_at":1697351803.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5147831,"problem_id":"P5057","submission_id":"129530998","title":"[CQOI2006] 简单题"}
+{"accepted_at":1697373032.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5147736,"problem_id":"P9744","submission_id":"129641197","title":"「KDOI-06-S」消除序列"}
+{"accepted_at":1697373141.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5147555,"problem_id":"P9744","submission_id":"129641746","title":"「KDOI-06-S」消除序列"}
+{"accepted_at":1758424149.0,"account_id":"a28","difficulty":1,"observed_at":1792157160.5147445,"problem_id":"P5015","submission_id":"236272608","title":"[NOIP 2018 普及组] 标题统计"}
+{"accepted_at":1758424242.0,"account_id":"a28","difficulty":1,"observed_at":1792157160.5147326,"problem_id":"P5015","submission_id":"236273095","title":"[NOIP 2018 普及组] 标题统计"}
+{"accepted_at":1758425663.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5147042,"problem_id":"P1308","submission_id":"236280241","title":"[NOIP 2011 普及组] 统计单词数"}
+{"accepted_at":1758425830.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5146916,"problem_id":"P1308","submission_id":"236281045","title":"[NOIP 2011 普及组] 统计单词数"}
+{"accepted_at":1758426457.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.514673,"problem_id":"P5736","submission_id":"236283856","title":"【深基7.例2】质数筛"}
+{"accepted_at":1759929354.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5146618,"problem_id":"P1042","submission_id":"239532378","title":"[NOIP 2003 普及组] 乒乓球"}
+{"accepted_at":1760011216.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5146506,"problem_id":"P1563","submission_id":"239646584","title":"[NOIP 2016 提高组] 玩具谜题"}
+{"accepted_at":1760013826.0,"account_id":"a28","difficulty":2,"observed_at":1792157160.5146377,"problem_id":"P4924","submission_id":"239659556","title":"[1007] 魔法少女小Scarlet"}
+{"accepted_at":1760683226.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.514605,"problem_id":"P3375","submission_id":"241026946","title":"【模板】KMP"}
+{"accepted_at":1760683557.0,"account_id":"a28","difficulty":4,"observed_at":1792157160.5145404,"problem_id":"P3375","submission_id":"241027819","title":"【模板】KMP"}
 {"accepted_at":1760688434.0,"account_id":"a28","difficulty":4,"observed_at":1792156519.1246219,"problem_id":"P3375","submission_id":"241042436","title":"【模板】KMP"}
 {"accepted_at":1760698052.0,"account_id":"a28","difficulty":1,"observed_at":1792156519.1245916,"problem_id":"B2002","submission_id":"241077507","title":"Hello,World!"}
 {"accepted_at":1760758294.0,"account_id":"a28","difficulty":5,"observed_at":1792156519.1245625,"problem_id":"P3435","submission_id":"241259745","title":"[POI 2006] OKR-Periods of Words"}
@@ -3556,6 +3596,26 @@
 {"accepted_at":1791989234.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860927,"problem_id":"2276A","submission_id":"394541705","title":"Perfect Sandwiches"}
 {"accepted_at":1792053442.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860753,"problem_id":"2276C","submission_id":"394664772","title":"Subarrays"}
 {"accepted_at":1792065092.0,"account_id":"a40","difficulty":1800,"observed_at":1792127067.5859802,"problem_id":"471D","submission_id":"394687121","title":"MUH and Cube Walls"}
+{"accepted_at":1556087642.0,"account_id":"a41","difficulty":3,"observed_at":1792157256.5920537,"problem_id":"CF735D","submission_id":"18496663","title":"Taxes"}
+{"accepted_at":1556087717.0,"account_id":"a41","difficulty":0,"observed_at":1792157256.592046,"problem_id":"CF171E","submission_id":"18496684","title":"MYSTERIOUS LANGUAGE"}
+{"accepted_at":1557140891.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5920386,"problem_id":"CF194A","submission_id":"18819123","title":"Exams"}
+{"accepted_at":1557141687.0,"account_id":"a41","difficulty":3,"observed_at":1792157256.5920303,"problem_id":"CF383A","submission_id":"18819547","title":"Milking cows"}
+{"accepted_at":1557141965.0,"account_id":"a41","difficulty":0,"observed_at":1792157256.592019,"problem_id":"CF656D","submission_id":"18819720","title":"Rosetta Problem"}
+{"accepted_at":1557310379.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5920105,"problem_id":"CF390A","submission_id":"18867179","title":"Inna and Alarm Clock"}
+{"accepted_at":1557315110.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5920033,"problem_id":"CF389A","submission_id":"18869866","title":"Fox and Number Game"}
+{"accepted_at":1557746322.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5919957,"problem_id":"CF440A","submission_id":"19015065","title":"Forgotten Episode"}
+{"accepted_at":1558148188.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5919871,"problem_id":"CF391A","submission_id":"19141007","title":"Genetic Engineering"}
+{"accepted_at":1558148473.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5919755,"problem_id":"CF391A","submission_id":"19141308","title":"Genetic Engineering"}
+{"accepted_at":1558148554.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.591958,"problem_id":"CF292A","submission_id":"19141383","title":"SMSC"}
+{"accepted_at":1558347091.0,"account_id":"a41","difficulty":0,"observed_at":1792157256.5919385,"problem_id":"CF656B","submission_id":"19219032","title":"Scrambled"}
+{"accepted_at":1558347295.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5918434,"problem_id":"CF304B","submission_id":"19219132","title":"Calendar"}
+{"accepted_at":1558349432.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5918236,"problem_id":"CF659A","submission_id":"19220093","title":"Round House"}
+{"accepted_at":1558349641.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5917497,"problem_id":"CF859A","submission_id":"19220190","title":"Declined Finalists"}
+{"accepted_at":1558506134.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.5917315,"problem_id":"CF669A","submission_id":"19264160","title":"Little Artem and Presents"}
+{"accepted_at":1558506530.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5917108,"problem_id":"CF777B","submission_id":"19264265","title":"Game of Credit Cards"}
+{"accepted_at":1558509731.0,"account_id":"a41","difficulty":2,"observed_at":1792157256.5916674,"problem_id":"CF545D","submission_id":"19265416","title":"Queue"}
+{"accepted_at":1558510104.0,"account_id":"a41","difficulty":1,"observed_at":1792157256.591616,"problem_id":"CF78A","submission_id":"19265564","title":"Haiku"}
+{"accepted_at":1559110754.0,"account_id":"a41","difficulty":3,"observed_at":1792157256.5915172,"problem_id":"CF602B","submission_id":"19452299","title":"Approximating a Constant Range"}
 {"accepted_at":1559111111.0,"account_id":"a41","difficulty":0,"observed_at":1792156574.0046794,"problem_id":"CF290C","submission_id":"19452382","title":"WTF?"}
 {"accepted_at":1559111373.0,"account_id":"a41","difficulty":1,"observed_at":1792156574.0046115,"problem_id":"CF411A","submission_id":"19452492","title":"Password Check"}
 {"accepted_at":1559111566.0,"account_id":"a41","difficulty":2,"observed_at":1792156574.0045857,"problem_id":"P2913","submission_id":"19452578","title":"[USACO08OCT] Wheel Rotation G"}
@@ -4669,6 +4729,26 @@
 {"accepted_at":1792067315.0,"account_id":"a48","difficulty":null,"observed_at":1792127074.1397476,"problem_id":"2271F","submission_id":"394691094","title":"Beautiful Pillers"}
 {"accepted_at":1792068746.0,"account_id":"a48","difficulty":800,"observed_at":1792127074.1396923,"problem_id":"2269A","submission_id":"394694010","title":"SauSaGe Bank"}
 {"accepted_at":1792069373.0,"account_id":"a48","difficulty":1000,"observed_at":1792127074.1395254,"problem_id":"2269B","submission_id":"394695296","title":"KiaKio and Squared Numbers"}
+{"accepted_at":1785346059.0,"account_id":"a49","difficulty":4,"observed_at":1792157194.5334308,"problem_id":"P2015","submission_id":"289475802","title":"二叉苹果树"}
+{"accepted_at":1785404207.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5334172,"problem_id":"P2016","submission_id":"289616528","title":"[SEERC 2000] 战略游戏"}
+{"accepted_at":1785422117.0,"account_id":"a49","difficulty":4,"observed_at":1792157194.5334044,"problem_id":"P1273","submission_id":"289676662","title":"[CHCI 2002 Final Exam #2] 有线电视网"}
+{"accepted_at":1785427657.0,"account_id":"a49","difficulty":6,"observed_at":1792157194.5333896,"problem_id":"P4170","submission_id":"289682669","title":"[CQOI2007] 涂色"}
+{"accepted_at":1785515078.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5333781,"problem_id":"P3371","submission_id":"289897207","title":"【模板】单源最短路径（弱化版）"}
+{"accepted_at":1785515169.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5333602,"problem_id":"P4779","submission_id":"289897243","title":"【模板】单源最短路径（标准版）"}
+{"accepted_at":1785520332.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5333252,"problem_id":"P1629","submission_id":"289898683","title":"邮递员送信"}
+{"accepted_at":1785521546.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5333138,"problem_id":"P3905","submission_id":"289898893","title":"道路重建"}
+{"accepted_at":1785559217.0,"account_id":"a49","difficulty":4,"observed_at":1792157194.5333014,"problem_id":"P2939","submission_id":"289955013","title":"[USACO09FEB] Revamping Trails G"}
+{"accepted_at":1785754507.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5332894,"problem_id":"B4016","submission_id":"290466608","title":"树的直径"}
+{"accepted_at":1785766662.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5332756,"problem_id":"P1122","submission_id":"290513877","title":"最大子树和"}
+{"accepted_at":1785773220.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5332575,"problem_id":"P1364","submission_id":"290522199","title":"医院设置"}
+{"accepted_at":1785789226.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5332463,"problem_id":"P1395","submission_id":"290524409","title":"会议"}
+{"accepted_at":1785812715.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5332341,"problem_id":"P1435","submission_id":"290567201","title":"[IOI 2000] 回文字串"}
+{"accepted_at":1785833793.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.533221,"problem_id":"P2858","submission_id":"290667886","title":"[USACO06FEB] Treats for the Cows G/S"}
+{"accepted_at":1785843419.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.533209,"problem_id":"P15896","submission_id":"290704608","title":"[TOPC 2025] Palindromic Distance"}
+{"accepted_at":1785859611.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.533196,"problem_id":"P3902","submission_id":"290749548","title":"递增"}
+{"accepted_at":1785860612.0,"account_id":"a49","difficulty":2,"observed_at":1792157194.5331812,"problem_id":"B4296","submission_id":"290749960","title":"[蓝桥杯青少年组国赛 2022] 最少问题"}
+{"accepted_at":1785911424.0,"account_id":"a49","difficulty":5,"observed_at":1792157194.5331347,"problem_id":"P1495","submission_id":"290837362","title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
+{"accepted_at":1785915720.0,"account_id":"a49","difficulty":3,"observed_at":1792157194.5330427,"problem_id":"P3951","submission_id":"290864225","title":"[NOIP 2017 提高组] 小凯的疑惑"}
 {"accepted_at":1785926842.0,"account_id":"a49","difficulty":5,"observed_at":1792156544.6341274,"problem_id":"P1516","submission_id":"290917161","title":"[ZJOI2002] 青蛙的约会"}
 {"accepted_at":1786026304.0,"account_id":"a49","difficulty":5,"observed_at":1792156544.6341066,"problem_id":"P3868","submission_id":"291192532","title":"[TJOI2009] 猜数字"}
 {"accepted_at":1786092554.0,"account_id":"a49","difficulty":4,"observed_at":1792156544.6340594,"problem_id":"P1292","submission_id":"291341116","title":"倒酒"}
