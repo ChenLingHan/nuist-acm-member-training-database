@@ -317,6 +317,26 @@
 {"accepted_at":1790161468.0,"account_id":"a4","difficulty":1,"observed_at":1792128767.2617905,"problem_id":"P5705","submission_id":"298936454","title":"【深基2.例7】数字反转"}
 {"accepted_at":1790162808.0,"account_id":"a4","difficulty":1,"observed_at":1792128767.2617476,"problem_id":"P5706","submission_id":"298940892","title":"【深基2.例8】再分肥宅水"}
 {"accepted_at":1791516897.0,"account_id":"a4","difficulty":2,"observed_at":1792128767.2615912,"problem_id":"P1049","submission_id":"302026447","title":"[NOIP 2001 普及组] 装箱问题"}
+{"accepted_at":1697799654.0,"account_id":"a5","difficulty":1,"observed_at":1792154481.999454,"problem_id":"P1000","submission_id":"130612408","title":"超级玛丽游戏"}
+{"accepted_at":1698581062.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9993846,"problem_id":"P9748","submission_id":"132339207","title":"[CSP-J 2023] 小苹果"}
+{"accepted_at":1699082072.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9993541,"problem_id":"P1115","submission_id":"133289895","title":"最大子段和"}
+{"accepted_at":1699084484.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9993272,"problem_id":"P1091","submission_id":"133302931","title":"[NOIP 2004 提高组] 合唱队形"}
+{"accepted_at":1699171338.0,"account_id":"a5","difficulty":4,"observed_at":1792154481.9993,"problem_id":"P9751","submission_id":"133518580","title":"[CSP-J 2023] 旅游巴士"}
+{"accepted_at":1700208118.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.999253,"problem_id":"P1507","submission_id":"135543083","title":"NASA的食物计划"}
+{"accepted_at":1701167244.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9991992,"problem_id":"P3370","submission_id":"137290786","title":"【模板】字符串哈希"}
+{"accepted_at":1701170255.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9991717,"problem_id":"P2957","submission_id":"137299088","title":"[USACO09OCT] Barn Echoes G"}
+{"accepted_at":1701229242.0,"account_id":"a5","difficulty":3,"observed_at":1792154481.9991279,"problem_id":"P1090","submission_id":"137373264","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1704001103.0,"account_id":"a5","difficulty":3,"observed_at":1792154481.9990532,"problem_id":"P1122","submission_id":"141538985","title":"最大子树和"}
+{"accepted_at":1706421883.0,"account_id":"a5","difficulty":4,"observed_at":1792154481.9989474,"problem_id":"P3374","submission_id":"144785975","title":"【模板】树状数组 1"}
+{"accepted_at":1707449722.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9989197,"problem_id":"P2978","submission_id":"146590249","title":"[USACO10JAN] Tea Time S"}
+{"accepted_at":1707618897.0,"account_id":"a5","difficulty":0,"observed_at":1792154481.998888,"problem_id":"P3027","submission_id":"146667712","title":"P3027"}
+{"accepted_at":1708180469.0,"account_id":"a5","difficulty":3,"observed_at":1792154481.9988613,"problem_id":"P2997","submission_id":"147239318","title":"[USACO10NOV] Banner S"}
+{"accepted_at":1708181231.0,"account_id":"a5","difficulty":4,"observed_at":1792154481.9988308,"problem_id":"P2023","submission_id":"147240323","title":"[AHOI2009] 维护序列"}
+{"accepted_at":1708823945.0,"account_id":"a5","difficulty":4,"observed_at":1792154481.998801,"problem_id":"P1032","submission_id":"148301571","title":"[NOIP 2002 提高组] 字串变换（疑似错题）"}
+{"accepted_at":1709397125.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.998768,"problem_id":"P1460","submission_id":"149093779","title":"[USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins"}
+{"accepted_at":1709444623.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.9987357,"problem_id":"P4961","submission_id":"149149571","title":"小埋与扫雷"}
+{"accepted_at":1711786411.0,"account_id":"a5","difficulty":4,"observed_at":1792154481.9986987,"problem_id":"P1512","submission_id":"153476384","title":"[ICPC 2001 Taejon R] 伊甸园日历游戏"}
+{"accepted_at":1712148770.0,"account_id":"a5","difficulty":2,"observed_at":1792154481.99836,"problem_id":"P2677","submission_id":"154178004","title":"[USACO07DEC] Bookshelf 2 B"}
 {"accepted_at":1714533093.0,"account_id":"a5","difficulty":3,"observed_at":1792153591.9365835,"problem_id":"P1886","submission_id":"157552391","title":"【模板】单调队列 / 滑动窗口"}
 {"accepted_at":1714544351.0,"account_id":"a5","difficulty":3,"observed_at":1792153591.9365532,"problem_id":"P1440","submission_id":"157568868","title":"求m区间内的最小值"}
 {"accepted_at":1714581872.0,"account_id":"a5","difficulty":3,"observed_at":1792153591.9365244,"problem_id":"P2032","submission_id":"157632649","title":"扫描"}
@@ -377,6 +397,26 @@
 {"accepted_at":1732607327.0,"account_id":"a5","difficulty":2,"observed_at":1792128773.2674162,"problem_id":"P1077","submission_id":"191227317","title":"[NOIP 2012 普及组] 摆花"}
 {"accepted_at":1732689469.0,"account_id":"a5","difficulty":3,"observed_at":1792128773.2673907,"problem_id":"P3371","submission_id":"191401425","title":"【模板】单源最短路径（弱化版）"}
 {"accepted_at":1732836883.0,"account_id":"a5","difficulty":2,"observed_at":1792128773.267282,"problem_id":"P1387","submission_id":"191755381","title":"最大正方形"}
+{"accepted_at":1770105960.0,"account_id":"a6","difficulty":2,"observed_at":1792154506.446179,"problem_id":"P1223","submission_id":"260624864","title":"排队接水"}
+{"accepted_at":1770167132.0,"account_id":"a6","difficulty":5,"observed_at":1792154506.4461427,"problem_id":"P4053","submission_id":"260739575","title":"[JSOI2007] 建筑抢修"}
+{"accepted_at":1770170860.0,"account_id":"a6","difficulty":2,"observed_at":1792154506.4461157,"problem_id":"P1048","submission_id":"260759404","title":"[NOIP 2005 普及组] 采药"}
+{"accepted_at":1770340096.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4460661,"problem_id":"B2009","submission_id":"261260804","title":"计算 (a+b)/c 的值"}
+{"accepted_at":1770449362.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.446035,"problem_id":"P1219","submission_id":"261628476","title":"[USACO1.5] 八皇后 Checker Challenge"}
+{"accepted_at":1770450650.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4459934,"problem_id":"P2949","submission_id":"261637709","title":"[USACO09OPEN] Work Scheduling G"}
+{"accepted_at":1770775868.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.445967,"problem_id":"B3647","submission_id":"262441445","title":"【模板】Floyd"}
+{"accepted_at":1770788319.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4459403,"problem_id":"P3371","submission_id":"262480785","title":"【模板】单源最短路径（弱化版）"}
+{"accepted_at":1770790281.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4459128,"problem_id":"P4779","submission_id":"262487874","title":"【模板】单源最短路径（标准版）"}
+{"accepted_at":1770790958.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4458644,"problem_id":"P1339","submission_id":"262491761","title":"[USACO09OCT] Heat Wave G"}
+{"accepted_at":1770792039.0,"account_id":"a6","difficulty":2,"observed_at":1792154506.4458258,"problem_id":"P11180","submission_id":"262498166","title":"[ROIR 2018] 删除数字 (Day2)"}
+{"accepted_at":1770794058.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4457679,"problem_id":"P4017","submission_id":"262509771","title":"最大食物链计数"}
+{"accepted_at":1770794071.0,"account_id":"a6","difficulty":3,"observed_at":1792154506.4457276,"problem_id":"P4017","submission_id":"262509848","title":"最大食物链计数"}
+{"accepted_at":1771059067.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4456997,"problem_id":"B2017","submission_id":"262982701","title":"打印 ASCII 码"}
+{"accepted_at":1771059209.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4456282,"problem_id":"B2036","submission_id":"262983110","title":"输出绝对值"}
+{"accepted_at":1771059319.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4455976,"problem_id":"B2049","submission_id":"262983355","title":"最大数输出"}
+{"accepted_at":1771245520.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4455686,"problem_id":"P15358","submission_id":"263149306","title":"「WYZOI R2」红包"}
+{"accepted_at":1771664250.0,"account_id":"a6","difficulty":1,"observed_at":1792154506.4455237,"problem_id":"P5534","submission_id":"263439507","title":"【XR-3】等差数列"}
+{"accepted_at":1771914236.0,"account_id":"a6","difficulty":4,"observed_at":1792154506.4454875,"problem_id":"P11296","submission_id":"263758175","title":"[NOISG 2018 Prelim] Snail"}
+{"accepted_at":1771998470.0,"account_id":"a6","difficulty":4,"observed_at":1792154506.445251,"problem_id":"P11296","submission_id":"263934661","title":"[NOISG 2018 Prelim] Snail"}
 {"accepted_at":1772259664.0,"account_id":"a6","difficulty":3,"observed_at":1792153615.6055295,"problem_id":"P1816","submission_id":"264611676","title":"忠诚"}
 {"accepted_at":1772851393.0,"account_id":"a6","difficulty":1,"observed_at":1792153615.6054597,"problem_id":"B3908","submission_id":"265686496","title":"[语言月赛 202312] 异或构造题？"}
 {"accepted_at":1774747213.0,"account_id":"a6","difficulty":3,"observed_at":1792153615.6054304,"problem_id":"P1352","submission_id":"270592214","title":"没有上司的舞会"}
@@ -591,6 +631,26 @@
 {"accepted_at":1792067810.0,"account_id":"a8","difficulty":2000,"observed_at":1792073909.8294582,"problem_id":"251C","submission_id":"394692055","title":"Number Transformation"}
 {"accepted_at":1792138634.0,"account_id":"a8","difficulty":1500,"observed_at":1792138703.901272,"problem_id":"264B","submission_id":"394785940","title":"Good Sequences"}
 {"accepted_at":1792141710.0,"account_id":"a8","difficulty":1700,"observed_at":1792142304.313605,"problem_id":"4D","submission_id":"394791349","title":"Mysterious Present"}
+{"accepted_at":1770637665.0,"account_id":"a9","difficulty":3,"observed_at":1792154577.2723413,"problem_id":"B3647","submission_id":"262173216","title":"【模板】Floyd"}
+{"accepted_at":1770697327.0,"account_id":"a9","difficulty":3,"observed_at":1792154577.272318,"problem_id":"P1629","submission_id":"262278865","title":"邮递员送信"}
+{"accepted_at":1770780655.0,"account_id":"a9","difficulty":3,"observed_at":1792154577.2722917,"problem_id":"B3644","submission_id":"262462394","title":"【模板】拓扑排序 / 家谱树"}
+{"accepted_at":1770785193.0,"account_id":"a9","difficulty":4,"observed_at":1792154577.272182,"problem_id":"P1613","submission_id":"262474617","title":"跑路"}
+{"accepted_at":1770788705.0,"account_id":"a9","difficulty":3,"observed_at":1792154577.27216,"problem_id":"P1339","submission_id":"262481814","title":"[USACO09OCT] Heat Wave G"}
+{"accepted_at":1770788716.0,"account_id":"a9","difficulty":3,"observed_at":1792154577.2721357,"problem_id":"P1339","submission_id":"262481835","title":"[USACO09OCT] Heat Wave G"}
+{"accepted_at":1770791364.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.272116,"problem_id":"P11180","submission_id":"262494188","title":"[ROIR 2018] 删除数字 (Day2)"}
+{"accepted_at":1770791588.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2720912,"problem_id":"P11180","submission_id":"262495547","title":"[ROIR 2018] 删除数字 (Day2)"}
+{"accepted_at":1771995191.0,"account_id":"a9","difficulty":4,"observed_at":1792154577.272067,"problem_id":"P5057","submission_id":"263926884","title":"[CQOI2006] 简单题"}
+{"accepted_at":1772201867.0,"account_id":"a9","difficulty":4,"observed_at":1792154577.2720437,"problem_id":"P3372","submission_id":"264522530","title":"【模板】线段树 1"}
+{"accepted_at":1772202064.0,"account_id":"a9","difficulty":4,"observed_at":1792154577.2720041,"problem_id":"P3374","submission_id":"264522919","title":"【模板】树状数组 1"}
+{"accepted_at":1772680197.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2719777,"problem_id":"P2392","submission_id":"265372634","title":"kkksc03 考前临时抱佛脚"}
+{"accepted_at":1772689659.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2718818,"problem_id":"P1036","submission_id":"265386775","title":"[NOIP 2002 普及组] 选数"}
+{"accepted_at":1772690679.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2718158,"problem_id":"P2036","submission_id":"265388584","title":"[COCI 2008/2009 #2] PERKET"}
+{"accepted_at":1772699079.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2717884,"problem_id":"P1605","submission_id":"265409821","title":"迷宫"}
+{"accepted_at":1772711360.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.271717,"problem_id":"P1101","submission_id":"265450562","title":"单词方阵"}
+{"accepted_at":1773198770.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2716432,"problem_id":"P2840","submission_id":"266477636","title":"纸币问题 2"}
+{"accepted_at":1773198908.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.2715743,"problem_id":"P2834","submission_id":"266477916","title":"纸币问题 3"}
+{"accepted_at":1773199238.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.271537,"problem_id":"P1115","submission_id":"266478551","title":"最大子段和"}
+{"accepted_at":1773200755.0,"account_id":"a9","difficulty":2,"observed_at":1792154577.271332,"problem_id":"P1802","submission_id":"266481402","title":"5 倍经验日"}
 {"accepted_at":1773207580.0,"account_id":"a9","difficulty":2,"observed_at":1792153687.3979652,"problem_id":"P1002","submission_id":"266492337","title":"[NOIP 2002 普及组] 过河卒"}
 {"accepted_at":1773213486.0,"account_id":"a9","difficulty":2,"observed_at":1792153687.3978758,"problem_id":"P1049","submission_id":"266506929","title":"[NOIP 2001 普及组] 装箱问题"}
 {"accepted_at":1773821971.0,"account_id":"a9","difficulty":2,"observed_at":1792153687.397846,"problem_id":"P8218","submission_id":"267952913","title":"【深进1.例1】求区间和"}
@@ -1043,6 +1103,26 @@
 {"accepted_at":1761819079.0,"account_id":"a16","difficulty":1700,"observed_at":1792077554.3268282,"problem_id":"2010C2","submission_id":"346605787","title":"Message Transmission Error (hard version)"}
 {"accepted_at":1763783114.0,"account_id":"a16","difficulty":null,"observed_at":1792077554.3267932,"problem_id":"104821F","submission_id":"350144651","title":"Equivalent Rewriting"}
 {"accepted_at":1769237489.0,"account_id":"a16","difficulty":800,"observed_at":1792077554.3266563,"problem_id":"2185A","submission_id":"359512771","title":"Perfect Root"}
+{"accepted_at":1761623371.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.376818,"problem_id":"P11189","submission_id":"243653570","title":"「KDOI-10」水杯降温"}
+{"accepted_at":1761653266.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.3767848,"problem_id":"P3324","submission_id":"243771371","title":"[SDOI2015] 星际战争"}
+{"accepted_at":1761653523.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.3767273,"problem_id":"P1231","submission_id":"243773416","title":"教辅的组成"}
+{"accepted_at":1761653724.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.3767006,"problem_id":"P1231","submission_id":"243775032","title":"教辅的组成"}
+{"accepted_at":1761654489.0,"account_id":"a17","difficulty":6,"observed_at":1792154626.3766823,"problem_id":"P3381","submission_id":"243781301","title":"【模板】最小费用最大流"}
+{"accepted_at":1761656860.0,"account_id":"a17","difficulty":6,"observed_at":1792154626.3766577,"problem_id":"P3376","submission_id":"243799088","title":"【模板】网络最大流"}
+{"accepted_at":1761657903.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.37664,"problem_id":"P4722","submission_id":"243805814","title":"【模板】最大流 加强版 / 预流推进"}
+{"accepted_at":1761658406.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.376614,"problem_id":"P4722","submission_id":"243808950","title":"【模板】最大流 加强版 / 预流推进"}
+{"accepted_at":1761786138.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.376595,"problem_id":"P5825","submission_id":"244086587","title":"排列计数"}
+{"accepted_at":1761871938.0,"account_id":"a17","difficulty":4,"observed_at":1792154626.3765757,"problem_id":"P3373","submission_id":"244328892","title":"【模板】线段树 2"}
+{"accepted_at":1761872368.0,"account_id":"a17","difficulty":4,"observed_at":1792154626.3765168,"problem_id":"P5431","submission_id":"244330006","title":"【模板】模意义下的乘法逆元 2"}
+{"accepted_at":1761872396.0,"account_id":"a17","difficulty":4,"observed_at":1792154626.3764954,"problem_id":"P5431","submission_id":"244330074","title":"【模板】模意义下的乘法逆元 2"}
+{"accepted_at":1762127864.0,"account_id":"a17","difficulty":3,"observed_at":1792154626.3764753,"problem_id":"P14361","submission_id":"245044395","title":"[CSP-S 2025] 社团招新"}
+{"accepted_at":1762219694.0,"account_id":"a17","difficulty":1,"observed_at":1792154626.3764558,"problem_id":"P1151","submission_id":"245210181","title":"子数整数"}
+{"accepted_at":1762219862.0,"account_id":"a17","difficulty":7,"observed_at":1792154626.3764331,"problem_id":"P8819","submission_id":"245210393","title":"[CSP-S 2022] 星战"}
+{"accepted_at":1762220235.0,"account_id":"a17","difficulty":2,"observed_at":1792154626.3763502,"problem_id":"P1177","submission_id":"245210948","title":"【模板】排序"}
+{"accepted_at":1762221924.0,"account_id":"a17","difficulty":2,"observed_at":1792154626.3763278,"problem_id":"P1177","submission_id":"245213170","title":"【模板】排序"}
+{"accepted_at":1762222088.0,"account_id":"a17","difficulty":2,"observed_at":1792154626.3762882,"problem_id":"P1226","submission_id":"245213366","title":"【模板】快速幂"}
+{"accepted_at":1762256044.0,"account_id":"a17","difficulty":2,"observed_at":1792154626.3762624,"problem_id":"P3370","submission_id":"245304974","title":"【模板】字符串哈希"}
+{"accepted_at":1762256068.0,"account_id":"a17","difficulty":2,"observed_at":1792154626.376146,"problem_id":"P3370","submission_id":"245305106","title":"【模板】字符串哈希"}
 {"accepted_at":1762256275.0,"account_id":"a17","difficulty":3,"observed_at":1792153735.8081248,"problem_id":"P8306","submission_id":"245306305","title":"【模板】字典树 / Trie"}
 {"accepted_at":1762256715.0,"account_id":"a17","difficulty":3,"observed_at":1792153735.808107,"problem_id":"P8306","submission_id":"245309019","title":"【模板】字典树 / Trie"}
 {"accepted_at":1762256782.0,"account_id":"a17","difficulty":3,"observed_at":1792153735.8080904,"problem_id":"P8306","submission_id":"245309411","title":"【模板】字典树 / Trie"}
@@ -1103,6 +1183,26 @@
 {"accepted_at":1784771426.0,"account_id":"a17","difficulty":4,"observed_at":1792128803.881381,"problem_id":"P17116","submission_id":"287955039","title":"[Algo Beat 009 & MROI-R1] Avoid K Prefix"}
 {"accepted_at":1788082002.0,"account_id":"a17","difficulty":2,"observed_at":1792128803.8813536,"problem_id":"P17335","submission_id":"296100222","title":"【MX-X30-T1】演剧"}
 {"accepted_at":1788332010.0,"account_id":"a17","difficulty":2,"observed_at":1792128803.8812356,"problem_id":"P17335","submission_id":"296346482","title":"【MX-X30-T1】演剧"}
+{"accepted_at":1788871848.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0313437,"problem_id":"P1004","submission_id":"297149494","title":"[NOIP 2000 提高组] 方格取数"}
+{"accepted_at":1788950594.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0313256,"problem_id":"P1003","submission_id":"297232738","title":"[NOIP 2011 提高组] 铺地毯"}
+{"accepted_at":1789013899.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.031306,"problem_id":"P2197","submission_id":"297301059","title":"【模板】Nim 游戏"}
+{"accepted_at":1789052338.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0312636,"problem_id":"P1247","submission_id":"297392559","title":"取火柴游戏"}
+{"accepted_at":1789100049.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0312245,"problem_id":"P1290","submission_id":"297410058","title":"欧几里德的游戏"}
+{"accepted_at":1789125230.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0312,"problem_id":"P1223","submission_id":"297456219","title":"排队接水"}
+{"accepted_at":1789127578.0,"account_id":"a20","difficulty":7,"observed_at":1792154632.0311787,"problem_id":"P2252","submission_id":"297466694","title":"【模板】威佐夫博弈 / [SHOI2002] 取石子游戏"}
+{"accepted_at":1789186699.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0311599,"problem_id":"P2240","submission_id":"297557218","title":"【深基12.例1】部分背包问题"}
+{"accepted_at":1789212169.0,"account_id":"a20","difficulty":3,"observed_at":1792154632.0311368,"problem_id":"P1090","submission_id":"297636900","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1789216045.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0311158,"problem_id":"P1650","submission_id":"297647963","title":"[ICPC 2004 Shanghai R] 田忌赛马"}
+{"accepted_at":1789218670.0,"account_id":"a20","difficulty":5,"observed_at":1792154632.0310822,"problem_id":"P1080","submission_id":"297655272","title":"[NOIP 2012 提高组] 国王游戏"}
+{"accepted_at":1789272225.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0310643,"problem_id":"P2197","submission_id":"297717595","title":"【模板】Nim 游戏"}
+{"accepted_at":1789272679.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.031046,"problem_id":"P1247","submission_id":"297718906","title":"取火柴游戏"}
+{"accepted_at":1789385190.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0310194,"problem_id":"P1290","submission_id":"297889572","title":"欧几里德的游戏"}
+{"accepted_at":1789386842.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0309975,"problem_id":"P1031","submission_id":"297893801","title":"[NOIP 2002 提高组] 均分纸牌"}
+{"accepted_at":1789390882.0,"account_id":"a20","difficulty":3,"observed_at":1792154632.030979,"problem_id":"P1106","submission_id":"297906880","title":"删数问题"}
+{"accepted_at":1789393097.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0309598,"problem_id":"P1241","submission_id":"297914427","title":"括号序列"}
+{"accepted_at":1789473754.0,"account_id":"a20","difficulty":3,"observed_at":1792154632.0309155,"problem_id":"P1090","submission_id":"298001692","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1789474946.0,"account_id":"a20","difficulty":4,"observed_at":1792154632.0308921,"problem_id":"P1650","submission_id":"298006300","title":"[ICPC 2004 Shanghai R] 田忌赛马"}
+{"accepted_at":1789479502.0,"account_id":"a20","difficulty":2,"observed_at":1792154632.0307992,"problem_id":"P1042","submission_id":"298023396","title":"[NOIP 2003 普及组] 乒乓球"}
 {"accepted_at":1789534077.0,"account_id":"a20","difficulty":2,"observed_at":1792153761.7819026,"problem_id":"P1328","submission_id":"298057497","title":"[NOIP 2014 提高组] 生活大爆炸版石头剪刀布"}
 {"accepted_at":1789559741.0,"account_id":"a20","difficulty":2,"observed_at":1792153761.7818675,"problem_id":"P1981","submission_id":"298115067","title":"[NOIP 2013 普及组] 表达式求值"}
 {"accepted_at":1789561736.0,"account_id":"a20","difficulty":2,"observed_at":1792153761.7818387,"problem_id":"P1071","submission_id":"298122788","title":"[NOIP 2009 提高组] 潜伏者"}
@@ -1163,6 +1263,26 @@
 {"accepted_at":1792027814.0,"account_id":"a20","difficulty":1,"observed_at":1792128810.7329283,"problem_id":"B2111","submission_id":"303116562","title":"基因相关性"}
 {"accepted_at":1792028587.0,"account_id":"a20","difficulty":1,"observed_at":1792128810.7329032,"problem_id":"B2112","submission_id":"303117691","title":"石头剪子布"}
 {"accepted_at":1792063354.0,"account_id":"a20","difficulty":4,"observed_at":1792128810.7327998,"problem_id":"P1470","submission_id":"303217104","title":"[IOI 1996 / USACO2.3] 最长前缀 Longest Prefix"}
+{"accepted_at":1725351549.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6646156,"problem_id":"AT_joisc2015_c","submission_id":"175747049","title":"たのしいたのしい家庭菜園"}
+{"accepted_at":1725351630.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6645956,"problem_id":"AT_joisc2015_c","submission_id":"175747177","title":"たのしいたのしい家庭菜園"}
+{"accepted_at":1725351674.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6645777,"problem_id":"AT_joisc2015_c","submission_id":"175747250","title":"たのしいたのしい家庭菜園"}
+{"accepted_at":1725352131.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6645565,"problem_id":"AT_joisc2015_c","submission_id":"175748001","title":"たのしいたのしい家庭菜園"}
+{"accepted_at":1725363374.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.66454,"problem_id":"P4216","submission_id":"175767147","title":"[SCOI2015] 情报传递"}
+{"accepted_at":1725369702.0,"account_id":"a22","difficulty":5,"observed_at":1792154638.6645224,"problem_id":"P6116","submission_id":"175785332","title":"[JOI 2019 Final] 有趣的家庭菜园 3 / Growing Vegetables is Fun 3"}
+{"accepted_at":1725452071.0,"account_id":"a22","difficulty":6,"observed_at":1792154638.6645052,"problem_id":"P3591","submission_id":"175864763","title":"[POI 2015 R3] 访问 Visits"}
+{"accepted_at":1725452215.0,"account_id":"a22","difficulty":6,"observed_at":1792154638.6644864,"problem_id":"P3591","submission_id":"175865229","title":"[POI 2015 R3] 访问 Visits"}
+{"accepted_at":1725540288.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6644578,"problem_id":"P3588","submission_id":"175960900","title":"[POI 2015 R2] 沙漠 Desert"}
+{"accepted_at":1725798858.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6643968,"problem_id":"P3734","submission_id":"176369280","title":"[HAOI2017] 方案数"}
+{"accepted_at":1725972379.0,"account_id":"a22","difficulty":6,"observed_at":1792154638.6643763,"problem_id":"P4585","submission_id":"176547328","title":"[FJOI2015] 火星商店问题"}
+{"accepted_at":1726733128.0,"account_id":"a22","difficulty":6,"observed_at":1792154638.6643593,"problem_id":"P10768","submission_id":"177516039","title":"「CROI · R2」落月摇情"}
+{"accepted_at":1727168404.0,"account_id":"a22","difficulty":5,"observed_at":1792154638.664342,"problem_id":"P3519","submission_id":"178175433","title":"[POI 2011] ROZ-Difference"}
+{"accepted_at":1727185677.0,"account_id":"a22","difficulty":4,"observed_at":1792154638.6643207,"problem_id":"AT_agc009_c","submission_id":"178242689","title":"[AGC009C] Division into Two"}
+{"accepted_at":1728220261.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6643033,"problem_id":"AT_arc167_c","submission_id":"180563780","title":"[ARC167C] MST on Line++"}
+{"accepted_at":1728390034.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6642845,"problem_id":"P3320","submission_id":"180935726","title":"[SDOI2015] 寻宝游戏"}
+{"accepted_at":1728392366.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.664264,"problem_id":"P4886","submission_id":"180949157","title":"快递员"}
+{"accepted_at":1728392442.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6642194,"problem_id":"P4886","submission_id":"180949573","title":"快递员"}
+{"accepted_at":1728392472.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6641965,"problem_id":"P3320","submission_id":"180949752","title":"[SDOI2015] 寻宝游戏"}
+{"accepted_at":1728481080.0,"account_id":"a22","difficulty":7,"observed_at":1792154638.6640837,"problem_id":"P5299","submission_id":"181138070","title":"[PKUWC2018] Slay the Spire"}
 {"accepted_at":1728481107.0,"account_id":"a22","difficulty":7,"observed_at":1792153791.417179,"problem_id":"P5299","submission_id":"181138214","title":"[PKUWC2018] Slay the Spire"}
 {"accepted_at":1728629986.0,"account_id":"a22","difficulty":4,"observed_at":1792153791.417152,"problem_id":"P6739","submission_id":"181408595","title":"[BalticOI 2014] Three Friends (Day1)"}
 {"accepted_at":1728910892.0,"account_id":"a22","difficulty":7,"observed_at":1792153791.4170675,"problem_id":"AT_arc157_e","submission_id":"182151454","title":"[ARC157E] XXYX Binary Tree"}
@@ -1589,6 +1709,26 @@
 {"accepted_at":1791956507.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122363,"problem_id":"105901A","submission_id":"394473155","title":"Problem Setting"}
 {"accepted_at":1791960410.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122153,"problem_id":"105901L","submission_id":"394478660","title":"Subsequence"}
 {"accepted_at":1791962568.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1120896,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
+{"accepted_at":1768913611.0,"account_id":"a28","difficulty":4,"observed_at":1792154529.8809977,"problem_id":"P1290","submission_id":"258362578","title":"欧几里德的游戏"}
+{"accepted_at":1768974815.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8809462,"problem_id":"P14754","submission_id":"258410254","title":"猫石游戏"}
+{"accepted_at":1768975345.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.880917,"problem_id":"P1090","submission_id":"258411115","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1768976367.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.8808913,"problem_id":"P1168","submission_id":"258412921","title":"中位数"}
+{"accepted_at":1768980160.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8808534,"problem_id":"P14754","submission_id":"258421398","title":"猫石游戏"}
+{"accepted_at":1768994373.0,"account_id":"a28","difficulty":4,"observed_at":1792154529.8808217,"problem_id":"P14059","submission_id":"258455587","title":"【MX-X21-T4】[IAMOI R5] 使一颗心免于哀伤"}
+{"accepted_at":1769064577.0,"account_id":"a28","difficulty":5,"observed_at":1792154529.880794,"problem_id":"P1516","submission_id":"258525244","title":"[ZJOI2002] 青蛙的约会"}
+{"accepted_at":1769140207.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8807511,"problem_id":"P1403","submission_id":"258621727","title":"[AHOI2005] 约数研究"}
+{"accepted_at":1769142874.0,"account_id":"a28","difficulty":1,"observed_at":1792154529.8807251,"problem_id":"B2137","submission_id":"258625145","title":"判决素数个数"}
+{"accepted_at":1769142888.0,"account_id":"a28","difficulty":1,"observed_at":1792154529.88066,"problem_id":"B2137","submission_id":"258625156","title":"判决素数个数"}
+{"accepted_at":1769147471.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8806157,"problem_id":"B3715","submission_id":"258631108","title":"分解质因子 2"}
+{"accepted_at":1769147539.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8805885,"problem_id":"B3715","submission_id":"258631220","title":"分解质因子 2"}
+{"accepted_at":1769147960.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.88056,"problem_id":"P1226","submission_id":"258631959","title":"【模板】快速幂"}
+{"accepted_at":1769147973.0,"account_id":"a28","difficulty":2,"observed_at":1792154529.8805304,"problem_id":"P1226","submission_id":"258631980","title":"【模板】快速幂"}
+{"accepted_at":1769153623.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.8804612,"problem_id":"P2926","submission_id":"258645134","title":"[USACO08DEC] Patting Heads S"}
+{"accepted_at":1769163784.0,"account_id":"a28","difficulty":4,"observed_at":1792154529.8804333,"problem_id":"P1082","submission_id":"258670925","title":"[NOIP 2012 提高组] 同余方程"}
+{"accepted_at":1769165060.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.8804002,"problem_id":"P3811","submission_id":"258673394","title":"【模板】模意义下的乘法逆元"}
+{"accepted_at":1769221731.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.8803723,"problem_id":"P4549","submission_id":"258743070","title":"【模板】裴蜀定理"}
+{"accepted_at":1769409016.0,"account_id":"a28","difficulty":4,"observed_at":1792154529.8803377,"problem_id":"P1082","submission_id":"259109482","title":"[NOIP 2012 提高组] 同余方程"}
+{"accepted_at":1769520778.0,"account_id":"a28","difficulty":3,"observed_at":1792154529.8801992,"problem_id":"P3197","submission_id":"259322213","title":"[HNOI2008] 越狱"}
 {"accepted_at":1769580734.0,"account_id":"a28","difficulty":3,"observed_at":1792153640.0638337,"problem_id":"P11681","submission_id":"259389059","title":"[Algo Beat Contest 001 C] Creating a Queue"}
 {"accepted_at":1769580751.0,"account_id":"a28","difficulty":3,"observed_at":1792153640.063776,"problem_id":"P11681","submission_id":"259389110","title":"[Algo Beat Contest 001 C] Creating a Queue"}
 {"accepted_at":1769783373.0,"account_id":"a28","difficulty":3,"observed_at":1792153640.0637457,"problem_id":"P2719","submission_id":"259845099","title":"搞笑世界杯"}
@@ -1877,6 +2017,26 @@
 {"accepted_at":1792140846.0,"account_id":"a30","difficulty":null,"observed_at":1792141217.0247695,"problem_id":"105657K","submission_id":"394789310","title":"Kind of Bingo"}
 {"accepted_at":1792147367.0,"account_id":"a30","difficulty":null,"observed_at":1792147882.452656,"problem_id":"105657E","submission_id":"394800412","title":"Elevator II"}
 {"accepted_at":1792152039.0,"account_id":"a30","difficulty":null,"observed_at":1792152106.820725,"problem_id":"105657H","submission_id":"394808554","title":"Heavy-light Decomposition"}
+{"accepted_at":1701080997.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.3268209,"problem_id":"P5327","submission_id":"137159377","title":"[ZJOI2019] 语言"}
+{"accepted_at":1701129093.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.326779,"problem_id":"P5339","submission_id":"137225957","title":"[TJOI2019] 唱、跳、rap和篮球"}
+{"accepted_at":1701129113.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.326749,"problem_id":"P5342","submission_id":"137225965","title":"[TJOI2019] 甲苯先生的线段树"}
+{"accepted_at":1701138227.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.326719,"problem_id":"P5372","submission_id":"137234300","title":"[SNOI2019] 积木"}
+{"accepted_at":1701144317.0,"account_id":"a31","difficulty":6,"observed_at":1792154374.3266864,"problem_id":"P5330","submission_id":"137241531","title":"[SNOI2019] 数论"}
+{"accepted_at":1701160828.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.3266547,"problem_id":"P5287","submission_id":"137273231","title":"[HNOI2019] JOJO"}
+{"accepted_at":1701173039.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3266263,"problem_id":"P6630","submission_id":"137310951","title":"[ZJOI2020] 传统艺能"}
+{"accepted_at":1701178248.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3265975,"problem_id":"P3714","submission_id":"137334847","title":"[BJOI2017] 树的难题"}
+{"accepted_at":1701308314.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3265321,"problem_id":"P6623","submission_id":"137501796","title":"[省选联考 2020 A 卷] 树"}
+{"accepted_at":1701311165.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3265023,"problem_id":"P4091","submission_id":"137504240","title":"[HEOI2016/TJOI2016] 求和"}
+{"accepted_at":1701314540.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3264525,"problem_id":"P4173","submission_id":"137508781","title":"残缺的字符串"}
+{"accepted_at":1701326564.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3264108,"problem_id":"P4238","submission_id":"137526875","title":"【模板】多项式乘法逆"}
+{"accepted_at":1701332673.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.3263702,"problem_id":"P6628","submission_id":"137540337","title":"[省选联考 2020 B 卷] 丁香之路"}
+{"accepted_at":1701410957.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3263361,"problem_id":"P4725","submission_id":"137658486","title":"【模板】多项式对数函数（多项式 ln）"}
+{"accepted_at":1701415221.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.326303,"problem_id":"P4841","submission_id":"137665611","title":"[集训队作业2013] 城市规划"}
+{"accepted_at":1701425319.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.3262696,"problem_id":"P4726","submission_id":"137691116","title":"【模板】多项式指数函数（多项式 exp）"}
+{"accepted_at":1701435174.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.3262346,"problem_id":"P6295","submission_id":"137725197","title":"有标号 DAG 计数"}
+{"accepted_at":1701439051.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.326202,"problem_id":"P6794","submission_id":"137739716","title":"[SNOI2020] 水池"}
+{"accepted_at":1701937480.0,"account_id":"a31","difficulty":8,"observed_at":1792154374.3261633,"problem_id":"P6305","submission_id":"138550665","title":"[eJOI 2018] 循环排序"}
+{"accepted_at":1701953079.0,"account_id":"a31","difficulty":7,"observed_at":1792154374.325828,"problem_id":"P5901","submission_id":"138602754","title":"[IOI 2009] Regions"}
 {"accepted_at":1702036187.0,"account_id":"a31","difficulty":6,"observed_at":1792153436.2759912,"problem_id":"P3722","submission_id":"138721840","title":"[AHOI2017/HNOI2017] 影魔"}
 {"accepted_at":1702426811.0,"account_id":"a31","difficulty":6,"observed_at":1792153436.2759805,"problem_id":"P2408","submission_id":"139394740","title":"不同子串个数"}
 {"accepted_at":1702624583.0,"account_id":"a31","difficulty":7,"observed_at":1792153436.2759688,"problem_id":"P4331","submission_id":"139661633","title":"[BalticOI 2004] Sequence (Day1)"}
@@ -2819,6 +2979,26 @@
 {"accepted_at":1791989234.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860927,"problem_id":"2276A","submission_id":"394541705","title":"Perfect Sandwiches"}
 {"accepted_at":1792053442.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860753,"problem_id":"2276C","submission_id":"394664772","title":"Subarrays"}
 {"accepted_at":1792065092.0,"account_id":"a40","difficulty":1800,"observed_at":1792127067.5859802,"problem_id":"471D","submission_id":"394687121","title":"MUH and Cube Walls"}
+{"accepted_at":1626100584.0,"account_id":"a41","difficulty":6,"observed_at":1792154602.650086,"problem_id":"P2146","submission_id":"52956941","title":"[NOI2015] 软件包管理器"}
+{"accepted_at":1626170186.0,"account_id":"a41","difficulty":6,"observed_at":1792154602.650065,"problem_id":"P2590","submission_id":"53024225","title":"[ZJOI2008] 树的统计"}
+{"accepted_at":1626437523.0,"account_id":"a41","difficulty":4,"observed_at":1792154602.6500435,"problem_id":"P4051","submission_id":"53335788","title":"[JSOI2007] 字符加密"}
+{"accepted_at":1627738377.0,"account_id":"a41","difficulty":0,"observed_at":1792154602.6500173,"problem_id":"T189551","submission_id":"54663764","title":"T189551"}
+{"accepted_at":1627821010.0,"account_id":"a41","difficulty":0,"observed_at":1792154602.6499748,"problem_id":"T189553","submission_id":"54727090","title":"T189553"}
+{"accepted_at":1627821077.0,"account_id":"a41","difficulty":0,"observed_at":1792154602.6499496,"problem_id":"T189553","submission_id":"54727175","title":"T189553"}
+{"accepted_at":1628865590.0,"account_id":"a41","difficulty":5,"observed_at":1792154602.6499164,"problem_id":"P4322","submission_id":"55834718","title":"[JSOI2016] 最佳团体"}
+{"accepted_at":1629510808.0,"account_id":"a41","difficulty":5,"observed_at":1792154602.6498957,"problem_id":"P7297","submission_id":"56558374","title":"[USACO21JAN] Telephone G"}
+{"accepted_at":1630488945.0,"account_id":"a41","difficulty":4,"observed_at":1792154602.649826,"problem_id":"P5424","submission_id":"57327372","title":"[USACO19OPEN] Snakes G"}
+{"accepted_at":1630918801.0,"account_id":"a41","difficulty":3,"observed_at":1792154602.649806,"problem_id":"P2879","submission_id":"57586646","title":"[USACO07JAN] Tallest Cow S"}
+{"accepted_at":1631089557.0,"account_id":"a41","difficulty":6,"observed_at":1792154602.6497817,"problem_id":"P3188","submission_id":"57671766","title":"[HNOI2007] 梦幻岛宝珠"}
+{"accepted_at":1631089665.0,"account_id":"a41","difficulty":6,"observed_at":1792154602.649759,"problem_id":"P3188","submission_id":"57671866","title":"[HNOI2007] 梦幻岛宝珠"}
+{"accepted_at":1631089945.0,"account_id":"a41","difficulty":6,"observed_at":1792154602.6497338,"problem_id":"P3188","submission_id":"57672092","title":"[HNOI2007] 梦幻岛宝珠"}
+{"accepted_at":1631178512.0,"account_id":"a41","difficulty":5,"observed_at":1792154602.6497152,"problem_id":"P3034","submission_id":"57718865","title":"[USACO11DEC] Cow Photography G/S"}
+{"accepted_at":1631327201.0,"account_id":"a41","difficulty":5,"observed_at":1792154602.6496947,"problem_id":"P5694","submission_id":"57802667","title":"[NOI2001] 陨石的秘密"}
+{"accepted_at":1631943033.0,"account_id":"a41","difficulty":4,"observed_at":1792154602.6496732,"problem_id":"P1171","submission_id":"58187132","title":"售货员的难题"}
+{"accepted_at":1632538373.0,"account_id":"a41","difficulty":5,"observed_at":1792154602.6496491,"problem_id":"P4442","submission_id":"58521847","title":"[COCI 2017/2018 #3] Portal"}
+{"accepted_at":1635124206.0,"account_id":"a41","difficulty":4,"observed_at":1792154602.6496246,"problem_id":"P7913","submission_id":"60893993","title":"[CSP-S 2021] 廊桥分配"}
+{"accepted_at":1635131398.0,"account_id":"a41","difficulty":4,"observed_at":1792154602.6495967,"problem_id":"P3375","submission_id":"60899437","title":"【模板】KMP"}
+{"accepted_at":1635146694.0,"account_id":"a41","difficulty":7,"observed_at":1792154602.6494765,"problem_id":"P4443","submission_id":"60914665","title":"[COCI 2017/2018 #3] Dojave"}
 {"accepted_at":1635151941.0,"account_id":"a41","difficulty":5,"observed_at":1792153712.373633,"problem_id":"P3095","submission_id":"60920783","title":"[USACO13DEC] The Bessie Shuffle S"}
 {"accepted_at":1635303430.0,"account_id":"a41","difficulty":4,"observed_at":1792153712.373604,"problem_id":"P7915","submission_id":"61043978","title":"[CSP-S 2021] 回文"}
 {"accepted_at":1635434482.0,"account_id":"a41","difficulty":5,"observed_at":1792153712.3735762,"problem_id":"P1858","submission_id":"61179055","title":"多人背包"}
@@ -3076,6 +3256,26 @@
 {"accepted_at":1731846228.0,"account_id":"a44","difficulty":3,"observed_at":1792146835.5621946,"problem_id":"P7960","submission_id":"189504229","title":"[NOIP2021] 报数"}
 {"accepted_at":1732539787.0,"account_id":"a44","difficulty":2,"observed_at":1792146835.5621715,"problem_id":"P1031","submission_id":"191130614","title":"[NOIP 2002 提高组] 均分纸牌"}
 {"accepted_at":1733499140.0,"account_id":"a44","difficulty":5,"observed_at":1792146835.5620766,"problem_id":"P11361","submission_id":"193197782","title":"[NOIP2024] 编辑字符串"}
+{"accepted_at":1788247777.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9872622,"problem_id":"P2774","submission_id":"296265952","title":"方格取数问题"}
+{"accepted_at":1788250455.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.9872313,"problem_id":"P1361","submission_id":"296269725","title":"小M的作物"}
+{"accepted_at":1788257023.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9872012,"problem_id":"P4313","submission_id":"296279301","title":"文理分科"}
+{"accepted_at":1788265267.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9871745,"problem_id":"P14578","submission_id":"296296162","title":"【模板】无源汇上下界可行流"}
+{"accepted_at":1788266115.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9871478,"problem_id":"P14579","submission_id":"296299011","title":"【模板】有源汇上下界最大流"}
+{"accepted_at":1788266157.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9871159,"problem_id":"P14580","submission_id":"296299146","title":"【模板】有源汇上下界最小流"}
+{"accepted_at":1788268426.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9870863,"problem_id":"P5192","submission_id":"296307018","title":"Shoot the Bullet | 东方文花帖"}
+{"accepted_at":1788277895.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9870558,"problem_id":"P4843","submission_id":"296324760","title":"清理雪道"}
+{"accepted_at":1788279193.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.987029,"problem_id":"P4014","submission_id":"296325355","title":"分配问题"}
+{"accepted_at":1788284131.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.9870017,"problem_id":"P4015","submission_id":"296326344","title":"运输问题"}
+{"accepted_at":1788284865.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9869285,"problem_id":"P1251","submission_id":"296326406","title":"餐巾计划问题"}
+{"accepted_at":1788287803.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.9868922,"problem_id":"P3381","submission_id":"296326643","title":"【模板】最小费用最大流"}
+{"accepted_at":1788322101.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9868648,"problem_id":"P2053","submission_id":"296337228","title":"[SCOI2007] 修车"}
+{"accepted_at":1788325262.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.986837,"problem_id":"P2153","submission_id":"296339427","title":"[SDOI2009] 晨跑"}
+{"accepted_at":1788326569.0,"account_id":"a46","difficulty":6,"observed_at":1792154457.9868078,"problem_id":"P4013","submission_id":"296340747","title":"数字梯形问题"}
+{"accepted_at":1788328491.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9867792,"problem_id":"P2770","submission_id":"296342764","title":"航空路线问题"}
+{"accepted_at":1788329005.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.9867501,"problem_id":"P2604","submission_id":"296343277","title":"[ZJOI2010] 网络扩容"}
+{"accepted_at":1788337174.0,"account_id":"a46","difficulty":5,"observed_at":1792154457.9867175,"problem_id":"P10310","submission_id":"296354415","title":"「Cfz Round 2」01 String"}
+{"accepted_at":1788354704.0,"account_id":"a46","difficulty":7,"observed_at":1792154457.98667,"problem_id":"P5178","submission_id":"296395639","title":"求和"}
+{"accepted_at":1788356194.0,"account_id":"a46","difficulty":4,"observed_at":1792154457.9865022,"problem_id":"P4868","submission_id":"296400906","title":"Preprefix sum"}
 {"accepted_at":1788595503.0,"account_id":"a46","difficulty":8,"observed_at":1792153567.6193373,"problem_id":"P6699","submission_id":"296702591","title":"【模板】一般图最大权匹配"}
 {"accepted_at":1788601940.0,"account_id":"a46","difficulty":7,"observed_at":1792153567.6193206,"problem_id":"P7173","submission_id":"296733743","title":"【模板】有负圈的费用流"}
 {"accepted_at":1788621665.0,"account_id":"a46","difficulty":4,"observed_at":1792153567.6192892,"problem_id":"P2852","submission_id":"296785889","title":"[USACO06DEC] Milk Patterns G"}
@@ -3671,6 +3871,26 @@
 {"accepted_at":1792067315.0,"account_id":"a48","difficulty":null,"observed_at":1792127074.1397476,"problem_id":"2271F","submission_id":"394691094","title":"Beautiful Pillers"}
 {"accepted_at":1792068746.0,"account_id":"a48","difficulty":800,"observed_at":1792127074.1396923,"problem_id":"2269A","submission_id":"394694010","title":"SauSaGe Bank"}
 {"accepted_at":1792069373.0,"account_id":"a48","difficulty":1000,"observed_at":1792127074.1395254,"problem_id":"2269B","submission_id":"394695296","title":"KiaKio and Squared Numbers"}
+{"accepted_at":1787140279.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.462943,"problem_id":"P2194","submission_id":"294025183","title":"HXY烧情侣"}
+{"accepted_at":1787142952.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.462897,"problem_id":"P2661","submission_id":"294036810","title":"[NOIP 2015 提高组] 信息传递"}
+{"accepted_at":1787193049.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4628572,"problem_id":"P1726","submission_id":"294100918","title":"上白泽慧音"}
+{"accepted_at":1787193109.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4628253,"problem_id":"P1726","submission_id":"294101252","title":"上白泽慧音"}
+{"accepted_at":1787193669.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4627964,"problem_id":"P2002","submission_id":"294104470","title":"消息扩散"}
+{"accepted_at":1787214160.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4627626,"problem_id":"P2169","submission_id":"294198360","title":"正则表达式"}
+{"accepted_at":1787215867.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4627209,"problem_id":"P2341","submission_id":"294210099","title":"[USACO03FALL / HAOI2006] 受欢迎的牛 G"}
+{"accepted_at":1787239547.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4626925,"problem_id":"P1645","submission_id":"294291458","title":"序列"}
+{"accepted_at":1787239748.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4626637,"problem_id":"P1250","submission_id":"294291678","title":"种树"}
+{"accepted_at":1787288875.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.462634,"problem_id":"P1986","submission_id":"294362292","title":"元旦晚会"}
+{"accepted_at":1787288914.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4625902,"problem_id":"P1986","submission_id":"294362358","title":"元旦晚会"}
+{"accepted_at":1787307348.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4625611,"problem_id":"P6145","submission_id":"294465801","title":"[USACO20FEB] Timeline G"}
+{"accepted_at":1787307810.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4624856,"problem_id":"P10934","submission_id":"294467064","title":"西瓜种植"}
+{"accepted_at":1787312184.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4624562,"problem_id":"P1260","submission_id":"294480621","title":"工程规划"}
+{"accepted_at":1787317590.0,"account_id":"a49","difficulty":4,"observed_at":1792154554.4624245,"problem_id":"P1993","submission_id":"294501634","title":"小 K 的农场"}
+{"accepted_at":1787327253.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.462394,"problem_id":"P2912","submission_id":"294522822","title":"[USACO08OCT] Pasture Walking G"}
+{"accepted_at":1787407781.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4623616,"problem_id":"P3884","submission_id":"294708609","title":"[JLOI2009] 二叉树问题"}
+{"accepted_at":1787410818.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4623263,"problem_id":"P10113","submission_id":"294714051","title":"[GESP202312 八级] 大量的工作沟通"}
+{"accepted_at":1787490904.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4622881,"problem_id":"P11379","submission_id":"294890422","title":"[GESP202412 八级] 树上移动"}
+{"accepted_at":1787492867.0,"account_id":"a49","difficulty":3,"observed_at":1792154554.4621277,"problem_id":"P12874","submission_id":"294896967","title":"[蓝桥杯 2025 国 Python A] 巡逻"}
 {"accepted_at":1787579163.0,"account_id":"a49","difficulty":4,"observed_at":1792153664.1269863,"problem_id":"P8805","submission_id":"295076965","title":"[蓝桥杯 2022 国 B] 机房"}
 {"accepted_at":1787580372.0,"account_id":"a49","difficulty":4,"observed_at":1792153664.126963,"problem_id":"P8855","submission_id":"295080499","title":"[POI 2002 R1] 商务旅行"}
 {"accepted_at":1787583233.0,"account_id":"a49","difficulty":4,"observed_at":1792153664.126944,"problem_id":"P9245","submission_id":"295086589","title":"[蓝桥杯 2023 省 B] 景区导游"}
@@ -6098,6 +6318,26 @@
 {"accepted_at":1762582638.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.222424,"problem_id":"P1307","submission_id":"246029492","title":"[NOIP 2011 普及组] 数字反转"}
 {"accepted_at":1762586659.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224019,"problem_id":"P1089","submission_id":"246058044","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
 {"accepted_at":1762586703.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2222905,"problem_id":"P1089","submission_id":"246058373","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
+{"accepted_at":1789883023.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.1131215,"problem_id":"P1160","submission_id":"298526872","title":"队列安排"}
+{"accepted_at":1789884480.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.1130977,"problem_id":"P5266","submission_id":"298528881","title":"【深基17.例6】学籍管理"}
+{"accepted_at":1789903802.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1130736,"problem_id":"P1059","submission_id":"298567258","title":"[NOIP 2006 普及组] 明明的随机数"}
+{"accepted_at":1789906527.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.1130252,"problem_id":"P5250","submission_id":"298575748","title":"【深基17.例5】木材仓库"}
+{"accepted_at":1789907834.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.1129513,"problem_id":"P3378","submission_id":"298580397","title":"【模板】堆"}
+{"accepted_at":1790147533.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1129315,"problem_id":"P1002","submission_id":"298897864","title":"[NOIP 2002 普及组] 过河卒"}
+{"accepted_at":1790416415.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1129029,"problem_id":"P1789","submission_id":"299372678","title":"【Mc生存】插火把"}
+{"accepted_at":1790492679.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1122415,"problem_id":"P1789","submission_id":"299541974","title":"【Mc生存】插火把"}
+{"accepted_at":1790495002.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.112225,"problem_id":"P1067","submission_id":"299556924","title":"[NOIP 2009 普及组] 多项式输出"}
+{"accepted_at":1790495874.0,"account_id":"a89","difficulty":1,"observed_at":1792154352.1122046,"problem_id":"P1567","submission_id":"299562877","title":"统计天数"}
+{"accepted_at":1790741046.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1121802,"problem_id":"P10452","submission_id":"300001499","title":"货仓选址"}
+{"accepted_at":1790932165.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.112164,"problem_id":"P1115","submission_id":"300449761","title":"最大子段和"}
+{"accepted_at":1790936200.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1121414,"problem_id":"P1223","submission_id":"300465741","title":"排队接水"}
+{"accepted_at":1790998310.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.1121254,"problem_id":"P1090","submission_id":"300583597","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1791018067.0,"account_id":"a89","difficulty":3,"observed_at":1792154352.112107,"problem_id":"P1090","submission_id":"300689421","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1791018811.0,"account_id":"a89","difficulty":4,"observed_at":1792154352.1120906,"problem_id":"P6033","submission_id":"300693712","title":"[NOIP 2004 提高组] 合并果子 加强版"}
+{"accepted_at":1791018821.0,"account_id":"a89","difficulty":4,"observed_at":1792154352.1120696,"problem_id":"P6033","submission_id":"300693767","title":"[NOIP 2004 提高组] 合并果子 加强版"}
+{"accepted_at":1791086574.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1120512,"problem_id":"P1102","submission_id":"300849150","title":"A-B 数对"}
+{"accepted_at":1791101934.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1120298,"problem_id":"P1003","submission_id":"300930878","title":"[NOIP 2011 提高组] 铺地毯"}
+{"accepted_at":1791266357.0,"account_id":"a89","difficulty":2,"observed_at":1792154352.1119447,"problem_id":"P8218","submission_id":"301416674","title":"【深进1.例1】求区间和"}
 {"accepted_at":1791269827.0,"account_id":"a89","difficulty":2,"observed_at":1792153422.4400322,"problem_id":"P3397","submission_id":"301440758","title":"地毯"}
 {"accepted_at":1791273390.0,"account_id":"a89","difficulty":2,"observed_at":1792153422.4400048,"problem_id":"P2367","submission_id":"301469097","title":"语文成绩"}
 {"accepted_at":1791275217.0,"account_id":"a89","difficulty":3,"observed_at":1792153422.4399557,"problem_id":"P3406","submission_id":"301483933","title":"海底高铁"}
@@ -6233,6 +6473,26 @@
 {"accepted_at":1791990816.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4830925,"problem_id":"2276C","submission_id":"394559959","title":"Subarrays"}
 {"accepted_at":1791992351.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4830768,"problem_id":"2276D","submission_id":"394573473","title":"Caveman"}
 {"accepted_at":1791993081.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4829898,"problem_id":"2276B","submission_id":"394578985","title":"Replace and Compress"}
+{"accepted_at":1729987827.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.5310524,"problem_id":"P4924","submission_id":"185121649","title":"[1007] 魔法少女小Scarlet"}
+{"accepted_at":1729988565.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.5310242,"problem_id":"P1328","submission_id":"185122361","title":"[NOIP 2014 提高组] 生活大爆炸版石头剪刀布"}
+{"accepted_at":1729990266.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.530985,"problem_id":"P1518","submission_id":"185124993","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
+{"accepted_at":1729991359.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.5309575,"problem_id":"P1067","submission_id":"185127551","title":"[NOIP 2009 普及组] 多项式输出"}
+{"accepted_at":1730000007.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5309296,"problem_id":"P8784","submission_id":"185167074","title":"[蓝桥杯 2022 省 B] 积木画"}
+{"accepted_at":1730038106.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5308633,"problem_id":"P1416","submission_id":"185338211","title":"攻击火星"}
+{"accepted_at":1730038164.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5308354,"problem_id":"SP7015","submission_id":"185338399","title":"CFPARTY - Party"}
+{"accepted_at":1730184467.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5308073,"problem_id":"P1498","submission_id":"185562447","title":"南蛮图腾"}
+{"accepted_at":1730205388.0,"account_id":"a97","difficulty":4,"observed_at":1792154398.5307784,"problem_id":"P1433","submission_id":"185642236","title":"吃奶酪"}
+{"accepted_at":1730245841.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5307105,"problem_id":"P5266","submission_id":"185691905","title":"【深基17.例6】学籍管理"}
+{"accepted_at":1730246126.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.5306787,"problem_id":"P1536","submission_id":"185692007","title":"村村通"}
+{"accepted_at":1730246765.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5306332,"problem_id":"P5250","submission_id":"185692292","title":"【深基17.例5】木材仓库"}
+{"accepted_at":1730276366.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.530605,"problem_id":"P1918","submission_id":"185748906","title":"保龄球"}
+{"accepted_at":1730277717.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.530578,"problem_id":"P1030","submission_id":"185755162","title":"[NOIP 2001 普及组] 求先序排列"}
+{"accepted_at":1730278196.0,"account_id":"a97","difficulty":2,"observed_at":1792154398.5305488,"problem_id":"P1827","submission_id":"185757778","title":"[USACO3.4] 美国血统 American Heritage"}
+{"accepted_at":1730278733.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5305192,"problem_id":"P1364","submission_id":"185760569","title":"医院设置"}
+{"accepted_at":1730295524.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5304897,"problem_id":"P1019","submission_id":"185837071","title":"[NOIP 2000 提高组] 单词接龙（疑似错题）"}
+{"accepted_at":1730296912.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5304565,"problem_id":"P1825","submission_id":"185843074","title":"[USACO11OPEN] Corn Maze S"}
+{"accepted_at":1730328886.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5304213,"problem_id":"P3884","submission_id":"185865781","title":"[JLOI2009] 二叉树问题"}
+{"accepted_at":1730703506.0,"account_id":"a97","difficulty":3,"observed_at":1792154398.5302753,"problem_id":"P1332","submission_id":"186718588","title":"血色先锋队"}
 {"accepted_at":1731052000.0,"account_id":"a97","difficulty":3,"observed_at":1792153483.758248,"problem_id":"P1521","submission_id":"187425255","title":"求逆序对"}
 {"accepted_at":1731052922.0,"account_id":"a97","difficulty":3,"observed_at":1792153483.7582197,"problem_id":"P2513","submission_id":"187428340","title":"[HAOI2009] 逆序对数列"}
 {"accepted_at":1731053220.0,"account_id":"a97","difficulty":3,"observed_at":1792153483.7581887,"problem_id":"P2513","submission_id":"187429446","title":"[HAOI2009] 逆序对数列"}
@@ -6306,6 +6566,26 @@
 {"accepted_at":1727436250.0,"account_id":"a98","difficulty":1800,"observed_at":1792148496.6038728,"problem_id":"7C","submission_id":"283164185","title":"Line"}
 {"accepted_at":1791989362.0,"account_id":"a98","difficulty":null,"observed_at":1792148496.603856,"problem_id":"2276A","submission_id":"394543568","title":"Perfect Sandwiches"}
 {"accepted_at":1791990411.0,"account_id":"a98","difficulty":null,"observed_at":1792148496.6038203,"problem_id":"2276C","submission_id":"394555799","title":"Subarrays"}
+{"accepted_at":1765685794.0,"account_id":"a99","difficulty":1,"observed_at":1792154422.680843,"problem_id":"P14747","submission_id":"253142313","title":"相似字符串"}
+{"accepted_at":1765685908.0,"account_id":"a99","difficulty":1,"observed_at":1792154422.6808145,"problem_id":"P14749","submission_id":"253142698","title":"名字取好了"}
+{"accepted_at":1765686272.0,"account_id":"a99","difficulty":2,"observed_at":1792154422.6807957,"problem_id":"P14751","submission_id":"253143759","title":"醒来之后，我回到了汰换系统更新前"}
+{"accepted_at":1765687536.0,"account_id":"a99","difficulty":2,"observed_at":1792154422.6807756,"problem_id":"P14752","submission_id":"253146891","title":"Hit or not?"}
+{"accepted_at":1765691395.0,"account_id":"a99","difficulty":1,"observed_at":1792154422.680757,"problem_id":"P14758","submission_id":"253157975","title":"役满之泪"}
+{"accepted_at":1765695121.0,"account_id":"a99","difficulty":2,"observed_at":1792154422.680733,"problem_id":"P14754","submission_id":"253179097","title":"猫石游戏"}
+{"accepted_at":1765696382.0,"account_id":"a99","difficulty":3,"observed_at":1792154422.680701,"problem_id":"P14746","submission_id":"253187706","title":"下午茶时光"}
+{"accepted_at":1765791519.0,"account_id":"a99","difficulty":4,"observed_at":1792154422.680596,"problem_id":"P14755","submission_id":"253368850","title":"西安之泪"}
+{"accepted_at":1768809476.0,"account_id":"a99","difficulty":4,"observed_at":1792154422.6803927,"problem_id":"P2197","submission_id":"258219198","title":"【模板】Nim 游戏"}
+{"accepted_at":1768826419.0,"account_id":"a99","difficulty":1,"observed_at":1792154422.6803763,"problem_id":"P4702","submission_id":"258256649","title":"取石子"}
+{"accepted_at":1768832089.0,"account_id":"a99","difficulty":7,"observed_at":1792154422.6803591,"problem_id":"P2490","submission_id":"258270138","title":"[SDOI2011] 黑白棋"}
+{"accepted_at":1768896330.0,"account_id":"a99","difficulty":5,"observed_at":1792154422.680342,"problem_id":"P3480","submission_id":"258321662","title":"[POI 2009] KAM-Pebbles"}
+{"accepted_at":1768974061.0,"account_id":"a99","difficulty":2,"observed_at":1792154422.680316,"problem_id":"P14754","submission_id":"258409118","title":"猫石游戏"}
+{"accepted_at":1768977344.0,"account_id":"a99","difficulty":3,"observed_at":1792154422.6802986,"problem_id":"P1168","submission_id":"258414767","title":"中位数"}
+{"accepted_at":1768982008.0,"account_id":"a99","difficulty":4,"observed_at":1792154422.680272,"problem_id":"P14059","submission_id":"258426096","title":"【MX-X21-T4】[IAMOI R5] 使一颗心免于哀伤"}
+{"accepted_at":1770178354.0,"account_id":"a99","difficulty":3,"observed_at":1792154422.680234,"problem_id":"P1350","submission_id":"260808241","title":"车的放置"}
+{"accepted_at":1770197480.0,"account_id":"a99","difficulty":5,"observed_at":1792154422.6802154,"problem_id":"P10478","submission_id":"260909215","title":"生日礼物"}
+{"accepted_at":1770211739.0,"account_id":"a99","difficulty":5,"observed_at":1792154422.6801946,"problem_id":"P10478","submission_id":"260968147","title":"生日礼物"}
+{"accepted_at":1770211833.0,"account_id":"a99","difficulty":5,"observed_at":1792154422.68016,"problem_id":"P10478","submission_id":"260968523","title":"生日礼物"}
+{"accepted_at":1771923398.0,"account_id":"a99","difficulty":3,"observed_at":1792154422.680051,"problem_id":"P15420","submission_id":"263800359","title":"DTTM II"}
 {"accepted_at":1771926137.0,"account_id":"a99","difficulty":4,"observed_at":1792153489.0838428,"problem_id":"P15422","submission_id":"263811014","title":"不眠之夜"}
 {"accepted_at":1772012270.0,"account_id":"a99","difficulty":4,"observed_at":1792153489.0838149,"problem_id":"P15422","submission_id":"264016009","title":"不眠之夜"}
 {"accepted_at":1773135845.0,"account_id":"a99","difficulty":2,"observed_at":1792153489.0837877,"problem_id":"P1177","submission_id":"266364270","title":"【模板】排序"}
@@ -6546,6 +6826,26 @@
 {"accepted_at":1786293830.0,"account_id":"a101","difficulty":2300,"observed_at":1792148505.1210392,"problem_id":"2256F","submission_id":"386393729","title":"How Long Until Nothing Remains?"}
 {"accepted_at":1789648311.0,"account_id":"a101","difficulty":1600,"observed_at":1792148505.1210268,"problem_id":"453A","submission_id":"391024157","title":"Little Pony and Expected Maximum"}
 {"accepted_at":1789721348.0,"account_id":"a101","difficulty":1700,"observed_at":1792148505.1209695,"problem_id":"621C","submission_id":"391107733","title":"Wet Shark and Flowers"}
+{"accepted_at":1790907543.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9509523,"problem_id":"P1035","submission_id":"300329528","title":"[NOIP 2002 普及组] 级数求和"}
+{"accepted_at":1790908729.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9509325,"problem_id":"P2669","submission_id":"300335357","title":"[NOIP 2015 普及组] 金币"}
+{"accepted_at":1790908850.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9509125,"problem_id":"P5722","submission_id":"300336015","title":"【深基4.例11】数列求和"}
+{"accepted_at":1790930338.0,"account_id":"a102","difficulty":2,"observed_at":1792154427.9508924,"problem_id":"P5723","submission_id":"300439101","title":"【深基4.例13】质数口袋"}
+{"accepted_at":1790931083.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9508767,"problem_id":"P1423","submission_id":"300443688","title":"小玉在游泳"}
+{"accepted_at":1790932269.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9508586,"problem_id":"P1307","submission_id":"300450289","title":"[NOIP 2011 普及组] 数字反转"}
+{"accepted_at":1790932812.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9508014,"problem_id":"P1720","submission_id":"300452997","title":"月落乌啼算钱（斐波那契数列）"}
+{"accepted_at":1790933188.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9507837,"problem_id":"P5724","submission_id":"300454801","title":"【深基4.习5】求极差 / 最大跨度值 / 最大值和最小值的差"}
+{"accepted_at":1790933777.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9507642,"problem_id":"P1420","submission_id":"300457515","title":"最长连号"}
+{"accepted_at":1790942076.0,"account_id":"a102","difficulty":2,"observed_at":1792154427.9507427,"problem_id":"P1075","submission_id":"300485426","title":"[NOIP 2012 普及组] 质因数分解"}
+{"accepted_at":1790942628.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9507258,"problem_id":"P5725","submission_id":"300487915","title":"【深基4.习8】求三角形"}
+{"accepted_at":1790943394.0,"account_id":"a102","difficulty":2,"observed_at":1792154427.9507072,"problem_id":"P5726","submission_id":"300491089","title":"【深基4.习9】打分"}
+{"accepted_at":1790944331.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9506803,"problem_id":"P4956","submission_id":"300495079","title":"[COCI 2017/2018 #6] Davor"}
+{"accepted_at":1790945891.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9506583,"problem_id":"P1089","submission_id":"300501604","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
+{"accepted_at":1790990900.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9506204,"problem_id":"P5721","submission_id":"300543129","title":"【深基4.例6】数字直角三角形"}
+{"accepted_at":1790991374.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9506042,"problem_id":"P1035","submission_id":"300545066","title":"[NOIP 2002 普及组] 级数求和"}
+{"accepted_at":1790992841.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9505875,"problem_id":"P1423","submission_id":"300552221","title":"小玉在游泳"}
+{"accepted_at":1790993144.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.9505682,"problem_id":"P1307","submission_id":"300553933","title":"[NOIP 2011 普及组] 数字反转"}
+{"accepted_at":1790993966.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.950523,"problem_id":"P5724","submission_id":"300558223","title":"【深基4.习5】求极差 / 最大跨度值 / 最大值和最小值的差"}
+{"accepted_at":1790994749.0,"account_id":"a102","difficulty":1,"observed_at":1792154427.950437,"problem_id":"P5725","submission_id":"300562515","title":"【深基4.习8】求三角形"}
 {"accepted_at":1790995003.0,"account_id":"a102","difficulty":2,"observed_at":1792153494.8610168,"problem_id":"P5726","submission_id":"300563947","title":"【深基4.习9】打分"}
 {"accepted_at":1791036785.0,"account_id":"a102","difficulty":1,"observed_at":1792153494.860987,"problem_id":"P1428","submission_id":"300760751","title":"小鱼比可爱"}
 {"accepted_at":1791094273.0,"account_id":"a102","difficulty":1,"observed_at":1792153494.860959,"problem_id":"P1427","submission_id":"300873717","title":"小鱼的数字游戏"}
@@ -6586,6 +6886,26 @@
 {"accepted_at":1792065480.0,"account_id":"a102","difficulty":1,"observed_at":1792152965.4849567,"problem_id":"P1765","submission_id":"303230779","title":"手机"}
 {"accepted_at":1792065866.0,"account_id":"a102","difficulty":1,"observed_at":1792152965.4849417,"problem_id":"P1765","submission_id":"303233277","title":"手机"}
 {"accepted_at":1792066913.0,"account_id":"a102","difficulty":1,"observed_at":1792152965.484896,"problem_id":"P3741","submission_id":"303240447","title":"小果的键盘"}
+{"accepted_at":1775568173.0,"account_id":"a105","difficulty":4,"observed_at":1792154433.9635298,"problem_id":"P13982","submission_id":"272581235","title":"数列分块入门 7"}
+{"accepted_at":1775568443.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9635077,"problem_id":"P13981","submission_id":"272582844","title":"数列分块入门 6"}
+{"accepted_at":1775640673.0,"account_id":"a105","difficulty":4,"observed_at":1792154433.9634922,"problem_id":"P13983","submission_id":"272701589","title":"数列分块入门 8"}
+{"accepted_at":1775826173.0,"account_id":"a105","difficulty":3,"observed_at":1792154433.963475,"problem_id":"P12130","submission_id":"273201929","title":"[蓝桥杯 2025 省 B] 移动距离"}
+{"accepted_at":1775827330.0,"account_id":"a105","difficulty":2,"observed_at":1792154433.963378,"problem_id":"P12132","submission_id":"273210376","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
+{"accepted_at":1775827711.0,"account_id":"a105","difficulty":2,"observed_at":1792154433.963359,"problem_id":"P12133","submission_id":"273212923","title":"[蓝桥杯 2025 省 B] 产值调整"}
+{"accepted_at":1775833215.0,"account_id":"a105","difficulty":2,"observed_at":1792154433.9633338,"problem_id":"P3383","submission_id":"273241327","title":"【模板】线性筛素数"}
+{"accepted_at":1777470080.0,"account_id":"a105","difficulty":5,"observed_at":1792154433.963317,"problem_id":"P1972","submission_id":"276040774","title":"[SDOI2009] HH 的项链"}
+{"accepted_at":1777472862.0,"account_id":"a105","difficulty":5,"observed_at":1792154433.9632955,"problem_id":"P2709","submission_id":"276046837","title":"【模板】莫队 / 小 B 的询问"}
+{"accepted_at":1777473342.0,"account_id":"a105","difficulty":5,"observed_at":1792154433.9632778,"problem_id":"P2709","submission_id":"276047591","title":"【模板】莫队 / 小 B 的询问"}
+{"accepted_at":1777626707.0,"account_id":"a105","difficulty":7,"observed_at":1792154433.96326,"problem_id":"P13984","submission_id":"276213910","title":"数列分块入门 9"}
+{"accepted_at":1777645952.0,"account_id":"a105","difficulty":5,"observed_at":1792154433.9632416,"problem_id":"P1494","submission_id":"276248925","title":"[国家集训队] 小 Z 的袜子"}
+{"accepted_at":1777652944.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9632246,"problem_id":"P4396","submission_id":"276254298","title":"[AHOI2013] 作业"}
+{"accepted_at":1777727702.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9632072,"problem_id":"P4137","submission_id":"276363726","title":"Rmq Problem / mex"}
+{"accepted_at":1777727731.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9631782,"problem_id":"P4137","submission_id":"276363780","title":"Rmq Problem / mex"}
+{"accepted_at":1777727995.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9631581,"problem_id":"P4137","submission_id":"276364351","title":"Rmq Problem / mex"}
+{"accepted_at":1777728021.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.963132,"problem_id":"P4137","submission_id":"276364406","title":"Rmq Problem / mex"}
+{"accepted_at":1777798193.0,"account_id":"a105","difficulty":4,"observed_at":1792154433.9631097,"problem_id":"P3372","submission_id":"276453517","title":"【模板】线段树 1"}
+{"accepted_at":1778322474.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9630868,"problem_id":"P5268","submission_id":"277200713","title":"[SNOI2017] 一个简单的询问"}
+{"accepted_at":1778323315.0,"account_id":"a105","difficulty":6,"observed_at":1792154433.9629588,"problem_id":"P5268","submission_id":"277202203","title":"[SNOI2017] 一个简单的询问"}
 {"accepted_at":1778323336.0,"account_id":"a105","difficulty":6,"observed_at":1792153518.9158447,"problem_id":"P5268","submission_id":"277202236","title":"[SNOI2017] 一个简单的询问"}
 {"accepted_at":1778323549.0,"account_id":"a105","difficulty":6,"observed_at":1792153518.9158156,"problem_id":"P5268","submission_id":"277202641","title":"[SNOI2017] 一个简单的询问"}
 {"accepted_at":1778324029.0,"account_id":"a105","difficulty":6,"observed_at":1792153518.9157748,"problem_id":"P5268","submission_id":"277203688","title":"[SNOI2017] 一个简单的询问"}
@@ -8414,10 +8734,10 @@
 {"accepted_at":1791893317.0,"account_id":"a127","difficulty":2,"observed_at":1792153260.5620437,"problem_id":"P1464","submission_id":"302871017","title":"[PacNW 1999] Function"}
 {"accepted_at":1791969360.0,"account_id":"a127","difficulty":3,"observed_at":1792153260.5620117,"problem_id":"P3378","submission_id":"303006548","title":"【模板】堆"}
 {"accepted_at":1792041820.0,"account_id":"a127","difficulty":2,"observed_at":1792153260.5619848,"problem_id":"P17699","submission_id":"303140674","title":"[ICPC 2019 Nanjing R] A Hard Problem"}
-{"accepted_at":1792043817.0,"account_id":"a127","difficulty":0,"observed_at":1792153260.5619543,"problem_id":"P17706","submission_id":"303145929","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
-{"accepted_at":1792049184.0,"account_id":"a127","difficulty":0,"observed_at":1792153260.5619142,"problem_id":"P17709","submission_id":"303160953","title":"[ICPC 2019 Nanjing R] Triangle"}
-{"accepted_at":1792065025.0,"account_id":"a127","difficulty":0,"observed_at":1792153260.561882,"problem_id":"P17709","submission_id":"303227807","title":"[ICPC 2019 Nanjing R] Triangle"}
-{"accepted_at":1792065056.0,"account_id":"a127","difficulty":0,"observed_at":1792153260.5618522,"problem_id":"P17706","submission_id":"303228030","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
+{"accepted_at":1792043817.0,"account_id":"a127","difficulty":3,"observed_at":1792153260.5619543,"problem_id":"P17706","submission_id":"303145929","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
+{"accepted_at":1792049184.0,"account_id":"a127","difficulty":3,"observed_at":1792153260.5619142,"problem_id":"P17709","submission_id":"303160953","title":"[ICPC 2019 Nanjing R] Triangle"}
+{"accepted_at":1792065025.0,"account_id":"a127","difficulty":3,"observed_at":1792153260.561882,"problem_id":"P17709","submission_id":"303227807","title":"[ICPC 2019 Nanjing R] Triangle"}
+{"accepted_at":1792065056.0,"account_id":"a127","difficulty":3,"observed_at":1792153260.5618522,"problem_id":"P17706","submission_id":"303228030","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
 {"accepted_at":1792065100.0,"account_id":"a127","difficulty":2,"observed_at":1792153260.5617857,"problem_id":"P17699","submission_id":"303228325","title":"[ICPC 2019 Nanjing R] A Hard Problem"}
 {"accepted_at":1792069445.0,"account_id":"a127","difficulty":4,"observed_at":1792153260.5616064,"problem_id":"P3375","submission_id":"303256648","title":"【模板】KMP"}
 {"accepted_at":1768985273.0,"account_id":"a130","difficulty":4,"observed_at":1792153968.6992605,"problem_id":"P14059","submission_id":"258435123","title":"【MX-X21-T4】[IAMOI R5] 使一颗心免于哀伤"}

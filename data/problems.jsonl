@@ -5705,9 +5705,14 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1471","tags":[],"title":"方差"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1472","tags":[],"title":"[USACO2.3] 奶牛家谱 Cow Pedigrees"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1474","tags":[],"title":"[USACO2.3] Money System / [USACO07OCT] Cow Cash G"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14746","tags":[],"title":"下午茶时光"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14747","tags":[],"title":"相似字符串"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14749","tags":[],"title":"名字取好了"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14751","tags":[],"title":"醒来之后，我回到了汰换系统更新前"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14752","tags":[],"title":"Hit or not?"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14754","tags":[],"title":"猫石游戏"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P14755","tags":[],"title":"西安之泪"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14758","tags":[],"title":"役满之泪"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1478","tags":[],"title":"陶陶摘苹果（升级版）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1480","tags":[],"title":"A/B Problem（高精度除法Ⅰ）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1481","tags":[],"title":"魔族密码"}
@@ -5747,12 +5752,14 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1531","tags":[],"title":"I Hate It"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1533","tags":[],"title":"可怜的狗狗"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1534","tags":[],"title":"不高兴的津津（升级版）"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P15358","tags":[],"title":"「WYZOI R2」红包"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1536","tags":[],"title":"村村通"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1537","tags":[],"title":"[MCERC 1999] 弹珠"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1539","tags":[],"title":"[TJOI2011] 01矩阵"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1540","tags":[],"title":"[NOIP 2010 提高组] 机器翻译"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1541","tags":[],"title":"[NOIP 2010 提高组] 乌龟棋"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1542","tags":[],"title":"包裹快递"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P15420","tags":[],"title":"DTTM II"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P15422","tags":[],"title":"不眠之夜"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P15427","tags":[],"title":"Nobody Tells (Original Version)"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P15430","tags":[],"title":"[蓝桥杯 2025 国 Python B] 等差数列计数"}
@@ -5959,8 +5966,8 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1764","tags":[],"title":"翻转游戏 (加强版)"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1765","tags":[],"title":"手机"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17699","tags":[],"title":"[ICPC 2019 Nanjing R] A Hard Problem"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P17706","tags":[],"title":"[ICPC 2019 Nanjing R] Prince and Princess"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P17709","tags":[],"title":"[ICPC 2019 Nanjing R] Triangle"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17706","tags":[],"title":"[ICPC 2019 Nanjing R] Prince and Princess"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17709","tags":[],"title":"[ICPC 2019 Nanjing R] Triangle"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1771","tags":[],"title":"方程的解"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1772","tags":[],"title":"[ZJOI2006] 物流运输"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1774","tags":[],"title":"最接近神的人"}
@@ -6524,6 +6531,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P3009","tags":[],"title":"[USACO11JAN] Profits S"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3012","tags":[],"title":"[USACO11FEB] Cowlphabet G"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3017","tags":[],"title":"[USACO11MAR] Brownie Slicing G"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P3027","tags":[],"title":"P3027"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3029","tags":[],"title":"[USACO11NOV] Cow Lineup S"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3034","tags":[],"title":"[USACO11DEC] Cow Photography G/S"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3038","tags":[],"title":"[USACO11DEC] Grass Planting G"}
@@ -8012,6 +8020,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189551","tags":[],"title":"T189551"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189553","tags":[],"title":"T189553"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
