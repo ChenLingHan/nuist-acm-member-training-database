@@ -5402,6 +5402,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1125","tags":[],"title":"[NOIP 2008 提高组] 笨小猴"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P11250","tags":[],"title":"[GESP202409 八级] 手套配对"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1127","tags":[],"title":"词链"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11275","tags":[],"title":"微观戏剧"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11276","tags":[],"title":"第一首歌"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1128","tags":[],"title":"[HNOI2001] 求正整数"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11289","tags":[],"title":"【MX-S6-T1】「KDOI-11」打印"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1129","tags":[],"title":"[ZJOI2007] 矩阵游戏"}
@@ -8116,6 +8118,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T245060","tags":[],"title":"数数"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T246539","tags":[],"title":"T246539"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T251021","tags":[],"title":"T251021"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T251263","tags":[],"title":"T251263"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258192","tags":[],"title":"数字转换"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258193","tags":[],"title":"低位与高位"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T260571","tags":[],"title":"T260571"}
@@ -8163,6 +8167,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715159","tags":[],"title":"[202512C] 土豆王国"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715160","tags":[],"title":"[202512D] 破解等式"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715161","tags":[],"title":"[202512E] 加权求和"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715162","tags":[],"title":"[202512F] 低价机票"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T715163","tags":[],"title":"[202512G] GSM8K"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
@@ -8184,6 +8189,9 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U209002","tags":[],"title":"JYの解密 Round 4"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U239767","tags":[],"title":"Sky挖铁矿"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240730","tags":[],"title":"U240730"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240731","tags":[],"title":"U240731"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240732","tags":[],"title":"U240732"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240733","tags":[],"title":"U240733"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U241093","tags":[],"title":"合并果子"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
