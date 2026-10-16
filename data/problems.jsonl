@@ -4579,8 +4579,13 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3677","tags":[],"title":"[语言月赛202211] Fear"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3678","tags":[],"title":"[语言月赛202211] Gold-Purple-Blue-Green-White"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3683","tags":[],"title":"[语言月赛202211] String Problem"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3684","tags":[],"title":"[语言月赛202212] 不可以，总司令"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3685","tags":[],"title":"[语言月赛 202212] 计算"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3686","tags":[],"title":"[语言月赛202212]  洛谷三角洲"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3687","tags":[],"title":"[语言月赛202212] 数字口袋"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3688","tags":[],"title":"[语言月赛202212] 旋转排列"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3690","tags":[],"title":"[语言月赛202212] 盒武器"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3691","tags":[],"title":"[语言月赛202212] 狠狠地切割(Easy Version)"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"B3691","tags":[],"title":"[语言月赛202212] 狠狠地切割(Easy Version)"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3693","tags":[],"title":"数列前缀和 4"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3694","tags":[],"title":"【模板】数列离散化"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3695","tags":[],"title":"集合运算 3"}
@@ -5561,8 +5566,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1199","tags":[],"title":"[NOIP 2010 普及组] 三国游戏"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1200","tags":[],"title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1201","tags":[],"title":"[USACO1.1] 贪婪的送礼者 Greedy Gift Givers"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1202","tags":[],"title":"[USACO1.1] Friday the Thirteenth"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1203","tags":[],"title":"[IOI 1993 / USACO1.1] Broken Necklace"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1202","tags":[],"title":"[USACO1.1] 黑色星期五 Friday the Thirteenth"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1203","tags":[],"title":"[IOI 1993 / USACO1.1] 坏掉的项链 Broken Necklace"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12036","tags":[],"title":"[USTCPC 2025] 摩拉"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12039","tags":[],"title":"[USTCPC 2025] 高位逼抢"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1204","tags":[],"title":"[USACO1.2] 挤牛奶 Milking Cows"}
@@ -5572,7 +5577,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] 混合牛奶 Mixing Milk"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1209","tags":[],"title":"[USACO1.3] 修理牛棚 Barn Repair"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1210","tags":[],"title":"[USACO1.3] 最长的回文 Calf Flac"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1211","tags":[],"title":"[USACO1.3] Cow-Style Prime Cryptarithm"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1211","tags":[],"title":"[USACO1.3] 牛式 Prime Cryptarithm"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12130","tags":[],"title":"[蓝桥杯 2025 省 B] 移动距离"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12131","tags":[],"title":"[蓝桥杯 2025 省 B] 客流量上限"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12132","tags":[],"title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
@@ -5814,7 +5819,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14584","tags":[],"title":"[LNCPC 2025] 点击平衡球"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14588","tags":[],"title":"[LNCPC 2025] 前线支援"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14589","tags":[],"title":"[LNCPC 2025] 子鼠"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1459","tags":[],"title":"[IOI 1996 / USACO2.1] Sorting a Three-Valued Sequence"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1459","tags":[],"title":"[IOI 1996 / USACO2.1] 三值的排序 Sorting a Three-Valued Sequence"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14590","tags":[],"title":"[LNCPC 2025] 计组实验"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14592","tags":[],"title":"[LNCPC 2025] 裂痕"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14593","tags":[],"title":"[LNCPC 2025] 猫猫虫打 CF"}
@@ -7981,6 +7986,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8865","tags":[],"title":"[NOIP2022] 种花"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P8866","tags":[],"title":"[NOIP2022] 喵了个喵"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P8867","tags":[],"title":"[NOIP2022] 建造军营"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8869","tags":[],"title":"[传智杯 #5 初赛] A-莲子的软件工程学"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8871","tags":[],"title":"[传智杯 #5 初赛] C-莲子的排版设计学"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P8883","tags":[],"title":"幻想中成为原神"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8891","tags":[],"title":"「UOI-R1」询问"}
