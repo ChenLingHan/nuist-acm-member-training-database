@@ -1395,6 +1395,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1719A","tags":["games","math"],"title":"Chip Game"}
 {"difficulty":800,"platform":"codeforces","points":1000.0,"problem_id":"1719B","tags":["constructive algorithms","math"],"title":"Mathematical Circus"}
 {"difficulty":1400,"platform":"codeforces","points":1250.0,"problem_id":"1719C","tags":["binary search","data structures","implementation","two pointers"],"title":"Fighting Tournament"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"171G","tags":["*special"],"title":"Mysterious numbers - 2"}
 {"difficulty":1800,"platform":"codeforces","points":1500.0,"problem_id":"1720D1","tags":["bitmasks","brute force","dp","strings","trees","two pointers"],"title":"Xor-Subsequence (easy version)"}
 {"difficulty":2400,"platform":"codeforces","points":1000.0,"problem_id":"1720D2","tags":["bitmasks","data structures","dp","strings","trees"],"title":"Xor-Subsequence (hard version)"}
 {"difficulty":2700,"platform":"codeforces","points":2750.0,"problem_id":"1720E","tags":["constructive algorithms","data structures","greedy","implementation","math"],"title":"Misha and Paintings"}
@@ -2342,6 +2343,9 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1983A","tags":["constructive algorithms","math"],"title":"Array Divisibility"}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"1983B","tags":["constructive algorithms","greedy","implementation","math"],"title":"Corner Twist"}
 {"difficulty":1400,"platform":"codeforces","points":1250.0,"problem_id":"1983C","tags":["binary search","brute force","greedy","implementation"],"title":"Have Your Cake and Eat It Too"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1985A","tags":["implementation","strings"],"title":"Creating Words"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1985B","tags":["brute force","math","number theory"],"title":"Maximum Multiple Sum"}
+{"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"1985C","tags":["greedy"],"title":"Good Prefixes"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1985E","tags":["brute force","combinatorics","math"],"title":"Secret Box"}
 {"difficulty":800,"platform":"codeforces","points":250.0,"problem_id":"1987A","tags":["greedy","math"],"title":"Upload More RAM"}
 {"difficulty":1000,"platform":"codeforces","points":750.0,"problem_id":"1987B","tags":["greedy"],"title":"K-Sort"}
@@ -3572,6 +3576,7 @@
 {"difficulty":2000,"platform":"codeforces","points":1500.0,"problem_id":"388C","tags":["games","greedy","sortings"],"title":"Fox and Card Game"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"3A","tags":["greedy","shortest paths"],"title":"Shortest path of the king"}
 {"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"405A","tags":["greedy","implementation","sortings"],"title":"Gravity Flip"}
+{"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"409H","tags":["*special","brute force","constructive algorithms","dsu","implementation"],"title":"A + B Strikes Back"}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"414B","tags":["combinatorics","dp","number theory"],"title":"Mashmokh and ACM"}
 {"difficulty":2500,"platform":"codeforces","points":2500.0,"problem_id":"416E","tags":["dp","graphs","shortest paths"],"title":"President's Path"}
 {"difficulty":3100,"platform":"codeforces","points":2500.0,"problem_id":"418E","tags":["data structures"],"title":"Tricky Password"}
@@ -3710,6 +3715,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"629A","tags":["brute force","combinatorics","constructive algorithms","implementation"],"title":"Far Relative’s Birthday Cake"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"630C","tags":["combinatorics","math"],"title":"Lucky Numbers"}
 {"difficulty":2000,"platform":"codeforces","points":1750.0,"problem_id":"633D","tags":["brute force","dp","hashing","implementation","math"],"title":"Fibonacci-ish"}
+{"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"656D","tags":["*special"],"title":"Rosetta Problem"}
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"660E","tags":["combinatorics","math"],"title":"Different Subsets For All Tuples"}
 {"difficulty":2600,"platform":"codeforces","points":2250.0,"problem_id":"662C","tags":["bitmasks","brute force","divide and conquer","dp","fft","math"],"title":"Binary Table"}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"670D1","tags":["binary search","brute force","implementation"],"title":"Magic Powder - 1"}
@@ -3898,6 +3904,7 @@
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"9D","tags":["combinatorics","divide and conquer","dp"],"title":"How many trees?"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"acmsguru134","tags":["*special"],"title":"Centroid"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"acmsguru143","tags":[],"title":"Long Live the Queen"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"acmsguru185","tags":[],"title":"Two shortest"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"AT_abc001_1","tags":[],"title":"[ABC001A] 積雪深差"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"AT_abc002_1","tags":[],"title":"[ABC002A] 正直者"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"AT_abc003_1","tags":[],"title":"[ABC003A] AtCoder社の給料"}
@@ -8023,6 +8030,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T124267","tags":[],"title":"Special Judge"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T152327","tags":[],"title":"递归练习"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T158659","tags":[],"title":"T158659"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180897","tags":[],"title":"T180897"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180898","tags":[],"title":"T180898"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180899","tags":[],"title":"T180899"}
@@ -8030,6 +8040,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T182749","tags":[],"title":"T182749"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189551","tags":[],"title":"T189551"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189553","tags":[],"title":"T189553"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258192","tags":[],"title":"数字转换"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258193","tags":[],"title":"低位与高位"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288168","tags":[],"title":"T288168"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288182","tags":[],"title":"T288182"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288185","tags":[],"title":"T288185"}
@@ -8053,6 +8065,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U197280","tags":[],"title":"【模板】最长公共子序列"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243700","tags":[],"title":"Juicy"}
