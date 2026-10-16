@@ -8018,6 +8018,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9582","tags":[],"title":"「MXOI Round 1」方格"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9583","tags":[],"title":"「MXOI Round 1」涂色"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9585","tags":[],"title":"「MXOI Round 2」酒店"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9586","tags":[],"title":"「MXOI Round 2」游戏"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9587","tags":[],"title":"「MXOI Round 2」排名"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9588","tags":[],"title":"「MXOI Round 2」队列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9592","tags":[],"title":"「Daily OI Round 1」Tree"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9593","tags":[],"title":"「Daily OI Round 1」Block"}
@@ -8136,6 +8138,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T116792","tags":[],"title":"T116792"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T121611","tags":[],"title":"树的直径（简单版）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T124267","tags":[],"title":"Special Judge"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T134547","tags":[],"title":"T134547"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"T141340","tags":[],"title":"N钱买N鸡（加强版）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T141866","tags":[],"title":"小B和他的学分"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T152327","tags":[],"title":"递归练习"}
@@ -8146,6 +8149,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T173329","tags":[],"title":"A+B Problem"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T175871","tags":[],"title":"T175871"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T176020","tags":[],"title":"T176020"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T179113","tags":[],"title":"树的层次遍历"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T179114","tags":[],"title":"求各结点到根结点的距离"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T179115","tags":[],"title":"求树的度和深度"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180897","tags":[],"title":"T180897"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180898","tags":[],"title":"T180898"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180899","tags":[],"title":"T180899"}
@@ -8197,6 +8203,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T277278","tags":[],"title":"T277278"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T281682","tags":[],"title":"T281682"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T282221","tags":[],"title":"T282221"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T283487","tags":[],"title":"T283487"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T284075","tags":[],"title":"T284075"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T287848","tags":[],"title":"T287848"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288165","tags":[],"title":"T288165"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288168","tags":[],"title":"T288168"}
@@ -8209,8 +8217,11 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313704","tags":[],"title":"之后就一个人都没有了吗？"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T351259","tags":[],"title":"T351259"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T351260","tags":[],"title":"T351260"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T355165","tags":[],"title":"T355165"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T355166","tags":[],"title":"T355166"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T356637","tags":[],"title":"T356637"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359021","tags":[],"title":"T359021"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T360063","tags":[],"title":"T360063"}
@@ -8230,6 +8241,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367646","tags":[],"title":"T367646"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367647","tags":[],"title":"T367647"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T368263","tags":[],"title":"环上最大独立集"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"T368960","tags":[],"title":"「PFLOI R1」PFL 反应堆"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377546","tags":[],"title":"等式判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377550","tags":[],"title":"数组与内存 EV"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377551","tags":[],"title":"扶苏迭代"}
@@ -8339,6 +8351,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U157439","tags":[],"title":"奇怪的三jio形"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U162950","tags":[],"title":"无向图一笔画"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166618","tags":[],"title":"pyzo2021 level 1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166619","tags":[],"title":"pyzo2021 level 2"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166620","tags":[],"title":"pyzo2021 leveI 3"}
@@ -8367,7 +8380,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U224090","tags":[],"title":"最长连续不重复子序列"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U225113","tags":[],"title":"连接格点"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U225925","tags":[],"title":"Sky的回文串"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226066","tags":[],"title":"U226066"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U234874","tags":[],"title":"奇数求和"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U239767","tags":[],"title":"Sky挖铁矿"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240730","tags":[],"title":"U240730"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240731","tags":[],"title":"U240731"}
@@ -8415,6 +8430,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U505744","tags":[],"title":"U505744"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U57260","tags":[],"title":"U57260"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U581369","tags":[],"title":"集合的划分"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U638214","tags":[],"title":"地铁乘车"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U649744","tags":[],"title":"Jewels Merging"}
