@@ -2575,6 +2575,26 @@
 {"accepted_at":1731846228.0,"account_id":"a44","difficulty":3,"observed_at":1792146835.5621946,"problem_id":"P7960","submission_id":"189504229","title":"[NOIP2021] 报数"}
 {"accepted_at":1732539787.0,"account_id":"a44","difficulty":2,"observed_at":1792146835.5621715,"problem_id":"P1031","submission_id":"191130614","title":"[NOIP 2002 提高组] 均分纸牌"}
 {"accepted_at":1733499140.0,"account_id":"a44","difficulty":5,"observed_at":1792146835.5620766,"problem_id":"P11361","submission_id":"193197782","title":"[NOIP2024] 编辑字符串"}
+{"accepted_at":1789721170.0,"account_id":"a46","difficulty":5,"observed_at":1792147075.9125576,"problem_id":"P3805","submission_id":"298310631","title":"【模板】Manacher"}
+{"accepted_at":1789726896.0,"account_id":"a46","difficulty":6,"observed_at":1792147075.9125202,"problem_id":"P6216","submission_id":"298322703","title":"回文匹配"}
+{"accepted_at":1789731404.0,"account_id":"a46","difficulty":5,"observed_at":1792147075.912462,"problem_id":"P4555","submission_id":"298334229","title":"[国家集训队] 最长双回文串"}
+{"accepted_at":1790357165.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9124248,"problem_id":"P4238","submission_id":"299228030","title":"【模板】多项式乘法逆"}
+{"accepted_at":1790663986.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9122355,"problem_id":"P4721","submission_id":"299864295","title":"【模板】分治 FFT"}
+{"accepted_at":1791279389.0,"account_id":"a46","difficulty":6,"observed_at":1792147075.9121912,"problem_id":"P4717","submission_id":"301513810","title":"【模板】快速莫比乌斯 / 沃尔什变换 (FMT / FWT)"}
+{"accepted_at":1791279712.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.912149,"problem_id":"P6097","submission_id":"301515255","title":"【模板】子集卷积"}
+{"accepted_at":1791281013.0,"account_id":"a46","difficulty":8,"observed_at":1792147075.9121141,"problem_id":"P4723","submission_id":"301520545","title":"【模板】常系数齐次线性递推"}
+{"accepted_at":1791282423.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9120767,"problem_id":"P5395","submission_id":"301524993","title":"第二类斯特林数·行"}
+{"accepted_at":1791283025.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9120212,"problem_id":"P5408","submission_id":"301526914","title":"第一类斯特林数·行"}
+{"accepted_at":1791292450.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9119828,"problem_id":"P5396","submission_id":"301566640","title":"第二类斯特林数·列"}
+{"accepted_at":1791292818.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9119458,"problem_id":"P5409","submission_id":"301568218","title":"第一类斯特林数·列"}
+{"accepted_at":1791380983.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.911905,"problem_id":"P4091","submission_id":"301834970","title":"[HEOI2016/TJOI2016] 求和"}
+{"accepted_at":1791382421.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9118662,"problem_id":"P4389","submission_id":"301839146","title":"付公主的背包"}
+{"accepted_at":1791383427.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9118254,"problem_id":"P4841","submission_id":"301841583","title":"[集训队作业2013] 城市规划"}
+{"accepted_at":1791453314.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9117882,"problem_id":"P4859","submission_id":"301919344","title":"已经没有什么好害怕的了"}
+{"accepted_at":1791534673.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9117477,"problem_id":"P2012","submission_id":"302065870","title":"拯救世界2"}
+{"accepted_at":1791539030.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9116957,"problem_id":"P4931","submission_id":"302082136","title":"[MtOI2018] 情侣？给我烧了！（加强版）"}
+{"accepted_at":1791545731.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9116416,"problem_id":"P4491","submission_id":"302105037","title":"[HAOI2018] 染色"}
+{"accepted_at":1791550101.0,"account_id":"a46","difficulty":7,"observed_at":1792147075.9113133,"problem_id":"P5339","submission_id":"302129846","title":"[TJOI2019] 唱、跳、rap和篮球"}
 {"accepted_at":1754482316.0,"account_id":"a47","difficulty":null,"observed_at":1792127097.5090492,"problem_id":"9374","submission_id":"1208579","title":"Escape"}
 {"accepted_at":1754585233.0,"account_id":"a47","difficulty":null,"observed_at":1792127089.097767,"problem_id":"9376","submission_id":"1211088","title":"Game"}
 {"accepted_at":1755277649.0,"account_id":"a47","difficulty":null,"observed_at":1792127089.0977583,"problem_id":"9370","submission_id":"1227659","title":"Gambling on Choosing Regionals"}
@@ -3109,6 +3129,26 @@
 {"accepted_at":1792067315.0,"account_id":"a48","difficulty":null,"observed_at":1792127074.1397476,"problem_id":"2271F","submission_id":"394691094","title":"Beautiful Pillers"}
 {"accepted_at":1792068746.0,"account_id":"a48","difficulty":800,"observed_at":1792127074.1396923,"problem_id":"2269A","submission_id":"394694010","title":"SauSaGe Bank"}
 {"accepted_at":1792069373.0,"account_id":"a48","difficulty":1000,"observed_at":1792127074.1395254,"problem_id":"2269B","submission_id":"394695296","title":"KiaKio and Squared Numbers"}
+{"accepted_at":1789633018.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.4384513,"problem_id":"P4016","submission_id":"298193456","title":"负载平衡问题"}
+{"accepted_at":1789700436.0,"account_id":"a49","difficulty":7,"observed_at":1792147315.4384313,"problem_id":"P1251","submission_id":"298279195","title":"餐巾计划问题"}
+{"accepted_at":1789720005.0,"account_id":"a49","difficulty":7,"observed_at":1792147315.438383,"problem_id":"P2053","submission_id":"298307720","title":"[SCOI2007] 修车"}
+{"accepted_at":1790410749.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.4383478,"problem_id":"P17490","submission_id":"299342545","title":"[EPXLQ 2026] 乒乓博弈 II"}
+{"accepted_at":1790494031.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.4383316,"problem_id":"P17495","submission_id":"299550419","title":"[ICPC 2026 Wuhan I] Believe in You"}
+{"accepted_at":1790495083.0,"account_id":"a49","difficulty":3,"observed_at":1792147315.4383135,"problem_id":"P17500","submission_id":"299557500","title":"[ICPC 2026 Wuhan I] Rectangle Cutting"}
+{"accepted_at":1790519849.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.438297,"problem_id":"P17494","submission_id":"299685831","title":"[ICPC 2026 Wuhan I] Sequence Operations"}
+{"accepted_at":1790658425.0,"account_id":"a49","difficulty":1,"observed_at":1792147315.4382763,"problem_id":"P17522","submission_id":"299852357","title":"[ECUSTPC 2026 Fall] 时间谜题 2"}
+{"accepted_at":1790662088.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.4382606,"problem_id":"P17521","submission_id":"299860608","title":"[ECUSTPC 2026 Fall] 天外来物"}
+{"accepted_at":1790665233.0,"account_id":"a49","difficulty":3,"observed_at":1792147315.438244,"problem_id":"P17518","submission_id":"299867241","title":"[ECUSTPC 2026 Fall] 凸包"}
+{"accepted_at":1790667336.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.438227,"problem_id":"P17524","submission_id":"299872229","title":"[ECUSTPC 2026 Fall] 净化行动 3"}
+{"accepted_at":1790687475.0,"account_id":"a49","difficulty":3,"observed_at":1792147315.43821,"problem_id":"P17515","submission_id":"299947494","title":"[ECUSTPC 2026 Fall] 一分为二 2"}
+{"accepted_at":1790763455.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.4381893,"problem_id":"P17538","submission_id":"300050283","title":"音符方阵"}
+{"accepted_at":1790765462.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.4381728,"problem_id":"P17539","submission_id":"300056011","title":"日月同错"}
+{"accepted_at":1790834835.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.438155,"problem_id":"P17554","submission_id":"300173294","title":"「WWOI R4」二五一十"}
+{"accepted_at":1790837558.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.4381378,"problem_id":"P17555","submission_id":"300186023","title":"「WWOI R4」构造大师"}
+{"accepted_at":1790920309.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.4381115,"problem_id":"P17563","submission_id":"300378031","title":"「FAOI-R15」Program of base(x) 2029"}
+{"accepted_at":1792041703.0,"account_id":"a49","difficulty":2,"observed_at":1792147315.4380934,"problem_id":"P17699","submission_id":"303140332","title":"[ICPC 2019 Nanjing R] A Hard Problem"}
+{"accepted_at":1792042275.0,"account_id":"a49","difficulty":0,"observed_at":1792147315.438073,"problem_id":"P17706","submission_id":"303141961","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
+{"accepted_at":1792146561.0,"account_id":"a49","difficulty":4,"observed_at":1792147315.437965,"problem_id":"P3375","submission_id":"303388449","title":"【模板】KMP"}
 {"accepted_at":1787837797.0,"account_id":"a50","difficulty":null,"observed_at":1792127070.2374945,"problem_id":"14304","submission_id":"2825725","title":"Min-Max Tree"}
 {"accepted_at":1787898949.0,"account_id":"a50","difficulty":null,"observed_at":1792127070.2373939,"problem_id":"14309","submission_id":"2827740","title":"Knapsack Problem"}
 {"accepted_at":1788153414.0,"account_id":"a50","difficulty":null,"observed_at":1792127052.8917427,"problem_id":"14712","submission_id":"2841016","title":"GCD of Subsets"}
