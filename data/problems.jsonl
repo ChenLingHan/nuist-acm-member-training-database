@@ -5312,7 +5312,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10934","tags":[],"title":"西瓜种植"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10935","tags":[],"title":"银河"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P10938","tags":[],"title":"Vani和Cl2捉迷藏"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1094","tags":[],"title":"[NOIP 2007 普及组] 纪念品分组"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1094","tags":[],"title":"[NOIP 2007 普及组] 纪念品分组"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1095","tags":[],"title":"[NOIP 2007 普及组] 守望者的逃离"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10955","tags":[],"title":"正整数拆分"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1096","tags":[],"title":"[NOIP 2007 普及组] Hanoi 双塔问题"}
@@ -5330,7 +5330,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11036","tags":[],"title":"【MX-X3-T3】「RiOI-4」GCD 与 LCM 问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1104","tags":[],"title":"生日"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11048","tags":[],"title":"[蓝桥杯 2024 省 Java B] 拼十字"}
-{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1106","tags":[],"title":"删数问题"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1106","tags":[],"title":"删数问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1107","tags":[],"title":"[BJWC2008] 雷涛的小猫"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P11070","tags":[],"title":"「QMSOI R1」 三服同构"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11077","tags":[],"title":"「FSLOI Round I」石子"}
@@ -5374,6 +5374,8 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1129","tags":[],"title":"[ZJOI2007] 矩阵游戏"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11296","tags":[],"title":"[NOISG 2018 Prelim] Snail"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1130","tags":[],"title":"红牌"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11308","tags":[],"title":"茫茫的不归路"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P11309","tags":[],"title":"纷飞的樱花雨"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1131","tags":[],"title":"[ZJOI2007] 时态同步"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11323","tags":[],"title":"【MX-S7-T1】「SMOI-R2」Happy Card"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1133","tags":[],"title":"教主的花园"}
@@ -5898,6 +5900,8 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1736","tags":[],"title":"创意吃鱼法"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1739","tags":[],"title":"表达式括号匹配"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1740","tags":[],"title":"Diamond A&B(1)"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17413","tags":[],"title":"「IXOI R3」时间复杂度分析"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17414","tags":[],"title":"「IXOI R3」贴吧 82 号"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1742","tags":[],"title":"最小圆覆盖"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17424","tags":[],"title":"[ICPC 2018 Xuzhou R] Rikka with Intersections of Paths"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1743","tags":[],"title":"矩阵 III"}
@@ -5922,17 +5926,25 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17521","tags":[],"title":"[ECUSTPC 2026 Fall] 天外来物"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17522","tags":[],"title":"[ECUSTPC 2026 Fall] 时间谜题 2"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17524","tags":[],"title":"[ECUSTPC 2026 Fall] 净化行动 3"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17527","tags":[],"title":"[JAG 2026 Summer Camp #1] XOR Cycle"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17534","tags":[],"title":"[JAG 2026 Summer Camp #1] Capybara Petting Club"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17536","tags":[],"title":"[JAG 2026 Summer Camp #1] Group Strength"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17537","tags":[],"title":"[JAG 2026 Summer Camp #1] Rabbit, Rabbit, Rabbit"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17538","tags":[],"title":"音符方阵"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17539","tags":[],"title":"日月同错"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1754","tags":[],"title":"球迷购票问题"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P17540","tags":[],"title":"发迹"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1755","tags":[],"title":"斐波那契的拆分"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17554","tags":[],"title":"「WWOI R4」二五一十"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17555","tags":[],"title":"「WWOI R4」构造大师"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P17556","tags":[],"title":"「WWOI R4」WsW 的数字"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17563","tags":[],"title":"「FAOI-R15」Program of base(x) 2029"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17568","tags":[],"title":"「FAOI-R15」XOR and Trivial Construction"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17569","tags":[],"title":"「FAOI-R15」XOR and Ugly Equation"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1757","tags":[],"title":"通天之分组背包"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P17575","tags":[],"title":"[JAG 2026 Summer Camp #3] Self-Destruct Sequence"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17578","tags":[],"title":"[JAG 2026 Summer Camp #3] Guess Palindrome"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17582","tags":[],"title":"[JAG 2026 Summer Camp #3] Two Friend Groups"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P17583","tags":[],"title":"[JAG 2026 Summer Camp #3] Treasure Hunting"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17589","tags":[],"title":"Antithese"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17590","tags":[],"title":"Xterfusion"}
@@ -7993,17 +8005,28 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"T537590","tags":[],"title":"[20241109] 明月天涯（moon）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539820","tags":[],"title":"202411A Giants"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539821","tags":[],"title":"202411B Legends Never Die"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539822","tags":[],"title":"202411C K/D/A"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539823","tags":[],"title":"202411D Phoenix"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570543","tags":[],"title":"荷塘月色"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570544","tags":[],"title":"时空混乱"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570545","tags":[],"title":"出行路线"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570546","tags":[],"title":"记忆碎片"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T711698","tags":[],"title":"UID Problem"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U400759","tags":[],"title":"L的拼图"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U401229","tags":[],"title":"Night of Full Moon"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U674017","tags":[],"title":"U674017"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712308","tags":[],"title":"我再也不要赶DDL了"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U723330","tags":[],"title":"【12-X】人造战车"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736555","tags":[],"title":"U736555"}
@@ -8067,6 +8090,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"11381","tags":[],"title":"Team Naming"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"1171","tags":[],"title":"Integer Array Shuffle"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"12176","tags":[],"title":"Diophantine Equation"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"12178","tags":[],"title":"Essentially Different Suffixes"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"12377","tags":[],"title":"致谢"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14301","tags":[],"title":"Who Can Win"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14302","tags":[],"title":"Creating Chaos"}
