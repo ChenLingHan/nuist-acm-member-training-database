@@ -4509,6 +4509,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3717","tags":[],"title":"组合数问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3718","tags":[],"title":"扔骰子问题 1"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"B3728","tags":[],"title":"扔骰子问题 2"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3748","tags":[],"title":"[语言月赛202304] 写大作业"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3777","tags":[],"title":"[语言月赛202306] 魔方"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3827","tags":[],"title":"[NICA #2] 高考组题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3828","tags":[],"title":"[NICA #2] 优秀正整数"}
@@ -5180,8 +5181,10 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10914","tags":[],"title":"[蓝桥杯 2024 国 B] 跳石头"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10915","tags":[],"title":"[蓝桥杯 2024 国 B] 最长回文前后缀"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10921","tags":[],"title":"Happybob's Puzzle (UBC001A)"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10928","tags":[],"title":"走廊泼水节"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1093","tags":[],"title":"[NOIP 2007 普及组] 奖学金"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10934","tags":[],"title":"西瓜种植"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10935","tags":[],"title":"银河"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P10938","tags":[],"title":"Vani和Cl2捉迷藏"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1094","tags":[],"title":"[NOIP 2007 普及组] 纪念品分组"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1095","tags":[],"title":"[NOIP 2007 普及组] 守望者的逃离"}
@@ -5454,8 +5457,16 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P13962","tags":[],"title":"[ICPC 2023 Nanjing R] 电梯"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13963","tags":[],"title":"[ICPC 2023 Nanjing R] 接雨水"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1397","tags":[],"title":"[NOI2013] 矩阵游戏"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P13976","tags":[],"title":"数列分块入门 1"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13977","tags":[],"title":"数列分块入门 2"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13978","tags":[],"title":"数列分块入门 3"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P13979","tags":[],"title":"数列分块入门 4"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1398","tags":[],"title":"[NOI2013] 书法家"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13980","tags":[],"title":"数列分块入门 5"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P13981","tags":[],"title":"数列分块入门 6"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P13982","tags":[],"title":"数列分块入门 7"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P13983","tags":[],"title":"数列分块入门 8"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P13984","tags":[],"title":"数列分块入门 9"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1402","tags":[],"title":"酒店之王"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P14024","tags":[],"title":"[ICPC 2024 Nanjing R] 纸条"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14029","tags":[],"title":"【MX-X20-T3】「FAOI-R7」重排序列（update）"}
@@ -6668,6 +6679,7 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4315","tags":[],"title":"月下“毛景树”"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4316","tags":[],"title":"绿豆蛙的归宿"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4317","tags":[],"title":"花神的数论题"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4320","tags":[],"title":"道路相遇"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P4321","tags":[],"title":"随机漫游"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4322","tags":[],"title":"[JSOI2016] 最佳团体"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P4325","tags":[],"title":"[COCI 2006/2007 #1] Modulo"}
@@ -6746,6 +6758,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4588","tags":[],"title":"[TJOI2018] 数学计算"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4590","tags":[],"title":"[TJOI2018] 游园会"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4602","tags":[],"title":"[CTSC2018] 混合果汁"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4606","tags":[],"title":"[SDOI2018] 战略游戏"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4613","tags":[],"title":"[COCI 2017/2018 #5] Olivander"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P4626","tags":[],"title":"一道水题 II"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4629","tags":[],"title":"[SHOI2015] 聚变反应炉"}
@@ -7400,6 +7413,9 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8756","tags":[],"title":"[蓝桥杯 2021 省 AB2] 国际象棋"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8773","tags":[],"title":"[蓝桥杯 2022 省 A] 选数异或"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8778","tags":[],"title":"[蓝桥杯 2022 省 A] 数的拆分"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8780","tags":[],"title":"[蓝桥杯 2022 省 B] 刷题统计"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8782","tags":[],"title":"[蓝桥杯 2022 省 B] X 进制减法"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8783","tags":[],"title":"[蓝桥杯 2022 省 B] 统计子矩阵"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8784","tags":[],"title":"[蓝桥杯 2022 省 B] 积木画"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8785","tags":[],"title":"[蓝桥杯 2022 省 B] 扫雷"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8794","tags":[],"title":"[蓝桥杯 2022 国 A] 环境治理"}
@@ -7427,6 +7443,7 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P8883","tags":[],"title":"幻想中成为原神"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8891","tags":[],"title":"「UOI-R1」询问"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8895","tags":[],"title":"「DPOI-1」优美的序列"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8896","tags":[],"title":"「DPOI-1」道路规划"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8907","tags":[],"title":"[USACO22DEC] Making Friends P"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8918","tags":[],"title":"『MdOI R5』Jump"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8919","tags":[],"title":"『MdOI R5』Message"}
