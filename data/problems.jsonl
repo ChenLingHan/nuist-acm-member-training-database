@@ -5218,6 +5218,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10386","tags":[],"title":"[蓝桥杯 2024 省 A] 五子棋对弈"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10387","tags":[],"title":"[蓝桥杯 2024 省 A] 训练士兵"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1039","tags":[],"title":"[NOIP 2003 提高组] 侦探推理"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P10397","tags":[],"title":"『STA - R5』5k.sync.closer"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10398","tags":[],"title":"『STA - R5』Remove and Decrease Game"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1040","tags":[],"title":"[NOIP 2003 提高组] 加分二叉树"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1041","tags":[],"title":"[NOIP 2003 提高组] 传染病控制（疑似错题）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1042","tags":[],"title":"[NOIP 2003 普及组] 乒乓球"}
@@ -5757,6 +5759,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1496","tags":[],"title":"火烧赤壁"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1497","tags":[],"title":"木牛流马"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1498","tags":[],"title":"南蛮图腾"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14987","tags":[],"title":"全等"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1502","tags":[],"title":"窗口的星星"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1503","tags":[],"title":"鬼子进村"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1505","tags":[],"title":"[国家集训队] 旅游"}
@@ -8059,6 +8062,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189551","tags":[],"title":"T189551"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189553","tags":[],"title":"T189553"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189650","tags":[],"title":"T189650"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T205934","tags":[],"title":"自动 AC 机"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T207704","tags":[],"title":"方阵"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T207707","tags":[],"title":"猜答案"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
@@ -8067,6 +8071,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258193","tags":[],"title":"低位与高位"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262705","tags":[],"title":"T262705"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262725","tags":[],"title":"T262725"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T268681","tags":[],"title":"T268681"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"T268732","tags":[],"title":"高分时刻"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T270713","tags":[],"title":"[中期自测]天天爱跑步"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"T270731","tags":[],"title":"中奖"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T274687","tags":[],"title":"T274687"}
@@ -8109,12 +8115,15 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143723","tags":[],"title":"U143723"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143829","tags":[],"title":"U143829"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143830","tags":[],"title":"U143830"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U149047","tags":[],"title":"yzy和他的washing mchine"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U197280","tags":[],"title":"【模板】最长公共子序列"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U202750","tags":[],"title":"U202750"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U207508","tags":[],"title":"JYの解密 Round 3"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U207913","tags":[],"title":"「JeIOI Round 1」lzxの说假(fake)"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U209002","tags":[],"title":"JYの解密 Round 4"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U241093","tags":[],"title":"合并果子"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243700","tags":[],"title":"Juicy"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243817","tags":[],"title":"Interesting"}
