@@ -5756,7 +5756,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14574","tags":[],"title":"批话哥"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14578","tags":[],"title":"【模板】无源汇上下界可行流"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14579","tags":[],"title":"【模板】有源汇上下界最大流"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1458","tags":[],"title":"[USACO2.1] Ordered Fractions"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1458","tags":[],"title":"[USACO2.1] 顺序的分数 Ordered Fractions"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14580","tags":[],"title":"【模板】有源汇上下界最小流"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P14583","tags":[],"title":"[LNCPC 2025] 彩绘标志"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P14584","tags":[],"title":"[LNCPC 2025] 点击平衡球"}
@@ -7996,6 +7996,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9508","tags":[],"title":"『STA - R3』存在"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9509","tags":[],"title":"『STA - R3』Aulvwc"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9510","tags":[],"title":"『STA - R3』高维立方体"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P9515","tags":[],"title":"P9515"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9520","tags":[],"title":"[JOIST 2022] 监狱 / Jail"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9521","tags":[],"title":"[JOIST 2022] 京都观光 / Sightseeing in Kyoto"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9522","tags":[],"title":"[JOIST 2022] 错误拼写 / Misspelling"}
@@ -8066,6 +8067,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9811","tags":[],"title":"[CCC 2015 S2] Jerseys"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9815","tags":[],"title":"wbyblD"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P9817","tags":[],"title":"******D"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9825","tags":[],"title":"[ICPC 2020 Shanghai R] Fibonacci"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9836","tags":[],"title":"种树"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9837","tags":[],"title":"汪了个汪"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9838","tags":[],"title":"挑战 NPC IV"}
@@ -8153,6 +8155,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T207704","tags":[],"title":"方阵"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T207707","tags":[],"title":"猜答案"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T208073","tags":[],"title":"Drive with caution!"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T236965","tags":[],"title":"T236965"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T245060","tags":[],"title":"数数"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T246539","tags":[],"title":"T246539"}
@@ -8186,6 +8189,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T306878","tags":[],"title":"T306878"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T365944","tags":[],"title":"T365944"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T368263","tags":[],"title":"环上最大独立集"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T424283","tags":[],"title":"「shury OI Round I」爱情的救赎"}
@@ -8212,6 +8217,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5998","tags":[],"title":"T5998"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6046","tags":[],"title":"T6046"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6109","tags":[],"title":"T6109"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6412","tags":[],"title":"T6412"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699644","tags":[],"title":"[语言月赛 202511] 基米说"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T699645","tags":[],"title":"[语言月赛 202511] 打火基"}
