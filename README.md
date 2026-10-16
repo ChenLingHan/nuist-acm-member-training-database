@@ -1,14 +1,14 @@
-# NUIST ACM 队员训练数据
+# NUIST ACM 训练开放数据
 
-由本机后端低频采集洛谷、Codeforces、QOJ 的 AC 记录，再统一提交到此仓库。前端只读 JSON，不访问 OJ，也不需要 GitHub 写入凭据。
+可供任何前端、分析程序或教学项目读取的静态数据集。[训练看板](https://chenlinghan.github.io/nuist-acm-training-dashboard/)是一个使用示例。
 
-- `data/index.json`：数据版本、采集数量、各账号归档路径。
-- `data/dashboard.json`：大屏用的成员、平台账号、题目去重记录与最新 100 条 AC。
-- `data/accounts/a*.json`：每个账号所有已采集 AC 提交与按题目去重的记录。
-- `schema.json`：文件结构与字段含义。时间均为 Unix 秒，展示使用北京时间。
+- [接口文档](API.md)：字段、完整性、读取示例、SQL 查询、版本与缓存约定。
+- [数据入口](data/index.json) · [规范化完整数据 JSON](data/dataset.json) · [公开 SQLite](data/training-public.sqlite3)
+- [OpenAPI 3.1](openapi.json) · [JSON Schema](dataset.schema.json) · [Python 示例](examples/read_data.py)
+- 每表 JSON / JSONL、各账号所有 AC 和提交明细，见入口文件 paths / files。
 
-未采集到的时间、难度使用 null；历史未完成时 complete=0。每个平台每个账号每道题计一次，跨平台不合并；AC 动态按原始提交编号去重。平台提供的是已通过提交的提交时间，不是判题结束时间。QOJ 无统一难度评分，CF 部分 Gym 题没有 Rating。
+CF 使用官方 API，目标上限 30 次/分钟；QOJ 登录读取并在限制时退避。洛谷官方禁止批量抓取提交记录，因此只同步公开练习清单并接受人工导入，保留已有提交。历史未补齐、字段未知会明确标记，不将空白当作零。
 
-此仓库不包含学号、原始账号表、Cookie、密码、管理令牌、本地 SQLite 或日志。账号档案用稳定的内部编号命名，不包含学号。
+只发布训练元数据：姓名、年级、公开 OJ 账号、题目、提交、采集证据。不含学号、账号表、Cookie、密码、管理令牌、提交代码、原始页面、私人运行日志。SQLite 是从公开字段重新生成的文件，绝非本机数据库副本。
 
-数据为采集到的历史下限，是否完整以账号 complete 为准。采集受登录状态、可见范围、网络与慢队列影响；本仓库不保证实时或全部历史可见。
+数据来自各 OJ，可能受可见范围、删除、重判和网络限制影响；平台题目和内容权利归原权利人。仓库未授予超出原来源的额外许可。自动合并增量并保留 Git 历史，约每两分钟发布有变化的数据。所有时间为 Unix 秒。
