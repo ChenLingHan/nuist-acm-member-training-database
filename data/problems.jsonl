@@ -5217,6 +5217,8 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1034","tags":[],"title":"[NOIP 2002 提高组] 矩形覆盖"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1035","tags":[],"title":"[NOIP 2002 普及组] 级数求和"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1036","tags":[],"title":"[NOIP 2002 普及组] 选数"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10368","tags":[],"title":"「LAOI-4」Colors"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10369","tags":[],"title":"「LAOI-4」Mex Tower (Easy ver.)"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1037","tags":[],"title":"[NOIP 2002 普及组] 产生数"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10370","tags":[],"title":"「LAOI-4」Mex Tower (Hard ver.)"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1038","tags":[],"title":"[NOIP 2003 提高组] 神经网络"}
@@ -8081,8 +8083,10 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T207707","tags":[],"title":"猜答案"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T244390","tags":[],"title":"成绩判断"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T245060","tags":[],"title":"数数"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T246539","tags":[],"title":"T246539"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258192","tags":[],"title":"数字转换"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"T258193","tags":[],"title":"低位与高位"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T260571","tags":[],"title":"T260571"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262705","tags":[],"title":"T262705"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T262725","tags":[],"title":"T262725"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T268681","tags":[],"title":"T268681"}
@@ -8141,6 +8145,9 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U207508","tags":[],"title":"JYの解密 Round 3"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U207913","tags":[],"title":"「JeIOI Round 1」lzxの说假(fake)"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U209002","tags":[],"title":"JYの解密 Round 4"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U226861","tags":[],"title":"U226861"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"U239767","tags":[],"title":"Sky挖铁矿"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U240733","tags":[],"title":"U240733"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U241093","tags":[],"title":"合并果子"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243700","tags":[],"title":"Juicy"}
@@ -8149,6 +8156,8 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U333462","tags":[],"title":"编译器(F9)"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379232","tags":[],"title":"U379232"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"U380249","tags":[],"title":"seq"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"U382348","tags":[],"title":"1"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U382715","tags":[],"title":"测测need read"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"U382990","tags":[],"title":"write plus"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
