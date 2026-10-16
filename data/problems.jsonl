@@ -2011,6 +2011,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"339A","tags":["greedy","implementation","sortings","strings"],"title":"Helpful Maths"}
 {"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"339B","tags":["implementation"],"title":"Xenia and Ringroad"}
 {"difficulty":1700,"platform":"codeforces","points":1500.0,"problem_id":"339C","tags":["constructive algorithms","dfs and similar","dp","graphs","greedy","shortest paths"],"title":"Xenia and Weights"}
+{"difficulty":1200,"platform":"codeforces","points":500.0,"problem_id":"33A","tags":["greedy","implementation"],"title":"What is for dinner?"}
 {"difficulty":2100,"platform":"codeforces","points":2000.0,"problem_id":"343D","tags":["data structures","dfs and similar","graphs","trees"],"title":"Water Tree"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"34A","tags":["implementation"],"title":"Reconnaissance 2"}
 {"difficulty":1900,"platform":"codeforces","points":1000.0,"problem_id":"351B","tags":["combinatorics","dp","probabilities"],"title":"Jeff and Furik"}
@@ -2082,6 +2083,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"49A","tags":["implementation"],"title":"Sleuth"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"4A","tags":["brute force","math"],"title":"Watermelon"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"4C","tags":["data structures","hashing","implementation"],"title":"Registration System"}
+{"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"4D","tags":["dp","sortings"],"title":"Mysterious Present"}
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"500A","tags":["dfs and similar","graphs","implementation"],"title":"New Year Transportation"}
 {"difficulty":1900,"platform":"codeforces","points":1500.0,"problem_id":"505C","tags":["dfs and similar","dp","two pointers"],"title":"Mr. Kitayuta, the Treasure Hunter"}
 {"difficulty":2100,"platform":"codeforces","points":2500.0,"problem_id":"507E","tags":["dfs and similar","dp","graphs","shortest paths"],"title":"Breaking Good"}
