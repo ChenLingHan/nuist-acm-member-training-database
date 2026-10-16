@@ -3606,6 +3606,7 @@
 {"difficulty":2500,"platform":"codeforces","points":1500.0,"problem_id":"468C","tags":["binary search","constructive algorithms","math"],"title":"Hack it!"}
 {"difficulty":3100,"platform":"codeforces","points":2000.0,"problem_id":"468D","tags":["graph matchings"],"title":"Tree"}
 {"difficulty":3100,"platform":"codeforces","points":2500.0,"problem_id":"468E","tags":["dp","graph matchings","math","meet-in-the-middle"],"title":"Permanent"}
+{"difficulty":1100,"platform":"codeforces","points":500.0,"problem_id":"471A","tags":["implementation"],"title":"MUH and Sticks"}
 {"difficulty":1800,"platform":"codeforces","points":2000.0,"problem_id":"471D","tags":["string suffix structures","strings"],"title":"MUH and Cube Walls"}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"474B","tags":["binary search","implementation"],"title":"Worms"}
 {"difficulty":1700,"platform":"codeforces","points":2000.0,"problem_id":"474D","tags":["dp"],"title":"Flowers"}
@@ -5882,6 +5883,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1712","tags":[],"title":"[NOI2016] 区间"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1714","tags":[],"title":"切蛋糕"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1716","tags":[],"title":"双调序列"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P17173","tags":[],"title":" 「MSOI R1」回响"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1718","tags":[],"title":"图形复原"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1719","tags":[],"title":"最大加权矩形"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1720","tags":[],"title":"月落乌啼算钱（斐波那契数列）"}
@@ -8006,6 +8008,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T537590","tags":[],"title":"[20241109] 明月天涯（moon）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539820","tags":[],"title":"202411A Giants"}
@@ -8022,13 +8026,18 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U242390","tags":[],"title":"「JeIOI Round 5」Homo"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243700","tags":[],"title":"Juicy"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U243817","tags":[],"title":"Interesting"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U322249","tags":[],"title":"【模板】四维偏序"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U379232","tags":[],"title":"U379232"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U400759","tags":[],"title":"L的拼图"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U401229","tags":[],"title":"Night of Full Moon"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U41492","tags":[],"title":"树上数颜色"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U461211","tags":[],"title":"字符串 Hash（数据加强）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U505744","tags":[],"title":"U505744"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U674017","tags":[],"title":"U674017"}
