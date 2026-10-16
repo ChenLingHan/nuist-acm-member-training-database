@@ -5469,7 +5469,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12137","tags":[],"title":"[蓝桥杯 2025 省 B] 装修报价"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12156","tags":[],"title":"[蓝桥杯 2025 省 Java B] 电池分组"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12158","tags":[],"title":"[蓝桥杯 2025 省 Java B] 爆破"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1216","tags":[],"title":"[IOI 1994 / USACO1.5] Number Triangles"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1216","tags":[],"title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1217","tags":[],"title":"[USACO1.5] Prime Palindromes"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P12170","tags":[],"title":"[蓝桥杯 2025 省 Python B] 攻击次数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1218","tags":[],"title":"[USACO1.5] Superprime Rib"}
@@ -8020,6 +8020,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109762","tags":[],"title":"T109762"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109763","tags":[],"title":"T109763"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T109765","tags":[],"title":"T109765"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T182749","tags":[],"title":"T182749"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189551","tags":[],"title":"T189551"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T189553","tags":[],"title":"T189553"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
@@ -8058,6 +8059,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U638214","tags":[],"title":"地铁乘车"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U649744","tags":[],"title":"Jewels Merging"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U650358","tags":[],"title":"Divine Divisor"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U674017","tags":[],"title":"U674017"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712308","tags":[],"title":"我再也不要赶DDL了"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712578","tags":[],"title":"U712578"}
