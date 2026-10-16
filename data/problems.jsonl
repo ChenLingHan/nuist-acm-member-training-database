@@ -5501,7 +5501,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12529","tags":[],"title":"P12529"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1253","tags":[],"title":"扶苏的问题"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12530","tags":[],"title":"P12530"}
-{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12531","tags":[],"title":"[XJTUPC 2025] Beat Verdict: Precision Strike"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12531","tags":[],"title":"[XJTUPC 2025] Beat Verdict: Precision Strike"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12533","tags":[],"title":"P12533"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12540","tags":[],"title":"[XJTUPC 2025] 离散对数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1255","tags":[],"title":"数楼梯"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1256","tags":[],"title":"[POI 1999 R2] 显示图像"}
@@ -8015,6 +8016,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570544","tags":[],"title":"时空混乱"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570545","tags":[],"title":"出行路线"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T570546","tags":[],"title":"记忆碎片"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T58249","tags":[],"title":"T58249"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T664203","tags":[],"title":"T664203"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T711698","tags":[],"title":"UID Problem"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
@@ -8023,11 +8026,14 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U400759","tags":[],"title":"L的拼图"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U401229","tags":[],"title":"Night of Full Moon"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U41492","tags":[],"title":"树上数颜色"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U461211","tags":[],"title":"字符串 Hash（数据加强）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U535982","tags":[],"title":"C-小梦的AB交换"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U600007","tags":[],"title":"Meet"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U674017","tags":[],"title":"U674017"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712308","tags":[],"title":"我再也不要赶DDL了"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U712578","tags":[],"title":"U712578"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U723330","tags":[],"title":"【12-X】人造战车"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736555","tags":[],"title":"U736555"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736556","tags":[],"title":"B - 河童重工"}
@@ -8037,7 +8043,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736575","tags":[],"title":"F - 芙兰）（达"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736577","tags":[],"title":"G - 鲤鱼鉴人心"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736579","tags":[],"title":"H - 比利吋小子 正在和 籽山民先生 闹矛盾，，，"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736580","tags":[],"title":"U736580"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736580","tags":[],"title":"I - 鬼人正邪Ⅱ"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U95884","tags":[],"title":"U95884"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"UVA100","tags":[],"title":"The 3n + 1 problem"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"UVA10200","tags":[],"title":"Prime Time"}
