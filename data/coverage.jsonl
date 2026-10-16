@@ -146,6 +146,7 @@
 {"account_id":"a52","checked_at":1792147554.408981,"from_at":1787884373.0,"kind":"history","to_at":1792134645.0}
 {"account_id":"a52","checked_at":1792148897.184171,"from_at":1787884373.0,"kind":"latest","to_at":1792134645.0}
 {"account_id":"a54","checked_at":1792148369.293115,"from_at":1771935092.0,"kind":"history","to_at":1792139395.0}
+{"account_id":"a54","checked_at":1792149010.4663389,"from_at":1771935092.0,"kind":"latest","to_at":1792139395.0}
 {"account_id":"a55","checked_at":1792142257.2091339,"from_at":1792141746.0,"kind":"latest","to_at":1792142109.0}
 {"account_id":"a58","checked_at":1792126993.1089382,"from_at":1790165919.0,"kind":"history","to_at":1790604311.0}
 {"account_id":"a58","checked_at":1792129694.5049906,"from_at":1790165919.0,"kind":"latest","to_at":1790604311.0}
@@ -197,16 +198,20 @@
 {"account_id":"a96","checked_at":1792127113.5471585,"from_at":1781023378.0,"kind":"history","to_at":1791993081.0}
 {"account_id":"a96","checked_at":1792129717.3922162,"from_at":1781023378.0,"kind":"latest","to_at":1791993081.0}
 {"account_id":"a98","checked_at":1792148496.6036842,"from_at":1696756267.0,"kind":"history","to_at":1791991920.0}
+{"account_id":"a98","checked_at":1792149148.7333348,"from_at":1696756267.0,"kind":"latest","to_at":1791991920.0}
 {"account_id":"a100","checked_at":1792148560.9390996,"from_at":1763304651.0,"kind":"history","to_at":1763304651.0}
 {"account_id":"a100","checked_at":1792148552.9249158,"from_at":1763304816.0,"kind":"history","to_at":1763309379.0}
 {"account_id":"a100","checked_at":1792148541.0472755,"from_at":1763309408.0,"kind":"history","to_at":1763310356.0}
 {"account_id":"a100","checked_at":1792148464.6886637,"from_at":1763311058.0,"kind":"history","to_at":1763826638.0}
+{"account_id":"a100","checked_at":1792149068.3637388,"from_at":1763311058.0,"kind":"latest","to_at":1763826638.0}
 {"account_id":"a101","checked_at":1792148505.1201878,"from_at":1633425822.0,"kind":"history","to_at":1789721348.0}
 {"account_id":"a106","checked_at":1792148542.8655467,"from_at":1789036081.0,"kind":"history","to_at":1789041934.0}
 {"account_id":"a106","checked_at":1792148468.748773,"from_at":1789042220.0,"kind":"history","to_at":1791623401.0}
+{"account_id":"a106","checked_at":1792149070.4355543,"from_at":1789042220.0,"kind":"latest","to_at":1791623401.0}
 {"account_id":"a107","checked_at":1792148507.3943043,"from_at":1759761998.0,"kind":"history","to_at":1792069689.0}
 {"account_id":"a111","checked_at":1792148544.8255029,"from_at":1779101414.0,"kind":"history","to_at":1779164569.0}
 {"account_id":"a111","checked_at":1792148472.8388152,"from_at":1779164576.0,"kind":"history","to_at":1791807295.0}
+{"account_id":"a111","checked_at":1792149074.4423156,"from_at":1779164576.0,"kind":"latest","to_at":1791807295.0}
 {"account_id":"a112","checked_at":1792148511.5606303,"from_at":1734878476.0,"kind":"history","to_at":1788019951.0}
 {"account_id":"a114","checked_at":1792148515.3761168,"from_at":1777950218.0,"kind":"history","to_at":1791994696.0}
 {"account_id":"a122","checked_at":1792148517.260206,"from_at":1690462137.0,"kind":"history","to_at":1727951841.0}
@@ -216,6 +221,7 @@
 {"account_id":"a131","checked_at":1792148556.9468896,"from_at":1788782926.0,"kind":"history","to_at":1788785498.0}
 {"account_id":"a131","checked_at":1792148547.0207202,"from_at":1788879253.0,"kind":"history","to_at":1789726827.0}
 {"account_id":"a131","checked_at":1792148492.9041884,"from_at":1790166886.0,"kind":"history","to_at":1791271352.0}
+{"account_id":"a131","checked_at":1792149094.644807,"from_at":1790166886.0,"kind":"latest","to_at":1791271352.0}
 {"account_id":"a132","checked_at":1792148525.9982014,"from_at":1760530260.0,"kind":"history","to_at":1792147367.0}
 {"account_id":"a136","checked_at":1792148529.9019096,"from_at":1709866572.0,"kind":"history","to_at":1709867784.0}
 {"account_id":"a138","checked_at":1792148509.0782228,"from_at":1789731959.0,"kind":"history","to_at":1791279534.0}
