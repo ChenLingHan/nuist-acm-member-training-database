@@ -4605,6 +4605,12 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"B3887","tags":[],"title":"B3887"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"B3888","tags":[],"title":"B3888"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"B3889","tags":[],"title":"B3889"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3893","tags":[],"title":"[NICA #3] 一键三连"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3894","tags":[],"title":"[NICA #3] 开车旅行"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3895","tags":[],"title":"[NICA #3] CPU"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3896","tags":[],"title":"[NICA #3] 搬砖"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3897","tags":[],"title":"[NICA #3] 放生鱼豆腐"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3898","tags":[],"title":"[NICA #3] 彩灯装饰"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3899","tags":[],"title":"[NICA #3] 抗洪救灾"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3908","tags":[],"title":"[语言月赛 202312] 异或构造题？"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3919","tags":[],"title":"[语言月赛 202401] 二进制与一"}
@@ -5532,7 +5538,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1197","tags":[],"title":"[JSOI2008] 星球大战"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1198","tags":[],"title":"[JSOI2008] 最大数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1199","tags":[],"title":"[NOIP 2010 普及组] 三国游戏"}
-{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1200","tags":[],"title":"[USACO1.1] Your Ride Is Here"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1200","tags":[],"title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1201","tags":[],"title":"[USACO1.1] 贪婪的送礼者 Greedy Gift Givers"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1202","tags":[],"title":"[USACO1.1] Friday the Thirteenth"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1203","tags":[],"title":"[IOI 1993 / USACO1.1] Broken Necklace"}
@@ -7818,10 +7824,12 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P8078","tags":[],"title":"[WC2022] 秃子酋长"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8085","tags":[],"title":"[COCI 2011/2012 #4] KRIPTOGRAM"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8086","tags":[],"title":"『JROI-5』Music"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8109","tags":[],"title":"[Cnoi2021] 幻想乡程序设计大赛"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P8112","tags":[],"title":"[Cnoi2021] 符文破译"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8115","tags":[],"title":"「RdOI R3.5」Table"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P8143","tags":[],"title":"[JRKSJ R4] Stirling"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P8144","tags":[],"title":"[JRKSJ R4] BBWWBB"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P8152","tags":[],"title":"「PMOI-5」破译"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P8162","tags":[],"title":"[JOI 2022 Final] 让我们赢得选举 / Let's Win the Election"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P8164","tags":[],"title":"[JOI 2022 Final] 沙堡 2 / Sandcastle 2"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P8177","tags":[],"title":"「EZEC-11」等差数列"}
@@ -8073,6 +8081,8 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9687","tags":[],"title":"Maps."}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9688","tags":[],"title":"Colo."}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9690","tags":[],"title":"[GDCPC 2023] Programming Contest"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9692","tags":[],"title":"[GDCPC 2023] Trading"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9693","tags":[],"title":"[GDCPC 2023] New Houses"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9703","tags":[],"title":"「TFOI R1」Average Number"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9707","tags":[],"title":"[KMOI R1] 音波武器"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9708","tags":[],"title":"[KMOI R1] 集合 First"}
