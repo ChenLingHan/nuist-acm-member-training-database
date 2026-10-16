@@ -4788,10 +4788,17 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"CF1830D","tags":[],"title":"Mex Tree"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"CF1856E1","tags":[],"title":"PermuTree (easy version)"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"CF186A","tags":[],"title":"Comparing Strings"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF1874A","tags":[],"title":"Jellyfish and Game"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"CF1875A","tags":[],"title":"Jellyfish and Undertale"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF1875C","tags":[],"title":"Jellyfish and Green Apple"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"CF1875D","tags":[],"title":"Jellyfish and Mex"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"CF1877A","tags":[],"title":"Goals of Victory"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF1877C","tags":[],"title":"Joyboard"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"CF1879B","tags":[],"title":"Chips on the Board"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF1889A","tags":[],"title":"Qingshan Loves Strings 2"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"CF1889C2","tags":[],"title":"Doremy's Drying Plan (Hard Version)"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"CF1890A","tags":[],"title":"Doremy's Paint 3"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"CF1890B","tags":[],"title":"Qingshan Loves Strings"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"CF1895F","tags":[],"title":"Fancy Arrays"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF189A","tags":[],"title":"Cut Ribbon"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"CF18C","tags":[],"title":"Stripe"}
@@ -5129,6 +5136,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10478","tags":[],"title":"生日礼物"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1048","tags":[],"title":"[NOIP 2005 普及组] 采药"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10480","tags":[],"title":"可达性统计"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10488","tags":[],"title":"[BAPC 2006 资格赛] Booksort"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10489","tags":[],"title":"[IOI 1994] The Buses"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1049","tags":[],"title":"[NOIP 2001 普及组] 装箱问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10505","tags":[],"title":"Dropping Test"}
@@ -5196,6 +5204,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10911","tags":[],"title":"[蓝桥杯 2024 国 B] 数位翻转"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10914","tags":[],"title":"[蓝桥杯 2024 国 B] 跳石头"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10915","tags":[],"title":"[蓝桥杯 2024 国 B] 最长回文前后缀"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1092","tags":[],"title":"[NOIP 2004 提高组] 虫食算"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10921","tags":[],"title":"Happybob's Puzzle (UBC001A)"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10928","tags":[],"title":"走廊泼水节"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1093","tags":[],"title":"[NOIP 2007 普及组] 奖学金"}
@@ -5255,6 +5264,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1125","tags":[],"title":"[NOIP 2008 提高组] 笨小猴"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P11250","tags":[],"title":"[GESP202409 八级] 手套配对"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1127","tags":[],"title":"词链"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1128","tags":[],"title":"[HNOI2001] 求正整数"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11289","tags":[],"title":"【MX-S6-T1】「KDOI-11」打印"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P1129","tags":[],"title":"[ZJOI2007] 矩阵游戏"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11296","tags":[],"title":"[NOISG 2018 Prelim] Snail"}
@@ -5540,6 +5550,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1451","tags":[],"title":"求细胞数量"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1452","tags":[],"title":"[USACO03FALL] Beauty Contest G"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1453","tags":[],"title":"城市环路"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1454","tags":[],"title":"圣诞夜的极光"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1455","tags":[],"title":"搭配购买"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P14566","tags":[],"title":"【MX-S12-T1】取模"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P14578","tags":[],"title":"【模板】无源汇上下界可行流"}
@@ -5740,7 +5751,9 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1726","tags":[],"title":"上白泽慧音"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1727","tags":[],"title":"计算π"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1731","tags":[],"title":"[NOI1999] 生日蛋糕"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17318","tags":[],"title":"[ICPC 2018 Nanjing R] Adrien and Austin"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P17321","tags":[],"title":"[ICPC 2018 Nanjing R] Country Meow"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P17324","tags":[],"title":"[ICPC 2018 Nanjing R] Pyramid"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1733","tags":[],"title":"猜数（IO交互版）"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P17335","tags":[],"title":"【MX-X30-T1】演剧"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1734","tags":[],"title":"最大约数和"}
@@ -6005,6 +6018,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2194","tags":[],"title":"HXY烧情侣"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2196","tags":[],"title":"[NOIP 1996 提高组] 挖地雷"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2197","tags":[],"title":"【模板】Nim 游戏"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2199","tags":[],"title":"最后的迷宫"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2201","tags":[],"title":"数列编辑器"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2210","tags":[],"title":"[USACO13OPEN] Haywire B"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2212","tags":[],"title":"[USACO14MAR] Watering the Fields S"}
@@ -6456,6 +6470,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3390","tags":[],"title":"【模板】矩阵快速幂"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3391","tags":[],"title":"【模板】文艺平衡树"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P3392","tags":[],"title":"涂条纹"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P3395","tags":[],"title":"路障"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3396","tags":[],"title":"哈希冲突"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P3397","tags":[],"title":"地毯"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3398","tags":[],"title":"仓鼠找 sugar"}
@@ -7042,6 +7057,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5542","tags":[],"title":"[USACO19FEB] Painting The Barn S"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5543","tags":[],"title":"[USACO19FEB] The Great Revegetation S"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5544","tags":[],"title":"[JSOI2016] 炸弹攻击1"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5550","tags":[],"title":"Chino的数列"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5569","tags":[],"title":"[SDOI2008] 石子合并"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P5579","tags":[],"title":"[PA 2015] Siano"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5587","tags":[],"title":"打字练习"}
@@ -7279,6 +7295,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P7072","tags":[],"title":"[CSP-J 2020] 直播获奖"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7073","tags":[],"title":"[CSP-J 2020] 表达式"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7074","tags":[],"title":"[CSP-J 2020] 方格取数"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P7075","tags":[],"title":"[CSP-S 2020] 儒略日"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P7076","tags":[],"title":"[CSP-S 2020] 动物园"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P7077","tags":[],"title":"[CSP-S 2020] 函数调用"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P7078","tags":[],"title":"[CSP-S 2020] 贪吃蛇"}
@@ -7617,6 +7634,10 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9596","tags":[],"title":"[JOI Open 2018] 冒泡排序 2 / Bubble Sort 2"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9606","tags":[],"title":"[CERC2019] ABB"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P9643","tags":[],"title":"[SNCPC2019] Pick Up"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9680","tags":[],"title":"string[_view]"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9686","tags":[],"title":"Judg."}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9687","tags":[],"title":"Maps."}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9688","tags":[],"title":"Colo."}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9731","tags":[],"title":"[CEOI 2023] Balance"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9741","tags":[],"title":"「KDOI-06-J」翻转与反转"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9744","tags":[],"title":"「KDOI-06-S」消除序列"}
@@ -7685,7 +7706,11 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539821","tags":[],"title":"202411B Legends Never Die"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539822","tags":[],"title":"202411C K/D/A"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T539823","tags":[],"title":"202411D Phoenix"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"T812892","tags":[],"title":"【6-X】脉冲"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"T812895","tags":[],"title":"【9-X】经典追求"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"T812896","tags":[],"title":"【10-X】蝴蝶行星"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U400420","tags":[],"title":"心电感应"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U723330","tags":[],"title":"【12-X】人造战车"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"UVA100","tags":[],"title":"The 3n + 1 problem"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"UVA10200","tags":[],"title":"Prime Time"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"UVA10228","tags":[],"title":"A Star not a Tree?"}
