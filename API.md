@@ -35,11 +35,11 @@
 |problems|(platform, problem_id)；title、difficulty、tags（已获取标签列表）、points（平台分值，可空）|
 |solves|(account_id, problem_id)；member_id、platform、title、difficulty、solved_at 最早已知 AC 提交时间、observed_at 首次入库时间、source 来源。快照没有提交时间，solved_at=null|
 |accepted_submissions|(account_id, submission_id)；problem_id、title、difficulty、accepted_at 已通过提交的提交时间（不是判题结束时间）、observed_at 首次入库。重复通过保留，按题去重请读 solves|
-|submissions|(account_id, submission_id)；problem_id、title、difficulty、submitted_at、observed_at、verdict（AC 归一为 OK，其余保留平台结果）、language、time_ms、memory_bytes、resource_time_text/resource_memory_text（QOJ 原始可见单位文字）、code_size_text、tags、points、testset、passed_test_count、participant_type、relative_time_seconds、source。保留响应中已经取得的非 AC 提交，但旧版只收 AC，因此非 AC 历史不完整；不包含源码。未获得的扩展字段可以省略|
+|submissions|(account_id, submission_id)；problem_id、title、difficulty、submitted_at、observed_at、verdict（AC 归一为 OK，其余保留平台结果）、verdict_text（QOJ 原始可见判定，例如 200 ✓）、language、time_ms、memory_bytes、resource_time_text/resource_memory_text（QOJ 原始可见单位文字）、code_size_text、tags、points、testset、passed_test_count、participant_type、relative_time_seconds、source。保留响应中已经取得的非 AC 提交，但旧版只收 AC，因此非 AC 历史不完整；不包含源码。未获得的扩展字段可以省略|
 |coverage|account_id、from_at、to_at、checked_at、kind=history/latest；成功返回页面的时间边界，可相交。不是整月全覆盖证明，区间之间仍未知；旧日志不追溯伪造|
-|batches|account_id、fetched_at、kind（snapshot/history/latest/repair/metadata）、position、returned_count 返回条数、accepted_count AC 条数、new_solves 新题、new_ac 新 AC、oldest_at/newest_at 本批边界、total_count/page_size 平台分页信息、scope_problem（定向补题时的题号，否则 null）；仅成功入库的批次摘要，无错误日志|
+|batches|account_id、fetched_at、kind（snapshot/history/latest/repair/metadata/reparse）、position、returned_count 返回条数、accepted_count AC 条数、new_solves 新题、new_ac 新 AC、oldest_at/newest_at 本批边界、total_count/page_size 平台分页信息、scope_problem（定向补题时的题号，否则 null）；仅成功入库的批次摘要；reparse 为使用已存提交纠正判定，不是新增页面查询，不生成新的查询覆盖区间；无错误日志|
 
-题目难度：洛谷 0=暂无评定，1..8 为平台难度等级；CF 为原始 Rating，部分 Gym 没有 Rating；QOJ 无统一评分，使用 null。不同平台题号不合并，同一题被不同队员通过分别计数。profile 总量与记录数可能不同：一个是去重过题，一个是包含重复通过的提交数，且采集仍可能缺失。
+题目难度：洛谷 0=暂无评定，1..8 为平台难度等级；CF 为原始 Rating，部分 Gym 没有 Rating；QOJ 无统一评分，使用 null。QOJ 同时识别 AC/Accepted 及带明确通过勾号的满分结果（如 25 ✓、100 ✓、200 ✓），不把单独分数当作 AC，也不假定满分必须为 100。不同平台题号不合并，同一题被不同队员通过分别计数。profile 总量与记录数可能不同：一个是去重过题，一个是包含重复通过的提交数，且采集仍可能缺失。
 
 ## 完整性与断点
 
