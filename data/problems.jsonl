@@ -7662,6 +7662,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P7318","tags":[],"title":"「PMOI-4」人赢"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P7322","tags":[],"title":"「PMOI-4」排列变换"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P7323","tags":[],"title":"[WC2021] 括号路径"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P7337","tags":[],"title":"『MdOI R4』Fun"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P7345","tags":[],"title":"【DSOI 2021】吟唱的金色花海"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P7356","tags":[],"title":"「PMOI-1」游戏"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P7368","tags":[],"title":"[USACO05NOV] Asteroids G"}
@@ -8000,6 +8001,8 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9509","tags":[],"title":"『STA - R3』Aulvwc"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9510","tags":[],"title":"『STA - R3』高维立方体"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P9515","tags":[],"title":"P9515"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9516","tags":[],"title":"color"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9517","tags":[],"title":"drink"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9520","tags":[],"title":"[JOIST 2022] 监狱 / Jail"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9521","tags":[],"title":"[JOIST 2022] 京都观光 / Sightseeing in Kyoto"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9522","tags":[],"title":"[JOIST 2022] 错误拼写 / Misspelling"}
@@ -8007,6 +8010,8 @@
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P9528","tags":[],"title":"[JOIST 2022] 蚂蚁与方糖 / Ants and Sugar"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P9531","tags":[],"title":"[JOIST 2022] 复兴计划 / Reconstruction Project"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9533","tags":[],"title":"[YsOI2023] 区间翻转区间异或和"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9548","tags":[],"title":"「PHOI-1」雨纷纷"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9556","tags":[],"title":"[SDCPC 2023] Orders"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9569","tags":[],"title":"「NnOI R2-T1」Khronostasis Katharsis"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9570","tags":[],"title":"「NnOI R2-T2」Glaciaxion"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9571","tags":[],"title":"「NnOI R2-T3」Horizon Blue"}
@@ -8205,7 +8210,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T282221","tags":[],"title":"T282221"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T283487","tags":[],"title":"T283487"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T284075","tags":[],"title":"T284075"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T286572","tags":[],"title":"【hash】集合的关系"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T287848","tags":[],"title":"T287848"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288023","tags":[],"title":"兔子与兔子"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288165","tags":[],"title":"T288165"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288168","tags":[],"title":"T288168"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288182","tags":[],"title":"T288182"}
@@ -8350,7 +8357,11 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U149047","tags":[],"title":"yzy和他的washing mchine"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U157439","tags":[],"title":"奇怪的三jio形"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161657","tags":[],"title":"谁的孙子多"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161660","tags":[],"title":"单词接龙"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161661","tags":[],"title":"分数排序"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161662","tags":[],"title":"调用栈"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U162950","tags":[],"title":"无向图一笔画"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166618","tags":[],"title":"pyzo2021 level 1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166619","tags":[],"title":"pyzo2021 level 2"}
@@ -8422,6 +8433,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U410792","tags":[],"title":"联合省选 2024 D1T1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U41492","tags":[],"title":"树上数颜色"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"U419264","tags":[],"title":"Akashi 的序列问题 1"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U422202","tags":[],"title":"数楼梯（非高精度版）"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U438992","tags":[],"title":"「百度之星 2024 初赛第一场」无限房间"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U461211","tags":[],"title":"字符串 Hash（数据加强）"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U47402","tags":[],"title":"【模板】二维偏序"}
@@ -8450,6 +8462,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U736580","tags":[],"title":"I - 鬼人正邪Ⅱ"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U76515","tags":[],"title":"最小生成树：联络员(liaison)"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"U82118","tags":[],"title":"【模板】Miller Rabin算法"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"U87254","tags":[],"title":"开膛手.杰克"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U95884","tags":[],"title":"U95884"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U96164","tags":[],"title":"【模板】树的重心"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"UVA100","tags":[],"title":"The 3n + 1 problem"}
