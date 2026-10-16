@@ -4597,6 +4597,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3748","tags":[],"title":"[语言月赛202304] 写大作业"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3777","tags":[],"title":"[语言月赛202306] 魔方"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"B3784","tags":[],"title":"[语言月赛202306] 演唱会"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3793","tags":[],"title":"[NICA #1] 自动取款机"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3822","tags":[],"title":"[NICA #2] GDP"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3823","tags":[],"title":"[NICA #2] 拉面馆"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"B3824","tags":[],"title":"[NICA #2] 台式烤香肠"}
@@ -5585,7 +5586,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1216","tags":[],"title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1217","tags":[],"title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P12170","tags":[],"title":"[蓝桥杯 2025 省 Python B] 攻击次数"}
-{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1218","tags":[],"title":"[USACO1.5] Superprime Rib"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1218","tags":[],"title":"[USACO1.5] 特殊的质数肋骨 Superprime Rib"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1219","tags":[],"title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1220","tags":[],"title":"关路灯"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1223","tags":[],"title":"排队接水"}
@@ -6401,7 +6402,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2374","tags":[],"title":"搬运工"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2375","tags":[],"title":"[NOI2014] 动物园"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2383","tags":[],"title":"狗哥玩木棒"}
-{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2384","tags":[],"title":"最短路【错题已隐藏】"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P2384","tags":[],"title":"最短路【错题已隐藏】"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P2386","tags":[],"title":"放苹果"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2388","tags":[],"title":"阶乘之乘"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2389","tags":[],"title":"电脑班的裁员"}
