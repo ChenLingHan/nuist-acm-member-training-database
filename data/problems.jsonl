@@ -5517,7 +5517,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P12036","tags":[],"title":"[USTCPC 2025] 摩拉"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12039","tags":[],"title":"[USTCPC 2025] 高位逼抢"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1204","tags":[],"title":"[USACO1.2] 挤牛奶 Milking Cows"}
-{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1205","tags":[],"title":"[USACO1.2] Transformations"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1205","tags":[],"title":"[USACO1.2] 方块转换 Transformations"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1206","tags":[],"title":"[USACO1.2] 回文平方数 Palindromic Squares"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1207","tags":[],"title":"[USACO1.2] 双重回文数 Dual Palindromes"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1208","tags":[],"title":"[USACO1.3] 混合牛奶 Mixing Milk"}
@@ -8142,7 +8142,9 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T158659","tags":[],"title":"T158659"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"T168376","tags":[],"title":"[AC6-M13] The Liberation Of Gracemeria"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T171038","tags":[],"title":"温故而知新"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T172814","tags":[],"title":"T172814"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T173329","tags":[],"title":"A+B Problem"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T175871","tags":[],"title":"T175871"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T176020","tags":[],"title":"T176020"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180897","tags":[],"title":"T180897"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T180898","tags":[],"title":"T180898"}
@@ -8193,6 +8195,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T274687","tags":[],"title":"T274687"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T277277","tags":[],"title":"T277277"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T277278","tags":[],"title":"T277278"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T281682","tags":[],"title":"T281682"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T282221","tags":[],"title":"T282221"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T287848","tags":[],"title":"T287848"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T288165","tags":[],"title":"T288165"}
@@ -8206,7 +8209,10 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313426","tags":[],"title":"一万巫女"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313704","tags":[],"title":"之后就一个人都没有了吗？"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T355165","tags":[],"title":"T355165"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T355166","tags":[],"title":"T355166"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359021","tags":[],"title":"T359021"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T360063","tags":[],"title":"T360063"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T360786","tags":[],"title":"T360786"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363239","tags":[],"title":"T363239"}
@@ -8331,6 +8337,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U143830","tags":[],"title":"U143830"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U149047","tags":[],"title":"yzy和他的washing mchine"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U156246","tags":[],"title":"Cake"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U157439","tags":[],"title":"奇怪的三jio形"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"U161659","tags":[],"title":"统计单词"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166618","tags":[],"title":"pyzo2021 level 1"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U166619","tags":[],"title":"pyzo2021 level 2"}
