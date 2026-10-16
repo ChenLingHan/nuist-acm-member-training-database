@@ -1250,6 +1250,26 @@
 {"accepted_at":1791956507.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122363,"problem_id":"105901A","submission_id":"394473155","title":"Problem Setting"}
 {"accepted_at":1791960410.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122153,"problem_id":"105901L","submission_id":"394478660","title":"Subsequence"}
 {"accepted_at":1791962568.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1120896,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
+{"accepted_at":1774749206.0,"account_id":"a28","difficulty":4,"observed_at":1792146355.818919,"problem_id":"P3174","submission_id":"270607366","title":"[HAOI2009] 毛毛虫"}
+{"accepted_at":1775264971.0,"account_id":"a28","difficulty":4,"observed_at":1792146355.8189,"problem_id":"P3396","submission_id":"271814606","title":"哈希冲突"}
+{"accepted_at":1775268528.0,"account_id":"a28","difficulty":3,"observed_at":1792146355.818865,"problem_id":"P1890","submission_id":"271827320","title":"gcd 区间"}
+{"accepted_at":1776846420.0,"account_id":"a28","difficulty":3,"observed_at":1792146355.8188455,"problem_id":"P16236","submission_id":"275086856","title":"[蓝桥杯 2026 省 B] LQ 聚合"}
+{"accepted_at":1777022986.0,"account_id":"a28","difficulty":3,"observed_at":1792146355.8188264,"problem_id":"B3644","submission_id":"275305276","title":"【模板】拓扑排序 / 家谱树"}
+{"accepted_at":1778219035.0,"account_id":"a28","difficulty":3,"observed_at":1792146355.8187833,"problem_id":"P3379","submission_id":"277072262","title":"【模板】最近公共祖先（LCA）"}
+{"accepted_at":1778671280.0,"account_id":"a28","difficulty":4,"observed_at":1792146355.8187318,"problem_id":"P3386","submission_id":"277693006","title":"【模板】二分图最大匹配"}
+{"accepted_at":1778746286.0,"account_id":"a28","difficulty":6,"observed_at":1792146355.8187137,"problem_id":"P3919","submission_id":"277775674","title":"【模板】可持久化线段树 1（可持久化数组）"}
+{"accepted_at":1778747921.0,"account_id":"a28","difficulty":6,"observed_at":1792146355.818694,"problem_id":"P3834","submission_id":"277780213","title":"【模板】可持久化线段树 2（静态区间第 k 小）"}
+{"accepted_at":1778852627.0,"account_id":"a28","difficulty":6,"observed_at":1792146355.8186736,"problem_id":"P3384","submission_id":"277953007","title":"【模板】重链剖分 / 树链剖分"}
+{"accepted_at":1778852888.0,"account_id":"a28","difficulty":6,"observed_at":1792146355.818649,"problem_id":"P3384","submission_id":"277953827","title":"【模板】重链剖分 / 树链剖分"}
+{"accepted_at":1780476622.0,"account_id":"a28","difficulty":2,"observed_at":1792146355.8186216,"problem_id":"P14357","submission_id":"280494886","title":"[CSP-J 2025] 拼数"}
+{"accepted_at":1784710396.0,"account_id":"a28","difficulty":5,"observed_at":1792146355.8185892,"problem_id":"P3812","submission_id":"287844742","title":"【模板】线性基"}
+{"accepted_at":1786252625.0,"account_id":"a28","difficulty":0,"observed_at":1792146355.818568,"problem_id":"P12526","submission_id":"291683864","title":"P12526"}
+{"accepted_at":1786252895.0,"account_id":"a28","difficulty":0,"observed_at":1792146355.8185492,"problem_id":"P12527","submission_id":"291684457","title":"P12527"}
+{"accepted_at":1786254101.0,"account_id":"a28","difficulty":0,"observed_at":1792146355.8185298,"problem_id":"P12528","submission_id":"291687199","title":"P12528"}
+{"accepted_at":1786255107.0,"account_id":"a28","difficulty":0,"observed_at":1792146355.8185117,"problem_id":"P12529","submission_id":"291689940","title":"P12529"}
+{"accepted_at":1786257346.0,"account_id":"a28","difficulty":0,"observed_at":1792146355.8184829,"problem_id":"P12540","submission_id":"291698195","title":"P12540"}
+{"accepted_at":1788785350.0,"account_id":"a28","difficulty":3,"observed_at":1792146355.81846,"problem_id":"P8306","submission_id":"297045147","title":"【模板】字典树 / Trie"}
+{"accepted_at":1789634931.0,"account_id":"a28","difficulty":7,"observed_at":1792146355.8183174,"problem_id":"P3803","submission_id":"298198206","title":"【模板】多项式乘法（FFT）"}
 {"accepted_at":1788792955.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729434,"problem_id":"20019","submission_id":"2899043","title":"Sequence"}
 {"accepted_at":1788794500.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729356,"problem_id":"20019","submission_id":"2899390","title":"Sequence"}
 {"accepted_at":1789719785.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729284,"problem_id":"14551","submission_id":"2987559","title":"看比赛回放"}
