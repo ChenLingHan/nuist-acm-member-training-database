@@ -5154,7 +5154,7 @@
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"CF9A","tags":[],"title":"Die Roll"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"CF9C","tags":[],"title":"Hexadecimal's Numbers"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"CF9D","tags":[],"title":"How many trees?"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1000","tags":[],"title":"超级玛丽游戏"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1000","tags":[],"title":"超级玛丽游戏"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1001","tags":[],"title":"A+B Problem"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1002","tags":[],"title":"[NOIP 2002 普及组] 过河卒"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P10029","tags":[],"title":"「Cfz Round 3」Battle"}
@@ -5375,6 +5375,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1097","tags":[],"title":"[NOIP 2007 提高组] 统计数字"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1098","tags":[],"title":"[NOIP 2007 提高组] 字符串的展开"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P10993","tags":[],"title":"【MX-J3-T0】 37"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"P10994","tags":[],"title":"【MX-J3-T1】 Seats"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10995","tags":[],"title":"【MX-J3-T2】 Substring"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10996","tags":[],"title":"【MX-J3-T3】 Tuple"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1100","tags":[],"title":"高低位交换"}
@@ -8206,6 +8207,8 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T313704","tags":[],"title":"之后就一个人都没有了吗？"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T327894","tags":[],"title":"Mon ami"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T359006","tags":[],"title":"T359006"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T360063","tags":[],"title":"T360063"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T360786","tags":[],"title":"T360786"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363239","tags":[],"title":"T363239"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363240","tags":[],"title":"T363240"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T363241","tags":[],"title":"T363241"}
@@ -8221,6 +8224,14 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367646","tags":[],"title":"T367646"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T367647","tags":[],"title":"T367647"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"T368263","tags":[],"title":"环上最大独立集"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377546","tags":[],"title":"等式判断"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377550","tags":[],"title":"数组与内存 EV"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377551","tags":[],"title":"扶苏迭代"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377557","tags":[],"title":"打水赛打的"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377558","tags":[],"title":"真的没有 idea 啦"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377559","tags":[],"title":"悬线"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377561","tags":[],"title":"椰奶国"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T377563","tags":[],"title":"pip install"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T420687","tags":[],"title":"T420687"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T424283","tags":[],"title":"「shury OI Round I」爱情的救赎"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T429229","tags":[],"title":"「shury OI Round I」投篮比赛"}
@@ -8247,8 +8258,24 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T5998","tags":[],"title":"T5998"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6046","tags":[],"title":"T6046"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6109","tags":[],"title":"T6109"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6279","tags":[],"title":"T6279"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6280","tags":[],"title":"T6280"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6285","tags":[],"title":"T6285"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6286","tags":[],"title":"T6286"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6287","tags":[],"title":"T6287"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6288","tags":[],"title":"T6288"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6289","tags":[],"title":"T6289"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6290","tags":[],"title":"T6290"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6292","tags":[],"title":"T6292"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6295","tags":[],"title":"T6295"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6298","tags":[],"title":"T6298"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6299","tags":[],"title":"T6299"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6300","tags":[],"title":"T6300"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6301","tags":[],"title":"T6301"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6303","tags":[],"title":"T6303"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6304","tags":[],"title":"T6304"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6305","tags":[],"title":"T6305"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6306","tags":[],"title":"T6306"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6307","tags":[],"title":"T6307"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6318","tags":[],"title":"T6318"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"T6319","tags":[],"title":"T6319"}
@@ -8319,6 +8346,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U169126","tags":[],"title":"U169126"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U173092","tags":[],"title":"A+B Problem"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"U177483","tags":[],"title":"回声"}
+{"difficulty":1,"platform":"luogu","points":null,"problem_id":"U183572","tags":[],"title":"【模板】快读快写"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"U197280","tags":[],"title":"【模板】最长公共子序列"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"U202750","tags":[],"title":"U202750"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"U207508","tags":[],"title":"JYの解密 Round 3"}
@@ -8518,12 +8546,18 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14814","tags":[],"title":"k-子集和最大公约数问题"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14820","tags":[],"title":"扫雪"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14822","tags":[],"title":"六边形翻转"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"14823","tags":[],"title":"幻想乡的裁判长"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14824","tags":[],"title":"01 背包"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14825","tags":[],"title":"网格避障"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"149","tags":[],"title":"Peru"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14941","tags":[],"title":"Buggy Painting Software I"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14945","tags":[],"title":"The Bond Beyond Time"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15037","tags":[],"title":"Grid Filling Game"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15042","tags":[],"title":"Card Game"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15317","tags":[],"title":"Not a subset sum"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15323","tags":[],"title":"Yet another mailbox problem"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15419","tags":[],"title":"New Gomoku"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15429","tags":[],"title":"Reverse KMP"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15437","tags":[],"title":"Find the Circuit"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15439","tags":[],"title":"Longest Common Prefix"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15441","tags":[],"title":"Re: Becoming the Programming Champion"}
@@ -8533,6 +8567,8 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17473","tags":[],"title":"Treasure Island"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17476","tags":[],"title":"Stock Trading"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17477","tags":[],"title":"Two-Player Game"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"17753","tags":[],"title":"Greetings from Prof. Chen"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"17756","tags":[],"title":"City Management"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17758","tags":[],"title":"17758"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17759","tags":[],"title":"17759"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17760","tags":[],"title":"17760"}
@@ -8623,6 +8659,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7744","tags":[],"title":"Elevator"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7745","tags":[],"title":"Trapping Rain Water"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7779","tags":[],"title":"Swiss Stage"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"7781","tags":[],"title":"Sheep Eat Wolves"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7878","tags":[],"title":"Matrix Distances"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7879","tags":[],"title":"Colorful Balloons"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"7894","tags":[],"title":"Many Many Heads"}
@@ -8640,6 +8677,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8082","tags":[],"title":"Minimum Euclidean Distance"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8083","tags":[],"title":"KaChang!"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8230","tags":[],"title":"Submissions"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"8237","tags":[],"title":"Sugar Sweet II"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8316","tags":[],"title":"Random Permutation"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8328","tags":[],"title":"A Good Problem"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"8332","tags":[],"title":"Two in One"}
@@ -8656,6 +8694,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9038","tags":[],"title":"Basic Graph Algorithm"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9039","tags":[],"title":"Conquer the Multiples"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9040","tags":[],"title":"Decrease and Swap"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"9041","tags":[],"title":"Equal Measure"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9045","tags":[],"title":"In Search of the Ultimate Artifact"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9251","tags":[],"title":"Graph Changing"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9308","tags":[],"title":"World Cup"}
@@ -8686,7 +8725,10 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9574","tags":[],"title":"Strips"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9664","tags":[],"title":"Link Summon"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9730","tags":[],"title":"Elevator II"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"9749","tags":[],"title":"小凯的省奖之梦"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9799","tags":[],"title":"Magical Palette"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"9802","tags":[],"title":"Light Up the Grid"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"9806","tags":[],"title":"Growing Tree"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9807","tags":[],"title":"Make Them Believe"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9864","tags":[],"title":"Coin"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"9866","tags":[],"title":"Extracting Weights"}
