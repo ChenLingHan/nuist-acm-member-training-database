@@ -31,7 +31,7 @@
 |表|主键 / 字段说明|
 |---|---|
 |members|id；name 姓名、cohort 入学年份、active=1|
-|accounts|id；member_id → members.id，platform=luogu/codeforces/qoj，handle 为洛谷数字 UID 或其他平台账号；inventory_total 平台个人页去重过题总量、inventory_at 获取时间；last_success 最近成功请求；complete=1 仅表示已读到一次可访问历史末尾；first_ac_at 已知最早 AC，first_ac_confirmed=1 才完成历史与缺题核对；cursor、cursor_unit 下次历史位置；history_before 已到达的旧时间边界；last_full_scan_at 扫描末尾时间；latest_checkpoint 最新已核对头部边界，latest_cursor 最新区间的下一位置；history_mode 表示采集方式|
+|accounts|id；member_id → members.id，platform=luogu/codeforces/qoj，handle 为洛谷数字 UID 或其他平台账号；inventory_total 平台个人页去重过题总量、inventory_at 获取时间、inventory_source 原始个人页来源 URL；last_success 最近成功请求；complete=1 仅表示已读到一次可访问历史末尾；first_ac_at 已知最早 AC，first_ac_confirmed=1 才完成历史与缺题核对；cursor、cursor_unit 下次历史位置；history_before 已到达的旧时间边界；last_full_scan_at 扫描末尾时间；latest_checkpoint 最新已核对头部边界，latest_cursor 最新区间的下一位置；history_mode 表示采集方式|
 |problems|(platform, problem_id)；title、difficulty、tags（已获取标签列表）、points（平台分值，可空）|
 |solves|(account_id, problem_id)；member_id、platform、title、difficulty、solved_at 最早已知 AC 提交时间、observed_at 首次入库时间、source 来源。快照没有提交时间，solved_at=null|
 |accepted_submissions|(account_id, submission_id)；problem_id、title、difficulty、accepted_at 已通过提交的提交时间（不是判题结束时间）、observed_at 首次入库。重复通过保留，按题去重请读 solves|
@@ -43,9 +43,9 @@
 
 ## 完整性与断点
 
-complete 不是所有数据完整的保证，first_ac_confirmed 只针对当时可访问记录。要判断日期缺口，应比较账号 inventory_total 与 solves 中 solved_at 非空的题数，并查看 coverage / history_before。未见到记录不能推断该时间段无人训练。洛谷 history_mode=inventory_and_import：禁止自动批量读取提交历史，已有 AC 继续公开，缺失时间保持 null，可由成员导入本人记录补齐。登录凭据不在公开接口中。
+complete 不是所有数据完整的保证，first_ac_confirmed 只针对当时可访问记录。要判断日期缺口，应比较账号 inventory_total 与 solves 中 solved_at 非空的题数，并查看 coverage / history_before。未见到记录不能推断该时间段无人训练。洛谷 history_mode=authenticated_pages：使用用户授权的本人内存会话查询指定队员的提交列表，主页过题清单与提交明细各自保存。缺失时间保持 null，待后续分页或本人导入补齐。登录凭据不在公开接口中。
 
-CF 一次官方 API 请求获取最多 1000 条，历史向前保留 50 条重叠，提交 ID 去重，持续检查新记录；QOJ 逐页补采。三个平台独立预算、独立队列，任何滚动 60 秒最多配置数量且至多 30 次；收到 429 遵循 Retry-After 并降速。账号错误不会阻塞其他平台。此接口仅反映已取得的数据，自动补采不会虚构隐藏或不可访问记录。
+CF 一次官方 API 请求获取最多 1000 条，历史向前保留 50 条重叠，提交 ID 去重，持续检查新记录；QOJ 逐页补采。三个平台独立预算、独立队列。洛谷主页和明细共用最多 10 次/滚动 60 秒、至少间隔 6 秒的预算；CF / QOJ 各最多 30 次、至少间隔 2 秒；收到 429 遵循 Retry-After 并降速，401/403/验证页暂停。账号错误不会阻塞其他平台。此接口仅反映已取得的数据，自动补采不会虚构隐藏或不可访问记录。
 
 ## JavaScript
 
