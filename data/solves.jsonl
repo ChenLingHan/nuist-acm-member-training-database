@@ -1163,6 +1163,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0006795,"platform":"codeforces","problem_id":"105487I","solved_at":1785749933.0,"source":"codeforces-api","title":"String Duplication"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0007522,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.000767,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792217972.8429725,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012436,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012043,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0011885,"platform":"codeforces","problem_id":"106193D","solved_at":1785049658.0,"source":"codeforces-api","title":"Defense Distance"}
@@ -10436,6 +10437,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143453,"platform":"codeforces","problem_id":"105487I","solved_at":1785749933.0,"source":"codeforces-api","title":"String Duplication"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143537,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143625,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792217940.7446275,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.114628,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1145937,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.114585,"platform":"codeforces","problem_id":"106193D","solved_at":1785049658.0,"source":"codeforces-api","title":"Defense Distance"}
