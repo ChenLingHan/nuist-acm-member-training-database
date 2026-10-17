@@ -1552,6 +1552,7 @@
 {"accepted_at":1792152209.0,"account_id":"a10","difficulty":null,"observed_at":1792152639.6779213,"problem_id":"12377","submission_id":"3193900","title":"致谢"}
 {"accepted_at":1792156604.0,"account_id":"a10","difficulty":null,"observed_at":1792156865.2997656,"problem_id":"12178","submission_id":"3194461","title":"Essentially Different Suffixes"}
 {"accepted_at":1792158232.0,"account_id":"a10","difficulty":null,"observed_at":1792158675.622617,"problem_id":"12178","submission_id":"3194686","title":"Essentially Different Suffixes"}
+{"accepted_at":1792199754.0,"account_id":"a10","difficulty":null,"observed_at":1792199988.9457421,"problem_id":"14803","submission_id":"3195830","title":"Distributing Candies"}
 {"accepted_at":1759566534.0,"account_id":"a11","difficulty":800,"observed_at":1792075181.0232713,"problem_id":"4A","submission_id":"341811370","title":"Watermelon"}
 {"accepted_at":1760343092.0,"account_id":"a11","difficulty":800,"observed_at":1792075181.0231442,"problem_id":"1838A","submission_id":"343489133","title":"Blackboard List"}
 {"accepted_at":1760421441.0,"account_id":"a11","difficulty":800,"observed_at":1792075181.023018,"problem_id":"71A","submission_id":"343645756","title":"Way Too Long Words"}
@@ -12776,6 +12777,7 @@
 {"accepted_at":1788589197.0,"account_id":"a86","difficulty":null,"observed_at":1792127038.1806448,"problem_id":"14317","submission_id":"2877561","title":"Arcane Behemoths"}
 {"accepted_at":1788592655.0,"account_id":"a86","difficulty":null,"observed_at":1792127038.180568,"problem_id":"14316","submission_id":"2878504","title":"Jiaxun!"}
 {"accepted_at":1789310282.0,"account_id":"a86","difficulty":null,"observed_at":1792127004.1957347,"problem_id":"20239","submission_id":"2951479","title":"Divide and Conquer"}
+{"accepted_at":1792199703.0,"account_id":"a86","difficulty":null,"observed_at":1792199987.0085294,"problem_id":"14803","submission_id":"3195826","title":"Distributing Candies"}
 {"accepted_at":1763125039.0,"account_id":"a87","difficulty":800,"observed_at":1792127108.1280727,"problem_id":"2132A","submission_id":"348891305","title":"Homework"}
 {"accepted_at":1768975378.0,"account_id":"a87","difficulty":900,"observed_at":1792127108.127921,"problem_id":"1972B","submission_id":"359015192","title":"Coin Games"}
 {"accepted_at":1769180335.0,"account_id":"a87","difficulty":800,"observed_at":1792127108.1278005,"problem_id":"2189A","submission_id":"359379613","title":"Table with Numbers"}

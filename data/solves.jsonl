@@ -1135,6 +1135,7 @@
 {"account_id":"a9","difficulty":2,"member_id":"m5","observed_at":1792074281.3052595,"platform":"luogu","problem_id":"P9484","solved_at":1764378003.0,"source":"luogu-practice-snapshot","title":"「LAOI-1」GCD"}
 {"account_id":"a10","difficulty":null,"member_id":"m5","observed_at":1792156865.2995975,"platform":"qoj","problem_id":"12178","solved_at":1792156604.0,"source":"qoj-authenticated","title":"Essentially Different Suffixes"}
 {"account_id":"a10","difficulty":null,"member_id":"m5","observed_at":1792152639.6778276,"platform":"qoj","problem_id":"12377","solved_at":1792152209.0,"source":"qoj-authenticated","title":"致谢"}
+{"account_id":"a10","difficulty":null,"member_id":"m5","observed_at":1792199988.9454522,"platform":"qoj","problem_id":"14803","solved_at":1792199754.0,"source":"qoj-authenticated","title":"Distributing Candies"}
 {"account_id":"a10","difficulty":null,"member_id":"m5","observed_at":1792074653.0778217,"platform":"qoj","problem_id":"20018","solved_at":1788767929.0,"source":"qoj-authenticated","title":"Permutation Inversions"}
 {"account_id":"a10","difficulty":null,"member_id":"m5","observed_at":1792074653.0775328,"platform":"qoj","problem_id":"20239","solved_at":1789218815.0,"source":"qoj-authenticated","title":"Divide and Conquer"}
 {"account_id":"a11","difficulty":1200,"member_id":"m5","observed_at":1792075181.0057976,"platform":"codeforces","problem_id":"1028B","solved_at":1781364630.0,"source":"codeforces-api","title":"Unnatural Conditions"}
@@ -10389,6 +10390,7 @@
 {"account_id":"a86","difficulty":null,"member_id":"m37","observed_at":1792120555.8725848,"platform":"qoj","problem_id":"14313","solved_at":1788517247.0,"source":"qoj-profile","title":"Teleporter"}
 {"account_id":"a86","difficulty":null,"member_id":"m37","observed_at":1792120555.872591,"platform":"qoj","problem_id":"14316","solved_at":1788592655.0,"source":"qoj-profile","title":"Jiaxun!"}
 {"account_id":"a86","difficulty":null,"member_id":"m37","observed_at":1792120555.8725967,"platform":"qoj","problem_id":"14317","solved_at":1788589197.0,"source":"qoj-profile","title":"Arcane Behemoths"}
+{"account_id":"a86","difficulty":null,"member_id":"m37","observed_at":1792199987.0082173,"platform":"qoj","problem_id":"14803","solved_at":1792199703.0,"source":"qoj-authenticated","title":"Distributing Candies"}
 {"account_id":"a86","difficulty":null,"member_id":"m37","observed_at":1792120555.8726027,"platform":"qoj","problem_id":"20239","solved_at":1789310282.0,"source":"qoj-profile","title":"Divide and Conquer"}
 {"account_id":"a87","difficulty":2300,"member_id":"m37","observed_at":1792127108.1135561,"platform":"codeforces","problem_id":"1009F","solved_at":1787812950.0,"source":"codeforces-api","title":"Dominant Indices"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1144273,"platform":"codeforces","problem_id":"102576B","solved_at":1785333122.0,"source":"codeforces-api","title":"Binomial"}
