@@ -1164,6 +1164,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0006795,"platform":"codeforces","problem_id":"105487I","solved_at":1785749933.0,"source":"codeforces-api","title":"String Duplication"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0007522,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.000767,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792219784.923197,"platform":"codeforces","problem_id":"105657A","solved_at":1792219451.0,"source":"codeforces-api","title":"AUS"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792217972.8429725,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012436,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012043,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
@@ -10439,6 +10440,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143453,"platform":"codeforces","problem_id":"105487I","solved_at":1785749933.0,"source":"codeforces-api","title":"String Duplication"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143537,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1143625,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792219754.189009,"platform":"codeforces","problem_id":"105657A","solved_at":1792219451.0,"source":"codeforces-api","title":"AUS"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792217940.7446275,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.114628,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1145937,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
@@ -19402,6 +19404,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414918,"platform":"codeforces","problem_id":"105487I","solved_at":1785749933.0,"source":"codeforces-api","title":"String Duplication"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414934,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4149494,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792220053.2956958,"platform":"codeforces","problem_id":"105657A","solved_at":1792219451.0,"source":"codeforces-api","title":"AUS"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792217636.0688002,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4151359,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4150887,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
@@ -19584,6 +19587,7 @@
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4851198,"platform":"luogu","problem_id":"P1003","solved_at":1791812590.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a165","difficulty":4,"member_id":"m73","observed_at":1792150276.485181,"platform":"luogu","problem_id":"P1004","solved_at":1791939202.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 方格取数"}
 {"account_id":"a165","difficulty":1,"member_id":"m73","observed_at":1792150276.4852245,"platform":"luogu","problem_id":"P1914","solved_at":1791963645.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
+{"account_id":"a165","difficulty":3,"member_id":"m73","observed_at":1792219936.639389,"platform":"luogu","problem_id":"P7911","solved_at":1792219843.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852345,"platform":"luogu","problem_id":"P8597","solved_at":1703322186.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2013 省 B] 翻硬币"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852517,"platform":"luogu","problem_id":"P9231","solved_at":1709454486.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2023 省 A] 平方差"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792150282.5806243,"platform":"luogu","problem_id":"P1001","solved_at":1789722723.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
@@ -19973,6 +19977,7 @@
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792163050.6972094,"platform":"luogu","problem_id":"P1003","solved_at":1791890713.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a177","difficulty":4,"member_id":"m78","observed_at":1792163050.6972158,"platform":"luogu","problem_id":"P1004","solved_at":1791894800.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 方格取数"}
 {"account_id":"a177","difficulty":4,"member_id":"m78","observed_at":1792163050.697221,"platform":"luogu","problem_id":"P1005","solved_at":1791972068.0,"source":"luogu-practice-snapshot","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
+{"account_id":"a177","difficulty":3,"member_id":"m78","observed_at":1792220023.7087138,"platform":"luogu","problem_id":"P7911","solved_at":1792219751.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915253,"platform":"qoj","problem_id":"14689","solved_at":1789722752.0,"source":"qoj-profile","title":"Imagined Holly"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915296,"platform":"qoj","problem_id":"14820","solved_at":1791353415.0,"source":"qoj-profile","title":"扫雪"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.391532,"platform":"qoj","problem_id":"14824","solved_at":1791357789.0,"source":"qoj-profile","title":"01 背包"}

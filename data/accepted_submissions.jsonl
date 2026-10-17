@@ -1892,6 +1892,7 @@
 {"accepted_at":1791965548.0,"account_id":"a11","difficulty":1300,"observed_at":1792075180.9972038,"problem_id":"1922C","submission_id":"394487068","title":"Closest Cities"}
 {"accepted_at":1792076930.0,"account_id":"a11","difficulty":1200,"observed_at":1792127046.6174595,"problem_id":"1104B","submission_id":"394711777","title":"Game with string"}
 {"accepted_at":1792217458.0,"account_id":"a11","difficulty":null,"observed_at":1792217972.8432143,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
+{"accepted_at":1792219451.0,"account_id":"a11","difficulty":null,"observed_at":1792219784.9233837,"problem_id":"105657A","submission_id":"394900475","title":"AUS"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -13032,6 +13033,7 @@
 {"accepted_at":1792068180.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.1132233,"problem_id":"2276A","submission_id":"394692774","title":"Perfect Sandwiches"}
 {"accepted_at":1792071312.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.113159,"problem_id":"2276B","submission_id":"394699425","title":"Replace and Compress"}
 {"accepted_at":1792217458.0,"account_id":"a87","difficulty":null,"observed_at":1792217940.7448487,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
+{"accepted_at":1792219451.0,"account_id":"a87","difficulty":null,"observed_at":1792219754.1892364,"problem_id":"105657A","submission_id":"394900475","title":"AUS"}
 {"accepted_at":1761372539.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224429,"problem_id":"P5718","submission_id":"242899207","title":"【深基4.例2】找最小值"}
 {"accepted_at":1762582638.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.222424,"problem_id":"P1307","submission_id":"246029492","title":"[NOIP 2011 普及组] 数字反转"}
 {"accepted_at":1762586659.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224019,"problem_id":"P1089","submission_id":"246058044","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
@@ -24428,6 +24430,7 @@
 {"accepted_at":1791350012.0,"account_id":"a164","difficulty":null,"observed_at":1792148555.413995,"problem_id":"105484E","submission_id":"393465381","title":"Left Shifting 3"}
 {"accepted_at":1791352843.0,"account_id":"a164","difficulty":null,"observed_at":1792148555.413908,"problem_id":"105484J","submission_id":"393468448","title":"Social Media"}
 {"accepted_at":1792217458.0,"account_id":"a164","difficulty":null,"observed_at":1792217636.0691116,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
+{"accepted_at":1792219451.0,"account_id":"a164","difficulty":null,"observed_at":1792220053.2959192,"problem_id":"105657A","submission_id":"394900475","title":"AUS"}
 {"accepted_at":1699691204.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1270413,"problem_id":"B3869","submission_id":"134540660","title":"[GESP202309 四级] 进制转换"}
 {"accepted_at":1700298041.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1269932,"problem_id":"B3870","submission_id":"135740502","title":"[GESP202309 四级] 变长编码"}
 {"accepted_at":1703322186.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.126949,"problem_id":"P8597","submission_id":"140702758","title":"[蓝桥杯 2013 省 B] 翻硬币"}
@@ -24443,6 +24446,7 @@
 {"accepted_at":1791812590.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1265593,"problem_id":"P1003","submission_id":"302739433","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791939202.0,"account_id":"a165","difficulty":4,"observed_at":1792153350.126526,"problem_id":"P1004","submission_id":"302934061","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791963645.0,"account_id":"a165","difficulty":1,"observed_at":1792153350.126386,"problem_id":"P1914","submission_id":"302983979","title":"小书童——凯撒密码"}
+{"accepted_at":1792219843.0,"account_id":"a165","difficulty":3,"observed_at":1792219936.6396296,"problem_id":"P7911","submission_id":"303607401","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1789722723.0,"account_id":"a168","difficulty":1,"observed_at":1792153355.6163747,"problem_id":"P1001","submission_id":"298314404","title":"A+B Problem"}
 {"accepted_at":1792122129.0,"account_id":"a168","difficulty":4,"observed_at":1792153355.616316,"problem_id":"P3375","submission_id":"303319327","title":"【模板】KMP"}
 {"accepted_at":1782832052.0,"account_id":"a169","difficulty":800,"observed_at":1792148561.3840005,"problem_id":"2241A","submission_id":"380753700","title":"Divide and Conquer"}
@@ -24863,6 +24867,8 @@
 {"accepted_at":1791890713.0,"account_id":"a177","difficulty":2,"observed_at":1792163340.8165677,"problem_id":"P1003","submission_id":"302856304","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791894800.0,"account_id":"a177","difficulty":4,"observed_at":1792163340.8165522,"problem_id":"P1004","submission_id":"302880307","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791972068.0,"account_id":"a177","difficulty":4,"observed_at":1792163340.816466,"problem_id":"P1005","submission_id":"303016744","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
+{"accepted_at":1792219751.0,"account_id":"a177","difficulty":3,"observed_at":1792220023.7092307,"problem_id":"P7911","submission_id":"303606620","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792219777.0,"account_id":"a177","difficulty":3,"observed_at":1792220023.7089171,"problem_id":"P7911","submission_id":"303606834","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1760869961.0,"account_id":"a179","difficulty":null,"observed_at":1792163181.2108994,"problem_id":"9802","submission_id":"1544056","title":"Light Up the Grid"}
 {"accepted_at":1775564041.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860512,"problem_id":"9806","submission_id":"2204466","title":"Growing Tree"}
 {"accepted_at":1785754600.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860069,"problem_id":"9749","submission_id":"2714366","title":"小凯的省奖之梦"}
