@@ -95,6 +95,7 @@
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4656308,"platform":"luogu","problem_id":"B2093","solved_at":1658724924.0,"source":"luogu-practice-snapshot","title":"查找特定的值"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.465632,"platform":"luogu","problem_id":"B2094","solved_at":1659321585.0,"source":"luogu-practice-snapshot","title":"不与最大数相同的数字之和"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4656334,"platform":"luogu","problem_id":"B2095","solved_at":1659321622.0,"source":"luogu-practice-snapshot","title":"白细胞计数"}
+{"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792237206.720791,"platform":"luogu","problem_id":"B2096","solved_at":1792237004.0,"source":"luogu-record-list","title":"直方图"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4656348,"platform":"luogu","problem_id":"B2101","solved_at":1660210030.0,"source":"luogu-practice-snapshot","title":"计算矩阵边缘元素之和"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.465636,"platform":"luogu","problem_id":"B2103","solved_at":1660210061.0,"source":"luogu-practice-snapshot","title":"图像相似度"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.4654372,"platform":"luogu","problem_id":"B3619","solved_at":1648443021.0,"source":"luogu-practice-snapshot","title":"10 进制转 x 进制"}
@@ -10745,6 +10746,7 @@
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0447915,"platform":"luogu","problem_id":"P1000","solved_at":1792142379.0,"source":"luogu-record-list","title":"超级玛丽游戏"}
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0444474,"platform":"luogu","problem_id":"P1001","solved_at":1792142643.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a93","difficulty":4,"member_id":"m41","observed_at":1792153446.0448258,"platform":"luogu","problem_id":"P3375","solved_at":1792137885.0,"source":"luogu-record-list","title":"【模板】KMP"}
+{"account_id":"a95","difficulty":2,"member_id":"m42","observed_at":1792237154.163528,"platform":"luogu","problem_id":"B3637","solved_at":1792236934.0,"source":"luogu-record-list","title":"最长上升子序列"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792153452.4680295,"platform":"luogu","problem_id":"P1265","solved_at":1791873578.0,"source":"luogu-record-list","title":"公路修建"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792153452.4679015,"platform":"luogu","problem_id":"P2023","solved_at":1791956904.0,"source":"luogu-record-list","title":"[AHOI2009] 维护序列"}
 {"account_id":"a95","difficulty":5,"member_id":"m42","observed_at":1792153452.4676485,"platform":"luogu","problem_id":"P2572","solved_at":1791975966.0,"source":"luogu-record-list","title":"[SCOI2010] 序列操作"}

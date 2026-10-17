@@ -467,6 +467,7 @@
 {"accepted_at":1791631400.0,"account_id":"a1","difficulty":2,"observed_at":1792072774.3463666,"problem_id":"P17495","submission_id":"302263349","title":"[ICPC 2026 Wuhan I] Believe in You"}
 {"accepted_at":1791631495.0,"account_id":"a1","difficulty":3,"observed_at":1792072774.3463514,"problem_id":"P17500","submission_id":"302263829","title":"[ICPC 2026 Wuhan I] Rectangle Cutting"}
 {"accepted_at":1791634416.0,"account_id":"a1","difficulty":4,"observed_at":1792072774.3462787,"problem_id":"P17496","submission_id":"302278412","title":"[ICPC 2026 Wuhan I] Prime Game"}
+{"accepted_at":1792237004.0,"account_id":"a1","difficulty":1,"observed_at":1792237206.7210562,"problem_id":"B2096","submission_id":"303729263","title":"直方图"}
 {"accepted_at":1721055750.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.920079,"problem_id":"1988A","submission_id":"270673349","title":"Split the Multiset"}
 {"accepted_at":1721056723.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.9200747,"problem_id":"1988B","submission_id":"270688461","title":"Make Majority"}
 {"accepted_at":1721060197.0,"account_id":"a2","difficulty":1300,"observed_at":1792070042.9200702,"problem_id":"1988C","submission_id":"270728802","title":"Increasing Sequence with Fixed OR"}
@@ -13200,6 +13201,7 @@
 {"accepted_at":1792218537.0,"account_id":"a95","difficulty":3,"observed_at":1792218752.652503,"problem_id":"P7911","submission_id":"303598023","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792218639.0,"account_id":"a95","difficulty":3,"observed_at":1792218752.652422,"problem_id":"P7911","submission_id":"303598713","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792218652.0,"account_id":"a95","difficulty":3,"observed_at":1792218752.6520822,"problem_id":"P7911","submission_id":"303598780","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792236934.0,"account_id":"a95","difficulty":2,"observed_at":1792237154.1638048,"problem_id":"B3637","submission_id":"303728835","title":"最长上升子序列"}
 {"accepted_at":1781023378.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.485516,"problem_id":"2233A","submission_id":"377997670","title":"AI Project Development"}
 {"accepted_at":1782659090.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.4854825,"problem_id":"2238A","submission_id":"380485715","title":"Another Puzzle from Papyrus"}
 {"accepted_at":1782659469.0,"account_id":"a96","difficulty":900,"observed_at":1792127114.485449,"problem_id":"2238B","submission_id":"380488923","title":"Crimson Triples"}
