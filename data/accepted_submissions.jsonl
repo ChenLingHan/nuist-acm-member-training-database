@@ -7723,6 +7723,8 @@
 {"accepted_at":1791892118.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5511255,"problem_id":"2271E","submission_id":"394390230","title":"Array Emptying"}
 {"accepted_at":1791895144.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5510676,"problem_id":"2271F","submission_id":"394395803","title":"Beautiful Pillers"}
 {"accepted_at":1792220348.0,"account_id":"a34","difficulty":3,"observed_at":1792220584.817644,"problem_id":"P7911","submission_id":"303611675","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792221828.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.1811852,"problem_id":"P7911","submission_id":"303624076","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792221991.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.180966,"problem_id":"P7911","submission_id":"303625515","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -8282,6 +8284,7 @@
 {"accepted_at":1757051565.0,"account_id":"a42","difficulty":null,"observed_at":1792127048.8268554,"problem_id":"9308","submission_id":"1288492","title":"World Cup"}
 {"accepted_at":1789550546.0,"account_id":"a42","difficulty":null,"observed_at":1792127025.6397517,"problem_id":"19021","submission_id":"2973553","title":"Alice的压岁钱"}
 {"accepted_at":1790172988.0,"account_id":"a42","difficulty":null,"observed_at":1792126987.184578,"problem_id":"19022","submission_id":"3020690","title":"霓虹天际线"}
+{"accepted_at":1792222265.0,"account_id":"a42","difficulty":null,"observed_at":1792222335.5986974,"problem_id":"14815","submission_id":"3198401","title":"液压机"}
 {"accepted_at":1663575533.0,"account_id":"a43","difficulty":2200,"observed_at":1792127069.7695081,"problem_id":"622E","submission_id":"172632282","title":"Ants in Leaves"}
 {"accepted_at":1663576275.0,"account_id":"a43","difficulty":2100,"observed_at":1792127069.7694662,"problem_id":"343D","submission_id":"172633158","title":"Water Tree"}
 {"accepted_at":1663593157.0,"account_id":"a43","difficulty":1900,"observed_at":1792127069.7694204,"problem_id":"229C","submission_id":"172658117","title":"Triangles"}
@@ -21291,6 +21294,7 @@
 {"accepted_at":1792161136.0,"account_id":"a151","difficulty":4,"observed_at":1792161344.5763545,"problem_id":"P3375","submission_id":"303472002","title":"【模板】KMP"}
 {"accepted_at":1792206207.0,"account_id":"a151","difficulty":3,"observed_at":1792206477.6554134,"problem_id":"P7911","submission_id":"303535705","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792220921.0,"account_id":"a151","difficulty":4,"observed_at":1792221108.1052694,"problem_id":"P3375","submission_id":"303616346","title":"【模板】KMP"}
+{"accepted_at":1792221888.0,"account_id":"a151","difficulty":5,"observed_at":1792222316.6526337,"problem_id":"P3435","submission_id":"303624629","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1788854125.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1556063,"problem_id":"20021","submission_id":"2905356","title":"50 Years of Excellence"}
 {"accepted_at":1788855591.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1553798,"problem_id":"20028","submission_id":"2905798","title":"Check In"}
 {"accepted_at":1791121291.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.927953,"problem_id":"2267A","submission_id":"393183238","title":"Turn Into a Palindrome"}
@@ -24458,6 +24462,8 @@
 {"accepted_at":1792219843.0,"account_id":"a165","difficulty":3,"observed_at":1792219936.6396296,"problem_id":"P7911","submission_id":"303607401","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1789722723.0,"account_id":"a168","difficulty":1,"observed_at":1792153355.6163747,"problem_id":"P1001","submission_id":"298314404","title":"A+B Problem"}
 {"accepted_at":1792122129.0,"account_id":"a168","difficulty":4,"observed_at":1792153355.616316,"problem_id":"P3375","submission_id":"303319327","title":"【模板】KMP"}
+{"accepted_at":1792222092.0,"account_id":"a168","difficulty":3,"observed_at":1792222363.1346326,"problem_id":"P7911","submission_id":"303626356","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792222115.0,"account_id":"a168","difficulty":3,"observed_at":1792222363.1341484,"problem_id":"P7911","submission_id":"303626545","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1782832052.0,"account_id":"a169","difficulty":800,"observed_at":1792148561.3840005,"problem_id":"2241A","submission_id":"380753700","title":"Divide and Conquer"}
 {"accepted_at":1782838028.0,"account_id":"a169","difficulty":1000,"observed_at":1792148561.3839843,"problem_id":"2241C","submission_id":"380828992","title":"RemovevomeR"}
 {"accepted_at":1782984853.0,"account_id":"a169","difficulty":1600,"observed_at":1792148561.383959,"problem_id":"2241E","submission_id":"381002417","title":"Fair and Square"}
