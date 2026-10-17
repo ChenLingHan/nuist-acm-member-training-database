@@ -7723,6 +7723,7 @@
 {"accepted_at":1791892118.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5511255,"problem_id":"2271E","submission_id":"394390230","title":"Array Emptying"}
 {"accepted_at":1791895144.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5510676,"problem_id":"2271F","submission_id":"394395803","title":"Beautiful Pillers"}
 {"accepted_at":1792220348.0,"account_id":"a34","difficulty":3,"observed_at":1792220584.817644,"problem_id":"P7911","submission_id":"303611675","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792222456.0,"account_id":"a34","difficulty":5,"observed_at":1792223028.8863428,"problem_id":"P3435","submission_id":"303629410","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1792221828.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.1811852,"problem_id":"P7911","submission_id":"303624076","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792221991.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.180966,"problem_id":"P7911","submission_id":"303625515","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
@@ -21295,6 +21296,7 @@
 {"accepted_at":1792206207.0,"account_id":"a151","difficulty":3,"observed_at":1792206477.6554134,"problem_id":"P7911","submission_id":"303535705","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792220921.0,"account_id":"a151","difficulty":4,"observed_at":1792221108.1052694,"problem_id":"P3375","submission_id":"303616346","title":"【模板】KMP"}
 {"accepted_at":1792221888.0,"account_id":"a151","difficulty":5,"observed_at":1792222316.6526337,"problem_id":"P3435","submission_id":"303624629","title":"[POI 2006] OKR-Periods of Words"}
+{"accepted_at":1792222795.0,"account_id":"a151","difficulty":4,"observed_at":1792222918.8054974,"problem_id":"P3375","submission_id":"303632194","title":"【模板】KMP"}
 {"accepted_at":1788854125.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1556063,"problem_id":"20021","submission_id":"2905356","title":"50 Years of Excellence"}
 {"accepted_at":1788855591.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1553798,"problem_id":"20028","submission_id":"2905798","title":"Check In"}
 {"accepted_at":1791121291.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.927953,"problem_id":"2267A","submission_id":"393183238","title":"Turn Into a Palindrome"}
@@ -24177,6 +24179,8 @@
 {"accepted_at":1791461874.0,"account_id":"a158","difficulty":2,"observed_at":1792153332.7788618,"problem_id":"P14358","submission_id":"301953854","title":"[CSP-J 2025] 座位"}
 {"accepted_at":1792061183.0,"account_id":"a158","difficulty":4,"observed_at":1792153332.778826,"problem_id":"P3375","submission_id":"303206587","title":"【模板】KMP"}
 {"accepted_at":1792111675.0,"account_id":"a158","difficulty":4,"observed_at":1792153332.778697,"problem_id":"P4391","submission_id":"303300542","title":"[BalticOI 2009] Radio Transmission 无线传输"}
+{"accepted_at":1792222390.0,"account_id":"a158","difficulty":5,"observed_at":1792222964.21711,"problem_id":"P3435","submission_id":"303628845","title":"[POI 2006] OKR-Periods of Words"}
+{"accepted_at":1792222604.0,"account_id":"a158","difficulty":5,"observed_at":1792222964.2168145,"problem_id":"P3435","submission_id":"303630598","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1631024137.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007793,"problem_id":"1509A","submission_id":"128133913","title":"Average Height"}
 {"accepted_at":1631024816.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007552,"problem_id":"1509A","submission_id":"128134880","title":"Average Height"}
 {"accepted_at":1662869388.0,"account_id":"a159","difficulty":1000,"observed_at":1792148551.100661,"problem_id":"1266A","submission_id":"171671108","title":"Competitive Programmer"}

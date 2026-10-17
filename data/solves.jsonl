@@ -5723,6 +5723,7 @@
 {"account_id":"a33","difficulty":2900,"member_id":"m13","observed_at":1792127140.4445233,"platform":"codeforces","problem_id":"997D","solved_at":1686918973.0,"source":"codeforces-api","title":"Cycles in product"}
 {"account_id":"a33","difficulty":3000,"member_id":"m13","observed_at":1792127061.5618384,"platform":"codeforces","problem_id":"997E","solved_at":1692189102.0,"source":"codeforces-api","title":"Good Subsegments"}
 {"account_id":"a33","difficulty":1900,"member_id":"m13","observed_at":1792127172.4247541,"platform":"codeforces","problem_id":"9D","solved_at":1639130343.0,"source":"codeforces-api","title":"How many trees?"}
+{"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792222410.180791,"platform":"luogu","problem_id":"P7911","solved_at":1792221828.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5865874,"platform":"codeforces","problem_id":"2233A","solved_at":1781024115.0,"source":"codeforces-api","title":"AI Project Development"}
@@ -19270,6 +19271,7 @@
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.846545,"platform":"luogu","problem_id":"P3368","solved_at":1709363788.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8465261,"platform":"luogu","problem_id":"P3371","solved_at":1657553724.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（弱化版）"}
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.8465357,"platform":"luogu","problem_id":"P3375","solved_at":1792061183.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
+{"account_id":"a158","difficulty":5,"member_id":"m70","observed_at":1792222964.2166045,"platform":"luogu","problem_id":"P3435","solved_at":1792222390.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.846594,"platform":"luogu","problem_id":"P3650","solved_at":1652020563.0,"source":"luogu-practice-snapshot","title":"[USACO1.3] 滑雪课程设计 Ski Course Design"}
 {"account_id":"a158","difficulty":8,"member_id":"m70","observed_at":1792150258.8463929,"platform":"luogu","problem_id":"P3724","solved_at":1628075437.0,"source":"luogu-practice-snapshot","title":"[AHOI2017/HNOI2017] 大佬"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8464518,"platform":"luogu","problem_id":"P3951","solved_at":1645944885.0,"source":"luogu-practice-snapshot","title":"[NOIP 2017 提高组] 小凯的疑惑"}
