@@ -4514,6 +4514,7 @@
 {"account_id":"a117","difficulty":2,"observed_at":1792153234.8554919,"problem_id":"P1009","source":"luogu-record-list","submission_id":"302372996","submitted_at":1791686788,"title":"[NOIP 1998 普及组] 阶乘之和","verdict":"OK"}
 {"account_id":"a117","difficulty":4,"observed_at":1792153234.8554919,"problem_id":"P3375","source":"luogu-record-list","submission_id":"303300268","submitted_at":1792111452,"title":"【模板】KMP","verdict":"OK"}
 {"account_id":"a117","difficulty":3,"observed_at":1792223407.0290868,"problem_id":"P7911","source":"luogu-record-list","submission_id":"303633464","submitted_at":1792222945,"title":"[CSP-J 2021] 网络连接","verdict":"OK"}
+{"account_id":"a117","difficulty":3,"observed_at":1792224617.5117352,"problem_id":"P7911","source":"luogu-record-list","submission_id":"303642916","submitted_at":1792224033,"title":"[CSP-J 2021] 网络连接","verdict":"OK"}
 {"account_id":"a119","difficulty":1,"observed_at":1792153240.8726249,"problem_id":"B2002","source":"luogu-record-list","submission_id":"303238665","submitted_at":1792066653,"title":"Hello,World!","verdict":"OK"}
 {"account_id":"a119","difficulty":1,"observed_at":1792153240.8726249,"problem_id":"B2025","source":"luogu-record-list","submission_id":"303240261","submitted_at":1792066888,"title":"输出字符菱形","verdict":"OK"}
 {"account_id":"a119","difficulty":1,"observed_at":1792153240.8726249,"problem_id":"P1425","source":"luogu-record-list","submission_id":"303253121","submitted_at":1792068880,"title":"小鱼的游泳时间","verdict":"OK"}
@@ -31236,6 +31237,8 @@
 {"account_id":"a70","difficulty":4,"observed_at":1792153439.561799,"problem_id":"P3375","source":"luogu-record-list","submission_id":"303364811","submitted_at":1792140454,"title":"【模板】KMP","verdict":"OK"}
 {"account_id":"a70","difficulty":3,"observed_at":1792204725.6944003,"problem_id":"P7911","source":"luogu-record-list","submission_id":"303523610","submitted_at":1792204492,"title":"[CSP-J 2021] 网络连接","verdict":"OK"}
 {"account_id":"a70","difficulty":3,"observed_at":1792204725.6944003,"problem_id":"P7911","source":"luogu-record-list","submission_id":"303524302","submitted_at":1792204596,"title":"[CSP-J 2021] 网络连接","verdict":"OK"}
+{"account_id":"a70","difficulty":5,"observed_at":1792224849.707558,"problem_id":"P3435","source":"luogu-record-list","submission_id":"303646517","submitted_at":1792224437,"title":"[POI 2006] OKR-Periods of Words","verdict":"OK"}
+{"account_id":"a70","difficulty":5,"observed_at":1792224849.707558,"problem_id":"P3435","source":"luogu-record-list","submission_id":"303647027","submitted_at":1792224494,"title":"[POI 2006] OKR-Periods of Words","verdict":"OK"}
 {"account_id":"a72","difficulty":4,"observed_at":1792150394.4315717,"problem_id":"P1004","source":"luogu-record-list","submission_id":"298014105","submitted_at":1789476996,"title":"[NOIP 2000 提高组] 方格取数","verdict":"OK"}
 {"account_id":"a72","difficulty":4,"observed_at":1792150394.4315717,"problem_id":"P1005","source":"luogu-record-list","submission_id":"301933959","submitted_at":1791458322,"title":"[NOIP 2007 提高组] 矩阵取数游戏","verdict":"OK"}
 {"account_id":"a72","difficulty":4,"observed_at":1792150394.4315717,"problem_id":"P1006","source":"luogu-record-list","submission_id":"301995987","submitted_at":1791470985,"title":"[NOIP 2008 提高组] 传纸条","verdict":"OK"}
