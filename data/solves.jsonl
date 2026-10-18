@@ -10791,6 +10791,7 @@
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792153452.4679234,"platform":"luogu","problem_id":"P3372","solved_at":1791906350.0,"source":"luogu-record-list","title":"【模板】线段树 1"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792153452.4678736,"platform":"luogu","problem_id":"P3373","solved_at":1791957050.0,"source":"luogu-record-list","title":"【模板】线段树 2"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792158346.000282,"platform":"luogu","problem_id":"P3375","solved_at":1792158088.0,"source":"luogu-record-list","title":"【模板】KMP"}
+{"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792338907.4338722,"platform":"luogu","problem_id":"P3379","solved_at":1792338384.0,"source":"luogu-record-list","title":"【模板】最近公共祖先（LCA）"}
 {"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792309827.5479867,"platform":"luogu","problem_id":"P3385","solved_at":1792309397.0,"source":"luogu-record-list","title":"【模板】负环"}
 {"account_id":"a95","difficulty":5,"member_id":"m42","observed_at":1792165698.6452198,"platform":"luogu","problem_id":"P3435","solved_at":1792165606.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792160780.9840596,"platform":"luogu","problem_id":"P4391","solved_at":1792160755.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
@@ -15594,7 +15595,7 @@
 {"account_id":"a132","difficulty":1100,"member_id":"m58","observed_at":1792148526.000266,"platform":"codeforces","problem_id":"1869B","solved_at":1764378550.0,"source":"codeforces-api","title":"2D Traveling"}
 {"account_id":"a132","difficulty":1300,"member_id":"m58","observed_at":1792148526.0000532,"platform":"codeforces","problem_id":"1931D","solved_at":1769239499.0,"source":"codeforces-api","title":"Divisible Pairs"}
 {"account_id":"a132","difficulty":900,"member_id":"m58","observed_at":1792148526.0002496,"platform":"codeforces","problem_id":"1972B","solved_at":1768974339.0,"source":"codeforces-api","title":"Coin Games"}
-{"account_id":"a132","difficulty":1800,"member_id":"m58","observed_at":1792327375.3592734,"platform":"codeforces","problem_id":"1974E","solved_at":1792325110.0,"source":"codeforces-api","title":"Money Buys Happiness"}
+{"account_id":"a132","difficulty":1800,"member_id":"m58","observed_at":1792327375.3592734,"platform":"codeforces","problem_id":"1974E","solved_at":1792308552.0,"source":"codeforces-api","title":"Money Buys Happiness"}
 {"account_id":"a132","difficulty":1300,"member_id":"m58","observed_at":1792148526.0004315,"platform":"codeforces","problem_id":"2037D","solved_at":1762564487.0,"source":"codeforces-api","title":"Sharky Surfing"}
 {"account_id":"a132","difficulty":800,"member_id":"m58","observed_at":1792148526.0004482,"platform":"codeforces","problem_id":"2149A","solved_at":1761134119.0,"source":"codeforces-api","title":"Be Positive"}
 {"account_id":"a132","difficulty":800,"member_id":"m58","observed_at":1792148526.000399,"platform":"codeforces","problem_id":"2156A","solved_at":1762946312.0,"source":"codeforces-api","title":"Pizza Time"}
