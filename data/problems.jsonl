@@ -2335,6 +2335,7 @@
 {"difficulty":900,"platform":"codeforces","points":750.0,"problem_id":"1972B","tags":["games"],"title":"Coin Games"}
 {"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"1973A","tags":["brute force","dp","implementation","math"],"title":"Chess For Three"}
 {"difficulty":1300,"platform":"codeforces","points":1000.0,"problem_id":"1973B","tags":["binary search","bitmasks","data structures","greedy","math","two pointers"],"title":"Cat, Fox and the Lonely Array"}
+{"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"1974E","tags":["dp"],"title":"Money Buys Happiness"}
 {"difficulty":800,"platform":"codeforces","points":250.0,"problem_id":"1975A","tags":["brute force","greedy","implementation","sortings"],"title":"Bazoka and Mocha's Array"}
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"1975B","tags":["brute force","greedy","math","sortings"],"title":"378QAQ and Mocha's Array"}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"1975C","tags":["binary search","brute force","greedy"],"title":"Chamo and Mocha's Array"}
