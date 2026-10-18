@@ -3461,6 +3461,7 @@
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2261B","tags":["bitmasks","greedy","math"],"title":"What's the Capital of France?"}
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2261C","tags":["games","math"],"title":"I Know About a Million Things"}
 {"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2261D1","tags":["constructive algorithms","math"],"title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2261E","tags":["binary search","data structures","dfs and similar","greedy","trees"],"title":"What Does the Cow Say?"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2263A","tags":["games"],"title":"Min Max Game"}
 {"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"2263B","tags":["constructive algorithms"],"title":"Min Matrices"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"2263C1","tags":["constructive algorithms","greedy"],"title":"Floor of MEX (Easy Version)"}
