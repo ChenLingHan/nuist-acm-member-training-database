@@ -393,6 +393,7 @@
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.71177,"platform":"qoj","problem_id":"14803","solved_at":1790406231.0,"source":"qoj-profile","title":"Distributing Candies"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117732,"platform":"qoj","problem_id":"14806","solved_at":1790418276.0,"source":"qoj-profile","title":"Bitwise And Path"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.711776,"platform":"qoj","problem_id":"14811","solved_at":1790426467.0,"source":"qoj-profile","title":"Xiangqi"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792319352.9657466,"platform":"qoj","problem_id":"18429","solved_at":1792318865.0,"source":"qoj-authenticated","title":"Sequence Operations"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792056689.4309084,"platform":"qoj","problem_id":"18430","solved_at":1791614476.0,"source":"qoj-authenticated","title":"Believe in You"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792056689.430884,"platform":"qoj","problem_id":"18431","solved_at":1791634299.0,"source":"qoj-authenticated","title":"Prime Game"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792056689.4309025,"platform":"qoj","problem_id":"18435","solved_at":1791617143.0,"source":"qoj-authenticated","title":"Rectangle Cutting"}
@@ -10716,6 +10717,7 @@
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6256406,"platform":"luogu","problem_id":"P1996","solved_at":1788873798.0,"source":"luogu-practice-snapshot","title":"约瑟夫问题"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6256459,"platform":"luogu","problem_id":"P2082","solved_at":1791859432.0,"source":"luogu-practice-snapshot","title":"区间覆盖（加强版）"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6256504,"platform":"luogu","problem_id":"P2085","solved_at":1791726850.0,"source":"luogu-practice-snapshot","title":"最小函数值"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792319334.7268293,"platform":"luogu","problem_id":"P2142","solved_at":1792319306.0,"source":"luogu-record-list","title":"高精度减法"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6256988,"platform":"luogu","problem_id":"P2249","solved_at":1791340233.0,"source":"luogu-practice-snapshot","title":"【深基13.例1】查找"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625655,"platform":"luogu","problem_id":"P2367","solved_at":1791273390.0,"source":"luogu-practice-snapshot","title":"语文成绩"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.6257036,"platform":"luogu","problem_id":"P3156","solved_at":1788869967.0,"source":"luogu-practice-snapshot","title":"【深基15.例1】询问学号"}
