@@ -8504,6 +8504,7 @@
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.106446,"platform":"codeforces","problem_id":"2185A","solved_at":1773410227.0,"source":"codeforces-api","title":"Perfect Root"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1046276,"platform":"codeforces","problem_id":"2193A","solved_at":1783510812.0,"source":"codeforces-api","title":"DBMB and the Array"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792408741.1005301,"platform":"codeforces","problem_id":"2217A","solved_at":1792408312.0,"source":"codeforces-api","title":"The Equalizer"}
+{"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792411760.5493107,"platform":"codeforces","problem_id":"2217B","solved_at":1792411407.0,"source":"codeforces-api","title":"Flip the Bit (Easy Version)"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1060154,"platform":"codeforces","problem_id":"2218A","solved_at":1777822046.0,"source":"codeforces-api","title":"The 67th Integer Problem"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1059642,"platform":"codeforces","problem_id":"2218B","solved_at":1777823451.0,"source":"codeforces-api","title":"The 67th 6-7 Integer Problem"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.106221,"platform":"codeforces","problem_id":"2225A","solved_at":1776785643.0,"source":"codeforces-api","title":"A Number Between Two Others"}
@@ -16977,6 +16978,7 @@
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3462312,"platform":"luogu","problem_id":"P1223","solved_at":1690044647.0,"source":"luogu-practice-snapshot","title":"排队接水"}
 {"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792150253.3462405,"platform":"luogu","problem_id":"P1251","solved_at":1714129501.0,"source":"luogu-practice-snapshot","title":"餐巾计划问题"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3462515,"platform":"luogu","problem_id":"P1257","solved_at":1774417933.0,"source":"luogu-practice-snapshot","title":"平面上的最接近点对"}
+{"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792411776.456161,"platform":"luogu","problem_id":"P12796","solved_at":1792411259.0,"source":"luogu-record-list","title":"[NERC 2022] Game of Questions"}
 {"account_id":"a155","difficulty":5,"member_id":"m69","observed_at":1792150253.350776,"platform":"luogu","problem_id":"P12853","solved_at":1790582363.0,"source":"luogu-practice-snapshot","title":"[NERC 2020 Online] Down We Dig"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.346265,"platform":"luogu","problem_id":"P1287","solved_at":1765589816.0,"source":"luogu-practice-snapshot","title":"盒子与球"}
 {"account_id":"a155","difficulty":4,"member_id":"m69","observed_at":1792150253.3462749,"platform":"luogu","problem_id":"P1290","solved_at":1768831926.0,"source":"luogu-practice-snapshot","title":"欧几里德的游戏"}
