@@ -603,6 +603,7 @@
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"1133D","tags":["hashing","math","number theory"],"title":"Zero Quantity Maximization"}
 {"difficulty":1500,"platform":"codeforces","points":1750.0,"problem_id":"1139C","tags":["dfs and similar","dsu","graphs","math","trees"],"title":"Edgy Trees"}
 {"difficulty":2300,"platform":"codeforces","points":2250.0,"problem_id":"1139D","tags":["dp","math","number theory","probabilities"],"title":"Steps to One"}
+{"difficulty":2000,"platform":"codeforces","points":1000.0,"problem_id":"113B","tags":["brute force","data structures","hashing","strings"],"title":"Petr#"}
 {"difficulty":2600,"platform":"codeforces","points":null,"problem_id":"1140F","tags":["data structures","divide and conquer","dsu"],"title":"Extending Set of Points"}
 {"difficulty":2500,"platform":"codeforces","points":3250.0,"problem_id":"1146F","tags":["dp","trees"],"title":"Leaf Partition"}
 {"difficulty":2000,"platform":"codeforces","points":1500.0,"problem_id":"1147C","tags":["games"],"title":"Thanos Nim"}
