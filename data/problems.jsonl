@@ -6833,6 +6833,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3422","tags":[],"title":"[POI 2005] LOT-A Journey to Mars"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3426","tags":[],"title":"[POI 2005] SZA-Template"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3435","tags":[],"title":"[POI 2006] OKR-Periods of Words"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3449","tags":[],"title":"[POI 2006] PAL-Palindromes"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P3455","tags":[],"title":"[POI 2007] ZAP-Queries"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P3456","tags":[],"title":"[POI 2007] GRZ-Ridges and Valleys"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P3457","tags":[],"title":"[POI 2007] POW-The Flood"}
@@ -8347,6 +8348,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15042","tags":[],"title":"Card Game"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15307","tags":[],"title":"Plus Xor"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15313","tags":[],"title":"Replacement"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15315","tags":[],"title":"Hamu"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15317","tags":[],"title":"Not a subset sum"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15318","tags":[],"title":"Flower's land 3"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15323","tags":[],"title":"Yet another mailbox problem"}
