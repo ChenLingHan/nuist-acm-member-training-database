@@ -1171,6 +1171,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0007522,"platform":"codeforces","problem_id":"105487L","solved_at":1785738951.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.000767,"platform":"codeforces","problem_id":"105487M","solved_at":1785736662.0,"source":"codeforces-api","title":"Covering a Tree"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792219784.923197,"platform":"codeforces","problem_id":"105657A","solved_at":1792219451.0,"source":"codeforces-api","title":"AUS"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792379887.3342113,"platform":"codeforces","problem_id":"105657H","solved_at":1792379771.0,"source":"codeforces-api","title":"Heavy-light Decomposition"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792217972.8429725,"platform":"codeforces","problem_id":"105657K","solved_at":1792217458.0,"source":"codeforces-api","title":"Kind of Bingo"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012436,"platform":"codeforces","problem_id":"106193B","solved_at":1785042794.0,"source":"codeforces-api","title":"Bounding Boxes"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012043,"platform":"codeforces","problem_id":"106193C","solved_at":1785045515.0,"source":"codeforces-api","title":"Compact Encoding"}
@@ -7909,6 +7910,7 @@
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792129828.5638447,"platform":"luogu","problem_id":"P2615","solved_at":1791371018.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 提高组] 神奇的幻方"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5638568,"platform":"luogu","problem_id":"P2669","solved_at":1791028897.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 普及组] 金币"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.563862,"platform":"luogu","problem_id":"P2911","solved_at":1791527373.0,"source":"luogu-practice-snapshot","title":"[USACO08OCT] Bovine Bones G"}
+{"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792379747.4584646,"platform":"luogu","problem_id":"P3741","solved_at":1792379452.0,"source":"luogu-record-list","title":"小果的键盘"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.56385,"platform":"luogu","problem_id":"P3954","solved_at":1790835489.0,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5639732,"platform":"luogu","problem_id":"P4414","solved_at":1790927265.0,"source":"luogu-practice-snapshot","title":"[COCI 2006/2007 #2] ABC"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5639913,"platform":"luogu","problem_id":"P4956","solved_at":1791253301.0,"source":"luogu-practice-snapshot","title":"[COCI 2017/2018 #6] Davor"}
