@@ -7685,6 +7685,8 @@
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2174847,"platform":"luogu","problem_id":"P3613","solved_at":1779519489.0,"source":"luogu-practice-snapshot","title":"【深基15.例2】寄包柜"}
 {"account_id":"a49","difficulty":4,"member_id":"m21","observed_at":1792389674.5315216,"platform":"luogu","problem_id":"P3618","solved_at":1792389532.0,"source":"luogu-record-list","title":"误会"}
 {"account_id":"a49","difficulty":1,"member_id":"m21","observed_at":1792129810.2169514,"platform":"luogu","problem_id":"P3741","solved_at":1777107141.0,"source":"luogu-practice-snapshot","title":"小果的键盘"}
+{"account_id":"a49","difficulty":6,"member_id":"m21","observed_at":1792422195.1479568,"platform":"luogu","problem_id":"P3796","solved_at":1792420716.0,"source":"luogu-record-list","title":"AC 自动机（简单版 II）"}
+{"account_id":"a49","difficulty":6,"member_id":"m21","observed_at":1792422195.1481462,"platform":"luogu","problem_id":"P3808","solved_at":1792418510.0,"source":"luogu-record-list","title":"AC 自动机（简单版）"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2169592,"platform":"luogu","problem_id":"P3817","solved_at":1776774556.0,"source":"luogu-practice-snapshot","title":"小 A 的糖果"}
 {"account_id":"a49","difficulty":3,"member_id":"m21","observed_at":1792129810.2169673,"platform":"luogu","problem_id":"P3842","solved_at":1785307308.0,"source":"luogu-practice-snapshot","title":"[TJOI2007] 线段"}
 {"account_id":"a49","difficulty":5,"member_id":"m21","observed_at":1792129810.2169747,"platform":"luogu","problem_id":"P3868","solved_at":1786026304.0,"source":"luogu-practice-snapshot","title":"[TJOI2009] 猜数字"}
@@ -7898,6 +7900,7 @@
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5630305,"platform":"luogu","problem_id":"P1089","solved_at":1791254788.0,"source":"luogu-practice-snapshot","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792129828.5630388,"platform":"luogu","problem_id":"P1125","solved_at":1791504061.0,"source":"luogu-practice-snapshot","title":"[NOIP 2008 提高组] 笨小猴"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5630474,"platform":"luogu","problem_id":"P1161","solved_at":1791537570.0,"source":"luogu-practice-snapshot","title":"开灯"}
+{"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792422107.8761375,"platform":"luogu","problem_id":"P1200","solved_at":1792417910.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792129828.563055,"platform":"luogu","problem_id":"P1217","solved_at":1791183628.0,"source":"luogu-practice-snapshot","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5630622,"platform":"luogu","problem_id":"P1307","solved_at":1791185000.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 数字反转"}
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792335552.774911,"platform":"luogu","problem_id":"P1308","solved_at":1792335305.0,"source":"luogu-record-list","title":"[NOIP 2011 普及组] 统计单词数"}
@@ -7914,6 +7917,7 @@
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5631928,"platform":"luogu","problem_id":"P1428","solved_at":1791290807.0,"source":"luogu-practice-snapshot","title":"小鱼比可爱"}
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792409712.3920527,"platform":"luogu","problem_id":"P1553","solved_at":1792409132.0,"source":"luogu-record-list","title":"数字反转（升级版）"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5634577,"platform":"luogu","problem_id":"P1554","solved_at":1791459559.0,"source":"luogu-practice-snapshot","title":"[USACO06DEC] 梦中的统计 Dream Counting B"}
+{"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792422107.8759053,"platform":"luogu","problem_id":"P1597","solved_at":1792420014.0,"source":"luogu-record-list","title":"语句解析"}
 {"account_id":"a56","difficulty":2,"member_id":"m24","observed_at":1792413958.9888484,"platform":"luogu","problem_id":"P1603","solved_at":1792413744.0,"source":"luogu-record-list","title":"斯诺登的密码"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5634956,"platform":"luogu","problem_id":"P1614","solved_at":1791521085.0,"source":"luogu-practice-snapshot","title":"爱与愁的心痛"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.563505,"platform":"luogu","problem_id":"P1720","solved_at":1791185959.0,"source":"luogu-practice-snapshot","title":"月落乌啼算钱（斐波那契数列）"}
@@ -13207,6 +13211,7 @@
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.316835,"platform":"luogu","problem_id":"P3916","solved_at":1758192500.0,"source":"luogu-practice-snapshot","title":"图的遍历"}
 {"account_id":"a105","difficulty":3,"member_id":"m47","observed_at":1792148927.3168404,"platform":"luogu","problem_id":"P4017","solved_at":1759134967.0,"source":"luogu-practice-snapshot","title":"最大食物链计数"}
 {"account_id":"a105","difficulty":4,"member_id":"m47","observed_at":1792148927.3168461,"platform":"luogu","problem_id":"P4047","solved_at":1764385403.0,"source":"luogu-practice-snapshot","title":"[JSOI2010] 部落划分"}
+{"account_id":"a105","difficulty":6,"member_id":"m47","observed_at":1792422150.8075964,"platform":"luogu","problem_id":"P4114","solved_at":1792418671.0,"source":"luogu-record-list","title":"Qtree1"}
 {"account_id":"a105","difficulty":6,"member_id":"m47","observed_at":1792148927.3168576,"platform":"luogu","problem_id":"P4137","solved_at":1777727702.0,"source":"luogu-practice-snapshot","title":"Rmq Problem / mex"}
 {"account_id":"a105","difficulty":6,"member_id":"m47","observed_at":1792148927.3168523,"platform":"luogu","problem_id":"P4149","solved_at":1788438798.0,"source":"luogu-practice-snapshot","title":"[IOI 2011] Race"}
 {"account_id":"a105","difficulty":5,"member_id":"m47","observed_at":1792148927.3168633,"platform":"luogu","problem_id":"P4171","solved_at":1786267565.0,"source":"luogu-practice-snapshot","title":"[JSOI2010] 满汉全席"}
