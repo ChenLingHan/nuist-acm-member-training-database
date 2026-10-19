@@ -8516,6 +8516,7 @@
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1046276,"platform":"codeforces","problem_id":"2193A","solved_at":1783510812.0,"source":"codeforces-api","title":"DBMB and the Array"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792408741.1005301,"platform":"codeforces","problem_id":"2217A","solved_at":1792408312.0,"source":"codeforces-api","title":"The Equalizer"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792411760.5493107,"platform":"codeforces","problem_id":"2217B","solved_at":1792411407.0,"source":"codeforces-api","title":"Flip the Bit (Easy Version)"}
+{"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792422280.8286254,"platform":"codeforces","problem_id":"2217C","solved_at":1792417932.0,"source":"codeforces-api","title":"Grid Covering"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1060154,"platform":"codeforces","problem_id":"2218A","solved_at":1777822046.0,"source":"codeforces-api","title":"The 67th Integer Problem"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1059642,"platform":"codeforces","problem_id":"2218B","solved_at":1777823451.0,"source":"codeforces-api","title":"The 67th 6-7 Integer Problem"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.106221,"platform":"codeforces","problem_id":"2225A","solved_at":1776785643.0,"source":"codeforces-api","title":"A Number Between Two Others"}
@@ -20133,6 +20134,7 @@
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792163050.6972094,"platform":"luogu","problem_id":"P1003","solved_at":1791890713.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a177","difficulty":4,"member_id":"m78","observed_at":1792163050.6972158,"platform":"luogu","problem_id":"P1004","solved_at":1791894800.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 方格取数"}
 {"account_id":"a177","difficulty":4,"member_id":"m78","observed_at":1792163050.697221,"platform":"luogu","problem_id":"P1005","solved_at":1791972068.0,"source":"luogu-practice-snapshot","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
+{"account_id":"a177","difficulty":3,"member_id":"m78","observed_at":1792422438.495194,"platform":"luogu","problem_id":"P1007","solved_at":1792416188.0,"source":"luogu-record-list","title":"独木桥"}
 {"account_id":"a177","difficulty":3,"member_id":"m78","observed_at":1792220023.7087138,"platform":"luogu","problem_id":"P7911","solved_at":1792219751.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915253,"platform":"qoj","problem_id":"14689","solved_at":1789722752.0,"source":"qoj-profile","title":"Imagined Holly"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915296,"platform":"qoj","problem_id":"14820","solved_at":1791353415.0,"source":"qoj-profile","title":"扫雪"}
