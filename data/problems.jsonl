@@ -3895,6 +3895,7 @@
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"90B","tags":["implementation","strings"],"title":"African Crossword"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"911F","tags":["constructive algorithms","dfs and similar","graphs","greedy","trees"],"title":"Tree Destruction"}
 {"difficulty":1900,"platform":"codeforces","points":2000.0,"problem_id":"914D","tags":["data structures","number theory"],"title":"Bash and a Tough Math Puzzle"}
+{"difficulty":3000,"platform":"codeforces","points":3000.0,"problem_id":"914F","tags":["bitmasks","brute force","data structures","string suffix structures","strings"],"title":"Substrings in a String"}
 {"difficulty":2600,"platform":"codeforces","points":3500.0,"problem_id":"914G","tags":["bitmasks","divide and conquer","dp","fft","math"],"title":"Sum the Fibonacci"}
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"915E","tags":["data structures","implementation","sortings"],"title":"Physical Education Lessons"}
 {"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"91B","tags":["binary search","data structures"],"title":"Queue"}
