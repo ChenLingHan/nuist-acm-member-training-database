@@ -1776,6 +1776,7 @@
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1829E","tags":["dfs and similar","dsu","graphs","implementation"],"title":"The Lakes"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1829F","tags":["dfs and similar","graphs","math"],"title":"Forever Winter"}
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1829G","tags":["data structures","dp","implementation","math"],"title":"Hits Different"}
+{"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"182D","tags":["brute force","hashing","implementation","math","strings"],"title":"Common Divisors"}
 {"difficulty":2800,"platform":"codeforces","points":2250.0,"problem_id":"1830D","tags":["brute force","dp","trees"],"title":"Mex Tree"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1831A","tags":["constructive algorithms"],"title":"Twin Permutations"}
 {"difficulty":1000,"platform":"codeforces","points":750.0,"problem_id":"1831B","tags":["constructive algorithms","greedy"],"title":"Array merging"}
