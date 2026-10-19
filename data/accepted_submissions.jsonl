@@ -6906,6 +6906,7 @@
 {"accepted_at":1791889846.0,"account_id":"a32","difficulty":null,"observed_at":1792126982.9945529,"problem_id":"9864","submission_id":"3171868","title":"Coin"}
 {"accepted_at":1791964469.0,"account_id":"a32","difficulty":null,"observed_at":1792126982.9945347,"problem_id":"9553","submission_id":"3177734","title":"The Hermit"}
 {"accepted_at":1791974309.0,"account_id":"a32","difficulty":null,"observed_at":1792126982.9944406,"problem_id":"9555","submission_id":"3179800","title":"Strength"}
+{"accepted_at":1792414878.0,"account_id":"a32","difficulty":null,"observed_at":1792415129.247929,"problem_id":"14716","submission_id":"3217056","title":"K-Coverage"}
 {"accepted_at":1633421257.0,"account_id":"a33","difficulty":1700,"observed_at":1792127172.4327662,"problem_id":"1312D","submission_id":"130869867","title":"Count the Arrays"}
 {"accepted_at":1633430233.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4325411,"problem_id":"446B","submission_id":"130880519","title":"DZY Loves Modification"}
 {"accepted_at":1633433408.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4323192,"problem_id":"1408D","submission_id":"130884225","title":"Searchlights"}
@@ -9530,6 +9531,7 @@
 {"accepted_at":1792409108.0,"account_id":"a48","difficulty":1400,"observed_at":1792409581.1862087,"problem_id":"2267D","submission_id":"395210067","title":"Backrooms Hill"}
 {"accepted_at":1792411972.0,"account_id":"a48","difficulty":2000,"observed_at":1792412003.2118,"problem_id":"2267E","submission_id":"395215192","title":"Clean Substrings"}
 {"accepted_at":1792412862.0,"account_id":"a48","difficulty":1700,"observed_at":1792413210.9282508,"problem_id":"2267F1","submission_id":"395217052","title":"XOR Transformations (Easy Version)"}
+{"accepted_at":1792415014.0,"account_id":"a48","difficulty":1600,"observed_at":1792415044.3537521,"problem_id":"1398C","submission_id":"395221642","title":"Good Subarrays"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -21345,6 +21347,7 @@
 {"accepted_at":1792405952.0,"account_id":"a150","difficulty":1700,"observed_at":1792406037.3420434,"problem_id":"126B","submission_id":"395204731","title":"Password"}
 {"accepted_at":1792406882.0,"account_id":"a150","difficulty":1400,"observed_at":1792407241.8324356,"problem_id":"182D","submission_id":"395206286","title":"Common Divisors"}
 {"accepted_at":1792410598.0,"account_id":"a150","difficulty":2200,"observed_at":1792410890.4455926,"problem_id":"25E","submission_id":"395212719","title":"Test"}
+{"accepted_at":1792414337.0,"account_id":"a150","difficulty":2000,"observed_at":1792415138.5528805,"problem_id":"113B","submission_id":"395220244","title":"Petr#"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}

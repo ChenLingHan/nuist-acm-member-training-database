@@ -5076,6 +5076,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985005,"platform":"qoj","problem_id":"14530","solved_at":1789646018.0,"source":"qoj-profile","title":"找行李"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098507,"platform":"qoj","problem_id":"14531","solved_at":1789730926.0,"source":"qoj-profile","title":"找最小"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985134,"platform":"qoj","problem_id":"14550","solved_at":1789636685.0,"source":"qoj-profile","title":"通配符匹配"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792415129.2474618,"platform":"qoj","problem_id":"14716","solved_at":1792414878.0,"source":"qoj-authenticated","title":"K-Coverage"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985186,"platform":"qoj","problem_id":"14805","solved_at":1790504168.0,"source":"qoj-profile","title":"Cyan White Tree"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098524,"platform":"qoj","problem_id":"14806","solved_at":1790317161.0,"source":"qoj-profile","title":"Bitwise And Path"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985332,"platform":"qoj","problem_id":"14807","solved_at":1790318502.0,"source":"qoj-profile","title":"Bucket Bonanza"}
@@ -7022,6 +7023,7 @@
 {"account_id":"a48","difficulty":2400,"member_id":"m20","observed_at":1792127074.1408246,"platform":"codeforces","problem_id":"1264C","solved_at":1789651435.0,"source":"codeforces-api","title":"Beautiful Mirrors with queries"}
 {"account_id":"a48","difficulty":2600,"member_id":"m20","observed_at":1792127074.140856,"platform":"codeforces","problem_id":"1278F","solved_at":1789559548.0,"source":"codeforces-api","title":"Cards"}
 {"account_id":"a48","difficulty":1300,"member_id":"m20","observed_at":1792127074.1516368,"platform":"codeforces","problem_id":"1326C","solved_at":1769509433.0,"source":"codeforces-api","title":"Permutation Partitions"}
+{"account_id":"a48","difficulty":1600,"member_id":"m20","observed_at":1792415044.3535855,"platform":"codeforces","problem_id":"1398C","solved_at":1792415014.0,"source":"codeforces-api","title":"Good Subarrays"}
 {"account_id":"a48","difficulty":900,"member_id":"m20","observed_at":1792127148.4558396,"platform":"codeforces","problem_id":"1420A","solved_at":1752670662.0,"source":"codeforces-api","title":"Cubes Sorting"}
 {"account_id":"a48","difficulty":1200,"member_id":"m20","observed_at":1792127148.4557202,"platform":"codeforces","problem_id":"1420B","solved_at":1752671224.0,"source":"codeforces-api","title":"Rock and Lever"}
 {"account_id":"a48","difficulty":1300,"member_id":"m20","observed_at":1792127148.4555957,"platform":"codeforces","problem_id":"1420C1","solved_at":1752672198.0,"source":"codeforces-api","title":"Pokémon Army (easy version)"}
@@ -16653,6 +16655,7 @@
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792148545.1207678,"platform":"codeforces","problem_id":"111A","solved_at":1770445569.0,"source":"codeforces-api","title":"Petya and Inequiations"}
 {"account_id":"a150","difficulty":2400,"member_id":"m66","observed_at":1792148545.117788,"platform":"codeforces","problem_id":"1129C","solved_at":1791806579.0,"source":"codeforces-api","title":"Morse Code"}
 {"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1792148545.1185539,"platform":"codeforces","problem_id":"1139C","solved_at":1790733138.0,"source":"codeforces-api","title":"Edgy Trees"}
+{"account_id":"a150","difficulty":2000,"member_id":"m66","observed_at":1792415138.5526726,"platform":"codeforces","problem_id":"113B","solved_at":1792414337.0,"source":"codeforces-api","title":"Petr#"}
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792148545.1186316,"platform":"codeforces","problem_id":"1182C","solved_at":1790646749.0,"source":"codeforces-api","title":"Beautiful Lyrics"}
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792148545.118345,"platform":"codeforces","problem_id":"1190A","solved_at":1790924885.0,"source":"codeforces-api","title":"Tokitsukaze and Discard Items"}
 {"account_id":"a150","difficulty":2000,"member_id":"m66","observed_at":1792242484.9764578,"platform":"codeforces","problem_id":"1200E","solved_at":1792241929.0,"source":"codeforces-api","title":"Compress Words"}
