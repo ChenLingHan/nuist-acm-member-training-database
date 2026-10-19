@@ -8942,6 +8942,7 @@
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792130059.5314047,"platform":"luogu","problem_id":"P1012","solved_at":1791515000.0,"source":"luogu-practice-snapshot","title":"[NOIP 1998 提高组] 拼数"}
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792159883.2778652,"platform":"luogu","problem_id":"P1013","solved_at":1792159421.0,"source":"luogu-record-list","title":"[NOIP 1998 提高组] 进制位"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792327897.6492283,"platform":"luogu","problem_id":"P1071","solved_at":1792327396.0,"source":"luogu-record-list","title":"[NOIP 2009 提高组] 潜伏者"}
+{"account_id":"a72","difficulty":3,"member_id":"m31","observed_at":1792401173.386343,"platform":"luogu","problem_id":"P2580","solved_at":1792400150.0,"source":"luogu-record-list","title":"于是他错误的点名开始了"}
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792130059.5314116,"platform":"luogu","problem_id":"P3375","solved_at":1792110937.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a72","difficulty":5,"member_id":"m31","observed_at":1792226508.5689135,"platform":"luogu","problem_id":"P3435","solved_at":1792225734.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a72","difficulty":5,"member_id":"m31","observed_at":1792154958.2642584,"platform":"luogu","problem_id":"P3805","solved_at":1792154550.0,"source":"luogu-record-list","title":"【模板】Manacher"}
@@ -9451,9 +9452,11 @@
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792305930.12588,"platform":"luogu","problem_id":"P1160","solved_at":1792305346.0,"source":"luogu-record-list","title":"队列安排"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792309566.4580579,"platform":"luogu","problem_id":"P1540","solved_at":1792309161.0,"source":"luogu-record-list","title":"[NOIP 2010 提高组] 机器翻译"}
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792130065.802716,"platform":"luogu","problem_id":"P15883","solved_at":1790738513.0,"source":"luogu-practice-snapshot","title":"[ICPC 2026 NAC] I Don' t Miss Pennies"}
+{"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792401083.0919073,"platform":"luogu","problem_id":"P1886","solved_at":1792392694.0,"source":"luogu-record-list","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792302889.0601115,"platform":"luogu","problem_id":"P1996","solved_at":1792302393.0,"source":"luogu-record-list","title":"约瑟夫问题"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792130065.80263,"platform":"luogu","problem_id":"P2392","solved_at":1790589381.0,"source":"luogu-practice-snapshot","title":"kkksc03 考前临时抱佛脚"}
 {"account_id":"a75","difficulty":4,"member_id":"m33","observed_at":1792130065.8026412,"platform":"luogu","problem_id":"P2406","solved_at":1791550926.0,"source":"luogu-practice-snapshot","title":"最小和"}
+{"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792401083.0914092,"platform":"luogu","problem_id":"P2947","solved_at":1792394705.0,"source":"luogu-record-list","title":"[USACO09MAR] Look Up S"}
 {"account_id":"a75","difficulty":4,"member_id":"m33","observed_at":1792130065.8026516,"platform":"luogu","problem_id":"P3375","solved_at":1792046734.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a75","difficulty":5,"member_id":"m33","observed_at":1792220877.5130796,"platform":"luogu","problem_id":"P3435","solved_at":1792220379.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a75","difficulty":4,"member_id":"m33","observed_at":1792150401.6829739,"platform":"luogu","problem_id":"P4391","solved_at":1792138079.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
@@ -10699,6 +10702,8 @@
 {"account_id":"a88","difficulty":1,"member_id":"m38","observed_at":1792130098.6223166,"platform":"luogu","problem_id":"P5718","solved_at":1761372539.0,"source":"luogu-practice-snapshot","title":"【深基4.例2】找最小值"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792323564.143986,"platform":"luogu","problem_id":"B2002","solved_at":1792323514.0,"source":"luogu-record-list","title":"Hello,World!"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.62573,"platform":"luogu","problem_id":"B2064","solved_at":1791436951.0,"source":"luogu-practice-snapshot","title":"斐波那契数列"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792401118.611176,"platform":"luogu","problem_id":"B2161","solved_at":1792399288.0,"source":"luogu-record-list","title":"十进制转二进制"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792401118.6108902,"platform":"luogu","problem_id":"B2162","solved_at":1792400369.0,"source":"luogu-record-list","title":"二进制转十进制"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6257403,"platform":"luogu","problem_id":"B3622","solved_at":1791282161.0,"source":"luogu-practice-snapshot","title":"枚举子集（递归实现指数型枚举）"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.62568,"platform":"luogu","problem_id":"P1000","solved_at":1788876543.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.6253202,"platform":"luogu","problem_id":"P1001","solved_at":1788876769.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
