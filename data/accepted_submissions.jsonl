@@ -10738,6 +10738,7 @@
 {"accepted_at":1792369450.0,"account_id":"a60","difficulty":2,"observed_at":1792370059.6560538,"problem_id":"P1003","submission_id":"304101216","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1792373444.0,"account_id":"a60","difficulty":2,"observed_at":1792373694.5688224,"problem_id":"P1067","submission_id":"304107025","title":"[NOIP 2009 普及组] 多项式输出"}
 {"accepted_at":1792388442.0,"account_id":"a60","difficulty":2,"observed_at":1792388981.6108418,"problem_id":"P1226","submission_id":"304134635","title":"【模板】快速幂"}
+{"accepted_at":1792502338.0,"account_id":"a60","difficulty":3,"observed_at":1792503037.8311324,"problem_id":"P2280","submission_id":"304441784","title":"[HNOI2003] 激光炸弹"}
 {"accepted_at":1787801796.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637406,"problem_id":"8072","submission_id":"2822478","title":"Qualifiers Ranking Rules"}
 {"accepted_at":1787803757.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637266,"problem_id":"8083","submission_id":"2822582","title":"KaChang!"}
 {"accepted_at":1787822164.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637115,"problem_id":"8081","submission_id":"2824307","title":"Minimum Manhattan Distance"}
@@ -12658,6 +12659,8 @@
 {"accepted_at":1792472794.0,"account_id":"a83","difficulty":2,"observed_at":1792473218.9886794,"problem_id":"P5734","submission_id":"304314139","title":"【深基6.例6】文字处理软件"}
 {"accepted_at":1792473432.0,"account_id":"a83","difficulty":2,"observed_at":1792473827.8727455,"problem_id":"P1308","submission_id":"304315754","title":"[NOIP 2011 普及组] 统计单词数"}
 {"accepted_at":1792501656.0,"account_id":"a83","difficulty":1,"observed_at":1792502067.1685212,"problem_id":"P1765","submission_id":"304437599","title":"手机"}
+{"accepted_at":1792502791.0,"account_id":"a83","difficulty":1,"observed_at":1792503098.3069913,"problem_id":"P3741","submission_id":"304444709","title":"小果的键盘"}
+{"accepted_at":1792503042.0,"account_id":"a83","difficulty":1,"observed_at":1792503098.3068795,"problem_id":"P1321","submission_id":"304446332","title":"单词覆盖还原"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
