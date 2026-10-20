@@ -1160,6 +1160,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.999867,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0210977,"platform":"codeforces","problem_id":"104396F","solved_at":1763893141.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792485438.55591,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792488813.1648595,"platform":"codeforces","problem_id":"104459D","solved_at":1792488185.0,"source":"codeforces-api","title":"Stones in the Bucket"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792487548.9754648,"platform":"codeforces","problem_id":"104459M","solved_at":1792487162.0,"source":"codeforces-api","title":"Calandar"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9977083,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9976745,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
@@ -2877,8 +2878,8 @@
 {"account_id":"a24","difficulty":800,"member_id":"m10","observed_at":1792081262.3124986,"platform":"codeforces","problem_id":"2275B","solved_at":1791543417.0,"source":"codeforces-api","title":"Did Not Go to Print"}
 {"account_id":"a24","difficulty":1000,"member_id":"m10","observed_at":1792081262.3124804,"platform":"codeforces","problem_id":"2275C","solved_at":1791544439.0,"source":"codeforces-api","title":"Unrequited Love"}
 {"account_id":"a24","difficulty":1300,"member_id":"m10","observed_at":1792081262.3124654,"platform":"codeforces","problem_id":"2275D","solved_at":1791546671.0,"source":"codeforces-api","title":"Precision Alignment"}
-{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792081262.3124456,"platform":"codeforces","problem_id":"2275E","solved_at":1791548193.0,"source":"codeforces-api","title":"Repentance Is Already on the Way"}
-{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792081262.312432,"platform":"codeforces","problem_id":"2275F","solved_at":1791552015.0,"source":"codeforces-api","title":"Tea Blend"}
+{"account_id":"a24","difficulty":1500,"member_id":"m10","observed_at":1792081262.3124456,"platform":"codeforces","problem_id":"2275E","solved_at":1791548193.0,"source":"codeforces-api","title":"Repentance Is Already on the Way"}
+{"account_id":"a24","difficulty":1800,"member_id":"m10","observed_at":1792081262.312432,"platform":"codeforces","problem_id":"2275F","solved_at":1791552015.0,"source":"codeforces-api","title":"Tea Blend"}
 {"account_id":"a24","difficulty":800,"member_id":"m10","observed_at":1792081262.312194,"platform":"codeforces","problem_id":"2276A","solved_at":1791988695.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a24","difficulty":1000,"member_id":"m10","observed_at":1792081262.3121805,"platform":"codeforces","problem_id":"2276B","solved_at":1791989140.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a24","difficulty":1100,"member_id":"m10","observed_at":1792081262.3121648,"platform":"codeforces","problem_id":"2276C","solved_at":1791989583.0,"source":"codeforces-api","title":"Subarrays"}
@@ -14866,7 +14867,7 @@
 {"account_id":"a124","difficulty":1400,"member_id":"m54","observed_at":1792148519.6765037,"platform":"codeforces","problem_id":"2271C","solved_at":1791646982.0,"source":"codeforces-api","title":"XOR Problem"}
 {"account_id":"a124","difficulty":1700,"member_id":"m54","observed_at":1792148519.676485,"platform":"codeforces","problem_id":"2271D","solved_at":1791648632.0,"source":"codeforces-api","title":"Target Infection"}
 {"account_id":"a124","difficulty":2100,"member_id":"m54","observed_at":1792148519.67645,"platform":"codeforces","problem_id":"2271E","solved_at":1791655212.0,"source":"codeforces-api","title":"Array Emptying"}
-{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
+{"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":2700,"member_id":"m54","observed_at":1792148519.6788023,"platform":"codeforces","problem_id":"243D","solved_at":1779371351.0,"source":"codeforces-api","title":"Cubes"}
 {"account_id":"a124","difficulty":3000,"member_id":"m54","observed_at":1792148519.6810186,"platform":"codeforces","problem_id":"526F","solved_at":1774536791.0,"source":"codeforces-api","title":"Pudding Monsters"}
 {"account_id":"a124","difficulty":1400,"member_id":"m54","observed_at":1792148519.6812847,"platform":"codeforces","problem_id":"843A","solved_at":1774083281.0,"source":"codeforces-api","title":"Sorting by Subsequences"}
@@ -19112,7 +19113,7 @@
 {"account_id":"a157","difficulty":1000,"member_id":"m69","observed_at":1792148549.4522429,"platform":"codeforces","problem_id":"2276B","solved_at":1791990391.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a157","difficulty":1100,"member_id":"m69","observed_at":1792148549.452223,"platform":"codeforces","problem_id":"2276C","solved_at":1791990821.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a157","difficulty":1400,"member_id":"m69","observed_at":1792148549.452204,"platform":"codeforces","problem_id":"2276D","solved_at":1791991803.0,"source":"codeforces-api","title":"Caveman"}
-{"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1792148549.4521806,"platform":"codeforces","problem_id":"2276E","solved_at":1791993038.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a157","difficulty":1800,"member_id":"m69","observed_at":1792148549.4521806,"platform":"codeforces","problem_id":"2276E","solved_at":1791993038.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a157","difficulty":2200,"member_id":"m69","observed_at":1792148549.4569554,"platform":"codeforces","problem_id":"280C","solved_at":1769845723.0,"source":"codeforces-api","title":"Game on Tree"}
 {"account_id":"a157","difficulty":2300,"member_id":"m69","observed_at":1792148571.991646,"platform":"codeforces","problem_id":"311E","solved_at":1713950196.0,"source":"codeforces-api","title":"Biologist"}
 {"account_id":"a157","difficulty":2400,"member_id":"m69","observed_at":1792148549.4572368,"platform":"codeforces","problem_id":"342E","solved_at":1769339206.0,"source":"codeforces-api","title":"Xenia and Tree"}
@@ -19586,6 +19587,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4145494,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.416797,"platform":"codeforces","problem_id":"104172K","solved_at":1769238940.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792486101.8074446,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792488655.341305,"platform":"codeforces","problem_id":"104459D","solved_at":1792488185.0,"source":"codeforces-api","title":"Stones in the Bucket"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792487389.5829794,"platform":"codeforces","problem_id":"104459M","solved_at":1792487162.0,"source":"codeforces-api","title":"Calandar"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140236,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414007,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}

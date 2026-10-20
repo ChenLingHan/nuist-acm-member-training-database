@@ -3560,9 +3560,9 @@
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2275B","tags":["data structures","implementation"],"title":"Did Not Go to Print"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2275C","tags":["brute force","data structures"],"title":"Unrequited Love"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2275D","tags":["binary search","brute force","greedy","implementation"],"title":"Precision Alignment"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275E","tags":["dp","implementation"],"title":"Repentance Is Already on the Way"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275F","tags":["hashing","math","number theory"],"title":"Tea Blend"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275H","tags":["combinatorics","dp","math"],"title":"A Problem to Warm Up the Eyebrows"}
+{"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"2275E","tags":["dp","implementation"],"title":"Repentance Is Already on the Way"}
+{"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"2275F","tags":["hashing","math","number theory"],"title":"Tea Blend"}
+{"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"2275H","tags":["combinatorics","dp","math"],"title":"A Problem to Warm Up the Eyebrows"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2276A","tags":["greedy","math"],"title":"Perfect Sandwiches"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2276B","tags":["implementation","strings"],"title":"Replace and Compress"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"2276C","tags":["math","number theory"],"title":"Subarrays"}
