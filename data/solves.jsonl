@@ -728,6 +728,7 @@
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8357897,"platform":"luogu","problem_id":"P2926","solved_at":1769158882.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Patting Heads S"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8357952,"platform":"luogu","problem_id":"P2945","solved_at":1769839676.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8358018,"platform":"luogu","problem_id":"P2949","solved_at":1770450650.0,"source":"luogu-practice-snapshot","title":"[USACO09OPEN] Work Scheduling G"}
+{"account_id":"a6","difficulty":4,"member_id":"m4","observed_at":1792497498.9532523,"platform":"luogu","problem_id":"P2986","solved_at":1792497239.0,"source":"luogu-record-list","title":"[USACO10MAR] Great Cow Gathering G"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8358078,"platform":"luogu","problem_id":"P3131","solved_at":1763778978.0,"source":"luogu-practice-snapshot","title":"[USACO16JAN] Subsequences Summing to Sevens S"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8358197,"platform":"luogu","problem_id":"P3197","solved_at":1769567181.0,"source":"luogu-practice-snapshot","title":"[HNOI2008] 越狱"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8357835,"platform":"luogu","problem_id":"P3370","solved_at":1784528902.0,"source":"luogu-practice-snapshot","title":"【模板】字符串哈希"}
@@ -1160,6 +1161,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.999867,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0210977,"platform":"codeforces","problem_id":"104396F","solved_at":1763893141.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792485438.55591,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792497591.7429652,"platform":"codeforces","problem_id":"104459C","solved_at":1792497231.0,"source":"codeforces-api","title":"Tokens on the Segments"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792488813.1648595,"platform":"codeforces","problem_id":"104459D","solved_at":1792488185.0,"source":"codeforces-api","title":"Stones in the Bucket"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792495107.1037881,"platform":"codeforces","problem_id":"104459F","solved_at":1792494781.0,"source":"codeforces-api","title":"Game on a Graph"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792490067.4433253,"platform":"codeforces","problem_id":"104459H","solved_at":1792489442.0,"source":"codeforces-api","title":"Wandering Robot"}
@@ -13004,6 +13006,7 @@
 {"account_id":"a102","difficulty":2,"member_id":"m45","observed_at":1792148879.6571195,"platform":"luogu","problem_id":"P1125","solved_at":1792034320.0,"source":"luogu-practice-snapshot","title":"[NOIP 2008 提高组] 笨小猴"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657134,"platform":"luogu","problem_id":"P1150","solved_at":1791793507.0,"source":"luogu-practice-snapshot","title":"Peter 的烟"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657147,"platform":"luogu","problem_id":"P1161","solved_at":1791554346.0,"source":"luogu-practice-snapshot","title":"开灯"}
+{"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792497506.310377,"platform":"luogu","problem_id":"P1200","solved_at":1792496961.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571596,"platform":"luogu","problem_id":"P1307","solved_at":1790932269.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 数字反转"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571732,"platform":"luogu","problem_id":"P1319","solved_at":1791792887.0,"source":"luogu-practice-snapshot","title":"压缩技术"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792161579.1083393,"platform":"luogu","problem_id":"P1321","solved_at":1792161335.0,"source":"luogu-record-list","title":"单词覆盖还原"}
@@ -19600,6 +19603,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4145494,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.416797,"platform":"codeforces","problem_id":"104172K","solved_at":1769238940.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792486101.8074446,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792497409.1073241,"platform":"codeforces","problem_id":"104459C","solved_at":1792497231.0,"source":"codeforces-api","title":"Tokens on the Segments"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792488655.341305,"platform":"codeforces","problem_id":"104459D","solved_at":1792488185.0,"source":"codeforces-api","title":"Stones in the Bucket"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792495544.5785513,"platform":"codeforces","problem_id":"104459F","solved_at":1792494781.0,"source":"codeforces-api","title":"Game on a Graph"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792489915.1332715,"platform":"codeforces","problem_id":"104459H","solved_at":1792489442.0,"source":"codeforces-api","title":"Wandering Robot"}
@@ -19802,6 +19806,7 @@
 {"account_id":"a165","difficulty":3,"member_id":"m73","observed_at":1792219936.639389,"platform":"luogu","problem_id":"P7911","solved_at":1792219843.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852345,"platform":"luogu","problem_id":"P8597","solved_at":1703322186.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2013 省 B] 翻硬币"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852517,"platform":"luogu","problem_id":"P9231","solved_at":1709454486.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2023 省 A] 平方差"}
+{"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1792497324.6944377,"platform":"luogu","problem_id":"B3614","solved_at":1792496796.0,"source":"luogu-record-list","title":"【模板】栈"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792150282.5806243,"platform":"luogu","problem_id":"P1001","solved_at":1789722723.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
 {"account_id":"a168","difficulty":4,"member_id":"m74","observed_at":1792150282.5807548,"platform":"luogu","problem_id":"P3375","solved_at":1792122129.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a168","difficulty":5,"member_id":"m74","observed_at":1792224216.7033918,"platform":"luogu","problem_id":"P3435","solved_at":1792224066.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
