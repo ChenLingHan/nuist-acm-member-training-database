@@ -3505,11 +3505,11 @@
 {"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"2260D","tags":["brute force","constructive algorithms","dfs and similar","dp","implementation"],"title":"Signs of Prefix Sums"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"2260E","tags":["binary search","constructive algorithms","dp","math"],"title":"Cyclic Balance"}
 {"difficulty":2500,"platform":"codeforces","points":null,"problem_id":"2260F","tags":["brute force","dfs and similar","dsu","graphs","trees"],"title":"Edge Three-Coloring"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2261A","tags":["games","math"],"title":"Hey, It's Me, Souvlakity"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2261B","tags":["bitmasks","greedy","math"],"title":"What's the Capital of France?"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2261C","tags":["games","math"],"title":"I Know About a Million Things"}
-{"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2261D1","tags":["constructive algorithms","math"],"title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
-{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2261E","tags":["binary search","data structures","dfs and similar","greedy","trees"],"title":"What Does the Cow Say?"}
+{"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2261A","tags":["games","math"],"title":"Hey, It's Me, Souvlakity"}
+{"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"2261B","tags":["bitmasks","greedy","math"],"title":"What's the Capital of France?"}
+{"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"2261C","tags":["games","math"],"title":"I Know About a Million Things"}
+{"difficulty":1300,"platform":"codeforces","points":1500.0,"problem_id":"2261D1","tags":["constructive algorithms","math"],"title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"difficulty":1800,"platform":"codeforces","points":2000.0,"problem_id":"2261E","tags":["binary search","data structures","dfs and similar","greedy","trees"],"title":"What Does the Cow Say?"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2263A","tags":["games"],"title":"Min Max Game"}
 {"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"2263B","tags":["constructive algorithms"],"title":"Min Matrices"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"2263C1","tags":["constructive algorithms","greedy"],"title":"Floor of MEX (Easy Version)"}
@@ -3545,29 +3545,29 @@
 {"difficulty":1500,"platform":"codeforces","points":2000.0,"problem_id":"2269D","tags":["bitmasks","greedy"],"title":"What a SauSaGe! It's All Meat"}
 {"difficulty":2300,"platform":"codeforces","points":2750.0,"problem_id":"2269E","tags":["binary search","bitmasks","data structures","divide and conquer"],"title":"KiaKio and Energy Intervals"}
 {"difficulty":2600,"platform":"codeforces","points":3250.0,"problem_id":"2269F","tags":["dp"],"title":"AghaBalaSar and Hamed"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2271A","tags":["constructive algorithms","math"],"title":"Robot Odd Moves"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2271B","tags":["games"],"title":"MEX Game"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2271C","tags":["bitmasks","constructive algorithms","graphs","greedy","math"],"title":"XOR Problem"}
-{"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2271D","tags":["binary search","brute force","greedy","implementation","two pointers"],"title":"Target Infection"}
-{"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2271E","tags":["binary search","data structures","greedy"],"title":"Array Emptying"}
-{"difficulty":null,"platform":"codeforces","points":2500.0,"problem_id":"2271F","tags":["constructive algorithms","data structures","dp","greedy","implementation"],"title":"Beautiful Pillers"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["implementation","math"],"title":"The Projections of Paco"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
-{"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2274D","tags":["math"],"title":"Robot Championship"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275A","tags":["geometry","implementation"],"title":"In Search of Convenience"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275B","tags":["data structures","implementation"],"title":"Did Not Go to Print"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275C","tags":["brute force","data structures"],"title":"Unrequited Love"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275D","tags":["binary search","brute force","greedy","implementation"],"title":"Precision Alignment"}
+{"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2271A","tags":["constructive algorithms","math"],"title":"Robot Odd Moves"}
+{"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"2271B","tags":["games"],"title":"MEX Game"}
+{"difficulty":1400,"platform":"codeforces","points":1250.0,"problem_id":"2271C","tags":["bitmasks","constructive algorithms","graphs","greedy","math"],"title":"XOR Problem"}
+{"difficulty":1700,"platform":"codeforces","points":1750.0,"problem_id":"2271D","tags":["binary search","brute force","greedy","implementation","two pointers"],"title":"Target Infection"}
+{"difficulty":2100,"platform":"codeforces","points":2250.0,"problem_id":"2271E","tags":["binary search","data structures","greedy"],"title":"Array Emptying"}
+{"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"2271F","tags":["constructive algorithms","data structures","dp","greedy","implementation"],"title":"Beautiful Pillers"}
+{"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["implementation","math"],"title":"The Projections of Paco"}
+{"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
+{"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
+{"difficulty":1900,"platform":"codeforces","points":1750.0,"problem_id":"2274D","tags":["math"],"title":"Robot Championship"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2275A","tags":["geometry","implementation"],"title":"In Search of Convenience"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2275B","tags":["data structures","implementation"],"title":"Did Not Go to Print"}
+{"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2275C","tags":["brute force","data structures"],"title":"Unrequited Love"}
+{"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2275D","tags":["binary search","brute force","greedy","implementation"],"title":"Precision Alignment"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275E","tags":["dp","implementation"],"title":"Repentance Is Already on the Way"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275F","tags":["hashing","math","number theory"],"title":"Tea Blend"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2275H","tags":["combinatorics","dp","math"],"title":"A Problem to Warm Up the Eyebrows"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276A","tags":["greedy","math"],"title":"Perfect Sandwiches"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276B","tags":["implementation","strings"],"title":"Replace and Compress"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276C","tags":["math","number theory"],"title":"Subarrays"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276D","tags":["combinatorics","graphs"],"title":"Caveman"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276E","tags":["combinatorics","data structures","dp","greedy","strings"],"title":"Good Substrings"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2276F","tags":["dp","dsu","games","greedy","implementation","math"],"title":"Permutation Coloring Game"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2276A","tags":["greedy","math"],"title":"Perfect Sandwiches"}
+{"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2276B","tags":["implementation","strings"],"title":"Replace and Compress"}
+{"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"2276C","tags":["math","number theory"],"title":"Subarrays"}
+{"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"2276D","tags":["combinatorics","graphs"],"title":"Caveman"}
+{"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"2276E","tags":["combinatorics","data structures","dp","greedy","strings"],"title":"Good Substrings"}
+{"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"2276F","tags":["dp","dsu","games","greedy","implementation","math"],"title":"Permutation Coloring Game"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
