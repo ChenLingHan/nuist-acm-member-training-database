@@ -792,6 +792,7 @@
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.831535,"platform":"codeforces","problem_id":"106193F","solved_at":1785044183.0,"source":"codeforces-api","title":"Faulty Fraction"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.8315108,"platform":"codeforces","problem_id":"106193H","solved_at":1785056750.0,"source":"codeforces-api","title":"High Score"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.8315275,"platform":"codeforces","problem_id":"106193J","solved_at":1785045911.0,"source":"codeforces-api","title":"Judging Problem"}
+{"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792501702.0170326,"platform":"codeforces","problem_id":"1092F","solved_at":1792500720.0,"source":"codeforces-api","title":"Tree with Maximum Cost"}
 {"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792073909.8301053,"platform":"codeforces","problem_id":"1095F","solved_at":1790777691.0,"source":"codeforces-api","title":"Make It Connected"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792073909.8295844,"platform":"codeforces","problem_id":"1106D","solved_at":1791976285.0,"source":"codeforces-api","title":"Lunar New Year and a Wander"}
 {"account_id":"a8","difficulty":1400,"member_id":"m4","observed_at":1792073909.8322134,"platform":"codeforces","problem_id":"111A","solved_at":1770192671.0,"source":"codeforces-api","title":"Petya and Inequiations"}
@@ -1838,6 +1839,7 @@
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9745624,"platform":"luogu","problem_id":"P1873","solved_at":1786781156.0,"source":"luogu-practice-snapshot","title":"[COCI 2011/2012 #5] EKO / 砍树"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.974573,"platform":"luogu","problem_id":"P1880","solved_at":1790770085.0,"source":"luogu-practice-snapshot","title":"[NOI1995] 石子合并"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9745834,"platform":"luogu","problem_id":"P1981","solved_at":1789559741.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 普及组] 表达式求值"}
+{"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792501924.213085,"platform":"luogu","problem_id":"P1996","solved_at":1792501424.0,"source":"luogu-record-list","title":"约瑟夫问题"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.974594,"platform":"luogu","problem_id":"P2089","solved_at":1787296252.0,"source":"luogu-practice-snapshot","title":"烤鸡"}
 {"account_id":"a20","difficulty":5,"member_id":"m9","observed_at":1792079285.9746273,"platform":"luogu","problem_id":"P2158","solved_at":1789914190.0,"source":"luogu-practice-snapshot","title":"[SDOI2008] 仪仗队"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.9746165,"platform":"luogu","problem_id":"P2197","solved_at":1789013899.0,"source":"luogu-practice-snapshot","title":"【模板】Nim 游戏"}
@@ -9569,6 +9571,7 @@
 {"account_id":"a77","difficulty":5,"member_id":"m34","observed_at":1792150408.182357,"platform":"luogu","problem_id":"P2572","solved_at":1792135926.0,"source":"luogu-record-list","title":"[SCOI2010] 序列操作"}
 {"account_id":"a77","difficulty":3,"member_id":"m34","observed_at":1792130072.129258,"platform":"luogu","problem_id":"P2712","solved_at":1763775334.0,"source":"luogu-practice-snapshot","title":"摄像头"}
 {"account_id":"a77","difficulty":4,"member_id":"m34","observed_at":1792130072.1293354,"platform":"luogu","problem_id":"P3174","solved_at":1774754277.0,"source":"luogu-practice-snapshot","title":"[HAOI2009] 毛毛虫"}
+{"account_id":"a77","difficulty":6,"member_id":"m34","observed_at":1792502051.7436845,"platform":"luogu","problem_id":"P3224","solved_at":1792501718.0,"source":"luogu-record-list","title":"[HNOI2012] 永无乡"}
 {"account_id":"a77","difficulty":4,"member_id":"m34","observed_at":1792130072.1292682,"platform":"luogu","problem_id":"P3372","solved_at":1785840350.0,"source":"luogu-practice-snapshot","title":"【模板】线段树 1"}
 {"account_id":"a77","difficulty":4,"member_id":"m34","observed_at":1792130072.1292777,"platform":"luogu","problem_id":"P3373","solved_at":1792065666.0,"source":"luogu-practice-snapshot","title":"【模板】线段树 2"}
 {"account_id":"a77","difficulty":6,"member_id":"m34","observed_at":1792130072.1292968,"platform":"luogu","problem_id":"P3376","solved_at":1788009898.0,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
@@ -10246,6 +10249,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2945862,"platform":"luogu","problem_id":"P1422","solved_at":1789122532.0,"source":"luogu-practice-snapshot","title":"小玉家的电费"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294594,"platform":"luogu","problem_id":"P1424","solved_at":1789129678.0,"source":"luogu-practice-snapshot","title":"小鱼的航程（改进版）"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294601,"platform":"luogu","problem_id":"P1425","solved_at":1788355488.0,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
+{"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792502067.1684387,"platform":"luogu","problem_id":"P1765","solved_at":1792501656.0,"source":"luogu-record-list","title":"手机"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2946084,"platform":"luogu","problem_id":"P1888","solved_at":1789130996.0,"source":"luogu-practice-snapshot","title":"三角函数"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2946162,"platform":"luogu","problem_id":"P1909","solved_at":1789122278.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792150420.7693765,"platform":"luogu","problem_id":"P1914","solved_at":1792139204.0,"source":"luogu-record-list","title":"小书童——凯撒密码"}

@@ -1258,6 +1258,7 @@
 {"accepted_at":1792067810.0,"account_id":"a8","difficulty":2000,"observed_at":1792073909.8294582,"problem_id":"251C","submission_id":"394692055","title":"Number Transformation"}
 {"accepted_at":1792138634.0,"account_id":"a8","difficulty":1500,"observed_at":1792138703.901272,"problem_id":"264B","submission_id":"394785940","title":"Good Sequences"}
 {"accepted_at":1792141710.0,"account_id":"a8","difficulty":1700,"observed_at":1792142304.313605,"problem_id":"4D","submission_id":"394791349","title":"Mysterious Present"}
+{"accepted_at":1792500720.0,"account_id":"a8","difficulty":1900,"observed_at":1792501702.0171242,"problem_id":"1092F","submission_id":"395342963","title":"Tree with Maximum Cost"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -2452,6 +2453,7 @@
 {"accepted_at":1792389533.0,"account_id":"a20","difficulty":3,"observed_at":1792390109.897313,"problem_id":"P5266","submission_id":"304136865","title":"【深基17.例6】学籍管理"}
 {"accepted_at":1792392103.0,"account_id":"a20","difficulty":3,"observed_at":1792401446.3479068,"problem_id":"P5250","submission_id":"304142320","title":"【深基17.例5】木材仓库"}
 {"accepted_at":1792500197.0,"account_id":"a20","difficulty":3,"observed_at":1792500647.124841,"problem_id":"P5788","submission_id":"304427698","title":"【模板】单调栈"}
+{"accepted_at":1792501424.0,"account_id":"a20","difficulty":2,"observed_at":1792501924.2131662,"problem_id":"P1996","submission_id":"304436117","title":"约瑟夫问题"}
 {"accepted_at":1606553368.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1292365,"problem_id":"P1001","submission_id":"42770738","title":"A+B Problem"}
 {"accepted_at":1606558540.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.129202,"problem_id":"P1001","submission_id":"42780833","title":"A+B Problem"}
 {"accepted_at":1606558591.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1291585,"problem_id":"P1001","submission_id":"42780947","title":"A+B Problem"}
@@ -11921,6 +11923,7 @@
 {"accepted_at":1792135926.0,"account_id":"a77","difficulty":5,"observed_at":1792150408.182488,"problem_id":"P2572","submission_id":"303348798","title":"[SCOI2010] 序列操作"}
 {"accepted_at":1792159246.0,"account_id":"a77","difficulty":6,"observed_at":1792159285.2121384,"problem_id":"P4198","submission_id":"303465151","title":"楼房重建"}
 {"accepted_at":1792497118.0,"account_id":"a77","difficulty":5,"observed_at":1792497742.3571477,"problem_id":"P4344","submission_id":"304406172","title":"[SHOI2015] 脑洞治疗仪"}
+{"accepted_at":1792501718.0,"account_id":"a77","difficulty":6,"observed_at":1792502051.7472773,"problem_id":"P3224","submission_id":"304437992","title":"[HNOI2012] 永无乡"}
 {"accepted_at":1787645545.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.067829,"problem_id":"14307","submission_id":"2813919","title":"Sorting"}
 {"accepted_at":1787646428.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.0678096,"problem_id":"14302","submission_id":"2814020","title":"Creating Chaos"}
 {"accepted_at":1787648851.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.0676794,"problem_id":"14301","submission_id":"2814325","title":"Who Can Win"}
@@ -12653,6 +12656,7 @@
 {"accepted_at":1792471396.0,"account_id":"a83","difficulty":1,"observed_at":1792472000.9392397,"problem_id":"P5015","submission_id":"304310816","title":"[NOIP 2018 普及组] 标题统计"}
 {"accepted_at":1792472794.0,"account_id":"a83","difficulty":2,"observed_at":1792473218.9886794,"problem_id":"P5734","submission_id":"304314139","title":"【深基6.例6】文字处理软件"}
 {"accepted_at":1792473432.0,"account_id":"a83","difficulty":2,"observed_at":1792473827.8727455,"problem_id":"P1308","submission_id":"304315754","title":"[NOIP 2011 普及组] 统计单词数"}
+{"accepted_at":1792501656.0,"account_id":"a83","difficulty":1,"observed_at":1792502067.1685212,"problem_id":"P1765","submission_id":"304437599","title":"手机"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}

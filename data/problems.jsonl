@@ -591,6 +591,7 @@
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"1082E","tags":["binary search","dp","greedy"],"title":"Increasing Frequency"}
 {"difficulty":3500,"platform":"codeforces","points":2000.0,"problem_id":"1083D","tags":["data structures","implementation"],"title":"The Fair Nut's getting crazy"}
 {"difficulty":2900,"platform":"codeforces","points":3250.0,"problem_id":"1085G","tags":["combinatorics","data structures","dp"],"title":"Beautiful Matrix"}
+{"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1092F","tags":["dfs and similar","dp","trees"],"title":"Tree with Maximum Cost"}
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"1093G","tags":["bitmasks","data structures"],"title":"Multidimensional Queries"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1095A","tags":["implementation"],"title":"Repeating Cipher"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1095B","tags":["implementation"],"title":"Array Stabilization"}
