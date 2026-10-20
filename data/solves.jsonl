@@ -7720,6 +7720,7 @@
 {"account_id":"a49","difficulty":6,"member_id":"m21","observed_at":1792129810.2170212,"platform":"luogu","problem_id":"P4015","solved_at":1789573926.0,"source":"luogu-practice-snapshot","title":"运输问题"}
 {"account_id":"a49","difficulty":4,"member_id":"m21","observed_at":1792129810.217029,"platform":"luogu","problem_id":"P4016","solved_at":1789633018.0,"source":"luogu-practice-snapshot","title":"负载平衡问题"}
 {"account_id":"a49","difficulty":4,"member_id":"m21","observed_at":1792129810.2170367,"platform":"luogu","problem_id":"P4047","solved_at":1786781988.0,"source":"luogu-practice-snapshot","title":"[JSOI2010] 部落划分"}
+{"account_id":"a49","difficulty":6,"member_id":"m21","observed_at":1792502569.119363,"platform":"luogu","problem_id":"P4052","solved_at":1792501720.0,"source":"luogu-record-list","title":"[JSOI2007] 文本生成器"}
 {"account_id":"a49","difficulty":6,"member_id":"m21","observed_at":1792129810.2170446,"platform":"luogu","problem_id":"P4170","solved_at":1785427657.0,"source":"luogu-practice-snapshot","title":"[CQOI2007] 涂色"}
 {"account_id":"a49","difficulty":7,"member_id":"m21","observed_at":1792129810.2170534,"platform":"luogu","problem_id":"P4174","solved_at":1789116312.0,"source":"luogu-practice-snapshot","title":"[NOI2006] 最大获利"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2170608,"platform":"luogu","problem_id":"P4305","solved_at":1777468952.0,"source":"luogu-practice-snapshot","title":"[JLOI2011] 不重复数字"}
@@ -19334,6 +19335,7 @@
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8451378,"platform":"luogu","problem_id":"P1016","solved_at":1661508769.0,"source":"luogu-practice-snapshot","title":"[NOIP 1999 普及组/提高组] 旅行家的预算"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8451502,"platform":"luogu","problem_id":"P1019","solved_at":1629778497.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 单词接龙（疑似错题）"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8451624,"platform":"luogu","problem_id":"P1022","solved_at":1661347145.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 普及组] 计算器的改良"}
+{"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792502692.0621476,"platform":"luogu","problem_id":"P1024","solved_at":1792502145.0,"source":"luogu-record-list","title":"[NOIP 2001 提高组] 一元三次方程求解"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8451726,"platform":"luogu","problem_id":"P1025","solved_at":1700957602.0,"source":"luogu-practice-snapshot","title":"[NOIP 2001 提高组] 数的划分"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.845183,"platform":"luogu","problem_id":"P1028","solved_at":1621172736.0,"source":"luogu-practice-snapshot","title":"[NOIP 2001 普及组] 数的计算"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.845194,"platform":"luogu","problem_id":"P1029","solved_at":1628597053.0,"source":"luogu-practice-snapshot","title":"[NOIP 2001 普及组] 最大公约数和最小公倍数问题"}
@@ -19505,6 +19507,7 @@
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.8468497,"platform":"luogu","problem_id":"P5704","solved_at":1623496559.0,"source":"luogu-practice-snapshot","title":"【深基2.例6】字母转换"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.8468587,"platform":"luogu","problem_id":"P5705","solved_at":1623496748.0,"source":"luogu-practice-snapshot","title":"【深基2.例7】数字反转"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.84687,"platform":"luogu","problem_id":"P5706","solved_at":1623497067.0,"source":"luogu-practice-snapshot","title":"【深基2.例8】再分肥宅水"}
+{"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792502692.0619595,"platform":"luogu","problem_id":"P5707","solved_at":1792502306.0,"source":"luogu-record-list","title":"【深基2.例12】上学迟到"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.846879,"platform":"luogu","problem_id":"P5708","solved_at":1623497512.0,"source":"luogu-practice-snapshot","title":"【深基2.习2】三角形面积"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.8468888,"platform":"luogu","problem_id":"P5709","solved_at":1628067892.0,"source":"luogu-practice-snapshot","title":"【深基2.习6】Apples Prologue / 苹果和虫子"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.8469,"platform":"luogu","problem_id":"P5710","solved_at":1627988267.0,"source":"luogu-practice-snapshot","title":"【深基3.例2】数的性质"}
