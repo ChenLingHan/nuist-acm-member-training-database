@@ -5104,6 +5104,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0983982,"platform":"qoj","problem_id":"6627","solved_at":1689601719.0,"source":"qoj-profile","title":"Line Town"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098405,"platform":"qoj","problem_id":"6630","solved_at":1689325242.0,"source":"qoj-profile","title":"Triangle Collection"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098411,"platform":"qoj","problem_id":"6684","solved_at":1689861133.0,"source":"qoj-profile","title":"Trie"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792501251.0092757,"platform":"qoj","problem_id":"7736","solved_at":1792500907.0,"source":"qoj-authenticated","title":"Red Black Tree"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792483738.9062016,"platform":"qoj","problem_id":"7744","solved_at":1792483488.0,"source":"qoj-authenticated","title":"Elevator"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792487963.9551399,"platform":"qoj","problem_id":"7745","solved_at":1792487504.0,"source":"qoj-authenticated","title":"Trapping Rain Water"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984166,"platform":"qoj","problem_id":"8077","solved_at":1788433494.0,"source":"qoj-profile","title":"Alice and Bob"}
@@ -10877,6 +10878,7 @@
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0444474,"platform":"luogu","problem_id":"P1001","solved_at":1792142643.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a93","difficulty":2,"member_id":"m41","observed_at":1792499191.9053335,"platform":"luogu","problem_id":"P1002","solved_at":1792498969.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a93","difficulty":2,"member_id":"m41","observed_at":1792500413.1324039,"platform":"luogu","problem_id":"P1009","solved_at":1792500198.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 阶乘之和"}
+{"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792501640.8614595,"platform":"luogu","problem_id":"P1046","solved_at":1792501467.0,"source":"luogu-record-list","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"account_id":"a93","difficulty":4,"member_id":"m41","observed_at":1792153446.0448258,"platform":"luogu","problem_id":"P3375","solved_at":1792137885.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a95","difficulty":2,"member_id":"m42","observed_at":1792237154.163528,"platform":"luogu","problem_id":"B3637","solved_at":1792236934.0,"source":"luogu-record-list","title":"最长上升子序列"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792310429.7898245,"platform":"luogu","problem_id":"P1119","solved_at":1792310218.0,"source":"luogu-record-list","title":"灾后重建"}
