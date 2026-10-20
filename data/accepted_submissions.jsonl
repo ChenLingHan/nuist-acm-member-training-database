@@ -1242,10 +1242,10 @@
 {"accepted_at":1791622295.0,"account_id":"a8","difficulty":1700,"observed_at":1792073909.8297539,"problem_id":"51B","submission_id":"393928337","title":"bHTML Tables Analisys"}
 {"accepted_at":1791631017.0,"account_id":"a8","difficulty":1500,"observed_at":1792073909.8297393,"problem_id":"1809C","submission_id":"393944810","title":"Sum on Subarrays"}
 {"accepted_at":1791773244.0,"account_id":"a8","difficulty":1700,"observed_at":1792073909.8297243,"problem_id":"498A","submission_id":"394219065","title":"Crazy Town"}
-{"accepted_at":1791888051.0,"account_id":"a8","difficulty":null,"observed_at":1792073909.8297088,"problem_id":"2274A","submission_id":"394383244","title":"The Projections of Paco"}
-{"accepted_at":1791889265.0,"account_id":"a8","difficulty":null,"observed_at":1792073909.8296742,"problem_id":"2274B","submission_id":"394385242","title":"Prefix"}
-{"accepted_at":1791892006.0,"account_id":"a8","difficulty":null,"observed_at":1792073909.829634,"problem_id":"2274C","submission_id":"394390042","title":"Lavencia Oranges"}
-{"accepted_at":1791897106.0,"account_id":"a8","difficulty":null,"observed_at":1792073909.8296254,"problem_id":"2274D","submission_id":"394399871","title":"Robot Championship"}
+{"accepted_at":1791888051.0,"account_id":"a8","difficulty":800,"observed_at":1792073909.8297088,"problem_id":"2274A","submission_id":"394383244","title":"The Projections of Paco"}
+{"accepted_at":1791889265.0,"account_id":"a8","difficulty":1100,"observed_at":1792073909.8296742,"problem_id":"2274B","submission_id":"394385242","title":"Prefix"}
+{"accepted_at":1791892006.0,"account_id":"a8","difficulty":1300,"observed_at":1792073909.829634,"problem_id":"2274C","submission_id":"394390042","title":"Lavencia Oranges"}
+{"accepted_at":1791897106.0,"account_id":"a8","difficulty":1900,"observed_at":1792073909.8296254,"problem_id":"2274D","submission_id":"394399871","title":"Robot Championship"}
 {"accepted_at":1791972034.0,"account_id":"a8","difficulty":1500,"observed_at":1792073909.8296149,"problem_id":"864D","submission_id":"394498118","title":"Make a Permutation!"}
 {"accepted_at":1791976285.0,"account_id":"a8","difficulty":1500,"observed_at":1792073909.8296022,"problem_id":"1106D","submission_id":"394504826","title":"Lunar New Year and a Wander"}
 {"accepted_at":1791978563.0,"account_id":"a8","difficulty":1500,"observed_at":1792073909.8295882,"problem_id":"1106D","submission_id":"394508735","title":"Lunar New Year and a Wander"}
@@ -1903,7 +1903,7 @@
 {"accepted_at":1791555325.0,"account_id":"a11","difficulty":900,"observed_at":1792075180.9974203,"problem_id":"2132B","submission_id":"393847945","title":"The Secret Number"}
 {"accepted_at":1791620942.0,"account_id":"a11","difficulty":800,"observed_at":1792075180.9973707,"problem_id":"2259A","submission_id":"393925646","title":"Moo Language School"}
 {"accepted_at":1791801153.0,"account_id":"a11","difficulty":null,"observed_at":1792075180.997325,"problem_id":"106745A","submission_id":"394260285","title":"Delete and Backspace"}
-{"accepted_at":1791904519.0,"account_id":"a11","difficulty":null,"observed_at":1792075180.997304,"problem_id":"2274A","submission_id":"394416350","title":"The Projections of Paco"}
+{"accepted_at":1791904519.0,"account_id":"a11","difficulty":800,"observed_at":1792075180.997304,"problem_id":"2274A","submission_id":"394416350","title":"The Projections of Paco"}
 {"accepted_at":1791965548.0,"account_id":"a11","difficulty":1300,"observed_at":1792075180.9972038,"problem_id":"1922C","submission_id":"394487068","title":"Closest Cities"}
 {"accepted_at":1792076930.0,"account_id":"a11","difficulty":1200,"observed_at":1792127046.6174595,"problem_id":"1104B","submission_id":"394711777","title":"Game with string"}
 {"accepted_at":1792217458.0,"account_id":"a11","difficulty":null,"observed_at":1792217972.8432143,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
@@ -5117,20 +5117,20 @@
 {"accepted_at":1790434044.0,"account_id":"a30","difficulty":800,"observed_at":1792127118.8115685,"problem_id":"2269A","submission_id":"392184250","title":"SauSaGe Bank"}
 {"accepted_at":1790434569.0,"account_id":"a30","difficulty":1000,"observed_at":1792127118.8115387,"problem_id":"2269B","submission_id":"392189408","title":"KiaKio and Squared Numbers"}
 {"accepted_at":1790436297.0,"account_id":"a30","difficulty":1200,"observed_at":1792127118.8115132,"problem_id":"2269C","submission_id":"392203055","title":"K Is Important"}
-{"accepted_at":1791552013.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.8114522,"problem_id":"2275A","submission_id":"393840449","title":"In Search of Convenience"}
-{"accepted_at":1791552755.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.811438,"problem_id":"2275B","submission_id":"393842051","title":"Did Not Go to Print"}
-{"accepted_at":1791554242.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.8113885,"problem_id":"2275C","submission_id":"393845500","title":"Unrequited Love"}
-{"accepted_at":1792058892.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.8113737,"problem_id":"2276A","submission_id":"394675284","title":"Perfect Sandwiches"}
-{"accepted_at":1792059625.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.8113563,"problem_id":"2276B","submission_id":"394676570","title":"Replace and Compress"}
-{"accepted_at":1792060387.0,"account_id":"a30","difficulty":null,"observed_at":1792127118.8112452,"problem_id":"2271A","submission_id":"394678046","title":"Robot Odd Moves"}
+{"accepted_at":1791552013.0,"account_id":"a30","difficulty":800,"observed_at":1792127118.8114522,"problem_id":"2275A","submission_id":"393840449","title":"In Search of Convenience"}
+{"accepted_at":1791552755.0,"account_id":"a30","difficulty":800,"observed_at":1792127118.811438,"problem_id":"2275B","submission_id":"393842051","title":"Did Not Go to Print"}
+{"accepted_at":1791554242.0,"account_id":"a30","difficulty":1000,"observed_at":1792127118.8113885,"problem_id":"2275C","submission_id":"393845500","title":"Unrequited Love"}
+{"accepted_at":1792058892.0,"account_id":"a30","difficulty":800,"observed_at":1792127118.8113737,"problem_id":"2276A","submission_id":"394675284","title":"Perfect Sandwiches"}
+{"accepted_at":1792059625.0,"account_id":"a30","difficulty":1000,"observed_at":1792127118.8113563,"problem_id":"2276B","submission_id":"394676570","title":"Replace and Compress"}
+{"accepted_at":1792060387.0,"account_id":"a30","difficulty":800,"observed_at":1792127118.8112452,"problem_id":"2271A","submission_id":"394678046","title":"Robot Odd Moves"}
 {"accepted_at":1792140817.0,"account_id":"a30","difficulty":null,"observed_at":1792141217.0248606,"problem_id":"105657A","submission_id":"394789270","title":"AUS"}
 {"accepted_at":1792140846.0,"account_id":"a30","difficulty":null,"observed_at":1792141217.0247695,"problem_id":"105657K","submission_id":"394789310","title":"Kind of Bingo"}
 {"accepted_at":1792147367.0,"account_id":"a30","difficulty":null,"observed_at":1792147882.452656,"problem_id":"105657E","submission_id":"394800412","title":"Elevator II"}
 {"accepted_at":1792152039.0,"account_id":"a30","difficulty":null,"observed_at":1792152106.820725,"problem_id":"105657H","submission_id":"394808554","title":"Heavy-light Decomposition"}
-{"accepted_at":1792248235.0,"account_id":"a30","difficulty":null,"observed_at":1792265197.9182098,"problem_id":"2261A","submission_id":"394961763","title":"Hey, It's Me, Souvlakity"}
-{"accepted_at":1792249431.0,"account_id":"a30","difficulty":null,"observed_at":1792265197.9181705,"problem_id":"2261B","submission_id":"394975933","title":"What's the Capital of France?"}
-{"accepted_at":1792250321.0,"account_id":"a30","difficulty":null,"observed_at":1792265197.9181285,"problem_id":"2261C","submission_id":"394985249","title":"I Know About a Million Things"}
-{"accepted_at":1792251102.0,"account_id":"a30","difficulty":null,"observed_at":1792265197.9178815,"problem_id":"2261D1","submission_id":"394992542","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"accepted_at":1792248235.0,"account_id":"a30","difficulty":800,"observed_at":1792265197.9182098,"problem_id":"2261A","submission_id":"394961763","title":"Hey, It's Me, Souvlakity"}
+{"accepted_at":1792249431.0,"account_id":"a30","difficulty":1100,"observed_at":1792265197.9181705,"problem_id":"2261B","submission_id":"394975933","title":"What's the Capital of France?"}
+{"accepted_at":1792250321.0,"account_id":"a30","difficulty":1000,"observed_at":1792265197.9181285,"problem_id":"2261C","submission_id":"394985249","title":"I Know About a Million Things"}
+{"accepted_at":1792251102.0,"account_id":"a30","difficulty":1300,"observed_at":1792265197.9178815,"problem_id":"2261D1","submission_id":"394992542","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -7755,9 +7755,9 @@
 {"accepted_at":1789562637.0,"account_id":"a33","difficulty":2700,"observed_at":1792127061.5511878,"problem_id":"2264E2","submission_id":"390923259","title":"A Prime Flood (Hard Version)"}
 {"accepted_at":1790483643.0,"account_id":"a33","difficulty":2300,"observed_at":1792127061.5511777,"problem_id":"2269E","submission_id":"392281730","title":"KiaKio and Energy Intervals"}
 {"accepted_at":1790499008.0,"account_id":"a33","difficulty":2600,"observed_at":1792127061.551166,"problem_id":"2269F","submission_id":"392306457","title":"AghaBalaSar and Hamed"}
-{"accepted_at":1791892118.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5511255,"problem_id":"2271E","submission_id":"394390230","title":"Array Emptying"}
-{"accepted_at":1791895144.0,"account_id":"a33","difficulty":null,"observed_at":1792127061.5510676,"problem_id":"2271F","submission_id":"394395803","title":"Beautiful Pillers"}
-{"accepted_at":1792416597.0,"account_id":"a33","difficulty":null,"observed_at":1792416668.2436733,"problem_id":"2261D1","submission_id":"395225477","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"accepted_at":1791892118.0,"account_id":"a33","difficulty":2100,"observed_at":1792127061.5511255,"problem_id":"2271E","submission_id":"394390230","title":"Array Emptying"}
+{"accepted_at":1791895144.0,"account_id":"a33","difficulty":2300,"observed_at":1792127061.5510676,"problem_id":"2271F","submission_id":"394395803","title":"Beautiful Pillers"}
+{"accepted_at":1792416597.0,"account_id":"a33","difficulty":1300,"observed_at":1792416668.2436733,"problem_id":"2261D1","submission_id":"395225477","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
 {"accepted_at":1792220348.0,"account_id":"a34","difficulty":3,"observed_at":1792220584.817644,"problem_id":"P7911","submission_id":"303611675","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792222456.0,"account_id":"a34","difficulty":5,"observed_at":1792223028.8863428,"problem_id":"P3435","submission_id":"303629410","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1792221828.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.1811852,"problem_id":"P7911","submission_id":"303624076","title":"[CSP-J 2021] 网络连接"}
@@ -7785,9 +7785,9 @@
 {"accepted_at":1790001570.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5862226,"problem_id":"2266A","submission_id":"391439917","title":"Good Contest"}
 {"accepted_at":1790002136.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5861578,"problem_id":"2266B","submission_id":"391456811","title":"Three Piles"}
 {"accepted_at":1790432115.0,"account_id":"a40","difficulty":1000,"observed_at":1792127067.586133,"problem_id":"2266C","submission_id":"392173677","title":"AND, OR, Sort!"}
-{"accepted_at":1791902997.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5861068,"problem_id":"2274A","submission_id":"394413226","title":"The Projections of Paco"}
-{"accepted_at":1791989234.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860927,"problem_id":"2276A","submission_id":"394541705","title":"Perfect Sandwiches"}
-{"accepted_at":1792053442.0,"account_id":"a40","difficulty":null,"observed_at":1792127067.5860753,"problem_id":"2276C","submission_id":"394664772","title":"Subarrays"}
+{"accepted_at":1791902997.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5861068,"problem_id":"2274A","submission_id":"394413226","title":"The Projections of Paco"}
+{"accepted_at":1791989234.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5860927,"problem_id":"2276A","submission_id":"394541705","title":"Perfect Sandwiches"}
+{"accepted_at":1792053442.0,"account_id":"a40","difficulty":1100,"observed_at":1792127067.5860753,"problem_id":"2276C","submission_id":"394664772","title":"Subarrays"}
 {"accepted_at":1792065092.0,"account_id":"a40","difficulty":1800,"observed_at":1792127067.5859802,"problem_id":"471D","submission_id":"394687121","title":"MUH and Cube Walls"}
 {"accepted_at":1497787060.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001384,"problem_id":"P1000","submission_id":"2380116","title":"超级玛丽游戏"}
 {"accepted_at":1497787234.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001163,"problem_id":"P1001","submission_id":"2380138","title":"A+B Problem"}
@@ -10019,10 +10019,10 @@
 {"accepted_at":1791231652.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0413702,"problem_id":"2195C","submission_id":"393335877","title":"Dice Roll Sequence"}
 {"accepted_at":1791233357.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0413454,"problem_id":"2193D","submission_id":"393337350","title":"Monster Game"}
 {"accepted_at":1791271063.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0413172,"problem_id":"2185D","submission_id":"393366342","title":"OutOfMemoryError"}
-{"accepted_at":1791384601.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.041293,"problem_id":"2275A","submission_id":"393523208","title":"In Search of Convenience"}
-{"accepted_at":1791385147.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0412805,"problem_id":"2275B","submission_id":"393536790","title":"Did Not Go to Print"}
-{"accepted_at":1791387472.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0412667,"problem_id":"2275C","submission_id":"393577704","title":"Unrequited Love"}
-{"accepted_at":1791393106.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0412526,"problem_id":"2275D","submission_id":"393626302","title":"Precision Alignment"}
+{"accepted_at":1791384601.0,"account_id":"a51","difficulty":800,"observed_at":1792127076.041293,"problem_id":"2275A","submission_id":"393523208","title":"In Search of Convenience"}
+{"accepted_at":1791385147.0,"account_id":"a51","difficulty":800,"observed_at":1792127076.0412805,"problem_id":"2275B","submission_id":"393536790","title":"Did Not Go to Print"}
+{"accepted_at":1791387472.0,"account_id":"a51","difficulty":1000,"observed_at":1792127076.0412667,"problem_id":"2275C","submission_id":"393577704","title":"Unrequited Love"}
+{"accepted_at":1791393106.0,"account_id":"a51","difficulty":1300,"observed_at":1792127076.0412526,"problem_id":"2275D","submission_id":"393626302","title":"Precision Alignment"}
 {"accepted_at":1791462391.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0412385,"problem_id":"2184C","submission_id":"393713151","title":"Huge Pile"}
 {"accepted_at":1791464929.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.041214,"problem_id":"2184B","submission_id":"393718835","title":"Hourglass"}
 {"accepted_at":1791536528.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0411928,"problem_id":"2137C","submission_id":"393812105","title":"Maximum Even Sum"}
@@ -10032,9 +10032,9 @@
 {"accepted_at":1791816969.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.041111,"problem_id":"2179C","submission_id":"394291772","title":"Blackslex and Number Theory"}
 {"accepted_at":1791868160.0,"account_id":"a51","difficulty":1200,"observed_at":1792127076.0410893,"problem_id":"2178C","submission_id":"394352088","title":"First or Second"}
 {"accepted_at":1791907285.0,"account_id":"a51","difficulty":1200,"observed_at":1792127076.0410602,"problem_id":"522A","submission_id":"394421808","title":"Reposts"}
-{"accepted_at":1791989182.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0409956,"problem_id":"2276A","submission_id":"394540948","title":"Perfect Sandwiches"}
-{"accepted_at":1791991552.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0409791,"problem_id":"2276C","submission_id":"394566875","title":"Subarrays"}
-{"accepted_at":1791994336.0,"account_id":"a51","difficulty":null,"observed_at":1792127076.0408595,"problem_id":"2276D","submission_id":"394587146","title":"Caveman"}
+{"accepted_at":1791989182.0,"account_id":"a51","difficulty":800,"observed_at":1792127076.0409956,"problem_id":"2276A","submission_id":"394540948","title":"Perfect Sandwiches"}
+{"accepted_at":1791991552.0,"account_id":"a51","difficulty":1100,"observed_at":1792127076.0409791,"problem_id":"2276C","submission_id":"394566875","title":"Subarrays"}
+{"accepted_at":1791994336.0,"account_id":"a51","difficulty":1400,"observed_at":1792127076.0408595,"problem_id":"2276D","submission_id":"394587146","title":"Caveman"}
 {"accepted_at":1792323933.0,"account_id":"a51","difficulty":1700,"observed_at":1792341103.3479831,"problem_id":"126B","submission_id":"395089726","title":"Password"}
 {"accepted_at":1792340813.0,"account_id":"a51","difficulty":2000,"observed_at":1792341704.5854347,"problem_id":"1200E","submission_id":"395118313","title":"Compress Words"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
@@ -11249,12 +11249,12 @@
 {"accepted_at":1791268483.0,"account_id":"a67","difficulty":null,"observed_at":1792127088.4479017,"problem_id":"105588G","submission_id":"393362720","title":"GCD"}
 {"accepted_at":1791528710.0,"account_id":"a67","difficulty":1000,"observed_at":1792127088.4478695,"problem_id":"2192B","submission_id":"393798262","title":"Flipping Binary String"}
 {"accepted_at":1791530641.0,"account_id":"a67","difficulty":1300,"observed_at":1792127088.4478524,"problem_id":"2192C","submission_id":"393801576","title":"All-in-one Gun"}
-{"accepted_at":1791772755.0,"account_id":"a67","difficulty":null,"observed_at":1792127088.4478016,"problem_id":"2271A","submission_id":"394218697","title":"Robot Odd Moves"}
-{"accepted_at":1791775198.0,"account_id":"a67","difficulty":null,"observed_at":1792127088.4477344,"problem_id":"2271B","submission_id":"394220702","title":"MEX Game"}
-{"accepted_at":1792376430.0,"account_id":"a67","difficulty":null,"observed_at":1792376901.9032269,"problem_id":"2261A","submission_id":"395157328","title":"Hey, It's Me, Souvlakity"}
-{"accepted_at":1792378812.0,"account_id":"a67","difficulty":null,"observed_at":1792379313.7289014,"problem_id":"2261B","submission_id":"395164137","title":"What's the Capital of France?"}
-{"accepted_at":1792379988.0,"account_id":"a67","difficulty":null,"observed_at":1792380522.7590766,"problem_id":"2261C","submission_id":"395165075","title":"I Know About a Million Things"}
-{"accepted_at":1792385745.0,"account_id":"a67","difficulty":null,"observed_at":1792386107.849242,"problem_id":"2261D1","submission_id":"395170094","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"accepted_at":1791772755.0,"account_id":"a67","difficulty":800,"observed_at":1792127088.4478016,"problem_id":"2271A","submission_id":"394218697","title":"Robot Odd Moves"}
+{"accepted_at":1791775198.0,"account_id":"a67","difficulty":1000,"observed_at":1792127088.4477344,"problem_id":"2271B","submission_id":"394220702","title":"MEX Game"}
+{"accepted_at":1792376430.0,"account_id":"a67","difficulty":800,"observed_at":1792376901.9032269,"problem_id":"2261A","submission_id":"395157328","title":"Hey, It's Me, Souvlakity"}
+{"accepted_at":1792378812.0,"account_id":"a67","difficulty":1100,"observed_at":1792379313.7289014,"problem_id":"2261B","submission_id":"395164137","title":"What's the Capital of France?"}
+{"accepted_at":1792379988.0,"account_id":"a67","difficulty":1000,"observed_at":1792380522.7590766,"problem_id":"2261C","submission_id":"395165075","title":"I Know About a Million Things"}
+{"accepted_at":1792385745.0,"account_id":"a67","difficulty":1300,"observed_at":1792386107.849242,"problem_id":"2261D1","submission_id":"395170094","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
 {"accepted_at":1792164444.0,"account_id":"a68","difficulty":4,"observed_at":1792164516.567243,"problem_id":"P3375","submission_id":"303480380","title":"【模板】KMP"}
 {"accepted_at":1792139809.0,"account_id":"a70","difficulty":4,"observed_at":1792153440.0873888,"problem_id":"P3375","submission_id":"303362099","title":"【模板】KMP"}
 {"accepted_at":1792140193.0,"account_id":"a70","difficulty":4,"observed_at":1792153440.0873146,"problem_id":"P3375","submission_id":"303363712","title":"【模板】KMP"}
@@ -11768,10 +11768,10 @@
 {"accepted_at":1790351001.0,"account_id":"a74","difficulty":1400,"observed_at":1792127097.126947,"problem_id":"2267D","submission_id":"392045443","title":"Backrooms Hill"}
 {"accepted_at":1790433576.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.126929,"problem_id":"2269A","submission_id":"392178079","title":"SauSaGe Bank"}
 {"accepted_at":1790435094.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1269002,"problem_id":"2269B","submission_id":"392193928","title":"KiaKio and Squared Numbers"}
-{"accepted_at":1791384595.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268818,"problem_id":"2275A","submission_id":"393523072","title":"In Search of Convenience"}
-{"accepted_at":1791385033.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268733,"problem_id":"2275B","submission_id":"393534208","title":"Did Not Go to Print"}
-{"accepted_at":1791386056.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.126864,"problem_id":"2275C","submission_id":"393558227","title":"Unrequited Love"}
-{"accepted_at":1791389765.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268544,"problem_id":"2275D","submission_id":"393601507","title":"Precision Alignment"}
+{"accepted_at":1791384595.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1268818,"problem_id":"2275A","submission_id":"393523072","title":"In Search of Convenience"}
+{"accepted_at":1791385033.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1268733,"problem_id":"2275B","submission_id":"393534208","title":"Did Not Go to Print"}
+{"accepted_at":1791386056.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.126864,"problem_id":"2275C","submission_id":"393558227","title":"Unrequited Love"}
+{"accepted_at":1791389765.0,"account_id":"a74","difficulty":1300,"observed_at":1792127097.1268544,"problem_id":"2275D","submission_id":"393601507","title":"Precision Alignment"}
 {"accepted_at":1791446218.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268346,"problem_id":"106725N","submission_id":"393681210","title":"New CCPC Rule"}
 {"accepted_at":1791446928.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268253,"problem_id":"106725I","submission_id":"393682581","title":"Integer Triple"}
 {"accepted_at":1791455031.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1268132,"problem_id":"106725H","submission_id":"393698752","title":"Hidden Permutation"}
@@ -11781,11 +11781,11 @@
 {"accepted_at":1791609842.0,"account_id":"a74","difficulty":1700,"observed_at":1792127097.1267614,"problem_id":"2096C","submission_id":"393906566","title":"Wonderful City"}
 {"accepted_at":1791615370.0,"account_id":"a74","difficulty":1400,"observed_at":1792127097.1267467,"problem_id":"2157C","submission_id":"393914416","title":"Meximum Array 2"}
 {"accepted_at":1791629716.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1267319,"problem_id":"2062A","submission_id":"393942446","title":"String"}
-{"accepted_at":1791860984.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1267126,"problem_id":"2274A","submission_id":"394345150","title":"The Projections of Paco"}
-{"accepted_at":1792056420.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.126703,"problem_id":"2276A","submission_id":"394671013","title":"Perfect Sandwiches"}
-{"accepted_at":1792056601.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1266904,"problem_id":"2276B","submission_id":"394671349","title":"Replace and Compress"}
-{"accepted_at":1792057115.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.126659,"problem_id":"2276C","submission_id":"394672211","title":"Subarrays"}
-{"accepted_at":1792058943.0,"account_id":"a74","difficulty":null,"observed_at":1792127097.1266465,"problem_id":"2276D","submission_id":"394675376","title":"Caveman"}
+{"accepted_at":1791860984.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1267126,"problem_id":"2274A","submission_id":"394345150","title":"The Projections of Paco"}
+{"accepted_at":1792056420.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.126703,"problem_id":"2276A","submission_id":"394671013","title":"Perfect Sandwiches"}
+{"accepted_at":1792056601.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1266904,"problem_id":"2276B","submission_id":"394671349","title":"Replace and Compress"}
+{"accepted_at":1792057115.0,"account_id":"a74","difficulty":1100,"observed_at":1792127097.126659,"problem_id":"2276C","submission_id":"394672211","title":"Subarrays"}
+{"accepted_at":1792058943.0,"account_id":"a74","difficulty":1400,"observed_at":1792127097.1266465,"problem_id":"2276D","submission_id":"394675376","title":"Caveman"}
 {"accepted_at":1792062089.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1265786,"problem_id":"2230A","submission_id":"394681305","title":"Optimal Purchase"}
 {"accepted_at":1792139437.0,"account_id":"a74","difficulty":800,"observed_at":1792139966.5596812,"problem_id":"2203A","submission_id":"394787149","title":"Towers of Boxes"}
 {"accepted_at":1792140244.0,"account_id":"a74","difficulty":1000,"observed_at":1792140569.4601767,"problem_id":"2203B","submission_id":"394788396","title":"Beautiful Numbers"}
@@ -12583,12 +12583,12 @@
 {"accepted_at":1790435667.0,"account_id":"a82","difficulty":1500,"observed_at":1792127103.804251,"problem_id":"2269D","submission_id":"392198436","title":"What a SauSaGe! It's All Meat"}
 {"accepted_at":1790437809.0,"account_id":"a82","difficulty":2300,"observed_at":1792127103.8042362,"problem_id":"2269E","submission_id":"392213101","title":"KiaKio and Energy Intervals"}
 {"accepted_at":1790451925.0,"account_id":"a82","difficulty":2600,"observed_at":1792127103.8042133,"problem_id":"2269F","submission_id":"392250392","title":"AghaBalaSar and Hamed"}
-{"accepted_at":1791988661.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8041756,"problem_id":"2276A","submission_id":"394532784","title":"Perfect Sandwiches"}
-{"accepted_at":1791989029.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8041675,"problem_id":"2276C","submission_id":"394538446","title":"Subarrays"}
-{"accepted_at":1791989328.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8041582,"problem_id":"2276B","submission_id":"394543080","title":"Replace and Compress"}
-{"accepted_at":1791989633.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8041494,"problem_id":"2276D","submission_id":"394547163","title":"Caveman"}
-{"accepted_at":1791990843.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8041334,"problem_id":"2276E","submission_id":"394560224","title":"Good Substrings"}
-{"accepted_at":1791992375.0,"account_id":"a82","difficulty":null,"observed_at":1792127103.8040614,"problem_id":"2276F","submission_id":"394573659","title":"Permutation Coloring Game"}
+{"accepted_at":1791988661.0,"account_id":"a82","difficulty":800,"observed_at":1792127103.8041756,"problem_id":"2276A","submission_id":"394532784","title":"Perfect Sandwiches"}
+{"accepted_at":1791989029.0,"account_id":"a82","difficulty":1100,"observed_at":1792127103.8041675,"problem_id":"2276C","submission_id":"394538446","title":"Subarrays"}
+{"accepted_at":1791989328.0,"account_id":"a82","difficulty":1000,"observed_at":1792127103.8041582,"problem_id":"2276B","submission_id":"394543080","title":"Replace and Compress"}
+{"accepted_at":1791989633.0,"account_id":"a82","difficulty":1400,"observed_at":1792127103.8041494,"problem_id":"2276D","submission_id":"394547163","title":"Caveman"}
+{"accepted_at":1791990843.0,"account_id":"a82","difficulty":1800,"observed_at":1792127103.8041334,"problem_id":"2276E","submission_id":"394560224","title":"Good Substrings"}
+{"accepted_at":1791992375.0,"account_id":"a82","difficulty":2400,"observed_at":1792127103.8040614,"problem_id":"2276F","submission_id":"394573659","title":"Permutation Coloring Game"}
 {"accepted_at":1777725184.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6522186,"problem_id":"P1000","submission_id":"276358382","title":"超级玛丽游戏"}
 {"accepted_at":1777728661.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.652194,"problem_id":"P1001","submission_id":"276365634","title":"A+B Problem"}
 {"accepted_at":1777730179.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6521673,"problem_id":"P1035","submission_id":"276368133","title":"[NOIP 2002 普及组] 级数求和"}
@@ -13182,12 +13182,13 @@
 {"accepted_at":1791273916.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.113252,"problem_id":"104821F","submission_id":"393370678","title":"Equivalent Rewriting"}
 {"accepted_at":1791350012.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.113243,"problem_id":"105484E","submission_id":"393465381","title":"Left Shifting 3"}
 {"accepted_at":1791352843.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.1132338,"problem_id":"105484J","submission_id":"393468448","title":"Social Media"}
-{"accepted_at":1792068180.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.1132233,"problem_id":"2276A","submission_id":"394692774","title":"Perfect Sandwiches"}
-{"accepted_at":1792071312.0,"account_id":"a87","difficulty":null,"observed_at":1792127108.113159,"problem_id":"2276B","submission_id":"394699425","title":"Replace and Compress"}
+{"accepted_at":1792068180.0,"account_id":"a87","difficulty":800,"observed_at":1792127108.1132233,"problem_id":"2276A","submission_id":"394692774","title":"Perfect Sandwiches"}
+{"accepted_at":1792071312.0,"account_id":"a87","difficulty":1000,"observed_at":1792127108.113159,"problem_id":"2276B","submission_id":"394699425","title":"Replace and Compress"}
 {"accepted_at":1792217458.0,"account_id":"a87","difficulty":null,"observed_at":1792217940.7448487,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
 {"accepted_at":1792219451.0,"account_id":"a87","difficulty":null,"observed_at":1792219754.1892364,"problem_id":"105657A","submission_id":"394900475","title":"AUS"}
 {"accepted_at":1792484995.0,"account_id":"a87","difficulty":null,"observed_at":1792485605.8874757,"problem_id":"104459A","submission_id":"395314849","title":"Sekiro"}
 {"accepted_at":1792487162.0,"account_id":"a87","difficulty":null,"observed_at":1792487784.9411936,"problem_id":"104459M","submission_id":"395318498","title":"Calandar"}
+{"accepted_at":1792488185.0,"account_id":"a87","difficulty":null,"observed_at":1792488393.4009595,"problem_id":"104459D","submission_id":"395320172","title":"Stones in the Bucket"}
 {"accepted_at":1761372539.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224429,"problem_id":"P5718","submission_id":"242899207","title":"【深基4.例2】找最小值"}
 {"accepted_at":1762582638.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.222424,"problem_id":"P1307","submission_id":"246029492","title":"[NOIP 2011 普及组] 数字反转"}
 {"accepted_at":1762586659.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224019,"problem_id":"P1089","submission_id":"246058044","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
@@ -13401,10 +13402,10 @@
 {"accepted_at":1790348993.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.4832172,"problem_id":"2267B","submission_id":"392026977","title":"Fashionable Array"}
 {"accepted_at":1790350164.0,"account_id":"a96","difficulty":1400,"observed_at":1792127114.483193,"problem_id":"2267D","submission_id":"392038519","title":"Backrooms Hill"}
 {"accepted_at":1790353810.0,"account_id":"a96","difficulty":1700,"observed_at":1792127114.4831574,"problem_id":"2267F1","submission_id":"392063683","title":"XOR Transformations (Easy Version)"}
-{"accepted_at":1791989302.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4831061,"problem_id":"2276A","submission_id":"394542727","title":"Perfect Sandwiches"}
-{"accepted_at":1791990816.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4830925,"problem_id":"2276C","submission_id":"394559959","title":"Subarrays"}
-{"accepted_at":1791992351.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4830768,"problem_id":"2276D","submission_id":"394573473","title":"Caveman"}
-{"accepted_at":1791993081.0,"account_id":"a96","difficulty":null,"observed_at":1792127114.4829898,"problem_id":"2276B","submission_id":"394578985","title":"Replace and Compress"}
+{"accepted_at":1791989302.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.4831061,"problem_id":"2276A","submission_id":"394542727","title":"Perfect Sandwiches"}
+{"accepted_at":1791990816.0,"account_id":"a96","difficulty":1100,"observed_at":1792127114.4830925,"problem_id":"2276C","submission_id":"394559959","title":"Subarrays"}
+{"accepted_at":1791992351.0,"account_id":"a96","difficulty":1400,"observed_at":1792127114.4830768,"problem_id":"2276D","submission_id":"394573473","title":"Caveman"}
+{"accepted_at":1791993081.0,"account_id":"a96","difficulty":1000,"observed_at":1792127114.4829898,"problem_id":"2276B","submission_id":"394578985","title":"Replace and Compress"}
 {"accepted_at":1657420372.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.779435,"problem_id":"B2052","submission_id":"78948658","title":"简单计算器"}
 {"accepted_at":1657524725.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.779387,"problem_id":"B2027","submission_id":"79094554","title":"计算球的体积"}
 {"accepted_at":1657524876.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.7793396,"problem_id":"B2001","submission_id":"79095078","title":"入门测试题目"}
@@ -15764,8 +15765,8 @@
 {"accepted_at":1703330095.0,"account_id":"a98","difficulty":1400,"observed_at":1792148496.6038942,"problem_id":"757B","submission_id":"238483855","title":"Bash's Big Day"}
 {"accepted_at":1703330304.0,"account_id":"a98","difficulty":1400,"observed_at":1792148496.6038842,"problem_id":"757B","submission_id":"238484198","title":"Bash's Big Day"}
 {"accepted_at":1727436250.0,"account_id":"a98","difficulty":1800,"observed_at":1792148496.6038728,"problem_id":"7C","submission_id":"283164185","title":"Line"}
-{"accepted_at":1791989362.0,"account_id":"a98","difficulty":null,"observed_at":1792148496.603856,"problem_id":"2276A","submission_id":"394543568","title":"Perfect Sandwiches"}
-{"accepted_at":1791990411.0,"account_id":"a98","difficulty":null,"observed_at":1792148496.6038203,"problem_id":"2276C","submission_id":"394555799","title":"Subarrays"}
+{"accepted_at":1791989362.0,"account_id":"a98","difficulty":800,"observed_at":1792148496.603856,"problem_id":"2276A","submission_id":"394543568","title":"Perfect Sandwiches"}
+{"accepted_at":1791990411.0,"account_id":"a98","difficulty":1100,"observed_at":1792148496.6038203,"problem_id":"2276C","submission_id":"394555799","title":"Subarrays"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -25137,8 +25138,8 @@
 {"accepted_at":1791285427.0,"account_id":"a179","difficulty":null,"observed_at":1792163146.0018969,"problem_id":"15429","submission_id":"3115679","title":"Reverse KMP"}
 {"accepted_at":1791353415.0,"account_id":"a179","difficulty":null,"observed_at":1792163146.0018783,"problem_id":"14820","submission_id":"3120306","title":"扫雪"}
 {"accepted_at":1791357789.0,"account_id":"a179","difficulty":null,"observed_at":1792163146.0017436,"problem_id":"14824","submission_id":"3121340","title":"01 背包"}
-{"accepted_at":1791989258.0,"account_id":"a180","difficulty":null,"observed_at":1792167379.6161923,"problem_id":"2276A","submission_id":"394542088","title":"Perfect Sandwiches"}
-{"accepted_at":1791992066.0,"account_id":"a180","difficulty":null,"observed_at":1792167379.6161022,"problem_id":"2276C","submission_id":"394571164","title":"Subarrays"}
+{"accepted_at":1791989258.0,"account_id":"a180","difficulty":800,"observed_at":1792167379.6161923,"problem_id":"2276A","submission_id":"394542088","title":"Perfect Sandwiches"}
+{"accepted_at":1791992066.0,"account_id":"a180","difficulty":1100,"observed_at":1792167379.6161022,"problem_id":"2276C","submission_id":"394571164","title":"Subarrays"}
 {"accepted_at":1792153741.0,"account_id":"a180","difficulty":1800,"observed_at":1792167379.615882,"problem_id":"471D","submission_id":"394811747","title":"MUH and Cube Walls"}
 {"accepted_at":1769003977.0,"account_id":"a181","difficulty":900,"observed_at":1792167449.781802,"problem_id":"1972B","submission_id":"359073670","title":"Coin Games"}
 {"accepted_at":1769182126.0,"account_id":"a181","difficulty":800,"observed_at":1792167449.7817562,"problem_id":"2189A","submission_id":"359404451","title":"Table with Numbers"}
@@ -25332,7 +25333,7 @@
 {"accepted_at":1790440693.0,"account_id":"a181","difficulty":1500,"observed_at":1792167449.7722573,"problem_id":"2269D","submission_id":"392227420","title":"What a SauSaGe! It's All Meat"}
 {"accepted_at":1790868345.0,"account_id":"a181","difficulty":1000,"observed_at":1792167449.7721968,"problem_id":"339B","submission_id":"392851983","title":"Xenia and Ringroad"}
 {"accepted_at":1791988668.0,"account_id":"a181","difficulty":800,"observed_at":1792167449.7720613,"problem_id":"2276A","submission_id":"394532868","title":"Perfect Sandwiches"}
-{"accepted_at":1791989868.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.7720203,"problem_id":"2276C","submission_id":"394549844","title":"Subarrays"}
+{"accepted_at":1791989868.0,"account_id":"a181","difficulty":1100,"observed_at":1792167449.7720203,"problem_id":"2276C","submission_id":"394549844","title":"Subarrays"}
 {"accepted_at":1791990579.0,"account_id":"a181","difficulty":1000,"observed_at":1792167449.771801,"problem_id":"2276B","submission_id":"394557554","title":"Replace and Compress"}
 {"accepted_at":1628356497.0,"account_id":"a182","difficulty":1,"observed_at":1792486977.5351207,"problem_id":"P2670","submission_id":"55254742","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1660744880.0,"account_id":"a182","difficulty":4,"observed_at":1792486977.535091,"problem_id":"P3956","submission_id":"84207506","title":"[NOIP 2017 普及组] 棋盘"}
@@ -26048,15 +26049,15 @@
 {"accepted_at":1790434423.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1312075,"problem_id":"2269B","submission_id":"392188060","title":"KiaKio and Squared Numbers"}
 {"accepted_at":1790435516.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1311908,"problem_id":"2269C","submission_id":"392197288","title":"K Is Important"}
 {"accepted_at":1790436915.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.131169,"problem_id":"2269D","submission_id":"392207315","title":"What a SauSaGe! It's All Meat"}
-{"accepted_at":1791645359.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1311107,"problem_id":"2271A","submission_id":"393978286","title":"Robot Odd Moves"}
-{"accepted_at":1791645862.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310785,"problem_id":"2271B","submission_id":"393984740","title":"MEX Game"}
-{"accepted_at":1791647535.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310613,"problem_id":"2271C","submission_id":"394001077","title":"XOR Problem"}
-{"accepted_at":1791650381.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310408,"problem_id":"2271D","submission_id":"394019203","title":"Target Infection"}
-{"accepted_at":1791988705.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.131004,"problem_id":"2276A","submission_id":"394533375","title":"Perfect Sandwiches"}
-{"accepted_at":1791989298.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130987,"problem_id":"2276B","submission_id":"394542655","title":"Replace and Compress"}
-{"accepted_at":1791989940.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1309679,"problem_id":"2276C","submission_id":"394550668","title":"Subarrays"}
-{"accepted_at":1791991881.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1309412,"problem_id":"2276D","submission_id":"394569583","title":"Caveman"}
-{"accepted_at":1791995476.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130924,"problem_id":"2276E","submission_id":"394594241","title":"Good Substrings"}
+{"accepted_at":1791645359.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1311107,"problem_id":"2271A","submission_id":"393978286","title":"Robot Odd Moves"}
+{"accepted_at":1791645862.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1310785,"problem_id":"2271B","submission_id":"393984740","title":"MEX Game"}
+{"accepted_at":1791647535.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1310613,"problem_id":"2271C","submission_id":"394001077","title":"XOR Problem"}
+{"accepted_at":1791650381.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.1310408,"problem_id":"2271D","submission_id":"394019203","title":"Target Infection"}
+{"accepted_at":1791988705.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.131004,"problem_id":"2276A","submission_id":"394533375","title":"Perfect Sandwiches"}
+{"accepted_at":1791989298.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.130987,"problem_id":"2276B","submission_id":"394542655","title":"Replace and Compress"}
+{"accepted_at":1791989940.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1309679,"problem_id":"2276C","submission_id":"394550668","title":"Subarrays"}
+{"accepted_at":1791991881.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1309412,"problem_id":"2276D","submission_id":"394569583","title":"Caveman"}
+{"accepted_at":1791995476.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.130924,"problem_id":"2276E","submission_id":"394594241","title":"Good Substrings"}
 {"accepted_at":1792061700.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130905,"problem_id":"104857F","submission_id":"394680555","title":"Colorful Balloons"}
 {"accepted_at":1792062938.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130882,"problem_id":"104857E","submission_id":"394682974","title":"Matrix Distances"}
 {"accepted_at":1792068865.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130861,"problem_id":"104857G","submission_id":"394694269","title":"Streak Manipulation"}
