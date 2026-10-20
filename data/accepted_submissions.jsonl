@@ -9949,6 +9949,7 @@
 {"accepted_at":1792490176.0,"account_id":"a49","difficulty":6,"observed_at":1792490419.5327368,"problem_id":"P2444","submission_id":"304373032","title":"[POI 2000 R1] 病毒"}
 {"accepted_at":1792499266.0,"account_id":"a49","difficulty":6,"observed_at":1792499601.449057,"problem_id":"P3041","submission_id":"304421739","title":"[USACO12JAN] Video Game G"}
 {"accepted_at":1792501720.0,"account_id":"a49","difficulty":6,"observed_at":1792502569.1194463,"problem_id":"P4052","submission_id":"304438008","title":"[JSOI2007] 文本生成器"}
+{"accepted_at":1792506758.0,"account_id":"a49","difficulty":6,"observed_at":1792506845.4628758,"problem_id":"P3121","submission_id":"304464911","title":"[USACO15FEB] Censoring G"}
 {"accepted_at":1787837797.0,"account_id":"a50","difficulty":null,"observed_at":1792127070.2374945,"problem_id":"14304","submission_id":"2825725","title":"Min-Max Tree"}
 {"accepted_at":1787898949.0,"account_id":"a50","difficulty":null,"observed_at":1792127070.2373939,"problem_id":"14309","submission_id":"2827740","title":"Knapsack Problem"}
 {"accepted_at":1788153414.0,"account_id":"a50","difficulty":null,"observed_at":1792127052.8917427,"problem_id":"14712","submission_id":"2841016","title":"GCD of Subsets"}
@@ -10924,6 +10925,7 @@
 {"accepted_at":1792408312.0,"account_id":"a62","difficulty":800,"observed_at":1792408741.100733,"problem_id":"2217A","submission_id":"395208702","title":"The Equalizer"}
 {"accepted_at":1792411407.0,"account_id":"a62","difficulty":1000,"observed_at":1792411760.5495293,"problem_id":"2217B","submission_id":"395214177","title":"Flip the Bit (Easy Version)"}
 {"accepted_at":1792417932.0,"account_id":"a62","difficulty":1300,"observed_at":1792422280.8287165,"problem_id":"2217C","submission_id":"395228669","title":"Grid Covering"}
+{"accepted_at":1792507148.0,"account_id":"a62","difficulty":800,"observed_at":1792507207.9402094,"problem_id":"2055A","submission_id":"395356261","title":"Two Frogs"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
