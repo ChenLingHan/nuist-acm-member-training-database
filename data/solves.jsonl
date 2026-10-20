@@ -10842,6 +10842,7 @@
 {"account_id":"a91","difficulty":2,"member_id":"m40","observed_at":1792130110.661715,"platform":"luogu","problem_id":"P5717","solved_at":1791767202.0,"source":"luogu-practice-snapshot","title":"【深基3.习8】三角形分类"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792479152.8623226,"platform":"luogu","problem_id":"P5718","solved_at":1792478875.0,"source":"luogu-record-list","title":"【深基4.例2】找最小值"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792479152.8621395,"platform":"luogu","problem_id":"P5719","solved_at":1792479005.0,"source":"luogu-record-list","title":"【深基4.例3】分类平均"}
+{"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792479762.8750315,"platform":"luogu","problem_id":"P5720","solved_at":1792479163.0,"source":"luogu-record-list","title":"【深基4.例4】一尺之棰"}
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0447915,"platform":"luogu","problem_id":"P1000","solved_at":1792142379.0,"source":"luogu-record-list","title":"超级玛丽游戏"}
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0444474,"platform":"luogu","problem_id":"P1001","solved_at":1792142643.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a93","difficulty":4,"member_id":"m41","observed_at":1792153446.0448258,"platform":"luogu","problem_id":"P3375","solved_at":1792137885.0,"source":"luogu-record-list","title":"【模板】KMP"}
@@ -10859,10 +10860,12 @@
 {"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792338907.4338722,"platform":"luogu","problem_id":"P3379","solved_at":1792338384.0,"source":"luogu-record-list","title":"【模板】最近公共祖先（LCA）"}
 {"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792309827.5479867,"platform":"luogu","problem_id":"P3385","solved_at":1792309397.0,"source":"luogu-record-list","title":"【模板】负环"}
 {"account_id":"a95","difficulty":5,"member_id":"m42","observed_at":1792165698.6452198,"platform":"luogu","problem_id":"P3435","solved_at":1792165606.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a95","difficulty":6,"member_id":"m42","observed_at":1792479576.57688,"platform":"luogu","problem_id":"P3796","solved_at":1792479266.0,"source":"luogu-record-list","title":"AC 自动机（简单版 II）"}
 {"account_id":"a95","difficulty":6,"member_id":"m42","observed_at":1792478353.1272807,"platform":"luogu","problem_id":"P3808","solved_at":1792477870.0,"source":"luogu-record-list","title":"AC 自动机（简单版）"}
 {"account_id":"a95","difficulty":4,"member_id":"m42","observed_at":1792160780.9840596,"platform":"luogu","problem_id":"P4391","solved_at":1792160755.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792153452.4680092,"platform":"luogu","problem_id":"P4779","solved_at":1791897747.0,"source":"luogu-record-list","title":"【模板】单源最短路径（标准版）"}
 {"account_id":"a95","difficulty":5,"member_id":"m42","observed_at":1792163879.9758782,"platform":"luogu","problem_id":"P4824","solved_at":1792163332.0,"source":"luogu-record-list","title":"[USACO15FEB] Censoring S"}
+{"account_id":"a95","difficulty":6,"member_id":"m42","observed_at":1792479576.5766895,"platform":"luogu","problem_id":"P5357","solved_at":1792479414.0,"source":"luogu-record-list","title":"【模板】AC 自动机"}
 {"account_id":"a95","difficulty":3,"member_id":"m42","observed_at":1792218752.6517665,"platform":"luogu","problem_id":"P7911","solved_at":1792218537.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a96","difficulty":800,"member_id":"m42","observed_at":1792127114.48551,"platform":"codeforces","problem_id":"2233A","solved_at":1781023378.0,"source":"codeforces-api","title":"AI Project Development"}
 {"account_id":"a96","difficulty":800,"member_id":"m42","observed_at":1792127114.485477,"platform":"codeforces","problem_id":"2238A","solved_at":1782659090.0,"source":"codeforces-api","title":"Another Puzzle from Papyrus"}

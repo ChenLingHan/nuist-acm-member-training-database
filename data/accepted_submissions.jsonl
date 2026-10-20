@@ -13311,6 +13311,7 @@
 {"accepted_at":1792478450.0,"account_id":"a91","difficulty":2,"observed_at":1792478544.4621263,"problem_id":"P1055","submission_id":"304328316","title":"[NOIP 2008 普及组] ISBN 号码"}
 {"accepted_at":1792478875.0,"account_id":"a91","difficulty":1,"observed_at":1792479152.8623326,"problem_id":"P5718","submission_id":"304329535","title":"【深基4.例2】找最小值"}
 {"accepted_at":1792479005.0,"account_id":"a91","difficulty":1,"observed_at":1792479152.8622208,"problem_id":"P5719","submission_id":"304329877","title":"【深基4.例3】分类平均"}
+{"accepted_at":1792479163.0,"account_id":"a91","difficulty":1,"observed_at":1792479762.8751266,"problem_id":"P5720","submission_id":"304330408","title":"【深基4.例4】一尺之棰"}
 {"accepted_at":1792137885.0,"account_id":"a93","difficulty":4,"observed_at":1792153446.0448349,"problem_id":"P3375","submission_id":"303355076","title":"【模板】KMP"}
 {"accepted_at":1792142379.0,"account_id":"a93","difficulty":1,"observed_at":1792153446.0448034,"problem_id":"P1000","submission_id":"303373340","title":"超级玛丽游戏"}
 {"accepted_at":1792142643.0,"account_id":"a93","difficulty":1,"observed_at":1792153446.0446556,"problem_id":"P1001","submission_id":"303374496","title":"A+B Problem"}
@@ -13338,6 +13339,8 @@
 {"accepted_at":1792338384.0,"account_id":"a95","difficulty":3,"observed_at":1792338907.4340408,"problem_id":"P3379","submission_id":"304095811","title":"【模板】最近公共祖先（LCA）"}
 {"accepted_at":1792386950.0,"account_id":"a95","difficulty":4,"observed_at":1792387418.1212277,"problem_id":"P3128","submission_id":"304131392","title":"[USACO15DEC] Max Flow P"}
 {"accepted_at":1792477870.0,"account_id":"a95","difficulty":6,"observed_at":1792478353.1275723,"problem_id":"P3808","submission_id":"304326767","title":"AC 自动机（简单版）"}
+{"accepted_at":1792479266.0,"account_id":"a95","difficulty":6,"observed_at":1792479576.5769029,"problem_id":"P3796","submission_id":"304330722","title":"AC 自动机（简单版 II）"}
+{"accepted_at":1792479414.0,"account_id":"a95","difficulty":6,"observed_at":1792479576.5767815,"problem_id":"P5357","submission_id":"304331181","title":"【模板】AC 自动机"}
 {"accepted_at":1781023378.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.485516,"problem_id":"2233A","submission_id":"377997670","title":"AI Project Development"}
 {"accepted_at":1782659090.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.4854825,"problem_id":"2238A","submission_id":"380485715","title":"Another Puzzle from Papyrus"}
 {"accepted_at":1782659469.0,"account_id":"a96","difficulty":900,"observed_at":1792127114.485449,"problem_id":"2238B","submission_id":"380488923","title":"Crimson Triples"}
