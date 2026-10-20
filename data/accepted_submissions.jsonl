@@ -25329,6 +25329,46 @@
 {"accepted_at":1791988668.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.7720613,"problem_id":"2276A","submission_id":"394532868","title":"Perfect Sandwiches"}
 {"accepted_at":1791989868.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.7720203,"problem_id":"2276C","submission_id":"394549844","title":"Subarrays"}
 {"accepted_at":1791990579.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.771801,"problem_id":"2276B","submission_id":"394557554","title":"Replace and Compress"}
+{"accepted_at":1787740999.0,"account_id":"a182","difficulty":3,"observed_at":1792486493.9464576,"problem_id":"P1976","submission_id":"295439191","title":"鸡蛋饼"}
+{"accepted_at":1787742511.0,"account_id":"a182","difficulty":3,"observed_at":1792486493.9464402,"problem_id":"B4380","submission_id":"295443422","title":"[蓝桥杯青少年组省赛 2025] 魔术扑克牌排列"}
+{"accepted_at":1788194090.0,"account_id":"a182","difficulty":7,"observed_at":1792486493.9464226,"problem_id":"P3974","submission_id":"296244212","title":"[TJOI2015] 组合数学"}
+{"accepted_at":1788253499.0,"account_id":"a182","difficulty":3,"observed_at":1792486493.9464061,"problem_id":"P1233","submission_id":"296274249","title":"[ICPC 2001 Taejon R] 木棍加工"}
+{"accepted_at":1788253908.0,"account_id":"a182","difficulty":3,"observed_at":1792486493.9463856,"problem_id":"P1233","submission_id":"296274827","title":"[ICPC 2001 Taejon R] 木棍加工"}
+{"accepted_at":1788254222.0,"account_id":"a182","difficulty":3,"observed_at":1792486493.9463658,"problem_id":"P1233","submission_id":"296275303","title":"[ICPC 2001 Taejon R] 木棍加工"}
+{"accepted_at":1788271546.0,"account_id":"a182","difficulty":4,"observed_at":1792486493.946349,"problem_id":"P5939","submission_id":"296316654","title":"[POI 1998 R3] 折线"}
+{"accepted_at":1788273070.0,"account_id":"a182","difficulty":6,"observed_at":1792486493.9462986,"problem_id":"P2765","submission_id":"296319734","title":"魔术球问题"}
+{"accepted_at":1788275434.0,"account_id":"a182","difficulty":5,"observed_at":1792486493.9462802,"problem_id":"P3845","submission_id":"296323066","title":"[TJOI2007] 球赛"}
+{"accepted_at":1788276717.0,"account_id":"a182","difficulty":5,"observed_at":1792486493.9462597,"problem_id":"P4873","submission_id":"296323996","title":"[USACO14DEC] Cow Jog G"}
+{"accepted_at":1788793312.0,"account_id":"a182","difficulty":4,"observed_at":1792486493.9462123,"problem_id":"P13825","submission_id":"297068780","title":"【模板】线段树 1.5"}
+{"accepted_at":1788800731.0,"account_id":"a182","difficulty":4,"observed_at":1792486493.946192,"problem_id":"P13825","submission_id":"297072948","title":"【模板】线段树 1.5"}
+{"accepted_at":1788800918.0,"account_id":"a182","difficulty":4,"observed_at":1792486493.946171,"problem_id":"P13825","submission_id":"297072973","title":"【模板】线段树 1.5"}
+{"accepted_at":1788845741.0,"account_id":"a182","difficulty":6,"observed_at":1792486493.9461532,"problem_id":"P3810","submission_id":"297092909","title":"【模板】三维偏序 / 陌上花开"}
+{"accepted_at":1788858569.0,"account_id":"a182","difficulty":6,"observed_at":1792486493.946121,"problem_id":"P3810","submission_id":"297113475","title":"【模板】三维偏序 / 陌上花开"}
+{"accepted_at":1788860113.0,"account_id":"a182","difficulty":6,"observed_at":1792486493.9460974,"problem_id":"P3810","submission_id":"297117031","title":"【模板】三维偏序 / 陌上花开"}
+{"accepted_at":1788862475.0,"account_id":"a182","difficulty":6,"observed_at":1792486493.9460664,"problem_id":"P3810","submission_id":"297121267","title":"【模板】三维偏序 / 陌上花开"}
+{"accepted_at":1790484318.0,"account_id":"a182","difficulty":5,"observed_at":1792486493.9460013,"problem_id":"P1447","submission_id":"299507967","title":"[NOI2010] 能量采集"}
+{"accepted_at":1790485185.0,"account_id":"a182","difficulty":5,"observed_at":1792486493.9459817,"problem_id":"P2158","submission_id":"299509697","title":"[SDOI2008] 仪仗队"}
+{"accepted_at":1790488355.0,"account_id":"a182","difficulty":5,"observed_at":1792486493.9458327,"problem_id":"P2231","submission_id":"299519185","title":"[HNOI2002] 跳蚤"}
+{"accepted_at":1791470758.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6324914,"problem_id":"P3805","submission_id":"301995415","title":"【模板】Manacher"}
+{"accepted_at":1791470832.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6324708,"problem_id":"P3805","submission_id":"301995618","title":"【模板】Manacher"}
+{"accepted_at":1791481967.0,"account_id":"a182","difficulty":3,"observed_at":1792486460.6324544,"problem_id":"P1210","submission_id":"302005604","title":"[USACO1.3] 最长的回文 Calf Flac"}
+{"accepted_at":1791483847.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6324377,"problem_id":"P1659","submission_id":"302005792","title":"[国家集训队] 拉拉队排练"}
+{"accepted_at":1791485808.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6324084,"problem_id":"P4555","submission_id":"302005882","title":"[国家集训队] 最长双回文串"}
+{"accepted_at":1791487652.0,"account_id":"a182","difficulty":7,"observed_at":1792486460.6323876,"problem_id":"P3279","submission_id":"302005934","title":"[SCOI2013] 密码"}
+{"accepted_at":1791514858.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6323707,"problem_id":"P4555","submission_id":"302022150","title":"[国家集训队] 最长双回文串"}
+{"accepted_at":1791540554.0,"account_id":"a182","difficulty":4,"observed_at":1792486460.6323528,"problem_id":"P3375","submission_id":"302086684","title":"【模板】KMP"}
+{"accepted_at":1791546595.0,"account_id":"a182","difficulty":7,"observed_at":1792486460.6323214,"problem_id":"P3546","submission_id":"302109709","title":"[POI 2012] PRE-Prefixuffix"}
+{"accepted_at":1791560776.0,"account_id":"a182","difficulty":5,"observed_at":1792486460.6323028,"problem_id":"P1723","submission_id":"302169394","title":"高手过愚人节"}
+{"accepted_at":1791563784.0,"account_id":"a182","difficulty":4,"observed_at":1792486460.6322784,"problem_id":"P1872","submission_id":"302171917","title":"回文串计数"}
+{"accepted_at":1791566284.0,"account_id":"a182","difficulty":4,"observed_at":1792486460.632258,"problem_id":"P1872","submission_id":"302172785","title":"回文串计数"}
+{"accepted_at":1791791914.0,"account_id":"a182","difficulty":3,"observed_at":1792486460.63224,"problem_id":"P8306","submission_id":"302660270","title":"【模板】字典树 / Trie"}
+{"accepted_at":1791792575.0,"account_id":"a182","difficulty":3,"observed_at":1792486460.6321962,"problem_id":"P8306","submission_id":"302662022","title":"【模板】字典树 / Trie"}
+{"accepted_at":1791835315.0,"account_id":"a182","difficulty":6,"observed_at":1792486460.6321707,"problem_id":"P5357","submission_id":"302764825","title":"【模板】AC 自动机"}
+{"accepted_at":1791835776.0,"account_id":"a182","difficulty":6,"observed_at":1792486460.632148,"problem_id":"P5357","submission_id":"302764828","title":"【模板】AC 自动机"}
+{"accepted_at":1791835988.0,"account_id":"a182","difficulty":6,"observed_at":1792486460.6321313,"problem_id":"P3808","submission_id":"302764831","title":"AC 自动机（简单版）"}
+{"accepted_at":1791836260.0,"account_id":"a182","difficulty":6,"observed_at":1792486460.6321132,"problem_id":"P3796","submission_id":"302764832","title":"AC 自动机（简单版 II）"}
+{"accepted_at":1791898609.0,"account_id":"a182","difficulty":7,"observed_at":1792486460.6320927,"problem_id":"P4696","submission_id":"302901371","title":"[CEOI 2011] Matching"}
+{"accepted_at":1791911305.0,"account_id":"a182","difficulty":3,"observed_at":1792486460.631988,"problem_id":"P8306","submission_id":"302929491","title":"【模板】字典树 / Trie"}
 {"accepted_at":1791911379.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.8299866,"problem_id":"P8306","submission_id":"302929511","title":"【模板】字典树 / Trie"}
 {"accepted_at":1791911668.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.829964,"problem_id":"P8306","submission_id":"302929580","title":"【模板】字典树 / Trie"}
 {"accepted_at":1791912308.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.829943,"problem_id":"P8306","submission_id":"302929709","title":"【模板】字典树 / Trie"}
@@ -25349,6 +25389,400 @@
 {"accepted_at":1792197495.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.8296487,"problem_id":"P3804","submission_id":"303491587","title":"【模板】后缀自动机（SAM）"}
 {"accepted_at":1792413347.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.829612,"problem_id":"P1829","submission_id":"304226249","title":"[集训队互测 2010] Crash的数字表格 / JZPTAB"}
 {"accepted_at":1792428499.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.8295054,"problem_id":"P2257","submission_id":"304280725","title":"YY的GCD"}
+{"accepted_at":1730127019.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1608684,"problem_id":"2026A","submission_id":"288526506","title":"Perpendicular Segments"}
+{"accepted_at":1730313523.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1608315,"problem_id":"471D","submission_id":"288958959","title":"MUH and Cube Walls"}
+{"accepted_at":1730474077.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1608071,"problem_id":"2032A","submission_id":"289228725","title":"Circuit"}
+{"accepted_at":1730477088.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1607816,"problem_id":"2032B","submission_id":"289267092","title":"Medians"}
+{"accepted_at":1730513744.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1607635,"problem_id":"105174M","submission_id":"289344048","title":"石子游戏"}
+{"accepted_at":1730558759.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1607392,"problem_id":"2036A","submission_id":"289482081","title":"Quintomania"}
+{"accepted_at":1730560271.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1607232,"problem_id":"2036B","submission_id":"289513992","title":"Startup"}
+{"accepted_at":1730617631.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1607025,"problem_id":"1950E","submission_id":"289732953","title":"Nearly Shortest Repeating Substring"}
+{"accepted_at":1731113316.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.160685,"problem_id":"1680B","submission_id":"290617047","title":"Robots"}
+{"accepted_at":1731115282.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1606617,"problem_id":"1997C","submission_id":"290618422","title":"Even Positions"}
+{"accepted_at":1731121136.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1606224,"problem_id":"471D","submission_id":"290623815","title":"MUH and Cube Walls"}
+{"accepted_at":1731141623.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1606,"problem_id":"1680B","submission_id":"290659253","title":"Robots"}
+{"accepted_at":1731163488.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1605513,"problem_id":"2029A","submission_id":"290710949","title":"Set"}
+{"accepted_at":1731164993.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1605353,"problem_id":"2029B","submission_id":"290723197","title":"Replacement"}
+{"accepted_at":1731674788.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1605136,"problem_id":"2031A","submission_id":"291589709","title":"Penchick and Modern Monument"}
+{"accepted_at":1731676597.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1604981,"problem_id":"2031B","submission_id":"291616854","title":"Penchick and Satay Sticks"}
+{"accepted_at":1731679205.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1604776,"problem_id":"2031C","submission_id":"291641624","title":"Penchick and BBQ Buns"}
+{"accepted_at":1731718010.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.160462,"problem_id":"755C","submission_id":"291721645","title":"PolandBall and Forest"}
+{"accepted_at":1731736644.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.160446,"problem_id":"2031D","submission_id":"291744349","title":"Penchick and Desert Rabbit"}
+{"accepted_at":1731738530.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1604302,"problem_id":"1905B","submission_id":"291748013","title":"Begginer's Zelda"}
+{"accepted_at":1731751104.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1604097,"problem_id":"1971E","submission_id":"291775915","title":"Find the Car"}
+{"accepted_at":1731756185.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.1603937,"problem_id":"1950F","submission_id":"291785920","title":"0, 1, 2, Tree!"}
+{"accepted_at":1731768476.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.160377,"problem_id":"1986E","submission_id":"291812460","title":"Beautiful Array"}
+{"accepted_at":1732373740.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.160361,"problem_id":"2039A","submission_id":"292925127","title":"Shohag Loves Mod"}
+{"accepted_at":1732375252.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.160334,"problem_id":"2039B","submission_id":"292940133","title":"Shohag Loves Strings"}
+{"accepted_at":1732380229.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.160308,"problem_id":"2039D","submission_id":"292972020","title":"Shohag Loves GCD"}
+{"accepted_at":1732634391.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1602874,"problem_id":"103427J","submission_id":"293377446","title":"Luggage Lock"}
+{"accepted_at":1732634533.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1602445,"problem_id":"103427J","submission_id":"293377690","title":"Luggage Lock"}
+{"accepted_at":1732977635.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1602235,"problem_id":"2034A","submission_id":"294011564","title":"King Keykhosrow's Mystery"}
+{"accepted_at":1732978892.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1602042,"problem_id":"2034B","submission_id":"294029606","title":"Rakhsh's Revival"}
+{"accepted_at":1732981215.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1601884,"problem_id":"2034C","submission_id":"294050580","title":"Trapped in the Witch's Labyrinth"}
+{"accepted_at":1733042983.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1601722,"problem_id":"2045M","submission_id":"294164625","title":"Mirror Maze"}
+{"accepted_at":1733150736.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.160151,"problem_id":"2042A","submission_id":"294396862","title":"Greedy Monocarp"}
+{"accepted_at":1733151762.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1601322,"problem_id":"2042B","submission_id":"294409344","title":"Game with Colored Marbles"}
+{"accepted_at":1733410190.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1601162,"problem_id":"2050A","submission_id":"295004944","title":"Line Breaks"}
+{"accepted_at":1733410933.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.160101,"problem_id":"2050B","submission_id":"295017745","title":"Transfusion"}
+{"accepted_at":1733412268.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1600852,"problem_id":"2050C","submission_id":"295037048","title":"Uninteresting Number"}
+{"accepted_at":1733414838.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1600688,"problem_id":"2050D","submission_id":"295068386","title":"Digital string maximization"}
+{"accepted_at":1733532959.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1600487,"problem_id":"1759C","submission_id":"295322740","title":"Thermostat"}
+{"accepted_at":1733534287.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.160033,"problem_id":"1869B","submission_id":"295323637","title":"2D Traveling"}
+{"accepted_at":1733537500.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.1600165,"problem_id":"510C","submission_id":"295326300","title":"Fox And Names"}
+{"accepted_at":1733672213.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1599998,"problem_id":"2040A","submission_id":"295610473","title":"Game of Division"}
+{"accepted_at":1733674988.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.159955,"problem_id":"2040B","submission_id":"295633200","title":"Paint a Strip"}
+{"accepted_at":1733726924.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.159937,"problem_id":"1272E","submission_id":"295708167","title":"Nearest Opposite Parity"}
+{"accepted_at":1733895364.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.1598692,"problem_id":"1272E","submission_id":"295972616","title":"Nearest Opposite Parity"}
+{"accepted_at":1737448887.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1598527,"problem_id":"1701C","submission_id":"302198325","title":"Schedule Management"}
+{"accepted_at":1737609867.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1598256,"problem_id":"1845B","submission_id":"302548339","title":"Come Together"}
+{"accepted_at":1737612044.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.159806,"problem_id":"1860C","submission_id":"302551512","title":"Game on Permutation"}
+{"accepted_at":1737615987.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.159785,"problem_id":"300C","submission_id":"302558583","title":"Beautiful Numbers"}
+{"accepted_at":1739880458.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1597657,"problem_id":"754B","submission_id":"306657744","title":"Ilya and tic-tac-toe game"}
+{"accepted_at":1739883362.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.159746,"problem_id":"731C","submission_id":"306664217","title":"Socks"}
+{"accepted_at":1742130677.0,"account_id":"a183","difficulty":2500,"observed_at":1792486471.1597297,"problem_id":"2082D","submission_id":"310897941","title":"Balancing"}
+{"accepted_at":1742623847.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.159688,"problem_id":"1805A","submission_id":"311743930","title":"We Need the Zero"}
+{"accepted_at":1743316264.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1596682,"problem_id":"1272A","submission_id":"313082776","title":"Three Friends"}
+{"accepted_at":1743319897.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.1596518,"problem_id":"1333C","submission_id":"313089467","title":"Eugene and an array"}
+{"accepted_at":1745511425.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.159632,"problem_id":"2106A","submission_id":"317061471","title":"Dr. TC"}
+{"accepted_at":1745512363.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1596158,"problem_id":"2106B","submission_id":"317068940","title":"St. Chroma"}
+{"accepted_at":1745513467.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1595998,"problem_id":"2106C","submission_id":"317077857","title":"Cherry Bomb"}
+{"accepted_at":1745650906.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1595793,"problem_id":"1722G","submission_id":"317266956","title":"Even-Odd XOR"}
+{"accepted_at":1745657422.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1595623,"problem_id":"103495I","submission_id":"317286020","title":"Fake Walsh Transform"}
+{"accepted_at":1747508276.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1595452,"problem_id":"1030D","submission_id":"320146265","title":"Vasya and Triangle"}
+{"accepted_at":1748075888.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1595283,"problem_id":"103743A","submission_id":"321008352","title":"PENTA KILL!"}
+{"accepted_at":1748087074.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.159507,"problem_id":"103743K","submission_id":"321032446","title":"aaaaaaaaaaA heH heH nuN"}
+{"accepted_at":1748188234.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1594899,"problem_id":"103743I","submission_id":"321269265","title":"Cutting Suffix"}
+{"accepted_at":1748194629.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1594672,"problem_id":"2071D1","submission_id":"321281535","title":"Infinite Sequence (Easy Version)"}
+{"accepted_at":1748197173.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.159445,"problem_id":"2102D","submission_id":"321286064","title":"Quartet Swapping"}
+{"accepted_at":1748348345.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.159428,"problem_id":"103495A","submission_id":"321643721","title":"Spring Couplets"}
+{"accepted_at":1748350524.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1593912,"problem_id":"103495K","submission_id":"321649231","title":"Longest Continuous 1"}
+{"accepted_at":1748352967.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1593661,"problem_id":"103495C","submission_id":"321655225","title":"Magical Rearrangement"}
+{"accepted_at":1748521093.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1593482,"problem_id":"103495D","submission_id":"321922877","title":"Pattern Lock"}
+{"accepted_at":1748606879.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1593277,"problem_id":"104095A","submission_id":"322049351","title":"班委竞选"}
+{"accepted_at":1748609587.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1593106,"problem_id":"104095C","submission_id":"322054495","title":"我得重新集结部队"}
+{"accepted_at":1753627567.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1592941,"problem_id":"2128A","submission_id":"331109699","title":"Recycling Center"}
+{"accepted_at":1753628794.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1592786,"problem_id":"2128B","submission_id":"331130139","title":"Deque Process"}
+{"accepted_at":1753629411.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1592627,"problem_id":"2128C","submission_id":"331139489","title":"Leftmost Below"}
+{"accepted_at":1753631384.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.1592464,"problem_id":"2128D","submission_id":"331164071","title":"Sum of LDS"}
+{"accepted_at":1756124590.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1592252,"problem_id":"105941D","submission_id":"335496698","title":"2025"}
+{"accepted_at":1756125154.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.159209,"problem_id":"105941J","submission_id":"335497712","title":"Ring Trick"}
+{"accepted_at":1756126268.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.159192,"problem_id":"105941M","submission_id":"335499775","title":"川陀航空学院"}
+{"accepted_at":1756129200.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1591752,"problem_id":"105941H","submission_id":"335506251","title":"树论函数"}
+{"accepted_at":1756135665.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1591537,"problem_id":"105941E","submission_id":"335520351","title":"双生魔咒"}
+{"accepted_at":1756138036.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1591356,"problem_id":"105941F","submission_id":"335525406","title":"幻形之路"}
+{"accepted_at":1756138119.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.159119,"problem_id":"105941G","submission_id":"335525571","title":"直径与最大独立集"}
+{"accepted_at":1756219911.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.159102,"problem_id":"2134A","submission_id":"335632179","title":"Painting With Two Colors"}
+{"accepted_at":1756221003.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1590858,"problem_id":"2134B","submission_id":"335648095","title":"Add 0 or K"}
+{"accepted_at":1756221875.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1590695,"problem_id":"2134C","submission_id":"335658909","title":"Even Larger"}
+{"accepted_at":1756230807.0,"account_id":"a183","difficulty":2300,"observed_at":1792486471.1590471,"problem_id":"2134E","submission_id":"335711065","title":"Power Boxes"}
+{"accepted_at":1756312498.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.15902,"problem_id":"105941E","submission_id":"335833983","title":"双生魔咒"}
+{"accepted_at":1756313764.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1590023,"problem_id":"105941E","submission_id":"335836266","title":"双生魔咒"}
+{"accepted_at":1756313947.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158984,"problem_id":"105941E","submission_id":"335836584","title":"双生魔咒"}
+{"accepted_at":1756348845.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158961,"problem_id":"105158F","submission_id":"335872714","title":"优秀字符串"}
+{"accepted_at":1756349588.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158945,"problem_id":"105158J","submission_id":"335873455","title":"排列与合数"}
+{"accepted_at":1756350991.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1589282,"problem_id":"105158B","submission_id":"335874960","title":"扫雷 1"}
+{"accepted_at":1756353083.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1589053,"problem_id":"105158M","submission_id":"335877594","title":"有效算法"}
+{"accepted_at":1756361313.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1588807,"problem_id":"105158A","submission_id":"335888540","title":"Once In My Life"}
+{"accepted_at":1756362540.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158864,"problem_id":"105158H","submission_id":"335890846","title":"随机栈"}
+{"accepted_at":1756363810.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1588447,"problem_id":"105158L","submission_id":"335893057","title":"Toxel 与 PCPC II"}
+{"accepted_at":1756397479.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.158822,"problem_id":"2136A","submission_id":"336012204","title":"In the Dream"}
+{"accepted_at":1756435596.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1588058,"problem_id":"2136C","submission_id":"336074604","title":"Against the Difference"}
+{"accepted_at":1756523979.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1587877,"problem_id":"104354A","submission_id":"336201778","title":"小水獭游河南"}
+{"accepted_at":1756525032.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1587539,"problem_id":"104354F","submission_id":"336202648","title":"Art for Last"}
+{"accepted_at":1756528213.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1587362,"problem_id":"104354H","submission_id":"336205480","title":"Travel Begins"}
+{"accepted_at":1756530184.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1587121,"problem_id":"104354C","submission_id":"336207446","title":"Toxel 与随机数生成器"}
+{"accepted_at":1756532059.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1586952,"problem_id":"104354K","submission_id":"336209768","title":"排列与质数"}
+{"accepted_at":1756533473.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1586783,"problem_id":"104354B","submission_id":"336211748","title":"Art for Rest"}
+{"accepted_at":1756538512.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158661,"problem_id":"104354G","submission_id":"336220934","title":"Toxel 与字符画"}
+{"accepted_at":1757057710.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1586397,"problem_id":"105386B","submission_id":"336960751","title":"Gold Medal"}
+{"accepted_at":1757063162.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1586227,"problem_id":"105386I","submission_id":"336969898","title":"Left Shifting 2"}
+{"accepted_at":1757064818.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1586044,"problem_id":"105386G","submission_id":"336973324","title":"Be Positive"}
+{"accepted_at":1757067710.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1585875,"problem_id":"105386A","submission_id":"336978655","title":"Two-star Contest"}
+{"accepted_at":1757070373.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1585703,"problem_id":"105386E","submission_id":"336983442","title":"Relearn through Review"}
+{"accepted_at":1757152067.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1585526,"problem_id":"105386M","submission_id":"337122656","title":"Italian Cuisine"}
+{"accepted_at":1757256644.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1585348,"problem_id":"2137A","submission_id":"337309125","title":"Collatz Conjecture"}
+{"accepted_at":1757257274.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1585183,"problem_id":"2137B","submission_id":"337326074","title":"Fun Permutation"}
+{"accepted_at":1757258264.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1584632,"problem_id":"2137C","submission_id":"337350143","title":"Maximum Even Sum"}
+{"accepted_at":1757428915.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.158447,"problem_id":"2140A","submission_id":"337775949","title":"Shift Sort"}
+{"accepted_at":1757429255.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1584308,"problem_id":"2140B","submission_id":"337782202","title":"Another Divisibility Problem"}
+{"accepted_at":1757432486.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1584144,"problem_id":"2140C","submission_id":"337821049","title":"Ultimate Value"}
+{"accepted_at":1757435143.0,"account_id":"a183","difficulty":2000,"observed_at":1792486471.1583855,"problem_id":"2140D","submission_id":"337843239","title":"A Cruel Segment's Thesis"}
+{"accepted_at":1757484817.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1583636,"problem_id":"103119D","submission_id":"337905254","title":"Artifacts"}
+{"accepted_at":1757485629.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1583424,"problem_id":"103119L","submission_id":"337906481","title":"Random Permutation"}
+{"accepted_at":1757491197.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1583226,"problem_id":"103119F","submission_id":"337916130","title":"Fixing Networks"}
+{"accepted_at":1757648978.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.158287,"problem_id":"105588H","submission_id":"338159258","title":"Horizon Scanning"}
+{"accepted_at":1757650134.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1356897,"problem_id":"105588M","submission_id":"338160566","title":"Matrix Construction"}
+{"accepted_at":1757652355.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1356733,"problem_id":"105588J","submission_id":"338162713","title":"Just another Sorting Problem"}
+{"accepted_at":1757654657.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.135657,"problem_id":"105588G","submission_id":"338165084","title":"GCD"}
+{"accepted_at":1757658012.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1356397,"problem_id":"105588L","submission_id":"338170001","title":"Last Chance: Threads of Despair"}
+{"accepted_at":1757758414.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1356122,"problem_id":"105588C","submission_id":"338334732","title":"Coin"}
+{"accepted_at":1757928617.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.135592,"problem_id":"104768G","submission_id":"338699184","title":"Hard Brackets Problem"}
+{"accepted_at":1757929752.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1355712,"problem_id":"104768M","submission_id":"338700909","title":"Flipping Cards"}
+{"accepted_at":1757937886.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1355536,"problem_id":"104768K","submission_id":"338715304","title":"Randias Permutation Task"}
+{"accepted_at":1757939092.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.135535,"problem_id":"104768K","submission_id":"338717796","title":"Randias Permutation Task"}
+{"accepted_at":1757947357.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.135513,"problem_id":"2144A","submission_id":"338739275","title":"Cut the Array"}
+{"accepted_at":1757948178.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1354976,"problem_id":"2144B","submission_id":"338753957","title":"Maximum Cost Permutation"}
+{"accepted_at":1757948790.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1354816,"problem_id":"2144C","submission_id":"338763406","title":"Non-Descending Arrays"}
+{"accepted_at":1757951916.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1354654,"problem_id":"2144D","submission_id":"338796073","title":"Price Tags"}
+{"accepted_at":1758084623.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1354449,"problem_id":"104008A","submission_id":"339024880","title":"Lily"}
+{"accepted_at":1758088077.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1354275,"problem_id":"104008M","submission_id":"339028887","title":"Youth Finale"}
+{"accepted_at":1758107619.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1354048,"problem_id":"104008C","submission_id":"339064291","title":"Array Concatenation"}
+{"accepted_at":1758120264.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.135388,"problem_id":"2143A","submission_id":"339096106","title":"All Lengths Subtraction"}
+{"accepted_at":1758121024.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.135372,"problem_id":"2143B","submission_id":"339107905","title":"Discounts"}
+{"accepted_at":1758123066.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1353524,"problem_id":"2143C","submission_id":"339130238","title":"Max Tree"}
+{"accepted_at":1758714511.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1353302,"problem_id":"2151A","submission_id":"340154888","title":"Incremental Subarray"}
+{"accepted_at":1758720090.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.135281,"problem_id":"2151C","submission_id":"340189257","title":"Incremental Stay"}
+{"accepted_at":1758722289.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.1352615,"problem_id":"2151D","submission_id":"340199458","title":"Grid Counting"}
+{"accepted_at":1758811125.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1352413,"problem_id":"2149A","submission_id":"340376370","title":"Be Positive"}
+{"accepted_at":1758811331.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1352253,"problem_id":"2149B","submission_id":"340385150","title":"Unconventional Pairs"}
+{"accepted_at":1758812225.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1352007,"problem_id":"2149C","submission_id":"340411904","title":"MEX rose"}
+{"accepted_at":1758814080.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1351845,"problem_id":"2149D","submission_id":"340449448","title":"A and B"}
+{"accepted_at":1758821213.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.1351573,"problem_id":"2149F","submission_id":"340513017","title":"Nezuko in the Clearing"}
+{"accepted_at":1760107622.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1351414,"problem_id":"2153A","submission_id":"342938392","title":"Circle of Apple Trees"}
+{"accepted_at":1760107893.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.135126,"problem_id":"2153B","submission_id":"342943600","title":"Bitwise Reversion"}
+{"accepted_at":1760109155.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1351068,"problem_id":"2153C","submission_id":"342963111","title":"Symmetrical Polygons"}
+{"accepted_at":1760711908.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1350913,"problem_id":"2162A","submission_id":"344208878","title":"Beautiful Average"}
+{"accepted_at":1760712273.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1350756,"problem_id":"2162B","submission_id":"344221779","title":"Beautiful String"}
+{"accepted_at":1760712887.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1350596,"problem_id":"2162C","submission_id":"344239828","title":"Beautiful XOR"}
+{"accepted_at":1760716735.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.135039,"problem_id":"2162D","submission_id":"344319608","title":"Beautiful Permutation"}
+{"accepted_at":1760885177.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1350234,"problem_id":"2154A","submission_id":"344665588","title":"Notelock"}
+{"accepted_at":1760885815.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1350079,"problem_id":"2154B","submission_id":"344675199","title":"Make it Zigzag"}
+{"accepted_at":1760889042.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1349916,"problem_id":"2154C1","submission_id":"344714627","title":"No Cost Too Great (Easy Version)"}
+{"accepted_at":1760936193.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.1349754,"problem_id":"2154D","submission_id":"344805169","title":"Catshock"}
+{"accepted_at":1761317805.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1349552,"problem_id":"2156A","submission_id":"345549119","title":"Pizza Time"}
+{"accepted_at":1761318142.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1349394,"problem_id":"2156B","submission_id":"345555244","title":"Strange Machine"}
+{"accepted_at":1762439904.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.134923,"problem_id":"2164A","submission_id":"347691203","title":"Sequence Game"}
+{"accepted_at":1762440397.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.134891,"problem_id":"2164B","submission_id":"347700100","title":"Even Modulo Pair"}
+{"accepted_at":1762445650.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1348748,"problem_id":"2164D","submission_id":"347749126","title":"Copy String"}
+{"accepted_at":1762449024.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.134839,"problem_id":"2164C","submission_id":"347769453","title":"Dungeon"}
+{"accepted_at":1762789698.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.134823,"problem_id":"2163B","submission_id":"348329345","title":"Siga ta Kymata"}
+{"accepted_at":1762791870.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1348033,"problem_id":"2163C","submission_id":"348348270","title":"Monopati"}
+{"accepted_at":1762797328.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.134783,"problem_id":"2163A","submission_id":"348373898","title":"Souvlaki VS. Kalamaki"}
+{"accepted_at":1763131202.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1347668,"problem_id":"2169A","submission_id":"348906220","title":"Alice and Bob"}
+{"accepted_at":1763131899.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.134751,"problem_id":"2169B","submission_id":"348918121","title":"Drifting Away"}
+{"accepted_at":1763133283.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1347349,"problem_id":"2169C","submission_id":"348939485","title":"Range Operation"}
+{"accepted_at":1763150387.0,"account_id":"a183","difficulty":2100,"observed_at":1792486471.134719,"problem_id":"2169D2","submission_id":"349015695","title":"Removal of a Sequence (Hard Version)"}
+{"accepted_at":1763649529.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1346915,"problem_id":"2171A","submission_id":"349862864","title":"Shizuku Hoshikawa and Farm Legs"}
+{"accepted_at":1763650437.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1346688,"problem_id":"2171B","submission_id":"349881551","title":"Yuu Koito and Minimum Absolute Sum"}
+{"accepted_at":1763651337.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.134649,"problem_id":"2171C1","submission_id":"349896393","title":"Renako Amaori and XOR Game (easy version)"}
+{"accepted_at":1763652224.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1346297,"problem_id":"2171C2","submission_id":"349909599","title":"Renako Amaori and XOR Game (hard version)"}
+{"accepted_at":1763654083.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1346104,"problem_id":"2171D","submission_id":"349933394","title":"Rae Taylor and Trees (easy version)"}
+{"accepted_at":1763658214.0,"account_id":"a183","difficulty":2000,"observed_at":1792486471.1345947,"problem_id":"2171E","submission_id":"349972372","title":"Anisphia Wynn Palettia and Good Permutations"}
+{"accepted_at":1763689682.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.1345747,"problem_id":"2171F","submission_id":"350007741","title":"Rae Taylor and Trees (hard version)"}
+{"accepted_at":1764341214.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1345587,"problem_id":"2170A","submission_id":"351002430","title":"Maximum Neighborhood"}
+{"accepted_at":1764341847.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1345432,"problem_id":"2170B","submission_id":"351011461","title":"Addition on a Segment"}
+{"accepted_at":1764344032.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1345215,"problem_id":"2170C","submission_id":"351035872","title":"Quotient and Remainder"}
+{"accepted_at":1764427115.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1345005,"problem_id":"2158A","submission_id":"351187883","title":"Suspension"}
+{"accepted_at":1764945617.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.134484,"problem_id":"2173A","submission_id":"352023059","title":"Sleeping Through Classes"}
+{"accepted_at":1764947343.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1344469,"problem_id":"2173C","submission_id":"352053023","title":"Kanade's Perfect Multiples"}
+{"accepted_at":1764947361.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1344173,"problem_id":"2173B","submission_id":"352053279","title":"Niko's Tactical Cards"}
+{"accepted_at":1768660885.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1344006,"problem_id":"2191A","submission_id":"358267341","title":"Array Coloring"}
+{"accepted_at":1768661631.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1343844,"problem_id":"2191B","submission_id":"358281927","title":"MEX Reordering"}
+{"accepted_at":1768664148.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1343374,"problem_id":"2191C","submission_id":"358316764","title":"Sorting Game"}
+{"accepted_at":1768665310.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1343186,"problem_id":"2191D1","submission_id":"358328989","title":"Sub-RBS (Easy Version)"}
+{"accepted_at":1769971473.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1343026,"problem_id":"2193B","submission_id":"361046707","title":"Reverse a Permutation"}
+{"accepted_at":1769972715.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1342866,"problem_id":"2051A","submission_id":"361049317","title":"Preparing for the Olympiad"}
+{"accepted_at":1770015973.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.134271,"problem_id":"2124B","submission_id":"361097339","title":"Minimise Sum"}
+{"accepted_at":1770019251.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1342552,"problem_id":"2060D","submission_id":"361103353","title":"Subtract Min Sort"}
+{"accepted_at":1770127782.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1342351,"problem_id":"111A","submission_id":"361296297","title":"Petya and Inequiations"}
+{"accepted_at":1770136182.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.13422,"problem_id":"118D","submission_id":"361316763","title":"Caesar's Legions"}
+{"accepted_at":1770152629.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.134204,"problem_id":"835C","submission_id":"361351280","title":"Star sky"}
+{"accepted_at":1770162594.0,"account_id":"a183","difficulty":2000,"observed_at":1792486471.134187,"problem_id":"1223D","submission_id":"361358407","title":"Sequence Sorting"}
+{"accepted_at":1770217007.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1341352,"problem_id":"105158L","submission_id":"361425778","title":"Toxel 与 PCPC II"}
+{"accepted_at":1770219806.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1341,"problem_id":"105158L","submission_id":"361431405","title":"Toxel 与 PCPC II"}
+{"accepted_at":1772981141.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.134083,"problem_id":"2207A","submission_id":"365864548","title":"1-1"}
+{"accepted_at":1772986016.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.134064,"problem_id":"2207B","submission_id":"365886111","title":"One Night At Freddy's"}
+{"accepted_at":1775753954.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.134014,"problem_id":"2217C","submission_id":"370453795","title":"Grid Covering"}
+{"accepted_at":1776580197.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.13399,"problem_id":"105471G","submission_id":"371724574","title":"An Easy Math Problem"}
+{"accepted_at":1776583644.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1339736,"problem_id":"105471N","submission_id":"371730123","title":"Python Program"}
+{"accepted_at":1776584588.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1339571,"problem_id":"105471H","submission_id":"371731637","title":"Elimination Series Once More"}
+{"accepted_at":1776597142.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1339376,"problem_id":"105471L","submission_id":"371757480","title":"Prism Palace"}
+{"accepted_at":1777456833.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1339207,"problem_id":"105930L","submission_id":"372930691","title":"Stella"}
+{"accepted_at":1777457380.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1338985,"problem_id":"105930D","submission_id":"372931508","title":"Distributed System"}
+{"accepted_at":1777459183.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133882,"problem_id":"105930G","submission_id":"372934159","title":"Assembly Line"}
+{"accepted_at":1777462464.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133866,"problem_id":"105930A","submission_id":"372939944","title":"Project Management"}
+{"accepted_at":1777462592.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1338496,"problem_id":"105930I","submission_id":"372940204","title":"Square Puzzle"}
+{"accepted_at":1777468063.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1338282,"problem_id":"105930E","submission_id":"372951911","title":"Greatest Common Divisor"}
+{"accepted_at":1777472373.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1338117,"problem_id":"105930H","submission_id":"372959797","title":"Minimum Spanning Tree"}
+{"accepted_at":1777958522.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133795,"problem_id":"105540A","submission_id":"373563047","title":"The Fool"}
+{"accepted_at":1777959818.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1337786,"problem_id":"105540F","submission_id":"373564274","title":"The Hermit"}
+{"accepted_at":1777960915.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133762,"problem_id":"105540J","submission_id":"373565363","title":"Temperance"}
+{"accepted_at":1777962267.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1337447,"problem_id":"105540B","submission_id":"373566776","title":"The Magician"}
+{"accepted_at":1777967599.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133728,"problem_id":"105540I","submission_id":"373572923","title":"The Hanged Man"}
+{"accepted_at":1778063741.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1337113,"problem_id":"104768M","submission_id":"373703736","title":"Flipping Cards"}
+{"accepted_at":1778064780.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1336946,"problem_id":"104768G","submission_id":"373705277","title":"Hard Brackets Problem"}
+{"accepted_at":1778071936.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1336782,"problem_id":"104768K","submission_id":"373718675","title":"Randias Permutation Task"}
+{"accepted_at":1778075101.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1336615,"problem_id":"104768I","submission_id":"373725333","title":"Barkley II"}
+{"accepted_at":1778076602.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1336422,"problem_id":"104768B","submission_id":"373728230","title":"The Game"}
+{"accepted_at":1778246715.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1335897,"problem_id":"2223A","submission_id":"373916870","title":"Zhily and Bracket Swapping"}
+{"accepted_at":1778407447.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1335728,"problem_id":"104813B","submission_id":"374088067","title":"Memory"}
+{"accepted_at":1778410393.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1335433,"problem_id":"104813M","submission_id":"374092091","title":"Painter"}
+{"accepted_at":1778415077.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.133522,"problem_id":"104813L","submission_id":"374098505","title":"Palm Island"}
+{"accepted_at":1778942543.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1335056,"problem_id":"2228A","submission_id":"374748504","title":"Marisa Steals Reimu's Takeout"}
+{"accepted_at":1778944466.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1334896,"problem_id":"2228B","submission_id":"374782451","title":"Remilia Plays Soku"}
+{"accepted_at":1778947547.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.133474,"problem_id":"2228C2","submission_id":"374829084","title":"Cirno and Number (Hard Version)"}
+{"accepted_at":1778947589.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1334589,"problem_id":"2228C1","submission_id":"374829554","title":"Cirno and Number (Easy Version)"}
+{"accepted_at":1779437737.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1334436,"problem_id":"2231A","submission_id":"375617122","title":"Construct an Array"}
+{"accepted_at":1779439634.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1334283,"problem_id":"2231B","submission_id":"375620364","title":"Another Sorting Problem"}
+{"accepted_at":1779440846.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1334126,"problem_id":"2231C","submission_id":"375622545","title":"Chipmunk Theo and Equality"}
+{"accepted_at":1779454140.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.133397,"problem_id":"2231D","submission_id":"375645344","title":"Maximum Prefix Sums"}
+{"accepted_at":1779547254.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1333814,"problem_id":"2229A","submission_id":"375778334","title":"Slimes on a Line"}
+{"accepted_at":1779548575.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1333663,"problem_id":"2229B","submission_id":"375799459","title":"Absolute Cinema"}
+{"accepted_at":1779549218.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1333506,"problem_id":"2229C1","submission_id":"375806472","title":"We Be Flipping (Easy Version)"}
+{"accepted_at":1779551622.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.133335,"problem_id":"2229C2","submission_id":"375823607","title":"We Be Flipping (Hard Version)"}
+{"accepted_at":1780152065.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1333194,"problem_id":"2232A","submission_id":"376631258","title":"Convergence"}
+{"accepted_at":1780153707.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1333036,"problem_id":"2232B","submission_id":"376655615","title":"Cake Leveling"}
+{"accepted_at":1780156360.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1332874,"problem_id":"2232C1","submission_id":"376682410","title":"Seating Arrangement (Easy Version)"}
+{"accepted_at":1780156386.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.1332674,"problem_id":"2232C2","submission_id":"376682598","title":"Seating Arrangement (Hard Version)"}
+{"accepted_at":1780162214.0,"account_id":"a183","difficulty":2000,"observed_at":1792486471.1332448,"problem_id":"2232D","submission_id":"376705059","title":"Magical Tiered Cake"}
+{"accepted_at":1780214999.0,"account_id":"a183","difficulty":2300,"observed_at":1792486471.133229,"problem_id":"594A","submission_id":"376756572","title":"Warrior and Archer"}
+{"accepted_at":1781016295.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1332133,"problem_id":"2233A","submission_id":"377926167","title":"AI Project Development"}
+{"accepted_at":1781016877.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1331975,"problem_id":"2233B","submission_id":"377935491","title":"Different Distances"}
+{"accepted_at":1781020369.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1331823,"problem_id":"2233C","submission_id":"377974660","title":"Cost of a Bracket Sequence"}
+{"accepted_at":1781793645.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1331663,"problem_id":"2237A","submission_id":"379364194","title":"Destroying Towers"}
+{"accepted_at":1781794684.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1331506,"problem_id":"2237B","submission_id":"379376489","title":"Annoying the Ghost"}
+{"accepted_at":1781795281.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1331346,"problem_id":"2237C","submission_id":"379381947","title":"Duck Surplus"}
+{"accepted_at":1783348752.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1331189,"problem_id":"2242A","submission_id":"381455747","title":"Bigrams"}
+{"accepted_at":1783349440.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1331031,"problem_id":"2242B","submission_id":"381467529","title":"Predominant Frequency Division"}
+{"accepted_at":1783350817.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.133077,"problem_id":"2242C","submission_id":"381481719","title":"Unstable Elements"}
+{"accepted_at":1784213742.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.133061,"problem_id":"2245A","submission_id":"382962304","title":"Who Watches the Watchpig?"}
+{"accepted_at":1784217953.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1330345,"problem_id":"2245C","submission_id":"382993384","title":"MEXOR"}
+{"accepted_at":1784385955.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.133019,"problem_id":"2247A","submission_id":"383313551","title":"Zero Sum"}
+{"accepted_at":1784387020.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1330028,"problem_id":"2247B","submission_id":"383328851","title":"Yet Another Constructive"}
+{"accepted_at":1784387860.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1329868,"problem_id":"2247C","submission_id":"383338630","title":"Inversion of a Subsequence"}
+{"accepted_at":1784391640.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1329708,"problem_id":"2247D1","submission_id":"383367592","title":"XOR Sorting (Easy Version)"}
+{"accepted_at":1784438358.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1329541,"problem_id":"103118G","submission_id":"383426426","title":"Grade Point Average"}
+{"accepted_at":1784440295.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1329358,"problem_id":"103118C","submission_id":"383428417","title":"Cat Virus"}
+{"accepted_at":1784440911.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1329176,"problem_id":"103118H","submission_id":"383429262","title":"Adventurer's Guild"}
+{"accepted_at":1784441801.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1329014,"problem_id":"103118B","submission_id":"383430384","title":"Build Roads"}
+{"accepted_at":1784441880.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1328847,"problem_id":"103118M","submission_id":"383430491","title":"Matrix Problem"}
+{"accepted_at":1784443411.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1328666,"problem_id":"103118D","submission_id":"383432425","title":"Dyson Box"}
+{"accepted_at":1784451571.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1328497,"problem_id":"103118F","submission_id":"383445181","title":"Birthday Cake"}
+{"accepted_at":1784451599.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1328223,"problem_id":"103118F","submission_id":"383445217","title":"Birthday Cake"}
+{"accepted_at":1784452032.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1328042,"problem_id":"103118F","submission_id":"383445887","title":"Birthday Cake"}
+{"accepted_at":1784519571.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1327882,"problem_id":"103118C","submission_id":"383526049","title":"Cat Virus"}
+{"accepted_at":1784520787.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1327715,"problem_id":"103118M","submission_id":"383528402","title":"Matrix Problem"}
+{"accepted_at":1785042671.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.132755,"problem_id":"106193C","submission_id":"384281483","title":"Compact Encoding"}
+{"accepted_at":1785045378.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1327384,"problem_id":"106193J","submission_id":"384285852","title":"Judging Problem"}
+{"accepted_at":1785045861.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1327217,"problem_id":"106193B","submission_id":"384286814","title":"Bounding Boxes"}
+{"accepted_at":1785045900.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.132705,"problem_id":"106193F","submission_id":"384286893","title":"Faulty Fraction"}
+{"accepted_at":1785046007.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326869,"problem_id":"106193F","submission_id":"384287072","title":"Faulty Fraction"}
+{"accepted_at":1785048607.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326673,"problem_id":"106193D","submission_id":"384292223","title":"Defense Distance"}
+{"accepted_at":1785735100.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326497,"problem_id":"105487A","submission_id":"385350464","title":"Box"}
+{"accepted_at":1785735414.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326334,"problem_id":"105487C","submission_id":"385350863","title":"CCPC"}
+{"accepted_at":1785736064.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326172,"problem_id":"105487H","submission_id":"385352109","title":"Square Root"}
+{"accepted_at":1785736805.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1326013,"problem_id":"105487M","submission_id":"385353307","title":"Covering a Tree"}
+{"accepted_at":1785740735.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1325848,"problem_id":"105487G","submission_id":"385360589","title":"Increasing Sequence"}
+{"accepted_at":1785742012.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1325684,"problem_id":"105487L","submission_id":"385362660","title":"Puzzle"}
+{"accepted_at":1785744055.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1325514,"problem_id":"105487E","submission_id":"385367040","title":"Centroid Tree"}
+{"accepted_at":1785748984.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1325343,"problem_id":"105487F","submission_id":"385378669","title":"Perfect Square"}
+{"accepted_at":1785854311.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1325176,"problem_id":"2254A","submission_id":"385554458","title":"Riptide"}
+{"accepted_at":1785855073.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1325018,"problem_id":"2254B","submission_id":"385574354","title":"Evanescent"}
+{"accepted_at":1785855617.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.132486,"problem_id":"2254C1","submission_id":"385585506","title":"Marenol (easy version)"}
+{"accepted_at":1785860168.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.1324708,"problem_id":"2254E","submission_id":"385654607","title":"Chronostasis"}
+{"accepted_at":1785860552.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1324553,"problem_id":"2254C2","submission_id":"385658647","title":"Marenol (hard version)"}
+{"accepted_at":1786027735.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.13244,"problem_id":"2252A","submission_id":"385908065","title":"Boss Fight"}
+{"accepted_at":1786028342.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.132424,"problem_id":"2252B","submission_id":"385916605","title":"Always Changing"}
+{"accepted_at":1786030560.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1324015,"problem_id":"2252C","submission_id":"385941655","title":"Risky Tower"}
+{"accepted_at":1786113512.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1323855,"problem_id":"2253A","submission_id":"386076050","title":"The Best Card"}
+{"accepted_at":1786114058.0,"account_id":"a183","difficulty":1100,"observed_at":1792486471.1323698,"problem_id":"2253B","submission_id":"386085111","title":"Hypercarp and the Control Panel"}
+{"accepted_at":1786117249.0,"account_id":"a183","difficulty":1800,"observed_at":1792486471.1323538,"problem_id":"2253D","submission_id":"386109933","title":"Hypercarp and Interdimensional Jumps"}
+{"accepted_at":1786122930.0,"account_id":"a183","difficulty":2200,"observed_at":1792486471.132318,"problem_id":"2253E","submission_id":"386133715","title":"Diameter Intersections"}
+{"accepted_at":1786286284.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.132302,"problem_id":"2256A","submission_id":"386335186","title":"Three Numbers on the Blackboard"}
+{"accepted_at":1786287000.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1322858,"problem_id":"2256B","submission_id":"386346166","title":"Domino Tiles"}
+{"accepted_at":1786287576.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1322567,"problem_id":"2256C","submission_id":"386352533","title":"Hot Potatoes at the Fairy Warehouse"}
+{"accepted_at":1786856825.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1322365,"problem_id":"103495A","submission_id":"387223477","title":"Spring Couplets"}
+{"accepted_at":1786858333.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1322157,"problem_id":"103495I","submission_id":"387225198","title":"Fake Walsh Transform"}
+{"accepted_at":1786858386.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1321917,"problem_id":"103495C","submission_id":"387225268","title":"Magical Rearrangement"}
+{"accepted_at":1786859915.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1321712,"problem_id":"103495J","submission_id":"387227283","title":"Anti-merge"}
+{"accepted_at":1786860447.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1321537,"problem_id":"103495K","submission_id":"387228011","title":"Longest Continuous 1"}
+{"accepted_at":1786860470.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.132115,"problem_id":"103495K","submission_id":"387228046","title":"Longest Continuous 1"}
+{"accepted_at":1786864057.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1320987,"problem_id":"103495D","submission_id":"387233576","title":"Pattern Lock"}
+{"accepted_at":1786865919.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1320784,"problem_id":"103495L","submission_id":"387236788","title":"Tree Game"}
+{"accepted_at":1786867310.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1320567,"problem_id":"103495H","submission_id":"387239029","title":"Reverse the String"}
+{"accepted_at":1786977653.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1320398,"problem_id":"2257A","submission_id":"387404020","title":"Creating Abbreviations"}
+{"accepted_at":1786978200.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1320224,"problem_id":"2257B","submission_id":"387412476","title":"Gigantomachy"}
+{"accepted_at":1786979470.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1319883,"problem_id":"2257C","submission_id":"387428628","title":"Spying on the Beaver"}
+{"accepted_at":1786983466.0,"account_id":"a183","difficulty":1600,"observed_at":1792486471.1319697,"problem_id":"2257D","submission_id":"387457672","title":"Bermuda Rectangle"}
+{"accepted_at":1788014350.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1319425,"problem_id":"2258A","submission_id":"388779979","title":"Odd Eraser"}
+{"accepted_at":1788014883.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1319206,"problem_id":"2258B1","submission_id":"388787409","title":"Carrot Chopdown (Easy Version)"}
+{"accepted_at":1788051140.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318998,"problem_id":"105992H","submission_id":"388863173","title":"V 我 112.5"}
+{"accepted_at":1788052575.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318834,"problem_id":"105992D","submission_id":"388863692","title":"与或博弈"}
+{"accepted_at":1788055167.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318629,"problem_id":"105992M","submission_id":"388864824","title":"魔法使考核"}
+{"accepted_at":1788056920.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318455,"problem_id":"105992I","submission_id":"388865624","title":"真相"}
+{"accepted_at":1788057972.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318219,"problem_id":"105992G","submission_id":"388866121","title":"矩阵"}
+{"accepted_at":1788059692.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1318047,"problem_id":"105992J","submission_id":"388867089","title":"画圈"}
+{"accepted_at":1788063248.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1317832,"problem_id":"105992K","submission_id":"388869478","title":"神之一手"}
+{"accepted_at":1788064190.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1317616,"problem_id":"105992E","submission_id":"388870176","title":"Djangle 的数据结构"}
+{"accepted_at":1788068708.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.131739,"problem_id":"105992A","submission_id":"388874183","title":"序列"}
+{"accepted_at":1788878345.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1316936,"problem_id":"2260A","submission_id":"389886048","title":"Monocarp's Contest"}
+{"accepted_at":1788880884.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.1316779,"problem_id":"2260B","submission_id":"389916504","title":"Monocarp and Projects"}
+{"accepted_at":1788883027.0,"account_id":"a183","difficulty":1300,"observed_at":1792486471.1316621,"problem_id":"2260C","submission_id":"389935203","title":"Maximize XOR, Minimize Operations"}
+{"accepted_at":1788884347.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.131646,"problem_id":"2260D","submission_id":"389945175","title":"Signs of Prefix Sums"}
+{"accepted_at":1789115556.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1316285,"problem_id":"105459C","submission_id":"390285933","title":"Giving Directions in Harbin"}
+{"accepted_at":1789115804.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.131607,"problem_id":"105459M","submission_id":"390286284","title":"Weird Ceiling"}
+{"accepted_at":1789116880.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1315897,"problem_id":"105459G","submission_id":"390287735","title":"Welcome to Join the Online Meeting!"}
+{"accepted_at":1789119684.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1315684,"problem_id":"105459K","submission_id":"390291619","title":"Farm Management"}
+{"accepted_at":1789120145.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1315515,"problem_id":"105459J","submission_id":"390292285","title":"New Energy Vehicle"}
+{"accepted_at":1789129491.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1315298,"problem_id":"105459L","submission_id":"390306507","title":"A Game On Tree"}
+{"accepted_at":1789130891.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1315095,"problem_id":"105459B","submission_id":"390308880","title":"Concave Hull"}
+{"accepted_at":1789223927.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1314797,"problem_id":"2263A","submission_id":"390423105","title":"Min Max Game"}
+{"accepted_at":1789224494.0,"account_id":"a183","difficulty":900,"observed_at":1792486471.131464,"problem_id":"2263B","submission_id":"390430981","title":"Min Matrices"}
+{"accepted_at":1789228837.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.131448,"problem_id":"2263C1","submission_id":"390465158","title":"Floor of MEX (Easy Version)"}
+{"accepted_at":1789319588.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1314325,"problem_id":"2264A","submission_id":"390612286","title":"Rumb Needs a Hand"}
+{"accepted_at":1789321994.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1314049,"problem_id":"2264B","submission_id":"390631077","title":"Knife's Pill Farm"}
+{"accepted_at":1789323391.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.131389,"problem_id":"2264C","submission_id":"390638514","title":"Madamant's Skating Dynasty"}
+{"accepted_at":1789327624.0,"account_id":"a183","difficulty":1900,"observed_at":1792486471.1313708,"problem_id":"2264D","submission_id":"390652648","title":"Dr. Agos's Dark Mode"}
+{"accepted_at":1790347157.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1313548,"problem_id":"2267A","submission_id":"392000840","title":"Turn Into a Palindrome"}
+{"accepted_at":1790347410.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1313393,"problem_id":"2267B","submission_id":"392005512","title":"Fashionable Array"}
+{"accepted_at":1790348735.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1313226,"problem_id":"2267C","submission_id":"392024032","title":"GCD Treasury"}
+{"accepted_at":1790349421.0,"account_id":"a183","difficulty":1400,"observed_at":1792486471.1313071,"problem_id":"2267D","submission_id":"392031487","title":"Backrooms Hill"}
+{"accepted_at":1790353027.0,"account_id":"a183","difficulty":2000,"observed_at":1792486471.131291,"problem_id":"2267E","submission_id":"392059106","title":"Clean Substrings"}
+{"accepted_at":1790354673.0,"account_id":"a183","difficulty":1700,"observed_at":1792486471.1312745,"problem_id":"2267F1","submission_id":"392068589","title":"XOR Transformations (Easy Version)"}
+{"accepted_at":1790433561.0,"account_id":"a183","difficulty":800,"observed_at":1792486471.1312523,"problem_id":"2269A","submission_id":"392177864","title":"SauSaGe Bank"}
+{"accepted_at":1790434423.0,"account_id":"a183","difficulty":1000,"observed_at":1792486471.1312075,"problem_id":"2269B","submission_id":"392188060","title":"KiaKio and Squared Numbers"}
+{"accepted_at":1790435516.0,"account_id":"a183","difficulty":1200,"observed_at":1792486471.1311908,"problem_id":"2269C","submission_id":"392197288","title":"K Is Important"}
+{"accepted_at":1790436915.0,"account_id":"a183","difficulty":1500,"observed_at":1792486471.131169,"problem_id":"2269D","submission_id":"392207315","title":"What a SauSaGe! It's All Meat"}
+{"accepted_at":1791645359.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1311107,"problem_id":"2271A","submission_id":"393978286","title":"Robot Odd Moves"}
+{"accepted_at":1791645862.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310785,"problem_id":"2271B","submission_id":"393984740","title":"MEX Game"}
+{"accepted_at":1791647535.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310613,"problem_id":"2271C","submission_id":"394001077","title":"XOR Problem"}
+{"accepted_at":1791650381.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1310408,"problem_id":"2271D","submission_id":"394019203","title":"Target Infection"}
+{"accepted_at":1791988705.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.131004,"problem_id":"2276A","submission_id":"394533375","title":"Perfect Sandwiches"}
+{"accepted_at":1791989298.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130987,"problem_id":"2276B","submission_id":"394542655","title":"Replace and Compress"}
+{"accepted_at":1791989940.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1309679,"problem_id":"2276C","submission_id":"394550668","title":"Subarrays"}
+{"accepted_at":1791991881.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1309412,"problem_id":"2276D","submission_id":"394569583","title":"Caveman"}
+{"accepted_at":1791995476.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130924,"problem_id":"2276E","submission_id":"394594241","title":"Good Substrings"}
+{"accepted_at":1792061700.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130905,"problem_id":"104857F","submission_id":"394680555","title":"Colorful Balloons"}
+{"accepted_at":1792062938.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130882,"problem_id":"104857E","submission_id":"394682974","title":"Matrix Distances"}
+{"accepted_at":1792068865.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.130861,"problem_id":"104857G","submission_id":"394694269","title":"Streak Manipulation"}
+{"accepted_at":1792072415.0,"account_id":"a183","difficulty":null,"observed_at":1792486471.1306868,"problem_id":"104857I","submission_id":"394701810","title":"Linguistics Puzzle"}
+{"accepted_at":1749036763.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6704295,"problem_id":"11381","submission_id":"1091614","title":"Team Naming"}
+{"accepted_at":1749222440.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6703038,"problem_id":"11380","submission_id":"1094995","title":"Loose Subsequences"}
+{"accepted_at":1779080680.0,"account_id":"a184","difficulty":null,"observed_at":1792486456.2704692,"problem_id":"17467","submission_id":"2391929","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779081326.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.2935233,"problem_id":"17467","submission_id":"2391988","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779089528.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.293506,"problem_id":"17467","submission_id":"2392876","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779091039.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.2934902,"problem_id":"17467","submission_id":"2393100","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779091698.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.293474,"problem_id":"17467","submission_id":"2393231","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779092175.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.2934563,"problem_id":"17467","submission_id":"2393305","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779092338.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.2934368,"problem_id":"17467","submission_id":"2393338","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779123302.0,"account_id":"a184","difficulty":null,"observed_at":1792486449.293266,"problem_id":"17467","submission_id":"2397363","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779123928.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8174648,"problem_id":"17467","submission_id":"2397410","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779126049.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.817436,"problem_id":"17467","submission_id":"2397534","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779275128.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8174198,"problem_id":"17467","submission_id":"2410193","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1779275444.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8173995,"problem_id":"17467","submission_id":"2410243","title":"Galaxy of Stars in a Dream"}
+{"accepted_at":1787534700.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8173819,"problem_id":"17761","submission_id":"2807402","title":"Calendar Cubes"}
+{"accepted_at":1787544758.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8173592,"problem_id":"17759","submission_id":"2807887","title":"Snake"}
+{"accepted_at":1788518957.0,"account_id":"a184","difficulty":null,"observed_at":1792486441.8172493,"problem_id":"15032","submission_id":"2872700","title":"Cipher"}
+{"accepted_at":1789721387.0,"account_id":"a184","difficulty":null,"observed_at":1792486438.277405,"problem_id":"14692","submission_id":"2987833","title":"Let's Make a Convex!"}
+{"accepted_at":1789727118.0,"account_id":"a184","difficulty":null,"observed_at":1792486438.2773755,"problem_id":"14686","submission_id":"2988671","title":"Follow the Penguins"}
+{"accepted_at":1789736814.0,"account_id":"a184","difficulty":null,"observed_at":1792486438.2773533,"problem_id":"14682","submission_id":"2990067","title":"Beautiful Dangos"}
+{"accepted_at":1791015230.0,"account_id":"a184","difficulty":null,"observed_at":1792486438.2772467,"problem_id":"15320","submission_id":"3088144","title":"Gemcrate"}
+{"accepted_at":1791019752.0,"account_id":"a184","difficulty":null,"observed_at":1792486429.3185806,"problem_id":"15321","submission_id":"3089308","title":"AGI"}
+{"accepted_at":1791270263.0,"account_id":"a184","difficulty":null,"observed_at":1792486429.3185644,"problem_id":"15426","submission_id":"3112517","title":"Hot Pot"}
+{"accepted_at":1791354000.0,"account_id":"a184","difficulty":null,"observed_at":1792486429.3185475,"problem_id":"14825","submission_id":"3120442","title":"网格避障"}
+{"accepted_at":1791355008.0,"account_id":"a184","difficulty":null,"observed_at":1792486429.3185282,"problem_id":"14822","submission_id":"3120667","title":"六边形翻转"}
+{"accepted_at":1791363945.0,"account_id":"a184","difficulty":null,"observed_at":1792486429.3184147,"problem_id":"14815","submission_id":"3123021","title":"液压机"}
 {"accepted_at":1791459020.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.477734,"problem_id":"14826","submission_id":"3131232","title":"连通的正三角形"}
 {"accepted_at":1791477884.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.4777148,"problem_id":"14823","submission_id":"3133531","title":"幻想乡的裁判长"}
 {"accepted_at":1791637488.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.477692,"problem_id":"14824","submission_id":"3147935","title":"01 背包"}
