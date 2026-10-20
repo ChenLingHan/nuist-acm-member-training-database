@@ -10761,6 +10761,7 @@
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.62573,"platform":"luogu","problem_id":"B2064","solved_at":1791436951.0,"source":"luogu-practice-snapshot","title":"斐波那契数列"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792401118.611176,"platform":"luogu","problem_id":"B2161","solved_at":1792399288.0,"source":"luogu-record-list","title":"十进制转二进制"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792401118.6108902,"platform":"luogu","problem_id":"B2162","solved_at":1792400369.0,"source":"luogu-record-list","title":"二进制转十进制"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792495928.294712,"platform":"luogu","problem_id":"B2165","solved_at":1792495391.0,"source":"luogu-record-list","title":"括号匹配"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6257403,"platform":"luogu","problem_id":"B3622","solved_at":1791282161.0,"source":"luogu-practice-snapshot","title":"枚举子集（递归实现指数型枚举）"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.62568,"platform":"luogu","problem_id":"P1000","solved_at":1788876543.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.6253202,"platform":"luogu","problem_id":"P1001","solved_at":1788876769.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
@@ -16646,6 +16647,7 @@
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792237067.9181101,"platform":"luogu","problem_id":"P3435","solved_at":1792236634.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1513245,"platform":"luogu","problem_id":"P3620","solved_at":1770188324.0,"source":"luogu-practice-snapshot","title":"[APIO/CTSC2007] 数据备份"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1510866,"platform":"luogu","problem_id":"P3763","solved_at":1792138992.0,"source":"luogu-practice-snapshot","title":"[TJOI2017] DNA"}
+{"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792496019.7417114,"platform":"luogu","problem_id":"P3805","solved_at":1792495548.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1521144,"platform":"luogu","problem_id":"P3807","solved_at":1769493950.0,"source":"luogu-practice-snapshot","title":"【模板】卢卡斯定理 / Lucas 定理"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1520555,"platform":"luogu","problem_id":"P3810","solved_at":1790000391.0,"source":"luogu-practice-snapshot","title":"【模板】三维偏序 / 陌上花开"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.152086,"platform":"luogu","problem_id":"P3812","solved_at":1784717050.0,"source":"luogu-practice-snapshot","title":"【模板】线性基"}
@@ -17248,6 +17250,7 @@
 {"account_id":"a155","difficulty":5,"member_id":"m69","observed_at":1792150253.3481355,"platform":"luogu","problem_id":"P4113","solved_at":1713102484.0,"source":"luogu-practice-snapshot","title":"[HEOI2012] 采花"}
 {"account_id":"a155","difficulty":4,"member_id":"m69","observed_at":1792150253.3481712,"platform":"luogu","problem_id":"P4136","solved_at":1694626917.0,"source":"luogu-practice-snapshot","title":"谁能赢呢？"}
 {"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792150253.3481824,"platform":"luogu","problem_id":"P4168","solved_at":1695200458.0,"source":"luogu-practice-snapshot","title":"[Violet] 蒲公英"}
+{"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792496042.4621456,"platform":"luogu","problem_id":"P4213","solved_at":1792496005.0,"source":"luogu-record-list","title":"【模板】杜教筛"}
 {"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792150253.34823,"platform":"luogu","problem_id":"P4238","solved_at":1713523511.0,"source":"luogu-practice-snapshot","title":"【模板】多项式乘法逆"}
 {"account_id":"a155","difficulty":4,"member_id":"m69","observed_at":1792150253.3482528,"platform":"luogu","problem_id":"P4342","solved_at":1754326282.0,"source":"luogu-practice-snapshot","title":"[IOI 1998] Polygon"}
 {"account_id":"a155","difficulty":7,"member_id":"m69","observed_at":1792150253.3482413,"platform":"luogu","problem_id":"P4389","solved_at":1765080887.0,"source":"luogu-practice-snapshot","title":"付公主的背包"}
