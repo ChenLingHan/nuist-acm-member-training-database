@@ -13284,6 +13284,7 @@
 {"accepted_at":1792400369.0,"account_id":"a89","difficulty":2,"observed_at":1792401118.6110153,"problem_id":"B2162","submission_id":"304169258","title":"二进制转十进制"}
 {"accepted_at":1792407153.0,"account_id":"a89","difficulty":4,"observed_at":1792407403.1653824,"problem_id":"P4391","submission_id":"304190622","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"accepted_at":1792413397.0,"account_id":"a89","difficulty":2,"observed_at":1792413478.6225603,"problem_id":"P2249","submission_id":"304226602","title":"【深基13.例1】查找"}
+{"accepted_at":1792485865.0,"account_id":"a89","difficulty":2,"observed_at":1792486083.3234022,"problem_id":"P1042","submission_id":"304353723","title":"[NOIP 2003 普及组] 乒乓球"}
 {"accepted_at":1791525110.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.1905293,"problem_id":"B2002","submission_id":"302040432","title":"Hello,World!"}
 {"accepted_at":1791525192.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.190501,"problem_id":"B2025","submission_id":"302040600","title":"输出字符菱形"}
 {"accepted_at":1791525696.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.1904645,"problem_id":"P1001","submission_id":"302041794","title":"A+B Problem"}
@@ -24674,6 +24675,7 @@
 {"accepted_at":1791352843.0,"account_id":"a164","difficulty":null,"observed_at":1792148555.413908,"problem_id":"105484J","submission_id":"393468448","title":"Social Media"}
 {"accepted_at":1792217458.0,"account_id":"a164","difficulty":null,"observed_at":1792217636.0691116,"problem_id":"105657K","submission_id":"394897248","title":"Kind of Bingo"}
 {"accepted_at":1792219451.0,"account_id":"a164","difficulty":null,"observed_at":1792220053.2959192,"problem_id":"105657A","submission_id":"394900475","title":"AUS"}
+{"accepted_at":1792484995.0,"account_id":"a164","difficulty":null,"observed_at":1792486101.8075452,"problem_id":"104459A","submission_id":"395314849","title":"Sekiro"}
 {"accepted_at":1699691204.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1270413,"problem_id":"B3869","submission_id":"134540660","title":"[GESP202309 四级] 进制转换"}
 {"accepted_at":1700298041.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1269932,"problem_id":"B3870","submission_id":"135740502","title":"[GESP202309 四级] 变长编码"}
 {"accepted_at":1703322186.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.126949,"problem_id":"P8597","submission_id":"140702758","title":"[蓝桥杯 2013 省 B] 翻硬币"}
@@ -25327,3 +25329,27 @@
 {"accepted_at":1791988668.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.7720613,"problem_id":"2276A","submission_id":"394532868","title":"Perfect Sandwiches"}
 {"accepted_at":1791989868.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.7720203,"problem_id":"2276C","submission_id":"394549844","title":"Subarrays"}
 {"accepted_at":1791990579.0,"account_id":"a181","difficulty":null,"observed_at":1792167449.771801,"problem_id":"2276B","submission_id":"394557554","title":"Replace and Compress"}
+{"accepted_at":1791911379.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.8299866,"problem_id":"P8306","submission_id":"302929511","title":"【模板】字典树 / Trie"}
+{"accepted_at":1791911668.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.829964,"problem_id":"P8306","submission_id":"302929580","title":"【模板】字典树 / Trie"}
+{"accepted_at":1791912308.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.829943,"problem_id":"P8306","submission_id":"302929709","title":"【模板】字典树 / Trie"}
+{"accepted_at":1791956269.0,"account_id":"a182","difficulty":3,"observed_at":1792486428.8299239,"problem_id":"P4549","submission_id":"302962962","title":"【模板】裴蜀定理"}
+{"accepted_at":1791966893.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.8299074,"problem_id":"P4777","submission_id":"302994992","title":"【模板】扩展中国剩余定理（EXCRT）"}
+{"accepted_at":1791970995.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.8298905,"problem_id":"P1495","submission_id":"303013103","title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
+{"accepted_at":1791983075.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.8298745,"problem_id":"P5656","submission_id":"303071912","title":"【模板】二元一次不定方程 (exgcd)"}
+{"accepted_at":1792055360.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.8298576,"problem_id":"P6091","submission_id":"303184807","title":"【模板】原根"}
+{"accepted_at":1792057459.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.8298373,"problem_id":"P11961","submission_id":"303194321","title":"[GESP202503 五级] 原根判断"}
+{"accepted_at":1792087635.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.8298209,"problem_id":"P4195","submission_id":"303296646","title":"【模板】扩展 BSGS / exBSGS"}
+{"accepted_at":1792088056.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.8298028,"problem_id":"P3846","submission_id":"303296672","title":"【模板】BSGS / [TJOI2007] 可爱的质数"}
+{"accepted_at":1792116786.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.829786,"problem_id":"P4718","submission_id":"303308647","title":"【模板】Pollard-Rho"}
+{"accepted_at":1792120149.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.8297691,"problem_id":"P5410","submission_id":"303315231","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
+{"accepted_at":1792121638.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.829753,"problem_id":"P6114","submission_id":"303318476","title":"【模板】Lyndon 分解"}
+{"accepted_at":1792126661.0,"account_id":"a182","difficulty":5,"observed_at":1792486428.829736,"problem_id":"P13270","submission_id":"303325491","title":"【模板】最小表示法"}
+{"accepted_at":1792142496.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.829718,"problem_id":"P3809","submission_id":"303373867","title":"【模板】后缀排序（SA）"}
+{"accepted_at":1792145608.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.8296845,"problem_id":"P3804","submission_id":"303385148","title":"【模板】后缀自动机（SAM）"}
+{"accepted_at":1792197495.0,"account_id":"a182","difficulty":7,"observed_at":1792486428.8296487,"problem_id":"P3804","submission_id":"303491587","title":"【模板】后缀自动机（SAM）"}
+{"accepted_at":1792413347.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.829612,"problem_id":"P1829","submission_id":"304226249","title":"[集训队互测 2010] Crash的数字表格 / JZPTAB"}
+{"accepted_at":1792428499.0,"account_id":"a182","difficulty":6,"observed_at":1792486428.8295054,"problem_id":"P2257","submission_id":"304280725","title":"YY的GCD"}
+{"accepted_at":1791459020.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.477734,"problem_id":"14826","submission_id":"3131232","title":"连通的正三角形"}
+{"accepted_at":1791477884.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.4777148,"problem_id":"14823","submission_id":"3133531","title":"幻想乡的裁判长"}
+{"accepted_at":1791637488.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.477692,"problem_id":"14824","submission_id":"3147935","title":"01 背包"}
+{"accepted_at":1791643162.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.4775248,"problem_id":"14814","submission_id":"3148509","title":"k-子集和最大公约数问题"}

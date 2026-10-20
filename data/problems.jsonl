@@ -5576,6 +5576,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1195","tags":[],"title":"口袋的天空"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P11958","tags":[],"title":"「ZHQOI R1」划分"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1196","tags":[],"title":"[NOI2002] 银河英雄传说"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P11961","tags":[],"title":"[GESP202503 五级] 原根判断"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1197","tags":[],"title":"[JSOI2008] 星球大战"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1198","tags":[],"title":"[JSOI2008] 最大数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1199","tags":[],"title":"[NOIP 2010 普及组] 三国游戏"}
@@ -5693,6 +5694,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1323","tags":[],"title":"删数问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1324","tags":[],"title":"矩形分割"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1325","tags":[],"title":"[ICPC 2002 Beijing R] 雷达安装"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P13270","tags":[],"title":"【模板】最小表示法"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P13274","tags":[],"title":"[NOI2025] 三目运算符"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1328","tags":[],"title":"[NOIP 2014 提高组] 生活大爆炸版石头剪刀布"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1330","tags":[],"title":"封锁阳光大学"}
@@ -7082,6 +7084,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4186","tags":[],"title":"[USACO18JAN] Cow at Large G"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4187","tags":[],"title":"[USACO18JAN] Stamp Painting G"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4188","tags":[],"title":"[USACO18JAN] Lifeguards S"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4195","tags":[],"title":"【模板】扩展 BSGS / exBSGS"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4196","tags":[],"title":"【模板】半平面交 / [CQOI2006] 凸多边形"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4197","tags":[],"title":"[ONTAK2010] Peaks"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4198","tags":[],"title":"楼房重建"}
@@ -7227,6 +7230,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4710","tags":[],"title":"「物理」平抛运动"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P4715","tags":[],"title":"【深基16.例1】淘汰赛"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4717","tags":[],"title":"【模板】快速莫比乌斯 / 沃尔什变换 (FMT / FWT)"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4718","tags":[],"title":"【模板】Pollard-Rho"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4719","tags":[],"title":"【模板】动态 DP"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4720","tags":[],"title":"【模板】扩展卢卡斯定理 / exLucas"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4721","tags":[],"title":"【模板】分治 FFT"}
@@ -7576,11 +7580,13 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6078","tags":[],"title":"[CEOI 2004] Sweets"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P6082","tags":[],"title":"[JSOI2015] salesman"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6086","tags":[],"title":"【模板】Prüfer（Prufer）序列"}
+{"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6091","tags":[],"title":"【模板】原根"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P6092","tags":[],"title":"[CEOI 2012] 工作规划"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6097","tags":[],"title":"【模板】子集卷积"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6098","tags":[],"title":"[USACO19FEB] Cow Land G"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P6102","tags":[],"title":"[EER2] 谔运算"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P6111","tags":[],"title":"[USACO18JAN] MooTube S"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6114","tags":[],"title":"【模板】Lyndon 分解"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6116","tags":[],"title":"[JOI 2019 Final] 有趣的家庭菜园 3 / Growing Vegetables is Fun 3"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6118","tags":[],"title":"[JOI 2019 Final] 独特的城市 / Unique Cities"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6136","tags":[],"title":"【模板】普通平衡树（数据加强版）"}
@@ -8280,6 +8286,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"10901","tags":[],"title":"Strange Permutations"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"11376","tags":[],"title":"Spell Generation"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"11378","tags":[],"title":"Ranking Prediction"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"11380","tags":[],"title":"11380"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"11381","tags":[],"title":"Team Naming"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"1171","tags":[],"title":"Integer Array Shuffle"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"12176","tags":[],"title":"Diophantine Equation"}
@@ -8315,6 +8322,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14551","tags":[],"title":"看比赛回放"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14553","tags":[],"title":"序列与整数对"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14557","tags":[],"title":"置换环"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"14682","tags":[],"title":"14682"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14686","tags":[],"title":"Follow the Penguins"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14687","tags":[],"title":"Grand Voting"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14689","tags":[],"title":"Imagined Holly"}
@@ -8353,9 +8361,11 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14823","tags":[],"title":"幻想乡的裁判长"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14824","tags":[],"title":"01 背包"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14825","tags":[],"title":"网格避障"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"14826","tags":[],"title":"连通的正三角形"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"149","tags":[],"title":"Peru"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14941","tags":[],"title":"Buggy Painting Software I"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14945","tags":[],"title":"The Bond Beyond Time"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15032","tags":[],"title":"15032"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15037","tags":[],"title":"Grid Filling Game"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15042","tags":[],"title":"Card Game"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15307","tags":[],"title":"Plus Xor"}
@@ -8363,14 +8373,18 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15315","tags":[],"title":"Hamu"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15317","tags":[],"title":"Not a subset sum"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15318","tags":[],"title":"Flower's land 3"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15320","tags":[],"title":"15320"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15321","tags":[],"title":"15321"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15323","tags":[],"title":"Yet another mailbox problem"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15419","tags":[],"title":"New Gomoku"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"15426","tags":[],"title":"15426"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15429","tags":[],"title":"Reverse KMP"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15437","tags":[],"title":"Find the Circuit"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15439","tags":[],"title":"Longest Common Prefix"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15441","tags":[],"title":"Re: Becoming the Programming Champion"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"15888","tags":[],"title":"哈姆星与古地球学术行为影响星球文明的考古学分析"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17466","tags":[],"title":"Dancing Zombie"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"17467","tags":[],"title":"17467"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17470","tags":[],"title":"High-Dimensional Geometry"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17473","tags":[],"title":"Treasure Island"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17476","tags":[],"title":"Stock Trading"}
@@ -8380,6 +8394,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17758","tags":[],"title":"阿斯特拉"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17759","tags":[],"title":"Snake"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17760","tags":[],"title":"心灵感应"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"17761","tags":[],"title":"17761"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17763","tags":[],"title":"Sum and Product"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"17765","tags":[],"title":"博物馆奇妙夜"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"18007","tags":[],"title":"Puzzle: The Artisan of Glimmith"}

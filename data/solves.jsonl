@@ -10756,6 +10756,7 @@
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6254728,"platform":"luogu","problem_id":"P1008","solved_at":1791726931.0,"source":"luogu-practice-snapshot","title":"[NOIP 1998 普及组] 三连击"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625769,"platform":"luogu","problem_id":"P10250","solved_at":1791348482.0,"source":"luogu-practice-snapshot","title":"[GESP样题 六级] 下楼梯"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6254778,"platform":"luogu","problem_id":"P1036","solved_at":1791290207.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 选数"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792486083.3233204,"platform":"luogu","problem_id":"P1042","solved_at":1792485865.0,"source":"luogu-record-list","title":"[NOIP 2003 普及组] 乒乓球"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6257823,"platform":"luogu","problem_id":"P10448","solved_at":1791283977.0,"source":"luogu-practice-snapshot","title":"组合型枚举"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625789,"platform":"luogu","problem_id":"P10452","solved_at":1790741046.0,"source":"luogu-practice-snapshot","title":"货仓选址"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.6254833,"platform":"luogu","problem_id":"P1047","solved_at":1791860578.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 校门外的树"}
@@ -19579,6 +19580,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4145331,"platform":"codeforces","problem_id":"103495J","solved_at":1786863846.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4145494,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.416797,"platform":"codeforces","problem_id":"104172K","solved_at":1769238940.0,"source":"codeforces-api","title":"Maximum GCD"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792486101.8074446,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140236,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414007,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140394,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
@@ -20377,3 +20379,39 @@
 {"account_id":"a181","difficulty":1000,"member_id":"m79","observed_at":1792167449.78163,"platform":"codeforces","problem_id":"577A","solved_at":1769233425.0,"source":"codeforces-api","title":"Multiplication Table"}
 {"account_id":"a181","difficulty":1100,"member_id":"m79","observed_at":1792167449.7812214,"platform":"codeforces","problem_id":"630C","solved_at":1769578665.0,"source":"codeforces-api","title":"Lucky Numbers"}
 {"account_id":"a181","difficulty":1200,"member_id":"m79","observed_at":1792167449.773882,"platform":"codeforces","problem_id":"977C","solved_at":1786813625.0,"source":"codeforces-api","title":"Less or Equal"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.8298318,"platform":"luogu","problem_id":"P11961","solved_at":1792057459.0,"source":"luogu-record-list","title":"[GESP202503 五级] 原根判断"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.82973,"platform":"luogu","problem_id":"P13270","solved_at":1792126661.0,"source":"luogu-record-list","title":"【模板】最小表示法"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.8298852,"platform":"luogu","problem_id":"P1495","solved_at":1791970995.0,"source":"luogu-record-list","title":"【模板】中国剩余定理（CRT）/ 曹冲养猪"}
+{"account_id":"a182","difficulty":6,"member_id":"m80","observed_at":1792486428.829604,"platform":"luogu","problem_id":"P1829","solved_at":1792413347.0,"source":"luogu-record-list","title":"[集训队互测 2010] Crash的数字表格 / JZPTAB"}
+{"account_id":"a182","difficulty":6,"member_id":"m80","observed_at":1792486428.8294103,"platform":"luogu","problem_id":"P2257","solved_at":1792428499.0,"source":"luogu-record-list","title":"YY的GCD"}
+{"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486428.8296425,"platform":"luogu","problem_id":"P3804","solved_at":1792145608.0,"source":"luogu-record-list","title":"【模板】后缀自动机（SAM）"}
+{"account_id":"a182","difficulty":6,"member_id":"m80","observed_at":1792486428.8297122,"platform":"luogu","problem_id":"P3809","solved_at":1792142496.0,"source":"luogu-record-list","title":"【模板】后缀排序（SA）"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.829797,"platform":"luogu","problem_id":"P3846","solved_at":1792088056.0,"source":"luogu-record-list","title":"【模板】BSGS / [TJOI2007] 可爱的质数"}
+{"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486428.8298154,"platform":"luogu","problem_id":"P4195","solved_at":1792087635.0,"source":"luogu-record-list","title":"【模板】扩展 BSGS / exBSGS"}
+{"account_id":"a182","difficulty":3,"member_id":"m80","observed_at":1792486428.8299184,"platform":"luogu","problem_id":"P4549","solved_at":1791956269.0,"source":"luogu-record-list","title":"【模板】裴蜀定理"}
+{"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486428.8297808,"platform":"luogu","problem_id":"P4718","solved_at":1792116786.0,"source":"luogu-record-list","title":"【模板】Pollard-Rho"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.8299022,"platform":"luogu","problem_id":"P4777","solved_at":1791966893.0,"source":"luogu-record-list","title":"【模板】扩展中国剩余定理（EXCRT）"}
+{"account_id":"a182","difficulty":6,"member_id":"m80","observed_at":1792486428.829764,"platform":"luogu","problem_id":"P5410","solved_at":1792120149.0,"source":"luogu-record-list","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
+{"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486428.829869,"platform":"luogu","problem_id":"P5656","solved_at":1791983075.0,"source":"luogu-record-list","title":"【模板】二元一次不定方程 (exgcd)"}
+{"account_id":"a182","difficulty":6,"member_id":"m80","observed_at":1792486428.8298516,"platform":"luogu","problem_id":"P6091","solved_at":1792055360.0,"source":"luogu-record-list","title":"【模板】原根"}
+{"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486428.8297472,"platform":"luogu","problem_id":"P6114","solved_at":1792121638.0,"source":"luogu-record-list","title":"【模板】Lyndon 分解"}
+{"account_id":"a182","difficulty":3,"member_id":"m80","observed_at":1792486428.8299377,"platform":"luogu","problem_id":"P8306","solved_at":1791911379.0,"source":"luogu-record-list","title":"【模板】字典树 / Trie"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.688803,"platform":"qoj","problem_id":"11380","solved_at":null,"source":"qoj-profile","title":"11380"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6889572,"platform":"qoj","problem_id":"11381","solved_at":null,"source":"qoj-profile","title":"11381"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6889691,"platform":"qoj","problem_id":"14682","solved_at":null,"source":"qoj-profile","title":"14682"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.688976,"platform":"qoj","problem_id":"14686","solved_at":null,"source":"qoj-profile","title":"14686"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6889827,"platform":"qoj","problem_id":"14692","solved_at":null,"source":"qoj-profile","title":"14692"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6889894,"platform":"qoj","problem_id":"14814","solved_at":1791643162.0,"source":"qoj-profile","title":"k-子集和最大公约数问题"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6889958,"platform":"qoj","problem_id":"14815","solved_at":null,"source":"qoj-profile","title":"14815"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890023,"platform":"qoj","problem_id":"14822","solved_at":null,"source":"qoj-profile","title":"14822"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890087,"platform":"qoj","problem_id":"14823","solved_at":1791477884.0,"source":"qoj-profile","title":"幻想乡的裁判长"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890147,"platform":"qoj","problem_id":"14824","solved_at":1791637488.0,"source":"qoj-profile","title":"01 背包"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689021,"platform":"qoj","problem_id":"14825","solved_at":null,"source":"qoj-profile","title":"14825"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890273,"platform":"qoj","problem_id":"14826","solved_at":1791459020.0,"source":"qoj-profile","title":"连通的正三角形"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689034,"platform":"qoj","problem_id":"15032","solved_at":null,"source":"qoj-profile","title":"15032"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890543,"platform":"qoj","problem_id":"15320","solved_at":null,"source":"qoj-profile","title":"15320"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890616,"platform":"qoj","problem_id":"15321","solved_at":null,"source":"qoj-profile","title":"15321"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689068,"platform":"qoj","problem_id":"15426","solved_at":null,"source":"qoj-profile","title":"15426"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890745,"platform":"qoj","problem_id":"17467","solved_at":null,"source":"qoj-profile","title":"17467"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890805,"platform":"qoj","problem_id":"17759","solved_at":null,"source":"qoj-profile","title":"17759"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689087,"platform":"qoj","problem_id":"17761","solved_at":null,"source":"qoj-profile","title":"17761"}
