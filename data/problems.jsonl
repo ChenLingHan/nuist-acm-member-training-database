@@ -153,6 +153,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104417I","tags":[],"title":"Three Dice"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104417M","tags":[],"title":"Computational Geometry"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104459A","tags":[],"title":"Sekiro"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104459M","tags":[],"title":"Calandar"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"104637A","tags":[],"title":"Red and Blue Beans"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104639A","tags":[],"title":"Qualifiers Ranking Rules"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"104639D","tags":[],"title":"Transitivity"}
@@ -5358,7 +5359,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10337","tags":[],"title":"[UESTCPC 2024] 操作序列"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1034","tags":[],"title":"[NOIP 2002 提高组] 矩形覆盖"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1035","tags":[],"title":"[NOIP 2002 普及组] 级数求和"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1036","tags":[],"title":"[NOIP 2002 普及组] 选数"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1036","tags":[],"title":"[NOIP 2002 普及组] 选数"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10368","tags":[],"title":"「LAOI-4」Colors"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P10369","tags":[],"title":"「LAOI-4」Mex Tower (Easy ver.)"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1037","tags":[],"title":"[NOIP 2002 普及组] 产生数"}
@@ -5481,7 +5482,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P10934","tags":[],"title":"西瓜种植"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P10935","tags":[],"title":"银河"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P10938","tags":[],"title":"Vani和Cl2捉迷藏"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1094","tags":[],"title":"[NOIP 2007 普及组] 纪念品分组"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1094","tags":[],"title":"[NOIP 2007 普及组] 纪念品分组"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1095","tags":[],"title":"[NOIP 2007 普及组] 守望者的逃离"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P10955","tags":[],"title":"正整数拆分"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1096","tags":[],"title":"[NOIP 2007 普及组] Hanoi 双塔问题"}
@@ -5500,7 +5501,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11036","tags":[],"title":"【MX-X3-T3】「RiOI-4」GCD 与 LCM 问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1104","tags":[],"title":"生日"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11048","tags":[],"title":"[蓝桥杯 2024 省 Java B] 拼十字"}
-{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P1106","tags":[],"title":"删数问题"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1106","tags":[],"title":"删数问题"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1107","tags":[],"title":"[BJWC2008] 雷涛的小猫"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P11070","tags":[],"title":"「QMSOI R1」 三服同构"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11076","tags":[],"title":"「FSLOI Round I」单挑"}
@@ -5527,6 +5528,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1119","tags":[],"title":"灾后重建"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11199","tags":[],"title":"[JOIG 2024] ダンス / Dance"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1120","tags":[],"title":"[CERC 1995] 小木棍"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11206","tags":[],"title":"「Cfz Round 9」Dove"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P11217","tags":[],"title":"【MX-S4-T1】「yyOI R2」youyou 的垃圾桶"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1122","tags":[],"title":"最大子树和"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P11227","tags":[],"title":"[CSP-J 2024] 扑克牌"}
@@ -5683,6 +5685,7 @@
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12530","tags":[],"title":"P12530"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12531","tags":[],"title":"[XJTUPC 2025] Beat Verdict: Precision Strike"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P12533","tags":[],"title":"[XJTUPC 2025] 9-Nine"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12539","tags":[],"title":"P12539"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P12540","tags":[],"title":"[XJTUPC 2025] 离散对数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1255","tags":[],"title":"数楼梯"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1256","tags":[],"title":"[POI 1999 R2] 显示图像"}
@@ -5705,6 +5708,8 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1281","tags":[],"title":"[CERC1998] 书的复制"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1282","tags":[],"title":"[CEOI 1997] 多米诺骨牌"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1283","tags":[],"title":"[ICPC 1999 Tehran R] 平板涂色"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12830","tags":[],"title":"[蓝桥杯 2025 国 B] 新型锁"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P12831","tags":[],"title":"[蓝桥杯 2025 国 B] 互质藏卡"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1284","tags":[],"title":"[USACO02FEB] 三角形牧场"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P12853","tags":[],"title":"[NERC 2020 Online] Down We Dig"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1287","tags":[],"title":"盒子与球"}
@@ -5979,6 +5984,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1558","tags":[],"title":"色板游戏"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1559","tags":[],"title":"运动员最佳匹配问题"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1563","tags":[],"title":"[NOIP 2016 提高组] 玩具谜题"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1565","tags":[],"title":"牛宫"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P1567","tags":[],"title":"统计天数"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1568","tags":[],"title":"赛跑"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1569","tags":[],"title":"[USACO11FEB] Generic Cow Protests"}
@@ -6192,6 +6198,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1786","tags":[],"title":"帮贡排序"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1789","tags":[],"title":"【Mc生存】插火把"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P1791","tags":[],"title":"[国家集训队] 人员雇佣"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1792","tags":[],"title":"[国家集训队] 种树"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1794","tags":[],"title":"装备运输"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1795","tags":[],"title":"无穷的序列"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1801","tags":[],"title":"黑匣子"}
@@ -6419,6 +6426,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2212","tags":[],"title":"[USACO14MAR] Watering the Fields S"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2214","tags":[],"title":"[USACO14MAR] Mooo Moo S"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P2216","tags":[],"title":"[HAOI2007] 理想的正方形"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2219","tags":[],"title":"[HAOI2007] 修筑绿化带"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P2220","tags":[],"title":"[HAOI2012] 容易题"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P2221","tags":[],"title":"[HAOI2012] 高速公路"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P2223","tags":[],"title":"[HNOI2001] 软件开发"}
@@ -7101,6 +7109,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4099","tags":[],"title":"[HEOI2013] SAO"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4103","tags":[],"title":"[HEOI2014] 大工程"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4108","tags":[],"title":"[HEOI2015] 公约数数列"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P4109","tags":[],"title":"[HEOI2015] 定价"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4113","tags":[],"title":"[HEOI2012] 采花"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4114","tags":[],"title":"Qtree1"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4116","tags":[],"title":"Qtree3"}
@@ -7178,6 +7187,7 @@
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4315","tags":[],"title":"月下“毛景树”"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P4316","tags":[],"title":"绿豆蛙的归宿"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4317","tags":[],"title":"花神的数论题"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P4318","tags":[],"title":"完全平方数"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P4320","tags":[],"title":"道路相遇"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P4321","tags":[],"title":"随机漫游"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P4322","tags":[],"title":"[JSOI2016] 最佳团体"}
@@ -7360,6 +7370,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P5021","tags":[],"title":"[NOIP 2018 提高组] 赛道修建"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P5022","tags":[],"title":"[NOIP 2018 提高组] 旅行"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5025","tags":[],"title":"[SNOI2017] 炸弹"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5026","tags":[],"title":"Lycanthropy"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5030","tags":[],"title":"长脖子鹿放置"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5043","tags":[],"title":"【模板】树同构 / [BJOI2015] 树的同构"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5048","tags":[],"title":"[Ynoi2019 模拟赛] Yuno loves sqrt technology III"}
@@ -7375,6 +7386,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5092","tags":[],"title":"[USACO04OPEN] Cube Stacking"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P5093","tags":[],"title":"[USACO04OPEN] The Cow Lineup"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5095","tags":[],"title":"[USACO12OPEN] Bookshelf S"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5097","tags":[],"title":"[USACO04OPEN] Cave Cows 2"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P5098","tags":[],"title":"[USACO04OPEN] Cave Cows 3"}
 {"difficulty":8,"platform":"luogu","points":null,"problem_id":"P5102","tags":[],"title":"[JOI 2016 Final] 领地 / Territory"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5104","tags":[],"title":"红包发红包"}
@@ -7404,6 +7416,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5200","tags":[],"title":"[USACO19JAN] Sleepy Cow Sorting G"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P5201","tags":[],"title":"[USACO19JAN] Shortcut G"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5205","tags":[],"title":"【模板】多项式开根"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P5218","tags":[],"title":"无聊的水题 II"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5221","tags":[],"title":"Product"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5227","tags":[],"title":"[AHOI2013] 连通图"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P5231","tags":[],"title":"[JSOI2012] 玄武密码"}
@@ -7627,6 +7640,7 @@
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6028","tags":[],"title":"算术"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P6033","tags":[],"title":"[NOIP 2004 提高组] 合并果子 加强版"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6047","tags":[],"title":"丝之割"}
+{"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6055","tags":[],"title":"[RC-02] GCD"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P6075","tags":[],"title":"[JSOI2015] 子集选取"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6076","tags":[],"title":"[JSOI2015] 染色问题"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P6078","tags":[],"title":"[CEOI 2004] Sweets"}
@@ -7691,6 +7705,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6369","tags":[],"title":"[COCI 2006/2007 #6] MARATON"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6370","tags":[],"title":"[COCI 2006/2007 #6] KAMEN"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P6371","tags":[],"title":"[COCI 2006/2007 #6] V"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6373","tags":[],"title":"「StOI-1」IOI 计数"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P6374","tags":[],"title":"「StOI-1」树上询问"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6387","tags":[],"title":"[COCI 2007/2008 #4] VECI"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P6388","tags":[],"title":"[COCI 2007/2008 #4] LEKTIRA"}
@@ -8120,6 +8135,7 @@
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9351","tags":[],"title":"[JOI 2023 Final] 迷宫 / Maze"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9354","tags":[],"title":"「SiR-1」Popsicle"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9355","tags":[],"title":"「SiR-1」Checkmate"}
+{"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9367","tags":[],"title":"[ICPC 2022 Xi'an R] Strange Sum"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9373","tags":[],"title":"「DROI」Round 2 构造与取模"}
 {"difficulty":7,"platform":"luogu","points":null,"problem_id":"P9379","tags":[],"title":"[THUPC 2023 决赛] 老虎机"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9391","tags":[],"title":"红草莓"}
@@ -8164,6 +8180,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9533","tags":[],"title":"[YsOI2023] 区间翻转区间异或和"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9548","tags":[],"title":"「PHOI-1」雨纷纷"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9556","tags":[],"title":"[SDCPC 2023] Orders"}
+{"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9559","tags":[],"title":"[SDCPC 2023] Fast and Fat"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9569","tags":[],"title":"「NnOI R2-T1」Khronostasis Katharsis"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9570","tags":[],"title":"「NnOI R2-T2」Glaciaxion"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9571","tags":[],"title":"「NnOI R2-T3」Horizon Blue"}
@@ -8229,6 +8246,7 @@
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9780","tags":[],"title":"[HUSTFC 2023] Azur Lane"}
 {"difficulty":1,"platform":"luogu","points":null,"problem_id":"P9782","tags":[],"title":"[HUSTFC 2023] A+B problem"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9787","tags":[],"title":"[ROIR 2020] 最大乘积 (Day2)"}
+{"difficulty":5,"platform":"luogu","points":null,"problem_id":"P9809","tags":[],"title":"[SHOI2006] 作业 Homework"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9810","tags":[],"title":"[CCC 2015 S1] Zero That Out"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9811","tags":[],"title":"[CCC 2015 S2] Jerseys"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9815","tags":[],"title":"wbyblD"}
@@ -8244,6 +8262,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P9868","tags":[],"title":"[NOIP2023] 词典"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9869","tags":[],"title":"[NOIP2023] 三值逻辑"}
 {"difficulty":6,"platform":"luogu","points":null,"problem_id":"P9871","tags":[],"title":"[NOIP2023] 天天爱打卡"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9889","tags":[],"title":"[ICPC 2018 Qingdao R] Plants vs. Zombies"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9905","tags":[],"title":"[COCI 2023/2024 #1] AN2DL"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P9914","tags":[],"title":"「RiOI-3」匀速相遇"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P9963","tags":[],"title":"[THUPC 2024 初赛] 前缀和"}
