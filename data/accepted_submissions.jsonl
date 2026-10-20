@@ -12074,6 +12074,7 @@
 {"accepted_at":1792243138.0,"account_id":"a79","difficulty":2300,"observed_at":1792243919.0847795,"problem_id":"558E","submission_id":"394947180","title":"A Simple Task"}
 {"accepted_at":1792466906.0,"account_id":"a79","difficulty":2600,"observed_at":1792467399.3549764,"problem_id":"240F","submission_id":"395292300","title":"TorCoder"}
 {"accepted_at":1792467544.0,"account_id":"a79","difficulty":2600,"observed_at":1792468006.329755,"problem_id":"240F","submission_id":"395292800","title":"TorCoder"}
+{"accepted_at":1792478214.0,"account_id":"a79","difficulty":2000,"observed_at":1792478868.6169155,"problem_id":"242E","submission_id":"395304055","title":"XOR on Segment"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -13308,6 +13309,8 @@
 {"accepted_at":1791769274.0,"account_id":"a91","difficulty":1,"observed_at":1792150481.0886097,"problem_id":"P4414","submission_id":"302619572","title":"[COCI 2006/2007 #2] ABC"}
 {"accepted_at":1792476708.0,"account_id":"a91","difficulty":1,"observed_at":1792477312.4289443,"problem_id":"P1888","submission_id":"304324091","title":"三角函数"}
 {"accepted_at":1792478450.0,"account_id":"a91","difficulty":2,"observed_at":1792478544.4621263,"problem_id":"P1055","submission_id":"304328316","title":"[NOIP 2008 普及组] ISBN 号码"}
+{"accepted_at":1792478875.0,"account_id":"a91","difficulty":1,"observed_at":1792479152.8623326,"problem_id":"P5718","submission_id":"304329535","title":"【深基4.例2】找最小值"}
+{"accepted_at":1792479005.0,"account_id":"a91","difficulty":1,"observed_at":1792479152.8622208,"problem_id":"P5719","submission_id":"304329877","title":"【深基4.例3】分类平均"}
 {"accepted_at":1792137885.0,"account_id":"a93","difficulty":4,"observed_at":1792153446.0448349,"problem_id":"P3375","submission_id":"303355076","title":"【模板】KMP"}
 {"accepted_at":1792142379.0,"account_id":"a93","difficulty":1,"observed_at":1792153446.0448034,"problem_id":"P1000","submission_id":"303373340","title":"超级玛丽游戏"}
 {"accepted_at":1792142643.0,"account_id":"a93","difficulty":1,"observed_at":1792153446.0446556,"problem_id":"P1001","submission_id":"303374496","title":"A+B Problem"}

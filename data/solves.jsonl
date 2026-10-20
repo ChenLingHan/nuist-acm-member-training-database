@@ -9703,6 +9703,7 @@
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4506493,"platform":"codeforces","problem_id":"2276D","solved_at":1791992569.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4506404,"platform":"codeforces","problem_id":"2276E","solved_at":1791994926.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a79","difficulty":2600,"member_id":"m34","observed_at":1792467399.3548937,"platform":"codeforces","problem_id":"240F","solved_at":1792466906.0,"source":"codeforces-api","title":"TorCoder"}
+{"account_id":"a79","difficulty":2000,"member_id":"m34","observed_at":1792478868.616622,"platform":"codeforces","problem_id":"242E","solved_at":1792478214.0,"source":"codeforces-api","title":"XOR on Segment"}
 {"account_id":"a79","difficulty":2400,"member_id":"m34","observed_at":1792127101.4510262,"platform":"codeforces","problem_id":"246E","solved_at":1791278073.0,"source":"codeforces-api","title":"Blood Cousins Return"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4520488,"platform":"codeforces","problem_id":"252A","solved_at":1789619708.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a79","difficulty":2600,"member_id":"m34","observed_at":1792127101.451519,"platform":"codeforces","problem_id":"261D","solved_at":1790602272.0,"source":"codeforces-api","title":"Maxim and Increasing Subsequence"}
@@ -10839,6 +10840,8 @@
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6617017,"platform":"luogu","problem_id":"P5715","solved_at":1791764545.0,"source":"luogu-practice-snapshot","title":"【深基3.例8】三位数排序"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.661708,"platform":"luogu","problem_id":"P5716","solved_at":1791764615.0,"source":"luogu-practice-snapshot","title":"【深基3.例9】月份天数"}
 {"account_id":"a91","difficulty":2,"member_id":"m40","observed_at":1792130110.661715,"platform":"luogu","problem_id":"P5717","solved_at":1791767202.0,"source":"luogu-practice-snapshot","title":"【深基3.习8】三角形分类"}
+{"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792479152.8623226,"platform":"luogu","problem_id":"P5718","solved_at":1792478875.0,"source":"luogu-record-list","title":"【深基4.例2】找最小值"}
+{"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792479152.8621395,"platform":"luogu","problem_id":"P5719","solved_at":1792479005.0,"source":"luogu-record-list","title":"【深基4.例3】分类平均"}
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0447915,"platform":"luogu","problem_id":"P1000","solved_at":1792142379.0,"source":"luogu-record-list","title":"超级玛丽游戏"}
 {"account_id":"a93","difficulty":1,"member_id":"m41","observed_at":1792153446.0444474,"platform":"luogu","problem_id":"P1001","solved_at":1792142643.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a93","difficulty":4,"member_id":"m41","observed_at":1792153446.0448258,"platform":"luogu","problem_id":"P3375","solved_at":1792137885.0,"source":"luogu-record-list","title":"【模板】KMP"}
