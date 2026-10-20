@@ -5096,6 +5096,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0983982,"platform":"qoj","problem_id":"6627","solved_at":1689601719.0,"source":"qoj-profile","title":"Line Town"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098405,"platform":"qoj","problem_id":"6630","solved_at":1689325242.0,"source":"qoj-profile","title":"Triangle Collection"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098411,"platform":"qoj","problem_id":"6684","solved_at":1689861133.0,"source":"qoj-profile","title":"Trie"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792483738.9062016,"platform":"qoj","problem_id":"7744","solved_at":1792483488.0,"source":"qoj-authenticated","title":"Elevator"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984166,"platform":"qoj","problem_id":"8077","solved_at":1788433494.0,"source":"qoj-profile","title":"Alice and Bob"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984223,"platform":"qoj","problem_id":"9040","solved_at":1791810187.0,"source":"qoj-profile","title":"Decrease and Swap"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984285,"platform":"qoj","problem_id":"9536","solved_at":1791618313.0,"source":"qoj-profile","title":"Athlete Welcome Ceremony"}
@@ -7871,6 +7872,7 @@
 {"account_id":"a52","difficulty":4,"member_id":"m22","observed_at":1792129816.230005,"platform":"luogu","problem_id":"P1012","solved_at":1792075370.0,"source":"luogu-practice-snapshot","title":"[NOIP 1998 提高组] 拼数"}
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792155454.7431643,"platform":"luogu","problem_id":"P1044","solved_at":1792155034.0,"source":"luogu-record-list","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792410793.0703573,"platform":"luogu","problem_id":"P1182","solved_at":1792410754.0,"source":"luogu-record-list","title":"数列分段 Section II"}
+{"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792483418.7227647,"platform":"luogu","problem_id":"P1219","solved_at":1792482890.0,"source":"luogu-record-list","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792129816.2300217,"platform":"luogu","problem_id":"P2141","solved_at":1791797026.0,"source":"luogu-practice-snapshot","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792147554.4095314,"platform":"luogu","problem_id":"P2676","solved_at":1792134645.0,"source":"luogu-record-list","title":"[USACO07DEC] Bookshelf B"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792401421.7356987,"platform":"luogu","problem_id":"P2678","solved_at":1792393354.0,"source":"luogu-record-list","title":"[NOIP 2015 提高组] 跳石头"}
