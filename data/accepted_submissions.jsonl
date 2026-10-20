@@ -11254,6 +11254,8 @@
 {"accepted_at":1792224494.0,"account_id":"a70","difficulty":5,"observed_at":1792224850.3744435,"problem_id":"P3435","submission_id":"303647027","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1792387408.0,"account_id":"a70","difficulty":3,"observed_at":1792388017.9691894,"problem_id":"P10479","submission_id":"304132395","title":"匹配统计"}
 {"accepted_at":1792388743.0,"account_id":"a70","difficulty":3,"observed_at":1792389229.3219488,"problem_id":"P10479","submission_id":"304135320","title":"匹配统计"}
+{"accepted_at":1792472986.0,"account_id":"a70","difficulty":1,"observed_at":1792473441.2941566,"problem_id":"P1000","submission_id":"304314630","title":"超级玛丽游戏"}
+{"accepted_at":1792473141.0,"account_id":"a70","difficulty":1,"observed_at":1792473441.2940443,"problem_id":"P1001","submission_id":"304315066","title":"A+B Problem"}
 {"accepted_at":1789476996.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381396,"problem_id":"P1004","submission_id":"298014105","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791458322.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381212,"problem_id":"P1005","submission_id":"301933959","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
 {"accepted_at":1791470985.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381012,"problem_id":"P1006","submission_id":"301995987","title":"[NOIP 2008 提高组] 传纸条"}
@@ -12621,6 +12623,7 @@
 {"accepted_at":1792234952.0,"account_id":"a83","difficulty":5,"observed_at":1792235482.8751695,"problem_id":"P3435","submission_id":"303717620","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1792471059.0,"account_id":"a83","difficulty":2,"observed_at":1792471392.4029117,"problem_id":"P1957","submission_id":"304310179","title":"口算练习题"}
 {"accepted_at":1792471396.0,"account_id":"a83","difficulty":1,"observed_at":1792472000.9392397,"problem_id":"P5015","submission_id":"304310816","title":"[NOIP 2018 普及组] 标题统计"}
+{"accepted_at":1792472794.0,"account_id":"a83","difficulty":2,"observed_at":1792473218.9886794,"problem_id":"P5734","submission_id":"304314139","title":"【深基6.例6】文字处理软件"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
