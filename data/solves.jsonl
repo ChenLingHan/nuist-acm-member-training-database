@@ -2949,6 +2949,7 @@
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792082326.667752,"platform":"qoj","problem_id":"6428","solved_at":1791456224.0,"source":"qoj-authenticated","title":"K Co-prime Permutation"}
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792115047.2994933,"platform":"qoj","problem_id":"9568","solved_at":1790593421.0,"source":"qoj-profile","title":"Left Shifting 3"}
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792082326.6680112,"platform":"qoj","problem_id":"9573","solved_at":1790599833.0,"source":"qoj-authenticated","title":"Social Media"}
+{"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792560376.2996168,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.112246,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1123636,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1122632,"platform":"codeforces","problem_id":"104821F","solved_at":1791186531.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
@@ -8210,6 +8211,7 @@
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510917,"platform":"codeforces","problem_id":"103495A","solved_at":1786858078.0,"source":"codeforces-api","title":"Spring Couplets"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510702,"platform":"codeforces","problem_id":"103495D","solved_at":1786869261.0,"source":"codeforces-api","title":"Pattern Lock"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510812,"platform":"codeforces","problem_id":"103495K","solved_at":1786862674.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792560529.7573235,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0505953,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0506296,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0506213,"platform":"codeforces","problem_id":"104821F","solved_at":1791186531.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
