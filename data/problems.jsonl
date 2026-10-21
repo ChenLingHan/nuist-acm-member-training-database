@@ -2065,6 +2065,7 @@
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1886C","tags":["implementation","strings"],"title":"Decreasing String"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"1886E","tags":["bitmasks","constructive algorithms","dp","greedy","math","sortings","two pointers"],"title":"I Wanna be the Team Leader"}
 {"difficulty":1900,"platform":"codeforces","points":750.0,"problem_id":"1887B","tags":["binary search","graphs","shortest paths"],"title":"Time Travel"}
+{"difficulty":2400,"platform":"codeforces","points":1000.0,"problem_id":"1887C","tags":["binary search","brute force","constructive algorithms","data structures","greedy","hashing","two pointers"],"title":"Minimum Array"}
 {"difficulty":1300,"platform":"codeforces","points":750.0,"problem_id":"1889A","tags":["constructive algorithms","greedy","implementation"],"title":"Qingshan Loves Strings 2"}
 {"difficulty":1700,"platform":"codeforces","points":1250.0,"problem_id":"1889B","tags":["constructive algorithms","greedy","math","sortings"],"title":"Doremy's Connecting Plan"}
 {"difficulty":2000,"platform":"codeforces","points":750.0,"problem_id":"1889C1","tags":["brute force","data structures","dp","greedy","sortings"],"title":"Doremy's Drying Plan (Easy Version)"}
