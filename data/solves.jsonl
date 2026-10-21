@@ -10279,6 +10279,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2945862,"platform":"luogu","problem_id":"P1422","solved_at":1789122532.0,"source":"luogu-practice-snapshot","title":"小玉家的电费"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294594,"platform":"luogu","problem_id":"P1424","solved_at":1789129678.0,"source":"luogu-practice-snapshot","title":"小鱼的航程（改进版）"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294601,"platform":"luogu","problem_id":"P1425","solved_at":1788355488.0,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
+{"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792566648.6709971,"platform":"luogu","problem_id":"P1449","solved_at":1792566500.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792504335.000812,"platform":"luogu","problem_id":"P1553","solved_at":1792504182.0,"source":"luogu-record-list","title":"数字反转（升级版）"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792508031.1284473,"platform":"luogu","problem_id":"P1597","solved_at":1792507793.0,"source":"luogu-record-list","title":"语句解析"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792505572.0821126,"platform":"luogu","problem_id":"P1603","solved_at":1792505493.0,"source":"luogu-record-list","title":"斯诺登的密码"}
@@ -20735,6 +20736,7 @@
 {"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486559.5691204,"platform":"luogu","problem_id":"P4318","solved_at":1774360203.0,"source":"luogu-record-list","title":"完全平方数"}
 {"account_id":"a182","difficulty":4,"member_id":"m80","observed_at":1792486824.4538925,"platform":"luogu","problem_id":"P4391","solved_at":1730516060.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a182","difficulty":3,"member_id":"m80","observed_at":1792486428.8299184,"platform":"luogu","problem_id":"P4549","solved_at":1791956269.0,"source":"luogu-record-list","title":"【模板】裴蜀定理"}
+{"account_id":"a182","difficulty":4,"member_id":"m80","observed_at":1792566956.5628223,"platform":"luogu","problem_id":"P4551","solved_at":1792566381.0,"source":"luogu-record-list","title":"最长异或路径"}
 {"account_id":"a182","difficulty":4,"member_id":"m80","observed_at":1792486680.2268012,"platform":"luogu","problem_id":"P4552","solved_at":1750615355.0,"source":"luogu-record-list","title":"[Poetize6] IncDec Sequence"}
 {"account_id":"a182","difficulty":5,"member_id":"m80","observed_at":1792486460.6323645,"platform":"luogu","problem_id":"P4555","solved_at":1791485808.0,"source":"luogu-record-list","title":"[国家集训队] 最长双回文串"}
 {"account_id":"a182","difficulty":7,"member_id":"m80","observed_at":1792486460.6320848,"platform":"luogu","problem_id":"P4696","solved_at":1791898609.0,"source":"luogu-record-list","title":"[CEOI 2011] Matching"}
