@@ -1171,6 +1171,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792490067.4433253,"platform":"codeforces","problem_id":"104459H","solved_at":1792489442.0,"source":"codeforces-api","title":"Wandering Robot"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792487548.9754648,"platform":"codeforces","problem_id":"104459M","solved_at":1792487162.0,"source":"codeforces-api","title":"Calandar"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792571997.8899815,"platform":"codeforces","problem_id":"104460E","solved_at":1792571565.0,"source":"codeforces-api","title":"Turn It Off"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792572607.266914,"platform":"codeforces","problem_id":"104460L","solved_at":1792572091.0,"source":"codeforces-api","title":"Digit Product"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9977083,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9976745,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.997722,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
@@ -16886,6 +16887,7 @@
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1192837,"platform":"codeforces","problem_id":"476C","solved_at":1789993097.0,"source":"codeforces-api","title":"Dreamoon and Sums"}
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792148545.1175678,"platform":"codeforces","problem_id":"489D","solved_at":1791978590.0,"source":"codeforces-api","title":"Unbearable Controversy of Being"}
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1182106,"platform":"codeforces","problem_id":"519E","solved_at":1791082160.0,"source":"codeforces-api","title":"A and B and Lecture Rooms"}
+{"account_id":"a150","difficulty":2200,"member_id":"m66","observed_at":1792572854.0584173,"platform":"codeforces","problem_id":"526D","solved_at":1792572265.0,"source":"codeforces-api","title":"Om Nom and Necklace"}
 {"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1792148545.120886,"platform":"codeforces","problem_id":"553A","solved_at":1769585322.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1792148545.1211615,"platform":"codeforces","problem_id":"566F","solved_at":1769242841.0,"source":"codeforces-api","title":"Clique in the Divisibility Graph"}
 {"account_id":"a150","difficulty":1000,"member_id":"m66","observed_at":1792148545.1212816,"platform":"codeforces","problem_id":"577A","solved_at":1769233040.0,"source":"codeforces-api","title":"Multiplication Table"}
