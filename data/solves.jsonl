@@ -6344,6 +6344,7 @@
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792127069.766524,"platform":"codeforces","problem_id":"105578E","solved_at":1775732268.0,"source":"codeforces-api","title":"Light Up the Grid"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792127069.766555,"platform":"codeforces","problem_id":"105578J","solved_at":1775720479.0,"source":"codeforces-api","title":"Make Them Believe"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792127069.7665122,"platform":"codeforces","problem_id":"105578M","solved_at":1775733683.0,"source":"codeforces-api","title":"Obliviate, Then Reincarnate"}
+{"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792574797.0636854,"platform":"codeforces","problem_id":"105588C","solved_at":1792574694.0,"source":"codeforces-api","title":"Coin"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792565019.1455972,"platform":"codeforces","problem_id":"105588H","solved_at":1792564722.0,"source":"codeforces-api","title":"Horizon Scanning"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792566240.4420383,"platform":"codeforces","problem_id":"105588J","solved_at":1792565684.0,"source":"codeforces-api","title":"Just another Sorting Problem"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792568089.1589136,"platform":"codeforces","problem_id":"105588L","solved_at":1792567437.0,"source":"codeforces-api","title":"Last Chance: Threads of Despair"}
@@ -8152,6 +8153,7 @@
 {"account_id":"a57","difficulty":3,"member_id":"m25","observed_at":1792129834.8628395,"platform":"luogu","problem_id":"P1339","solved_at":1770792159.0,"source":"luogu-practice-snapshot","title":"[USACO09OCT] Heat Wave G"}
 {"account_id":"a57","difficulty":3,"member_id":"m25","observed_at":1792129834.862846,"platform":"luogu","problem_id":"P1352","solved_at":1773575042.0,"source":"luogu-practice-snapshot","title":"没有上司的舞会"}
 {"account_id":"a57","difficulty":2,"member_id":"m25","observed_at":1792129834.8628526,"platform":"luogu","problem_id":"P1359","solved_at":1778757707.0,"source":"luogu-practice-snapshot","title":"租用游艇"}
+{"account_id":"a57","difficulty":2,"member_id":"m25","observed_at":1792574798.8578503,"platform":"luogu","problem_id":"P14159","solved_at":1792574340.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
 {"account_id":"a57","difficulty":1,"member_id":"m25","observed_at":1792129834.8628595,"platform":"luogu","problem_id":"P1420","solved_at":1765454841.0,"source":"luogu-practice-snapshot","title":"最长连号"}
 {"account_id":"a57","difficulty":1,"member_id":"m25","observed_at":1792129834.8628674,"platform":"luogu","problem_id":"P1421","solved_at":1760422704.0,"source":"luogu-practice-snapshot","title":"小玉买文具"}
 {"account_id":"a57","difficulty":1,"member_id":"m25","observed_at":1792129834.862874,"platform":"luogu","problem_id":"P1425","solved_at":1760422633.0,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
@@ -10288,6 +10290,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294594,"platform":"luogu","problem_id":"P1424","solved_at":1789129678.0,"source":"luogu-practice-snapshot","title":"小鱼的航程（改进版）"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.294601,"platform":"luogu","problem_id":"P1425","solved_at":1788355488.0,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792566648.6709971,"platform":"luogu","problem_id":"P1449","solved_at":1792566500.0,"source":"luogu-record-list","title":"后缀表达式"}
+{"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792574603.4503148,"platform":"luogu","problem_id":"P1540","solved_at":1792574570.0,"source":"luogu-record-list","title":"[NOIP 2010 提高组] 机器翻译"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792504335.000812,"platform":"luogu","problem_id":"P1553","solved_at":1792504182.0,"source":"luogu-record-list","title":"数字反转（升级版）"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792508031.1284473,"platform":"luogu","problem_id":"P1597","solved_at":1792507793.0,"source":"luogu-record-list","title":"语句解析"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792505572.0821126,"platform":"luogu","problem_id":"P1603","solved_at":1792505493.0,"source":"luogu-record-list","title":"斯诺登的密码"}
@@ -16817,6 +16820,7 @@
 {"account_id":"a150","difficulty":1000,"member_id":"m66","observed_at":1792148545.1212442,"platform":"codeforces","problem_id":"1485A","solved_at":1769236381.0,"source":"codeforces-api","title":"Add and Divide"}
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1176848,"platform":"codeforces","problem_id":"1486D","solved_at":1791892758.0,"source":"codeforces-api","title":"Max Median"}
 {"account_id":"a150","difficulty":2500,"member_id":"m66","observed_at":1792148545.1183634,"platform":"codeforces","problem_id":"1497E2","solved_at":1790922580.0,"source":"codeforces-api","title":"Square-Free Division (hard version)"}
+{"account_id":"a150","difficulty":2300,"member_id":"m66","observed_at":1792574676.1023445,"platform":"codeforces","problem_id":"149E","solved_at":1792574453.0,"source":"codeforces-api","title":"Martian Strings"}
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1179636,"platform":"codeforces","problem_id":"1538G","solved_at":1791616694.0,"source":"codeforces-api","title":"Gift Set"}
 {"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1792148545.1182666,"platform":"codeforces","problem_id":"1569C","solved_at":1790993468.0,"source":"codeforces-api","title":"Jury Meeting"}
 {"account_id":"a150","difficulty":2000,"member_id":"m66","observed_at":1792148545.1208365,"platform":"codeforces","problem_id":"1599C","solved_at":1769751276.0,"source":"codeforces-api","title":"Bubble Strike"}

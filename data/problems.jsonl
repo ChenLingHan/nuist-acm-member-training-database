@@ -1019,6 +1019,7 @@
 {"difficulty":2500,"platform":"codeforces","points":1500.0,"problem_id":"1497E2","tags":["data structures","dp","greedy","math","number theory","two pointers"],"title":"Square-Free Division (hard version)"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1498A","tags":["brute force","math"],"title":"GCD Sum"}
 {"difficulty":1900,"platform":"codeforces","points":2500.0,"problem_id":"149D","tags":["dp"],"title":"Coloring Brackets"}
+{"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"149E","tags":["string suffix structures","strings"],"title":"Martian Strings"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"14E","tags":["dp"],"title":"Camels"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1506A","tags":["math"],"title":"Strange Table"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1506B","tags":["greedy","implementation"],"title":"Partial Replacement"}

@@ -8487,6 +8487,7 @@
 {"accepted_at":1792564722.0,"account_id":"a43","difficulty":null,"observed_at":1792565019.1457014,"problem_id":"105588H","submission_id":"395423314","title":"Horizon Scanning"}
 {"accepted_at":1792565684.0,"account_id":"a43","difficulty":null,"observed_at":1792566240.442159,"problem_id":"105588J","submission_id":"395425239","title":"Just another Sorting Problem"}
 {"accepted_at":1792567437.0,"account_id":"a43","difficulty":null,"observed_at":1792568089.1590133,"problem_id":"105588L","submission_id":"395428473","title":"Last Chance: Threads of Despair"}
+{"accepted_at":1792574694.0,"account_id":"a43","difficulty":null,"observed_at":1792574797.063801,"problem_id":"105588C","submission_id":"395441525","title":"Coin"}
 {"accepted_at":1696602220.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.218047,"problem_id":"P1002","submission_id":"128071541","title":"[NOIP 2002 普及组] 过河卒"}
 {"accepted_at":1696684872.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.2180235,"problem_id":"P1003","submission_id":"128191951","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1696685762.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.217994,"problem_id":"P1008","submission_id":"128195570","title":"[NOIP 1998 普及组] 三连击"}
@@ -10413,6 +10414,7 @@
 {"accepted_at":1786261478.0,"account_id":"a57","difficulty":0,"observed_at":1792150372.3766599,"problem_id":"P12531","submission_id":"291717130","title":"P12531"}
 {"accepted_at":1791637187.0,"account_id":"a57","difficulty":4,"observed_at":1792150372.3766065,"problem_id":"P17496","submission_id":"302294092","title":"[ICPC 2026 Wuhan I] Prime Game"}
 {"accepted_at":1792065340.0,"account_id":"a57","difficulty":4,"observed_at":1792150372.3765225,"problem_id":"P3372","submission_id":"303229861","title":"【模板】线段树 1"}
+{"accepted_at":1792574340.0,"account_id":"a57","difficulty":2,"observed_at":1792574798.8579319,"problem_id":"P14159","submission_id":"304567628","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
 {"accepted_at":1790229439.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8188648,"problem_id":"8971","submission_id":"3023012","title":"Adrien and Austin"}
 {"accepted_at":1790599028.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8188467,"problem_id":"9568","submission_id":"3053981","title":"Left Shifting 3"}
 {"accepted_at":1790604311.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8187497,"problem_id":"9573","submission_id":"3054680","title":"Social Media"}
@@ -12707,6 +12709,7 @@
 {"accepted_at":1792567136.0,"account_id":"a83","difficulty":2,"observed_at":1792567256.104287,"problem_id":"P1996","submission_id":"304534984","title":"约瑟夫问题"}
 {"accepted_at":1792569228.0,"account_id":"a83","difficulty":3,"observed_at":1792569695.111284,"problem_id":"P1160","submission_id":"304542220","title":"队列安排"}
 {"accepted_at":1792569548.0,"account_id":"a83","difficulty":3,"observed_at":1792569695.1111677,"problem_id":"P1160","submission_id":"304543417","title":"队列安排"}
+{"accepted_at":1792574570.0,"account_id":"a83","difficulty":2,"observed_at":1792574603.4558065,"problem_id":"P1540","submission_id":"304568895","title":"[NOIP 2010 提高组] 机器翻译"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
@@ -21513,6 +21516,7 @@
 {"accepted_at":1792410598.0,"account_id":"a150","difficulty":2200,"observed_at":1792410890.4455926,"problem_id":"25E","submission_id":"395212719","title":"Test"}
 {"accepted_at":1792414337.0,"account_id":"a150","difficulty":2000,"observed_at":1792415138.5528805,"problem_id":"113B","submission_id":"395220244","title":"Petr#"}
 {"accepted_at":1792572265.0,"account_id":"a150","difficulty":2200,"observed_at":1792572854.0585003,"problem_id":"526D","submission_id":"395436948","title":"Om Nom and Necklace"}
+{"accepted_at":1792574453.0,"account_id":"a150","difficulty":2300,"observed_at":1792574676.1024265,"problem_id":"149E","submission_id":"395441096","title":"Martian Strings"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
