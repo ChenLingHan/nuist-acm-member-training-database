@@ -842,6 +842,7 @@
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1353E","tags":["brute force","dp","greedy"],"title":"K-periodic Garland"}
 {"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"1353F","tags":["brute force","dp"],"title":"Decreasing Heights"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1354B","tags":["binary search","dp","implementation","two pointers"],"title":"Ternary String"}
+{"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1354D","tags":["binary search","data structures"],"title":"Multiset"}
 {"difficulty":1800,"platform":"codeforces","points":1250.0,"problem_id":"1355C","tags":["binary search","implementation","math","two pointers"],"title":"Count Triangles"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1358C","tags":["math"],"title":"Celex Update"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"1359D","tags":["data structures","dp","implementation","two pointers"],"title":"Yet Another Yet Another Task"}
