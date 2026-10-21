@@ -4022,6 +4022,7 @@
 {"accepted_at":1791960410.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1122153,"problem_id":"105901L","submission_id":"394478660","title":"Subsequence"}
 {"accepted_at":1791962568.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1120896,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
 {"accepted_at":1792559913.0,"account_id":"a27","difficulty":null,"observed_at":1792560376.2997425,"problem_id":"104128I","submission_id":"395416395","title":"Perfect Palindrome"}
+{"accepted_at":1792563998.0,"account_id":"a27","difficulty":null,"observed_at":1792564106.5633461,"problem_id":"104128G","submission_id":"395422014","title":"Inscryption"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -10494,6 +10495,7 @@
 {"accepted_at":1791962568.0,"account_id":"a59","difficulty":null,"observed_at":1792127082.0504954,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
 {"accepted_at":1792140161.0,"account_id":"a59","difficulty":1600,"observed_at":1792140548.3105829,"problem_id":"1352G","submission_id":"394788259","title":"Special Permutation"}
 {"accepted_at":1792559913.0,"account_id":"a59","difficulty":null,"observed_at":1792560529.7574184,"problem_id":"104128I","submission_id":"395416395","title":"Perfect Palindrome"}
+{"accepted_at":1792563998.0,"account_id":"a59","difficulty":null,"observed_at":1792564268.3896825,"problem_id":"104128G","submission_id":"395422014","title":"Inscryption"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
@@ -12685,6 +12687,7 @@
 {"accepted_at":1792505493.0,"account_id":"a83","difficulty":2,"observed_at":1792505572.0821998,"problem_id":"P1603","submission_id":"304459539","title":"斯诺登的密码"}
 {"accepted_at":1792506454.0,"account_id":"a83","difficulty":1,"observed_at":1792506798.5921178,"problem_id":"P1200","submission_id":"304463647","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"accepted_at":1792507793.0,"account_id":"a83","difficulty":1,"observed_at":1792508031.128533,"problem_id":"P1597","submission_id":"304468637","title":"语句解析"}
+{"accepted_at":1792563872.0,"account_id":"a83","difficulty":1,"observed_at":1792564201.1794453,"problem_id":"P3156","submission_id":"304524830","title":"【深基15.例1】询问学号"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
@@ -16814,6 +16817,7 @@
 {"accepted_at":1792543382.0,"account_id":"a102","difficulty":1,"observed_at":1792543791.3294094,"problem_id":"P5743","submission_id":"304485251","title":"【深基7.习8】猴子吃桃"}
 {"accepted_at":1792543730.0,"account_id":"a102","difficulty":1,"observed_at":1792543791.3293016,"problem_id":"P5744","submission_id":"304485699","title":"【深基7.习9】培训"}
 {"accepted_at":1792562218.0,"account_id":"a102","difficulty":2,"observed_at":1792562751.5344026,"problem_id":"P1009","submission_id":"304520773","title":"[NOIP 1998 普及组] 阶乘之和"}
+{"accepted_at":1792563691.0,"account_id":"a102","difficulty":2,"observed_at":1792563969.190553,"problem_id":"P1217","submission_id":"304524360","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"accepted_at":1751634385.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.8621712,"problem_id":"P1042","submission_id":"222359694","title":"[NOIP 2003 普及组] 乒乓球"}
 {"accepted_at":1751635310.0,"account_id":"a105","difficulty":1,"observed_at":1792162229.8621101,"problem_id":"P2670","submission_id":"222361494","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1751896146.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.862081,"problem_id":"P1601","submission_id":"222865354","title":"高精度加法"}

@@ -2949,6 +2949,7 @@
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792082326.667752,"platform":"qoj","problem_id":"6428","solved_at":1791456224.0,"source":"qoj-authenticated","title":"K Co-prime Permutation"}
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792115047.2994933,"platform":"qoj","problem_id":"9568","solved_at":1790593421.0,"source":"qoj-profile","title":"Left Shifting 3"}
 {"account_id":"a26","difficulty":null,"member_id":"m11","observed_at":1792082326.6680112,"platform":"qoj","problem_id":"9573","solved_at":1790599833.0,"source":"qoj-authenticated","title":"Social Media"}
+{"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792564106.5632558,"platform":"codeforces","problem_id":"104128G","solved_at":1792563998.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792560376.2996168,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.112246,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1123636,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
@@ -8213,6 +8214,7 @@
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510917,"platform":"codeforces","problem_id":"103495A","solved_at":1786858078.0,"source":"codeforces-api","title":"Spring Couplets"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510702,"platform":"codeforces","problem_id":"103495D","solved_at":1786869261.0,"source":"codeforces-api","title":"Pattern Lock"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0510812,"platform":"codeforces","problem_id":"103495K","solved_at":1786862674.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792564268.3895876,"platform":"codeforces","problem_id":"104128G","solved_at":1792563998.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792560529.7573235,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0505953,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1792127082.0506296,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
@@ -10280,6 +10282,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792150420.7693765,"platform":"luogu","problem_id":"P1914","solved_at":1792139204.0,"source":"luogu-record-list","title":"小书童——凯撒密码"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792471392.402826,"platform":"luogu","problem_id":"P1957","solved_at":1792471059.0,"source":"luogu-record-list","title":"口算练习题"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792130086.2946777,"platform":"luogu","problem_id":"P2433","solved_at":1788599204.0,"source":"luogu-practice-snapshot","title":"【深基1-2】小学数学 N 合一"}
+{"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792564201.1793644,"platform":"luogu","problem_id":"P3156","solved_at":1792563872.0,"source":"luogu-record-list","title":"【深基15.例1】询问学号"}
 {"account_id":"a83","difficulty":4,"member_id":"m36","observed_at":1792130086.29471,"platform":"luogu","problem_id":"P3375","solved_at":1792073386.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a83","difficulty":5,"member_id":"m36","observed_at":1792235482.8749666,"platform":"luogu","problem_id":"P3435","solved_at":1792234952.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792503098.3069835,"platform":"luogu","problem_id":"P3741","solved_at":1792502791.0,"source":"luogu-record-list","title":"小果的键盘"}
@@ -13048,6 +13051,7 @@
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657134,"platform":"luogu","problem_id":"P1150","solved_at":1791793507.0,"source":"luogu-practice-snapshot","title":"Peter 的烟"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657147,"platform":"luogu","problem_id":"P1161","solved_at":1791554346.0,"source":"luogu-practice-snapshot","title":"开灯"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792497506.310377,"platform":"luogu","problem_id":"P1200","solved_at":1792496961.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
+{"account_id":"a102","difficulty":2,"member_id":"m45","observed_at":1792563969.1904585,"platform":"luogu","problem_id":"P1217","solved_at":1792563691.0,"source":"luogu-record-list","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792543181.6856456,"platform":"luogu","problem_id":"P1304","solved_at":1792543112.0,"source":"luogu-record-list","title":"哥德巴赫猜想"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571596,"platform":"luogu","problem_id":"P1307","solved_at":1790932269.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 数字反转"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571732,"platform":"luogu","problem_id":"P1319","solved_at":1791792887.0,"source":"luogu-practice-snapshot","title":"压缩技术"}
