@@ -309,6 +309,7 @@
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4656994,"platform":"luogu","problem_id":"P9973","solved_at":1703422069.0,"source":"luogu-practice-snapshot","title":"[THUPC 2024 初赛] 你说得对，但是 AIGC"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.4654348,"platform":"luogu","problem_id":"UVA100","solved_at":1615696172.0,"source":"luogu-practice-snapshot","title":"The 3n + 1 problem"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052952.1990314,"platform":"codeforces","problem_id":"104076A","solved_at":1727836845.0,"source":"codeforces-api","title":"Tower"}
+{"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792564507.8058043,"platform":"codeforces","problem_id":"104128G","solved_at":1792563998.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792560158.3905902,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052898.466448,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052898.4664469,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
@@ -9002,6 +9003,7 @@
 {"account_id":"a70","difficulty":1,"member_id":"m30","observed_at":1792473441.2941372,"platform":"luogu","problem_id":"P1000","solved_at":1792472986.0,"source":"luogu-record-list","title":"超级玛丽游戏"}
 {"account_id":"a70","difficulty":1,"member_id":"m30","observed_at":1792473441.29396,"platform":"luogu","problem_id":"P1001","solved_at":1792473141.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a70","difficulty":2,"member_id":"m30","observed_at":1792512541.2777843,"platform":"luogu","problem_id":"P1002","solved_at":1792512532.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
+{"account_id":"a70","difficulty":2,"member_id":"m30","observed_at":1792564418.896604,"platform":"luogu","problem_id":"P1003","solved_at":1792564177.0,"source":"luogu-record-list","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a70","difficulty":3,"member_id":"m30","observed_at":1792388017.9690464,"platform":"luogu","problem_id":"P10479","solved_at":1792387408.0,"source":"luogu-record-list","title":"匹配统计"}
 {"account_id":"a70","difficulty":4,"member_id":"m30","observed_at":1792153440.087014,"platform":"luogu","problem_id":"P3375","solved_at":1792139809.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a70","difficulty":5,"member_id":"m30","observed_at":1792224850.3742287,"platform":"luogu","problem_id":"P3435","solved_at":1792224437.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -12706,7 +12708,7 @@
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2580843,"platform":"luogu","problem_id":"P3254","solved_at":1651563798.0,"source":"luogu-practice-snapshot","title":"圆桌问题"}
 {"account_id":"a99","difficulty":4,"member_id":"m44","observed_at":1792148849.2580965,"platform":"luogu","problem_id":"P3258","solved_at":1664184178.0,"source":"luogu-practice-snapshot","title":"[JLOI2014] 松鼠的新家"}
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.2581048,"platform":"luogu","problem_id":"P3295","solved_at":1658043397.0,"source":"luogu-practice-snapshot","title":"[SCOI2016] 萌萌哒"}
-{"account_id":"a99","difficulty":7,"member_id":"m44","observed_at":1792148849.2581134,"platform":"luogu","problem_id":"P3311","solved_at":1789389834.0,"source":"luogu-practice-snapshot","title":"[SDOI2014] 数数"}
+{"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.2581134,"platform":"luogu","problem_id":"P3311","solved_at":1789389834.0,"source":"luogu-practice-snapshot","title":"[SDOI2014] 数数"}
 {"account_id":"a99","difficulty":6,"member_id":"m44","observed_at":1792148849.258122,"platform":"luogu","problem_id":"P3355","solved_at":1636272831.0,"source":"luogu-practice-snapshot","title":"骑士共存问题"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2577949,"platform":"luogu","problem_id":"P3366","solved_at":1573728594.0,"source":"luogu-practice-snapshot","title":"【模板】最小生成树"}
 {"account_id":"a99","difficulty":3,"member_id":"m44","observed_at":1792148849.2578032,"platform":"luogu","problem_id":"P3367","solved_at":1573718007.0,"source":"luogu-practice-snapshot","title":"【模板】并查集"}
@@ -13110,6 +13112,7 @@
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6580334,"platform":"luogu","problem_id":"P5727","solved_at":1791094977.0,"source":"luogu-practice-snapshot","title":"【深基5.例3】冰雹猜想"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.658051,"platform":"luogu","problem_id":"P5728","solved_at":1791101301.0,"source":"luogu-practice-snapshot","title":"【深基5.例5】旗鼓相当的对手"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6580672,"platform":"luogu","problem_id":"P5729","solved_at":1791102048.0,"source":"luogu-practice-snapshot","title":"【深基5.例7】工艺品制作"}
+{"account_id":"a102","difficulty":2,"member_id":"m45","observed_at":1792564579.6261585,"platform":"luogu","problem_id":"P5730","solved_at":1792564507.0,"source":"luogu-record-list","title":"【深基5.例10】显示屏"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6580825,"platform":"luogu","problem_id":"P5731","solved_at":1791792419.0,"source":"luogu-practice-snapshot","title":"【深基5.习6】蛇形方阵"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6580951,"platform":"luogu","problem_id":"P5732","solved_at":1791646157.0,"source":"luogu-practice-snapshot","title":"【深基5.习7】杨辉三角"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6581073,"platform":"luogu","problem_id":"P5733","solved_at":1792032225.0,"source":"luogu-practice-snapshot","title":"【深基6.例1】自动修正"}
@@ -16720,6 +16723,7 @@
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1522298,"platform":"luogu","problem_id":"P4279","solved_at":1768905768.0,"source":"luogu-practice-snapshot","title":"[SHOI2008] 小约翰的游戏"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.1522067,"platform":"luogu","problem_id":"P4281","solved_at":1791027484.0,"source":"luogu-practice-snapshot","title":"[AHOI2008] 紧急集合 / 聚会"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792230201.3296773,"platform":"luogu","problem_id":"P4391","solved_at":1792229788.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
+{"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792564326.9177535,"platform":"luogu","problem_id":"P4555","solved_at":1792563729.0,"source":"luogu-record-list","title":"[国家集训队] 最长双回文串"}
 {"account_id":"a148","difficulty":1,"member_id":"m66","observed_at":1792150179.152259,"platform":"luogu","problem_id":"P4702","solved_at":1768902042.0,"source":"luogu-practice-snapshot","title":"取石子"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.1523128,"platform":"luogu","problem_id":"P4978","solved_at":1769754557.0,"source":"luogu-practice-snapshot","title":"赌神：决斗"}
 {"account_id":"a148","difficulty":2,"member_id":"m66","observed_at":1792150179.1523466,"platform":"luogu","problem_id":"P4995","solved_at":1773643160.0,"source":"luogu-practice-snapshot","title":"跳跳！"}
