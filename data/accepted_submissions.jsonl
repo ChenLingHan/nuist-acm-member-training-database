@@ -7789,6 +7789,7 @@
 {"accepted_at":1792394265.0,"account_id":"a39","difficulty":3,"observed_at":1792401305.5029309,"problem_id":"P7911","submission_id":"304148310","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792462785.0,"account_id":"a39","difficulty":5,"observed_at":1792463108.6662843,"problem_id":"P3435","submission_id":"304293809","title":"[POI 2006] OKR-Periods of Words"}
 {"accepted_at":1792462962.0,"account_id":"a39","difficulty":5,"observed_at":1792463108.6661766,"problem_id":"P3435","submission_id":"304294149","title":"[POI 2006] OKR-Periods of Words"}
+{"accepted_at":1792581758.0,"account_id":"a39","difficulty":5,"observed_at":1792582192.4053555,"problem_id":"P3805","submission_id":"304598981","title":"【模板】Manacher"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -10078,6 +10079,7 @@
 {"accepted_at":1791994336.0,"account_id":"a51","difficulty":1400,"observed_at":1792127076.0408595,"problem_id":"2276D","submission_id":"394587146","title":"Caveman"}
 {"accepted_at":1792323933.0,"account_id":"a51","difficulty":1700,"observed_at":1792341103.3479831,"problem_id":"126B","submission_id":"395089726","title":"Password"}
 {"accepted_at":1792340813.0,"account_id":"a51","difficulty":2000,"observed_at":1792341704.5854347,"problem_id":"1200E","submission_id":"395118313","title":"Compress Words"}
+{"accepted_at":1792581933.0,"account_id":"a51","difficulty":1300,"observed_at":1792582266.8602617,"problem_id":"2165A","submission_id":"395453717","title":"Cyclic Merging"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}

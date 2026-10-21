@@ -5768,6 +5768,7 @@
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a39","difficulty":5,"member_id":"m17","observed_at":1792463108.6660933,"platform":"luogu","problem_id":"P3435","solved_at":1792462785.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a39","difficulty":5,"member_id":"m17","observed_at":1792582192.405271,"platform":"luogu","problem_id":"P3805","solved_at":1792581758.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792222410.180791,"platform":"luogu","problem_id":"P7911","solved_at":1792221828.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5865874,"platform":"codeforces","problem_id":"2233A","solved_at":1781024115.0,"source":"codeforces-api","title":"AI Project Development"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5865645,"platform":"codeforces","problem_id":"2236A","solved_at":1781279752.0,"source":"codeforces-api","title":"Games on the Train"}
@@ -7828,6 +7829,7 @@
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.041187,"platform":"codeforces","problem_id":"2137C","solved_at":1791536528.0,"source":"codeforces-api","title":"Maximum Even Sum"}
 {"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1792127076.041166,"platform":"codeforces","problem_id":"2143C","solved_at":1791538839.0,"source":"codeforces-api","title":"Max Tree"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0411453,"platform":"codeforces","problem_id":"2146B","solved_at":1791788690.0,"source":"codeforces-api","title":"Merging the Sets"}
+{"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1792582266.8601778,"platform":"codeforces","problem_id":"2165A","solved_at":1792581933.0,"source":"codeforces-api","title":"Cyclic Merging"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.041125,"platform":"codeforces","problem_id":"2173B","solved_at":1791814289.0,"source":"codeforces-api","title":"Niko's Tactical Cards"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410783,"platform":"codeforces","problem_id":"2178C","solved_at":1791868160.0,"source":"codeforces-api","title":"First or Second"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0411046,"platform":"codeforces","problem_id":"2179C","solved_at":1791816969.0,"source":"codeforces-api","title":"Blackslex and Number Theory"}
