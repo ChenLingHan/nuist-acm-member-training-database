@@ -806,6 +806,7 @@
 {"account_id":"a8","difficulty":2100,"member_id":"m4","observed_at":1792073909.830016,"platform":"codeforces","problem_id":"1207F","solved_at":1790861377.0,"source":"codeforces-api","title":"Remainder Problem"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792073909.8298454,"platform":"codeforces","problem_id":"121B","solved_at":1791436005.0,"source":"codeforces-api","title":"Lucky Transformation"}
 {"account_id":"a8","difficulty":1600,"member_id":"m4","observed_at":1792073909.8298788,"platform":"codeforces","problem_id":"1255C","solved_at":1791271695.0,"source":"codeforces-api","title":"League of Leesins"}
+{"account_id":"a8","difficulty":1800,"member_id":"m4","observed_at":1792653474.7099109,"platform":"codeforces","problem_id":"1324F","solved_at":1792652792.0,"source":"codeforces-api","title":"Maximum White Subtree"}
 {"account_id":"a8","difficulty":1400,"member_id":"m4","observed_at":1792073909.8301442,"platform":"codeforces","problem_id":"1363B","solved_at":1790772278.0,"source":"codeforces-api","title":"Subsequence Hate"}
 {"account_id":"a8","difficulty":800,"member_id":"m4","observed_at":1792073909.8306491,"platform":"codeforces","problem_id":"1372A","solved_at":1789366282.0,"source":"codeforces-api","title":"Omkar and Completion"}
 {"account_id":"a8","difficulty":1000,"member_id":"m4","observed_at":1792073909.830479,"platform":"codeforces","problem_id":"1373A","solved_at":1789729733.0,"source":"codeforces-api","title":"Donut Shops"}
@@ -13115,6 +13116,7 @@
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792543181.6856456,"platform":"luogu","problem_id":"P1304","solved_at":1792543112.0,"source":"luogu-record-list","title":"哥德巴赫猜想"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571596,"platform":"luogu","problem_id":"P1307","solved_at":1790932269.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 数字反转"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571732,"platform":"luogu","problem_id":"P1319","solved_at":1791792887.0,"source":"luogu-practice-snapshot","title":"压缩技术"}
+{"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792653627.2125986,"platform":"luogu","problem_id":"P1320","solved_at":1792653179.0,"source":"luogu-record-list","title":"压缩技术（续集版）"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792161579.1083393,"platform":"luogu","problem_id":"P1321","solved_at":1792161335.0,"source":"luogu-record-list","title":"单词覆盖还原"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657186,"platform":"luogu","problem_id":"P1420","solved_at":1790933777.0,"source":"luogu-practice-snapshot","title":"最长连号"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571991,"platform":"luogu","problem_id":"P1421","solved_at":1790673808.0,"source":"luogu-practice-snapshot","title":"小玉买文具"}
