@@ -186,6 +186,7 @@
 {"account_id":"a1","difficulty":5,"member_id":"m1","observed_at":1792052898.465715,"platform":"luogu","problem_id":"P14024","solved_at":1790829516.0,"source":"luogu-practice-snapshot","title":"[ICPC 2024 Nanjing R] 纸条"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792573088.9784222,"platform":"luogu","problem_id":"P14159","solved_at":1792572672.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792573088.9782364,"platform":"luogu","problem_id":"P14161","solved_at":1792572794.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 完美回文"}
+{"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1792674345.8935275,"platform":"luogu","problem_id":"P14165","solved_at":1792674140.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 清空水箱"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4653637,"platform":"luogu","problem_id":"P1421","solved_at":1564541031.0,"source":"luogu-practice-snapshot","title":"小玉买文具"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.465365,"platform":"luogu","problem_id":"P1422","solved_at":1564542118.0,"source":"luogu-practice-snapshot","title":"小玉家的电费"}
 {"account_id":"a1","difficulty":1,"member_id":"m1","observed_at":1792052898.4653664,"platform":"luogu","problem_id":"P1423","solved_at":1625203153.0,"source":"luogu-practice-snapshot","title":"小玉在游泳"}
@@ -7844,6 +7845,7 @@
 {"account_id":"a50","difficulty":null,"member_id":"m21","observed_at":1792117916.5489485,"platform":"qoj","problem_id":"20239","solved_at":1789651438.0,"source":"qoj-profile","title":"Divide and Conquer"}
 {"account_id":"a50","difficulty":null,"member_id":"m21","observed_at":1792117916.548954,"platform":"qoj","problem_id":"20719","solved_at":1790694307.0,"source":"qoj-profile","title":"EPS.AC"}
 {"account_id":"a50","difficulty":null,"member_id":"m21","observed_at":1792671695.5180008,"platform":"qoj","problem_id":"22912","solved_at":1792671287.0,"source":"qoj-authenticated","title":"无忧旋律"}
+{"account_id":"a50","difficulty":null,"member_id":"m21","observed_at":1792674108.5264373,"platform":"qoj","problem_id":"22919","solved_at":1792673834.0,"source":"qoj-authenticated","title":"送给好友的惊喜"}
 {"account_id":"a51","difficulty":2000,"member_id":"m21","observed_at":1792341704.585195,"platform":"codeforces","problem_id":"1200E","solved_at":1792340813.0,"source":"codeforces-api","title":"Compress Words"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792341103.3476706,"platform":"codeforces","problem_id":"126B","solved_at":1792323933.0,"source":"codeforces-api","title":"Password"}
 {"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1792127076.0415618,"platform":"codeforces","problem_id":"1857D","solved_at":1790936683.0,"source":"codeforces-api","title":"Strong Vertices"}
