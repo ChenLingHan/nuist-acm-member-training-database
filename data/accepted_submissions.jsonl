@@ -1929,6 +1929,7 @@
 {"accepted_at":1792573602.0,"account_id":"a11","difficulty":null,"observed_at":1792573822.7717535,"problem_id":"104460F","submission_id":"395439510","title":"K-hour Clock"}
 {"accepted_at":1792647839.0,"account_id":"a11","difficulty":null,"observed_at":1792648281.4738224,"problem_id":"105386B","submission_id":"395537445","title":"Gold Medal"}
 {"accepted_at":1792648563.0,"account_id":"a11","difficulty":null,"observed_at":1792648891.2029872,"problem_id":"105386G","submission_id":"395538249","title":"Be Positive"}
+{"accepted_at":1792651292.0,"account_id":"a11","difficulty":null,"observed_at":1792651342.1752305,"problem_id":"105386I","submission_id":"395542002","title":"Left Shifting 2"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -13305,6 +13306,7 @@
 {"accepted_at":1792573602.0,"account_id":"a87","difficulty":null,"observed_at":1792574211.187987,"problem_id":"104460F","submission_id":"395439510","title":"K-hour Clock"}
 {"accepted_at":1792647839.0,"account_id":"a87","difficulty":null,"observed_at":1792648264.8963091,"problem_id":"105386B","submission_id":"395537445","title":"Gold Medal"}
 {"accepted_at":1792648563.0,"account_id":"a87","difficulty":null,"observed_at":1792648874.1764405,"problem_id":"105386G","submission_id":"395538249","title":"Be Positive"}
+{"accepted_at":1792651292.0,"account_id":"a87","difficulty":null,"observed_at":1792651310.2305286,"problem_id":"105386I","submission_id":"395542002","title":"Left Shifting 2"}
 {"accepted_at":1761372539.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224429,"problem_id":"P5718","submission_id":"242899207","title":"【深基4.例2】找最小值"}
 {"accepted_at":1762582638.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.222424,"problem_id":"P1307","submission_id":"246029492","title":"[NOIP 2011 普及组] 数字反转"}
 {"accepted_at":1762586659.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224019,"problem_id":"P1089","submission_id":"246058044","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
