@@ -10127,6 +10127,7 @@
 {"accepted_at":1792482890.0,"account_id":"a52","difficulty":3,"observed_at":1792483418.722853,"problem_id":"P1219","submission_id":"304341982","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"accepted_at":1792494253.0,"account_id":"a52","difficulty":2,"observed_at":1792494504.6574585,"problem_id":"P1036","submission_id":"304388599","title":"[NOIP 2002 普及组] 选数"}
 {"accepted_at":1792508432.0,"account_id":"a52","difficulty":4,"observed_at":1792508475.6726964,"problem_id":"P1433","submission_id":"304470587","title":"吃奶酪"}
+{"accepted_at":1792671932.0,"account_id":"a52","difficulty":2,"observed_at":1792672013.384856,"problem_id":"P1443","submission_id":"304824589","title":"马的遍历"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
 {"accepted_at":1790266826.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.293393,"problem_id":"P1001","submission_id":"299099035","title":"A+B Problem"}
 {"accepted_at":1790688554.0,"account_id":"a54","difficulty":2,"observed_at":1792148369.293386,"problem_id":"P1002","submission_id":"299952348","title":"[NOIP 2002 普及组] 过河卒"}
@@ -11380,6 +11381,7 @@
 {"accepted_at":1792484368.0,"account_id":"a72","difficulty":5,"observed_at":1792484691.771402,"problem_id":"P2375","submission_id":"304347569","title":"[NOI2014] 动物园"}
 {"accepted_at":1792488645.0,"account_id":"a72","difficulty":2,"observed_at":1792489045.221205,"problem_id":"P1443","submission_id":"304367014","title":"马的遍历"}
 {"accepted_at":1792670655.0,"account_id":"a72","difficulty":2,"observed_at":1792670825.2725194,"problem_id":"P1605","submission_id":"304815217","title":"迷宫"}
+{"accepted_at":1792671943.0,"account_id":"a72","difficulty":1,"observed_at":1792672060.6872056,"problem_id":"P1739","submission_id":"304824687","title":"表达式括号匹配"}
 {"accepted_at":1761746973.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1631203,"problem_id":"2162A","submission_id":"346476628","title":"Beautiful Average"}
 {"accepted_at":1761785914.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1630282,"problem_id":"2162B","submission_id":"346546845","title":"Beautiful String"}
 {"accepted_at":1761786770.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.162935,"problem_id":"2167A","submission_id":"346547611","title":"Square?"}
@@ -24618,6 +24620,7 @@
 {"accepted_at":1792494989.0,"account_id":"a158","difficulty":4,"observed_at":1792495441.1417348,"problem_id":"P4551","submission_id":"304392392","title":"最长异或路径"}
 {"accepted_at":1792502145.0,"account_id":"a158","difficulty":2,"observed_at":1792502692.0621555,"problem_id":"P1024","submission_id":"304440602","title":"[NOIP 2001 提高组] 一元三次方程求解"}
 {"accepted_at":1792502306.0,"account_id":"a158","difficulty":1,"observed_at":1792502692.0620415,"problem_id":"P5707","submission_id":"304441568","title":"【深基2.例12】上学迟到"}
+{"accepted_at":1792671899.0,"account_id":"a158","difficulty":3,"observed_at":1792672345.206867,"problem_id":"P2201","submission_id":"304824328","title":"数列编辑器"}
 {"accepted_at":1631024137.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007793,"problem_id":"1509A","submission_id":"128133913","title":"Average Height"}
 {"accepted_at":1631024816.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007552,"problem_id":"1509A","submission_id":"128134880","title":"Average Height"}
 {"accepted_at":1662869388.0,"account_id":"a159","difficulty":1000,"observed_at":1792148551.100661,"problem_id":"1266A","submission_id":"171671108","title":"Competitive Programmer"}
