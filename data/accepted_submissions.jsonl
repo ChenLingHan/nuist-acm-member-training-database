@@ -1931,6 +1931,7 @@
 {"accepted_at":1792647839.0,"account_id":"a11","difficulty":null,"observed_at":1792648281.4738224,"problem_id":"105386B","submission_id":"395537445","title":"Gold Medal"}
 {"accepted_at":1792648563.0,"account_id":"a11","difficulty":null,"observed_at":1792648891.2029872,"problem_id":"105386G","submission_id":"395538249","title":"Be Positive"}
 {"accepted_at":1792651292.0,"account_id":"a11","difficulty":null,"observed_at":1792651342.1752305,"problem_id":"105386I","submission_id":"395542002","title":"Left Shifting 2"}
+{"accepted_at":1792656821.0,"account_id":"a11","difficulty":null,"observed_at":1792656902.8337355,"problem_id":"105386A","submission_id":"395550327","title":"Two-star Contest"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -24873,6 +24874,7 @@
 {"accepted_at":1792647839.0,"account_id":"a164","difficulty":null,"observed_at":1792648306.959814,"problem_id":"105386B","submission_id":"395537445","title":"Gold Medal"}
 {"accepted_at":1792648563.0,"account_id":"a164","difficulty":null,"observed_at":1792648918.2464077,"problem_id":"105386G","submission_id":"395538249","title":"Be Positive"}
 {"accepted_at":1792651292.0,"account_id":"a164","difficulty":null,"observed_at":1792651364.9494128,"problem_id":"105386I","submission_id":"395542002","title":"Left Shifting 2"}
+{"accepted_at":1792656821.0,"account_id":"a164","difficulty":null,"observed_at":1792656887.1060495,"problem_id":"105386A","submission_id":"395550327","title":"Two-star Contest"}
 {"accepted_at":1699691204.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1270413,"problem_id":"B3869","submission_id":"134540660","title":"[GESP202309 四级] 进制转换"}
 {"accepted_at":1700298041.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1269932,"problem_id":"B3870","submission_id":"135740502","title":"[GESP202309 四级] 变长编码"}
 {"accepted_at":1703322186.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.126949,"problem_id":"P8597","submission_id":"140702758","title":"[蓝桥杯 2013 省 B] 翻硬币"}
