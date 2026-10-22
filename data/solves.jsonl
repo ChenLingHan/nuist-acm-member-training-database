@@ -676,6 +676,7 @@
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792135523.1741126,"platform":"luogu","problem_id":"P1103","solved_at":1792134935.0,"source":"luogu-record-list","title":"书本整理"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8361356,"platform":"luogu","problem_id":"P11180","solved_at":1770792039.0,"source":"luogu-practice-snapshot","title":"[ROIR 2018] 删除数字 (Day2)"}
 {"account_id":"a6","difficulty":4,"member_id":"m4","observed_at":1792073220.8361223,"platform":"luogu","problem_id":"P11296","solved_at":1771914236.0,"source":"luogu-practice-snapshot","title":"[NOISG 2018 Prelim] Snail"}
+{"account_id":"a6","difficulty":4,"member_id":"m4","observed_at":1792673155.7150433,"platform":"luogu","problem_id":"P1131","solved_at":1792672509.0,"source":"luogu-record-list","title":"[ZJOI2007] 时态同步"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8361416,"platform":"luogu","problem_id":"P11388","solved_at":1763168938.0,"source":"luogu-practice-snapshot","title":"[COCI 2024/2025 #1] 飞跃 / Skokovi"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8355196,"platform":"luogu","problem_id":"P1162","solved_at":1761357127.0,"source":"luogu-practice-snapshot","title":"填涂颜色"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8355265,"platform":"luogu","problem_id":"P1164","solved_at":1791019302.0,"source":"luogu-practice-snapshot","title":"小 A 点菜"}
@@ -9284,6 +9285,7 @@
 {"account_id":"a74","difficulty":1200,"member_id":"m32","observed_at":1792127097.146805,"platform":"codeforces","problem_id":"2051D","solved_at":1772969410.0,"source":"codeforces-api","title":"Counting Pairs"}
 {"account_id":"a74","difficulty":1400,"member_id":"m32","observed_at":1792127097.130591,"platform":"codeforces","problem_id":"2055C","solved_at":1779522309.0,"source":"codeforces-api","title":"The Trail"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1605701,"platform":"codeforces","problem_id":"2060A","solved_at":1768542951.0,"source":"codeforces-api","title":"Fibonacciness"}
+{"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792672901.0782034,"platform":"codeforces","problem_id":"2060E","solved_at":1792672364.0,"source":"codeforces-api","title":"Graph Composition"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1267266,"platform":"codeforces","problem_id":"2062A","solved_at":1791629716.0,"source":"codeforces-api","title":"String"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.137737,"platform":"codeforces","problem_id":"2063A","solved_at":1774281158.0,"source":"codeforces-api","title":"Minimal Coprime"}
 {"account_id":"a74","difficulty":1100,"member_id":"m32","observed_at":1792127097.1376543,"platform":"codeforces","problem_id":"2063B","solved_at":1774281969.0,"source":"codeforces-api","title":"Subsequence Update"}
@@ -9774,6 +9776,7 @@
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.453155,"platform":"codeforces","problem_id":"1869B","solved_at":1764378290.0,"source":"codeforces-api","title":"2D Traveling"}
 {"account_id":"a79","difficulty":1400,"member_id":"m34","observed_at":1792127101.4515722,"platform":"codeforces","problem_id":"1905C","solved_at":1790502062.0,"source":"codeforces-api","title":"Largest Subsequence"}
 {"account_id":"a79","difficulty":900,"member_id":"m34","observed_at":1792127101.4531233,"platform":"codeforces","problem_id":"1972B","solved_at":1768974890.0,"source":"codeforces-api","title":"Coin Games"}
+{"account_id":"a79","difficulty":2800,"member_id":"m34","observed_at":1792672881.8493507,"platform":"codeforces","problem_id":"19D","solved_at":1792672533.0,"source":"codeforces-api","title":"Points"}
 {"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1792127101.4534488,"platform":"codeforces","problem_id":"2037D","solved_at":1762597672.0,"source":"codeforces-api","title":"Sharky Surfing"}
 {"account_id":"a79","difficulty":2100,"member_id":"m34","observed_at":1792583273.6585546,"platform":"codeforces","problem_id":"208E","solved_at":1792582732.0,"source":"codeforces-api","title":"Blood Cousins"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4530199,"platform":"codeforces","problem_id":"2104C","solved_at":1775372377.0,"source":"codeforces-api","title":"Card Game"}
@@ -19639,6 +19642,7 @@
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.846517,"platform":"luogu","problem_id":"P2788","solved_at":1661312876.0,"source":"luogu-practice-snapshot","title":"数学1（math1）- 加减算式"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8465555,"platform":"luogu","problem_id":"P2925","solved_at":1657464093.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Hay For Sale S"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8465648,"platform":"luogu","problem_id":"P3078","solved_at":1701266378.0,"source":"luogu-practice-snapshot","title":"[USACO13MAR] Poker Hands S"}
+{"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792672954.6882336,"platform":"luogu","problem_id":"P3156","solved_at":1792672785.0,"source":"luogu-record-list","title":"【深基15.例1】询问学号"}
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.846545,"platform":"luogu","problem_id":"P3368","solved_at":1709363788.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 2"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8465261,"platform":"luogu","problem_id":"P3371","solved_at":1657553724.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（弱化版）"}
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.8465357,"platform":"luogu","problem_id":"P3375","solved_at":1792061183.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
