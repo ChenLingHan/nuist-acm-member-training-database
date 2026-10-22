@@ -5768,6 +5768,7 @@
 {"account_id":"a33","difficulty":1900,"member_id":"m13","observed_at":1792127172.4247541,"platform":"codeforces","problem_id":"9D","solved_at":1639130343.0,"source":"codeforces-api","title":"How many trees?"}
 {"account_id":"a34","difficulty":1,"member_id":"m14","observed_at":1792636386.033841,"platform":"luogu","problem_id":"P1000","solved_at":1792636151.0,"source":"luogu-record-list","title":"超级玛丽游戏"}
 {"account_id":"a34","difficulty":1,"member_id":"m14","observed_at":1792636386.0336523,"platform":"luogu","problem_id":"P1001","solved_at":1792636304.0,"source":"luogu-record-list","title":"A+B Problem"}
+{"account_id":"a34","difficulty":2,"member_id":"m14","observed_at":1792638210.2509713,"platform":"luogu","problem_id":"P1002","solved_at":1792638112.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792583412.6015494,"platform":"luogu","problem_id":"P1090","solved_at":1792583102.0,"source":"luogu-record-list","title":"[NOIP 2004 提高组] 合并果子"}
@@ -9336,6 +9337,7 @@
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.137824,"platform":"codeforces","problem_id":"2146D1","solved_at":1774280708.0,"source":"codeforces-api","title":"Max Sum OR (Easy Version)"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1275623,"platform":"codeforces","problem_id":"2147C","solved_at":1787984275.0,"source":"codeforces-api","title":"Rabbits"}
 {"account_id":"a74","difficulty":1200,"member_id":"m32","observed_at":1792127097.1465654,"platform":"codeforces","problem_id":"2148E","solved_at":1772979096.0,"source":"codeforces-api","title":"Split"}
+{"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792638075.185312,"platform":"codeforces","problem_id":"2149A","solved_at":1792637941.0,"source":"codeforces-api","title":"Be Positive"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1316297,"platform":"codeforces","problem_id":"2151A","solved_at":1777206059.0,"source":"codeforces-api","title":"Incremental Subarray"}
 {"account_id":"a74","difficulty":1300,"member_id":"m32","observed_at":1792127097.131116,"platform":"codeforces","problem_id":"2151B","solved_at":1778156490.0,"source":"codeforces-api","title":"Incremental Path"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1361508,"platform":"codeforces","problem_id":"2152A","solved_at":1774791943.0,"source":"codeforces-api","title":"Increase or Smash"}
