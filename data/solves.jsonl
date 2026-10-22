@@ -10927,6 +10927,7 @@
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6256702,"platform":"luogu","problem_id":"P3406","solved_at":1791275217.0,"source":"luogu-practice-snapshot","title":"海底高铁"}
 {"account_id":"a89","difficulty":4,"member_id":"m39","observed_at":1792407403.165106,"platform":"luogu","problem_id":"P4391","solved_at":1792407153.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a89","difficulty":5,"member_id":"m39","observed_at":1792156827.5435781,"platform":"luogu","problem_id":"P4824","solved_at":1792156630.0,"source":"luogu-record-list","title":"[USACO15FEB] Censoring S"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792658178.228451,"platform":"luogu","problem_id":"P4913","solved_at":1792657588.0,"source":"luogu-record-list","title":"【深基16.例3】二叉树深度"}
 {"account_id":"a89","difficulty":1,"member_id":"m39","observed_at":1792130104.6256847,"platform":"luogu","problem_id":"P5015","solved_at":1789539468.0,"source":"luogu-practice-snapshot","title":"[NOIP 2018 普及组] 标题统计"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.625711,"platform":"luogu","problem_id":"P5250","solved_at":1789906527.0,"source":"luogu-practice-snapshot","title":"【深基17.例5】木材仓库"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6257157,"platform":"luogu","problem_id":"P5266","solved_at":1789884480.0,"source":"luogu-practice-snapshot","title":"【深基17.例6】学籍管理"}
@@ -16793,6 +16794,7 @@
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792571064.2950068,"platform":"luogu","problem_id":"P3538","solved_at":1792570968.0,"source":"luogu-record-list","title":"[POI 2012] OKR-A Horrible Poem"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1513245,"platform":"luogu","problem_id":"P3620","solved_at":1770188324.0,"source":"luogu-practice-snapshot","title":"[APIO/CTSC2007] 数据备份"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1510866,"platform":"luogu","problem_id":"P3763","solved_at":1792138992.0,"source":"luogu-practice-snapshot","title":"[TJOI2017] DNA"}
+{"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792658268.0874743,"platform":"luogu","problem_id":"P3796","solved_at":1792658092.0,"source":"luogu-record-list","title":"AC 自动机（简单版 II）"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792496019.7417114,"platform":"luogu","problem_id":"P3805","solved_at":1792495548.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1521144,"platform":"luogu","problem_id":"P3807","solved_at":1769493950.0,"source":"luogu-practice-snapshot","title":"【模板】卢卡斯定理 / Lucas 定理"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792657660.9319317,"platform":"luogu","problem_id":"P3808","solved_at":1792657132.0,"source":"luogu-record-list","title":"AC 自动机（简单版）"}
@@ -16810,6 +16812,7 @@
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.1523128,"platform":"luogu","problem_id":"P4978","solved_at":1769754557.0,"source":"luogu-practice-snapshot","title":"赌神：决斗"}
 {"account_id":"a148","difficulty":2,"member_id":"m66","observed_at":1792150179.1523466,"platform":"luogu","problem_id":"P4995","solved_at":1773643160.0,"source":"luogu-practice-snapshot","title":"跳跳！"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.1523745,"platform":"luogu","problem_id":"P5104","solved_at":1769758808.0,"source":"luogu-practice-snapshot","title":"红包发红包"}
+{"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792658878.862562,"platform":"luogu","problem_id":"P5357","solved_at":1792658344.0,"source":"luogu-record-list","title":"【模板】AC 自动机"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792307275.8397584,"platform":"luogu","problem_id":"P5410","solved_at":1792306945.0,"source":"luogu-record-list","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
 {"account_id":"a148","difficulty":1,"member_id":"m66","observed_at":1792150179.1524022,"platform":"luogu","problem_id":"P5706","solved_at":1760876895.0,"source":"luogu-practice-snapshot","title":"【深基2.例8】再分肥宅水"}
 {"account_id":"a148","difficulty":1,"member_id":"m66","observed_at":1792150179.1524823,"platform":"luogu","problem_id":"P5707","solved_at":1790936897.0,"source":"luogu-practice-snapshot","title":"【深基2.例12】上学迟到"}
@@ -17076,6 +17079,7 @@
 {"account_id":"a152","difficulty":null,"member_id":"m67","observed_at":1792148456.6338952,"platform":"qoj","problem_id":"20028","solved_at":1788855591.0,"source":"qoj-profile","title":"Check In"}
 {"account_id":"a153","difficulty":800,"member_id":"m67","observed_at":1792148546.92794,"platform":"codeforces","problem_id":"2267A","solved_at":1791121291.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
 {"account_id":"a153","difficulty":800,"member_id":"m67","observed_at":1792148546.927621,"platform":"codeforces","problem_id":"2267B","solved_at":1791385374.0,"source":"codeforces-api","title":"Fashionable Array"}
+{"account_id":"a154","difficulty":1,"member_id":"m68","observed_at":1792658909.5036545,"platform":"luogu","problem_id":"P1001","solved_at":1792658779.0,"source":"luogu-record-list","title":"A+B Problem"}
 {"account_id":"a155","difficulty":3,"member_id":"m69","observed_at":1792150253.3491836,"platform":"luogu","problem_id":"B3611","solved_at":1692863390.0,"source":"luogu-practice-snapshot","title":"【模板】传递闭包"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3492532,"platform":"luogu","problem_id":"B3616","solved_at":1694074022.0,"source":"luogu-practice-snapshot","title":"【模板】队列"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3492808,"platform":"luogu","problem_id":"B3631","solved_at":1694118210.0,"source":"luogu-practice-snapshot","title":"单向链表"}
