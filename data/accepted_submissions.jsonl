@@ -6950,6 +6950,7 @@
 {"accepted_at":1792483488.0,"account_id":"a32","difficulty":null,"observed_at":1792483738.9063053,"problem_id":"7744","submission_id":"3224093","title":"Elevator"}
 {"accepted_at":1792487504.0,"account_id":"a32","difficulty":null,"observed_at":1792487963.955245,"problem_id":"7745","submission_id":"3225013","title":"Trapping Rain Water"}
 {"accepted_at":1792500907.0,"account_id":"a32","difficulty":null,"observed_at":1792501251.0094156,"problem_id":"7736","submission_id":"3227522","title":"Red Black Tree"}
+{"accepted_at":1792660697.0,"account_id":"a32","difficulty":null,"observed_at":1792660804.2708693,"problem_id":"15309","submission_id":"3246419","title":"Dumb Problem II"}
 {"accepted_at":1633421257.0,"account_id":"a33","difficulty":1700,"observed_at":1792127172.4327662,"problem_id":"1312D","submission_id":"130869867","title":"Count the Arrays"}
 {"accepted_at":1633430233.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4325411,"problem_id":"446B","submission_id":"130880519","title":"DZY Loves Modification"}
 {"accepted_at":1633433408.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4323192,"problem_id":"1408D","submission_id":"130884225","title":"Searchlights"}
@@ -21704,6 +21705,7 @@
 {"accepted_at":1791121291.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.927953,"problem_id":"2267A","submission_id":"393183238","title":"Turn Into a Palindrome"}
 {"accepted_at":1791385374.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.9277208,"problem_id":"2267B","submission_id":"393541374","title":"Fashionable Array"}
 {"accepted_at":1792658779.0,"account_id":"a154","difficulty":1,"observed_at":1792658909.5037622,"problem_id":"P1001","submission_id":"304757881","title":"A+B Problem"}
+{"accepted_at":1792660153.0,"account_id":"a154","difficulty":1,"observed_at":1792660732.0938506,"problem_id":"P14747","submission_id":"304764291","title":"相似字符串"}
 {"accepted_at":1558227959.0,"account_id":"a155","difficulty":2,"observed_at":1792165740.846896,"problem_id":"P1030","submission_id":"19174683","title":"[NOIP 2001 普及组] 求先序排列"}
 {"accepted_at":1688046564.0,"account_id":"a155","difficulty":5,"observed_at":1792165591.157564,"problem_id":"P1654","submission_id":"113557503","title":"OSU!"}
 {"accepted_at":1688196368.0,"account_id":"a155","difficulty":2,"observed_at":1792165591.157488,"problem_id":"P9435","submission_id":"113670511","title":"『XYGOI round1』三个数"}

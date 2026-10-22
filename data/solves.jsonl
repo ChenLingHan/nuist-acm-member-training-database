@@ -5111,6 +5111,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985396,"platform":"qoj","problem_id":"14808","solved_at":1790329790.0,"source":"qoj-profile","title":"Pen Pineapple Apple Pen"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985456,"platform":"qoj","problem_id":"14809","solved_at":1790321825.0,"source":"qoj-profile","title":"Chi Fan"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0981984,"platform":"qoj","problem_id":"149","solved_at":1689320180.0,"source":"qoj-profile","title":"Peru"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792660804.2707727,"platform":"qoj","problem_id":"15309","solved_at":1792660697.0,"source":"qoj-authenticated","title":"Dumb Problem II"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985515,"platform":"qoj","problem_id":"18007","solved_at":1778067222.0,"source":"qoj-profile","title":"Puzzle: The Artisan of Glimmith"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985575,"platform":"qoj","problem_id":"18124","solved_at":1779970044.0,"source":"qoj-profile","title":"Tired"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0985627,"platform":"qoj","problem_id":"20244","solved_at":1789387264.0,"source":"qoj-profile","title":"Island"}
@@ -17080,6 +17081,7 @@
 {"account_id":"a153","difficulty":800,"member_id":"m67","observed_at":1792148546.92794,"platform":"codeforces","problem_id":"2267A","solved_at":1791121291.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
 {"account_id":"a153","difficulty":800,"member_id":"m67","observed_at":1792148546.927621,"platform":"codeforces","problem_id":"2267B","solved_at":1791385374.0,"source":"codeforces-api","title":"Fashionable Array"}
 {"account_id":"a154","difficulty":1,"member_id":"m68","observed_at":1792658909.5036545,"platform":"luogu","problem_id":"P1001","solved_at":1792658779.0,"source":"luogu-record-list","title":"A+B Problem"}
+{"account_id":"a154","difficulty":1,"member_id":"m68","observed_at":1792660732.0937705,"platform":"luogu","problem_id":"P14747","solved_at":1792660153.0,"source":"luogu-record-list","title":"相似字符串"}
 {"account_id":"a155","difficulty":3,"member_id":"m69","observed_at":1792150253.3491836,"platform":"luogu","problem_id":"B3611","solved_at":1692863390.0,"source":"luogu-practice-snapshot","title":"【模板】传递闭包"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3492532,"platform":"luogu","problem_id":"B3616","solved_at":1694074022.0,"source":"luogu-practice-snapshot","title":"【模板】队列"}
 {"account_id":"a155","difficulty":2,"member_id":"m69","observed_at":1792150253.3492808,"platform":"luogu","problem_id":"B3631","solved_at":1694118210.0,"source":"luogu-practice-snapshot","title":"单向链表"}
