@@ -314,6 +314,7 @@
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052952.1990314,"platform":"codeforces","problem_id":"104076A","solved_at":1727836845.0,"source":"codeforces-api","title":"Tower"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792564507.8058043,"platform":"codeforces","problem_id":"104128G","solved_at":1792563998.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792560158.3905902,"platform":"codeforces","problem_id":"104128I","solved_at":1792559913.0,"source":"codeforces-api","title":"Perfect Palindrome"}
+{"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792674660.0303106,"platform":"codeforces","problem_id":"104128M","solved_at":1792674189.0,"source":"codeforces-api","title":"Drain the Water Tank"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052898.466448,"platform":"codeforces","problem_id":"104821A","solved_at":1791192886.0,"source":"codeforces-api","title":"Cool, It's Yesterday Four Times More"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052898.4664469,"platform":"codeforces","problem_id":"104821C","solved_at":1791185223.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a2","difficulty":null,"member_id":"m1","observed_at":1792052898.4664452,"platform":"codeforces","problem_id":"104821F","solved_at":1791186531.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
@@ -424,6 +425,7 @@
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7118378,"platform":"qoj","problem_id":"20728","solved_at":1790480239.0,"source":"qoj-profile","title":"New CCPC Rules"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792664976.892051,"platform":"qoj","problem_id":"5420","solved_at":1792664770.0,"source":"qoj-authenticated","title":"Inscryption"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792664976.8714967,"platform":"qoj","problem_id":"5422","solved_at":1792664800.0,"source":"qoj-authenticated","title":"Perfect Palindrome"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792674631.6097622,"platform":"qoj","problem_id":"5426","solved_at":1792674055.0,"source":"qoj-authenticated","title":"Drain the Water Tank"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792112410.1552567,"platform":"qoj","problem_id":"7733","solved_at":1791193770.0,"source":"qoj-authenticated","title":"Cool, It’s Yesterday Four Times More"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117147,"platform":"qoj","problem_id":"7735","solved_at":1791212860.0,"source":"qoj-profile","title":"Primitive Root"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792112410.1552525,"platform":"qoj","problem_id":"7738","solved_at":1791269004.0,"source":"qoj-authenticated","title":"Equivalent Rewriting"}
@@ -19591,6 +19593,7 @@
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8489678,"platform":"luogu","problem_id":"P14357","solved_at":1791460337.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2025] 拼数"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8489783,"platform":"luogu","problem_id":"P14358","solved_at":1791461874.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2025] 座位"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8460212,"platform":"luogu","problem_id":"P1443","solved_at":1623751780.0,"source":"luogu-practice-snapshot","title":"马的遍历"}
+{"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792674807.9979372,"platform":"luogu","problem_id":"P1449","solved_at":1792674287.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a158","difficulty":5,"member_id":"m70","observed_at":1792150258.8460388,"platform":"luogu","problem_id":"P1450","solved_at":1717043598.0,"source":"luogu-practice-snapshot","title":"[HAOI2008] 硬币购物"}
 {"account_id":"a158","difficulty":5,"member_id":"m70","observed_at":1792150258.8460495,"platform":"luogu","problem_id":"P1472","solved_at":1657464159.0,"source":"luogu-practice-snapshot","title":"[USACO2.3] 奶牛家谱 Cow Pedigrees"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792479501.3886478,"platform":"luogu","problem_id":"P1481","solved_at":1792479167.0,"source":"luogu-record-list","title":"魔族密码"}
@@ -20000,11 +20003,13 @@
 {"account_id":"a165","difficulty":4,"member_id":"m73","observed_at":1792287170.9212756,"platform":"luogu","problem_id":"P3375","solved_at":1792286906.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a165","difficulty":3,"member_id":"m73","observed_at":1792219936.639389,"platform":"luogu","problem_id":"P7911","solved_at":1792219843.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852345,"platform":"luogu","problem_id":"P8597","solved_at":1703322186.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2013 省 B] 翻硬币"}
+{"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792674844.037252,"platform":"luogu","problem_id":"P8647","solved_at":1792674263.0,"source":"luogu-record-list","title":"[蓝桥杯 2017 省 AB] 分巧克力"}
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852517,"platform":"luogu","problem_id":"P9231","solved_at":1709454486.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2023 省 A] 平方差"}
 {"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1792497324.6944377,"platform":"luogu","problem_id":"B3614","solved_at":1792496796.0,"source":"luogu-record-list","title":"【模板】栈"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792150282.5806243,"platform":"luogu","problem_id":"P1001","solved_at":1789722723.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
 {"account_id":"a168","difficulty":4,"member_id":"m74","observed_at":1792150282.5807548,"platform":"luogu","problem_id":"P3375","solved_at":1792122129.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a168","difficulty":5,"member_id":"m74","observed_at":1792224216.7033918,"platform":"luogu","problem_id":"P3435","solved_at":1792224066.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a168","difficulty":5,"member_id":"m74","observed_at":1792674850.620104,"platform":"luogu","problem_id":"P3805","solved_at":1792674602.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a168","difficulty":3,"member_id":"m74","observed_at":1792222363.133326,"platform":"luogu","problem_id":"P7911","solved_at":1792222092.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a169","difficulty":null,"member_id":"m75","observed_at":1792148561.3839319,"platform":"codeforces","problem_id":"103118G","solved_at":1784438920.0,"source":"codeforces-api","title":"Grade Point Average"}
 {"account_id":"a169","difficulty":null,"member_id":"m75","observed_at":1792148561.3839011,"platform":"codeforces","problem_id":"103118H","solved_at":1784517004.0,"source":"codeforces-api","title":"Adventurer's Guild"}
