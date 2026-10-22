@@ -7790,6 +7790,7 @@
 {"accepted_at":1792636151.0,"account_id":"a34","difficulty":1,"observed_at":1792636386.0338492,"problem_id":"P1000","submission_id":"304696648","title":"超级玛丽游戏"}
 {"accepted_at":1792636304.0,"account_id":"a34","difficulty":1,"observed_at":1792636386.0337405,"problem_id":"P1001","submission_id":"304696917","title":"A+B Problem"}
 {"accepted_at":1792638112.0,"account_id":"a34","difficulty":2,"observed_at":1792638210.2510633,"problem_id":"P1002","submission_id":"304700607","title":"[NOIP 2002 普及组] 过河卒"}
+{"accepted_at":1792638836.0,"account_id":"a34","difficulty":2,"observed_at":1792639434.8410273,"problem_id":"P1003","submission_id":"304702301","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1792221828.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.1811852,"problem_id":"P7911","submission_id":"303624076","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792221991.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.180966,"problem_id":"P7911","submission_id":"303625515","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792394247.0,"account_id":"a39","difficulty":3,"observed_at":1792401305.5032828,"problem_id":"P7911","submission_id":"304148254","title":"[CSP-J 2021] 网络连接"}
@@ -11867,6 +11868,7 @@
 {"accepted_at":1792140244.0,"account_id":"a74","difficulty":1000,"observed_at":1792140569.4601767,"problem_id":"2203B","submission_id":"394788396","title":"Beautiful Numbers"}
 {"accepted_at":1792637941.0,"account_id":"a74","difficulty":800,"observed_at":1792638075.185403,"problem_id":"2149A","submission_id":"395528201","title":"Be Positive"}
 {"accepted_at":1792638128.0,"account_id":"a74","difficulty":800,"observed_at":1792638682.2385378,"problem_id":"2149B","submission_id":"395528348","title":"Unconventional Pairs"}
+{"accepted_at":1792639266.0,"account_id":"a74","difficulty":900,"observed_at":1792639289.426805,"problem_id":"2149C","submission_id":"395529212","title":"MEX rose"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
