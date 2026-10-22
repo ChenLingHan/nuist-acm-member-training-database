@@ -5786,6 +5786,7 @@
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792583412.6015494,"platform":"luogu","problem_id":"P1090","solved_at":1792583102.0,"source":"luogu-record-list","title":"[NOIP 2004 提高组] 合并果子"}
 {"account_id":"a39","difficulty":1,"member_id":"m17","observed_at":1792633341.7778127,"platform":"luogu","problem_id":"P1739","solved_at":1792633008.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792670918.7762258,"platform":"luogu","problem_id":"P1944","solved_at":1792670397.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792587072.065759,"platform":"luogu","problem_id":"P2678","solved_at":1792586645.0,"source":"luogu-record-list","title":"[NOIP 2015 提高组] 跳石头"}
 {"account_id":"a39","difficulty":5,"member_id":"m17","observed_at":1792463108.6660933,"platform":"luogu","problem_id":"P3435","solved_at":1792462785.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a39","difficulty":5,"member_id":"m17","observed_at":1792582192.405271,"platform":"luogu","problem_id":"P3805","solved_at":1792581758.0,"source":"luogu-record-list","title":"【模板】Manacher"}
@@ -9065,6 +9066,7 @@
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792159883.2778652,"platform":"luogu","problem_id":"P1013","solved_at":1792159421.0,"source":"luogu-record-list","title":"[NOIP 1998 提高组] 进制位"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792327897.6492283,"platform":"luogu","problem_id":"P1071","solved_at":1792327396.0,"source":"luogu-record-list","title":"[NOIP 2009 提高组] 潜伏者"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792489045.2211208,"platform":"luogu","problem_id":"P1443","solved_at":1792488645.0,"source":"luogu-record-list","title":"马的遍历"}
+{"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792670825.2724328,"platform":"luogu","problem_id":"P1605","solved_at":1792670655.0,"source":"luogu-record-list","title":"迷宫"}
 {"account_id":"a72","difficulty":5,"member_id":"m31","observed_at":1792484082.1081598,"platform":"luogu","problem_id":"P2375","solved_at":1792483846.0,"source":"luogu-record-list","title":"[NOI2014] 动物园"}
 {"account_id":"a72","difficulty":3,"member_id":"m31","observed_at":1792401173.386343,"platform":"luogu","problem_id":"P2580","solved_at":1792400150.0,"source":"luogu-record-list","title":"于是他错误的点名开始了"}
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792130059.5314116,"platform":"luogu","problem_id":"P3375","solved_at":1792110937.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
@@ -9581,6 +9583,7 @@
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792305930.12588,"platform":"luogu","problem_id":"P1160","solved_at":1792305346.0,"source":"luogu-record-list","title":"队列安排"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792309566.4580579,"platform":"luogu","problem_id":"P1540","solved_at":1792309161.0,"source":"luogu-record-list","title":"[NOIP 2010 提高组] 机器翻译"}
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792130065.802716,"platform":"luogu","problem_id":"P15883","solved_at":1790738513.0,"source":"luogu-practice-snapshot","title":"[ICPC 2026 NAC] I Don' t Miss Pennies"}
+{"account_id":"a75","difficulty":1,"member_id":"m33","observed_at":1792670939.9227095,"platform":"luogu","problem_id":"P1739","solved_at":1792670807.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792401083.0919073,"platform":"luogu","problem_id":"P1886","solved_at":1792392694.0,"source":"luogu-record-list","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792302889.0601115,"platform":"luogu","problem_id":"P1996","solved_at":1792302393.0,"source":"luogu-record-list","title":"约瑟夫问题"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792130065.80263,"platform":"luogu","problem_id":"P2392","solved_at":1790589381.0,"source":"luogu-practice-snapshot","title":"kkksc03 考前临时抱佛脚"}
