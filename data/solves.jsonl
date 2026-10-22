@@ -590,7 +590,7 @@
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.9066834,"platform":"luogu","problem_id":"P3371","solved_at":1660974176.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（弱化版）"}
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9066892,"platform":"luogu","problem_id":"P3374","solved_at":1706421883.0,"source":"luogu-practice-snapshot","title":"【模板】树状数组 1"}
 {"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9066956,"platform":"luogu","problem_id":"P3375","solved_at":1720583624.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
-{"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9066267,"platform":"luogu","problem_id":"P3388","solved_at":1729740667.0,"source":"luogu-practice-snapshot","title":"【模板】割点（割顶）"}
+{"account_id":"a5","difficulty":4,"member_id":"m3","observed_at":1792072188.9066267,"platform":"luogu","problem_id":"P3388","solved_at":1729740667.0,"source":"luogu-practice-snapshot","title":"【模板】割点"}
 {"account_id":"a5","difficulty":2,"member_id":"m3","observed_at":1792072188.9067547,"platform":"luogu","problem_id":"P3397","solved_at":1720189784.0,"source":"luogu-practice-snapshot","title":"地毯"}
 {"account_id":"a5","difficulty":3,"member_id":"m3","observed_at":1792072188.906752,"platform":"luogu","problem_id":"P3406","solved_at":1689302656.0,"source":"luogu-practice-snapshot","title":"海底高铁"}
 {"account_id":"a5","difficulty":5,"member_id":"m3","observed_at":1792072188.9067607,"platform":"luogu","problem_id":"P3435","solved_at":1720715199.0,"source":"luogu-practice-snapshot","title":"[POI 2006] OKR-Periods of Words"}
@@ -1073,7 +1073,7 @@
 {"account_id":"a9","difficulty":6,"member_id":"m5","observed_at":1792074281.303937,"platform":"luogu","problem_id":"P3376","solved_at":1789393338.0,"source":"luogu-practice-snapshot","title":"【模板】网络最大流"}
 {"account_id":"a9","difficulty":3,"member_id":"m5","observed_at":1792074281.3039467,"platform":"luogu","problem_id":"P3379","solved_at":1788099901.0,"source":"luogu-practice-snapshot","title":"【模板】最近公共祖先（LCA）"}
 {"account_id":"a9","difficulty":4,"member_id":"m5","observed_at":1792074281.3038044,"platform":"luogu","problem_id":"P3386","solved_at":1789376950.0,"source":"luogu-practice-snapshot","title":"【模板】二分图最大匹配"}
-{"account_id":"a9","difficulty":4,"member_id":"m5","observed_at":1792074281.3038142,"platform":"luogu","problem_id":"P3388","solved_at":1788955133.0,"source":"luogu-practice-snapshot","title":"【模板】割点（割顶）"}
+{"account_id":"a9","difficulty":4,"member_id":"m5","observed_at":1792074281.3038142,"platform":"luogu","problem_id":"P3388","solved_at":1788955133.0,"source":"luogu-practice-snapshot","title":"【模板】割点"}
 {"account_id":"a9","difficulty":4,"member_id":"m5","observed_at":1792074281.3040028,"platform":"luogu","problem_id":"P3396","solved_at":1774752062.0,"source":"luogu-practice-snapshot","title":"哈希冲突"}
 {"account_id":"a9","difficulty":5,"member_id":"m5","observed_at":1792074281.3040624,"platform":"luogu","problem_id":"P3435","solved_at":1760771150.0,"source":"luogu-practice-snapshot","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a9","difficulty":1,"member_id":"m5","observed_at":1792074281.3040721,"platform":"luogu","problem_id":"P3741","solved_at":1759419305.0,"source":"luogu-practice-snapshot","title":"小果的键盘"}

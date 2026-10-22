@@ -904,9 +904,9 @@
 {"accepted_at":1729308887.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2679038,"problem_id":"P2994","submission_id":"183149347","title":"[USACO10OCT] Dinner Time S"}
 {"accepted_at":1729318086.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2678726,"problem_id":"P5018","submission_id":"183189067","title":"[NOIP 2018 普及组] 对称二叉树"}
 {"accepted_at":1729669173.0,"account_id":"a5","difficulty":2,"observed_at":1792128773.2678442,"problem_id":"P1002","submission_id":"184219839","title":"[NOIP 2002 普及组] 过河卒"}
-{"accepted_at":1729740667.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2678192,"problem_id":"P3388","submission_id":"184424021","title":"【模板】割点（割顶）"}
+{"accepted_at":1729740667.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2678192,"problem_id":"P3388","submission_id":"184424021","title":"【模板】割点"}
 {"accepted_at":1729752099.0,"account_id":"a5","difficulty":2,"observed_at":1792128773.2677906,"problem_id":"B3614","submission_id":"184454062","title":"【模板】栈"}
-{"accepted_at":1729755078.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2677667,"problem_id":"P3388","submission_id":"184465405","title":"【模板】割点（割顶）"}
+{"accepted_at":1729755078.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2677667,"problem_id":"P3388","submission_id":"184465405","title":"【模板】割点"}
 {"accepted_at":1729763419.0,"account_id":"a5","difficulty":4,"observed_at":1792128773.2677429,"problem_id":"P8435","submission_id":"184506870","title":"【模板】点双连通分量"}
 {"accepted_at":1729856409.0,"account_id":"a5","difficulty":3,"observed_at":1792128773.2677195,"problem_id":"P1007","submission_id":"184792684","title":"独木桥"}
 {"accepted_at":1731233578.0,"account_id":"a5","difficulty":1,"observed_at":1792128773.2676926,"problem_id":"P11227","submission_id":"188005369","title":"[CSP-J 2024] 扑克牌"}
@@ -1569,7 +1569,7 @@
 {"accepted_at":1786523772.0,"account_id":"a9","difficulty":3,"observed_at":1792128786.0169976,"problem_id":"P1434","submission_id":"292417938","title":"[SHOI2002] 滑雪"}
 {"accepted_at":1787458939.0,"account_id":"a9","difficulty":4,"observed_at":1792128786.0169752,"problem_id":"P3372","submission_id":"294763904","title":"【模板】线段树 1"}
 {"accepted_at":1788099901.0,"account_id":"a9","difficulty":3,"observed_at":1792128786.016946,"problem_id":"P3379","submission_id":"296142212","title":"【模板】最近公共祖先（LCA）"}
-{"accepted_at":1788955133.0,"account_id":"a9","difficulty":4,"observed_at":1792128786.0169113,"problem_id":"P3388","submission_id":"297246593","title":"【模板】割点（割顶）"}
+{"accepted_at":1788955133.0,"account_id":"a9","difficulty":4,"observed_at":1792128786.0169113,"problem_id":"P3388","submission_id":"297246593","title":"【模板】割点"}
 {"accepted_at":1789376950.0,"account_id":"a9","difficulty":4,"observed_at":1792128786.01689,"problem_id":"P3386","submission_id":"297876003","title":"【模板】二分图最大匹配"}
 {"accepted_at":1789377948.0,"account_id":"a9","difficulty":4,"observed_at":1792128786.016866,"problem_id":"P3386","submission_id":"297877989","title":"【模板】二分图最大匹配"}
 {"accepted_at":1789386390.0,"account_id":"a9","difficulty":3,"observed_at":1792128786.0168433,"problem_id":"P3366","submission_id":"297892542","title":"【模板】最小生成树"}
