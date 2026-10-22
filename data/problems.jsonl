@@ -3567,6 +3567,7 @@
 {"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
 {"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
 {"difficulty":1900,"platform":"codeforces","points":1750.0,"problem_id":"2274D","tags":["math","number theory"],"title":"Robot Championship"}
+{"difficulty":2100,"platform":"codeforces","points":2000.0,"problem_id":"2274E","tags":["data structures","matrices"],"title":"Matrix Puzzle"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2275A","tags":["geometry","implementation"],"title":"In Search of Convenience"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2275B","tags":["data structures","implementation"],"title":"Did Not Go to Print"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2275C","tags":["brute force","data structures"],"title":"Unrequited Love"}
