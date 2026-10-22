@@ -3701,6 +3701,7 @@
 {"account_id":"a30","difficulty":1200,"member_id":"m12","observed_at":1792127118.8221607,"platform":"codeforces","problem_id":"776B","solved_at":1678502630.0,"source":"codeforces-api","title":"Sherlock and his girlfriend"}
 {"account_id":"a30","difficulty":1800,"member_id":"m12","observed_at":1792127118.8181896,"platform":"codeforces","problem_id":"7C","solved_at":1691589078.0,"source":"codeforces-api","title":"Line"}
 {"account_id":"a30","difficulty":1400,"member_id":"m12","observed_at":1792127118.8136976,"platform":"codeforces","problem_id":"816B","solved_at":1772629582.0,"source":"codeforces-api","title":"Karen and Coffee"}
+{"account_id":"a30","difficulty":1900,"member_id":"m12","observed_at":1792667698.5605795,"platform":"codeforces","problem_id":"817D","solved_at":1792667340.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a30","difficulty":1600,"member_id":"m12","observed_at":1792127118.8139865,"platform":"codeforces","problem_id":"835C","solved_at":1770192290.0,"source":"codeforces-api","title":"Star sky"}
 {"account_id":"a30","difficulty":2600,"member_id":"m12","observed_at":1792127118.8116808,"platform":"codeforces","problem_id":"896C","solved_at":1789115859.0,"source":"codeforces-api","title":"Willem, Chtholly and Seniorious"}
 {"account_id":"a30","difficulty":900,"member_id":"m12","observed_at":1792127118.8233078,"platform":"codeforces","problem_id":"96A","solved_at":1677390571.0,"source":"codeforces-api","title":"Football"}
@@ -9353,6 +9354,7 @@
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792638075.185312,"platform":"codeforces","problem_id":"2149A","solved_at":1792637941.0,"source":"codeforces-api","title":"Be Positive"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792638682.2384562,"platform":"codeforces","problem_id":"2149B","solved_at":1792638128.0,"source":"codeforces-api","title":"Unconventional Pairs"}
 {"account_id":"a74","difficulty":900,"member_id":"m32","observed_at":1792639289.4267223,"platform":"codeforces","problem_id":"2149C","solved_at":1792639266.0,"source":"codeforces-api","title":"MEX rose"}
+{"account_id":"a74","difficulty":1200,"member_id":"m32","observed_at":1792667415.9228358,"platform":"codeforces","problem_id":"2149D","solved_at":1792666891.0,"source":"codeforces-api","title":"A and B"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1316297,"platform":"codeforces","problem_id":"2151A","solved_at":1777206059.0,"source":"codeforces-api","title":"Incremental Subarray"}
 {"account_id":"a74","difficulty":1300,"member_id":"m32","observed_at":1792127097.131116,"platform":"codeforces","problem_id":"2151B","solved_at":1778156490.0,"source":"codeforces-api","title":"Incremental Path"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1361508,"platform":"codeforces","problem_id":"2152A","solved_at":1774791943.0,"source":"codeforces-api","title":"Increase or Smash"}
@@ -13122,6 +13124,7 @@
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657134,"platform":"luogu","problem_id":"P1150","solved_at":1791793507.0,"source":"luogu-practice-snapshot","title":"Peter 的烟"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657147,"platform":"luogu","problem_id":"P1161","solved_at":1791554346.0,"source":"luogu-practice-snapshot","title":"开灯"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792497506.310377,"platform":"luogu","problem_id":"P1200","solved_at":1792496961.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
+{"account_id":"a102","difficulty":3,"member_id":"m45","observed_at":1792667658.5729933,"platform":"luogu","problem_id":"P1205","solved_at":1792667367.0,"source":"luogu-record-list","title":"[USACO1.2] 方块转换 Transformations"}
 {"account_id":"a102","difficulty":2,"member_id":"m45","observed_at":1792563969.1904585,"platform":"luogu","problem_id":"P1217","solved_at":1792563691.0,"source":"luogu-record-list","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792543181.6856456,"platform":"luogu","problem_id":"P1304","solved_at":1792543112.0,"source":"luogu-record-list","title":"哥德巴赫猜想"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6571596,"platform":"luogu","problem_id":"P1307","solved_at":1790932269.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 数字反转"}
