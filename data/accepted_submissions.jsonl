@@ -1272,6 +1272,7 @@
 {"accepted_at":1792141710.0,"account_id":"a8","difficulty":1700,"observed_at":1792142304.313605,"problem_id":"4D","submission_id":"394791349","title":"Mysterious Present"}
 {"accepted_at":1792500720.0,"account_id":"a8","difficulty":1900,"observed_at":1792501702.0171242,"problem_id":"1092F","submission_id":"395342963","title":"Tree with Maximum Cost"}
 {"accepted_at":1792652792.0,"account_id":"a8","difficulty":1800,"observed_at":1792653474.7099981,"problem_id":"1324F","submission_id":"395544144","title":"Maximum White Subtree"}
+{"accepted_at":1792676053.0,"account_id":"a8","difficulty":2100,"observed_at":1792676374.0111918,"problem_id":"1187E","submission_id":"395585081","title":"Tree Painting"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -4029,6 +4030,7 @@
 {"accepted_at":1790599833.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6680236,"problem_id":"9573","submission_id":"3054104","title":"Social Media"}
 {"accepted_at":1791456224.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6679103,"problem_id":"6428","submission_id":"3130838","title":"K Co-prime Permutation"}
 {"accepted_at":1792675728.0,"account_id":"a26","difficulty":null,"observed_at":1792675793.9394586,"problem_id":"5426","submission_id":"3249373","title":"Drain the Water Tank"}
+{"accepted_at":1792676107.0,"account_id":"a26","difficulty":null,"observed_at":1792676396.526985,"problem_id":"5426","submission_id":"3249441","title":"Drain the Water Tank"}
 {"accepted_at":1790347677.0,"account_id":"a27","difficulty":800,"observed_at":1792082819.1128323,"problem_id":"2267A","submission_id":"392010082","title":"Turn Into a Palindrome"}
 {"accepted_at":1790349469.0,"account_id":"a27","difficulty":800,"observed_at":1792082819.1127071,"problem_id":"2267B","submission_id":"392032034","title":"Fashionable Array"}
 {"accepted_at":1790409508.0,"account_id":"a27","difficulty":1200,"observed_at":1792082819.112678,"problem_id":"2267C","submission_id":"392130475","title":"GCD Treasury"}
@@ -11900,6 +11902,7 @@
 {"accepted_at":1792666891.0,"account_id":"a74","difficulty":1200,"observed_at":1792667415.9229221,"problem_id":"2149D","submission_id":"395566996","title":"A and B"}
 {"accepted_at":1792670350.0,"account_id":"a74","difficulty":1400,"observed_at":1792670458.0234787,"problem_id":"2110C","submission_id":"395573608","title":"Racing"}
 {"accepted_at":1792672364.0,"account_id":"a74","difficulty":1500,"observed_at":1792672901.0782838,"problem_id":"2060E","submission_id":"395577606","title":"Graph Composition"}
+{"accepted_at":1792675949.0,"account_id":"a74","difficulty":1600,"observed_at":1792676266.8462377,"problem_id":"2094F","submission_id":"395584862","title":"Trulimero Trulicina"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
