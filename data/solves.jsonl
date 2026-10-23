@@ -10355,6 +10355,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2950673,"platform":"luogu","problem_id":"B2029","solved_at":1788354982.0,"source":"luogu-practice-snapshot","title":"大象喝水"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2947178,"platform":"luogu","problem_id":"P1000","solved_at":1777725184.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.1804445,"platform":"luogu","problem_id":"P1001","solved_at":1777728661.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
+{"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792749202.2821646,"platform":"luogu","problem_id":"P1002","solved_at":1792749185.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2839231,"platform":"luogu","problem_id":"P1035","solved_at":1777730179.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 级数求和"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2944133,"platform":"luogu","problem_id":"P1046","solved_at":1777730659.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792130086.2945535,"platform":"luogu","problem_id":"P1055","solved_at":1789198318.0,"source":"luogu-practice-snapshot","title":"[NOIP 2008 普及组] ISBN 号码"}
@@ -14574,6 +14575,7 @@
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0408664,"platform":"luogu","problem_id":"P1596","solved_at":1766226649.0,"source":"luogu-practice-snapshot","title":"[USACO10OCT] Lake Counting S"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.040879,"platform":"luogu","problem_id":"P1601","solved_at":1766825526.0,"source":"luogu-practice-snapshot","title":"高精度加法"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.040892,"platform":"luogu","problem_id":"P1605","solved_at":1766214402.0,"source":"luogu-practice-snapshot","title":"迷宫"}
+{"account_id":"a113","difficulty":3,"member_id":"m50","observed_at":1792749232.4715762,"platform":"luogu","problem_id":"P1944","solved_at":1792748929.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0409052,"platform":"luogu","problem_id":"P2404","solved_at":1766239656.0,"source":"luogu-practice-snapshot","title":"自然数的拆分问题"}
 {"account_id":"a113","difficulty":5,"member_id":"m50","observed_at":1792245715.705613,"platform":"luogu","problem_id":"P3435","solved_at":1792245465.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a114","difficulty":900,"member_id":"m50","observed_at":1792148515.3773537,"platform":"codeforces","problem_id":"2005A","solved_at":1778128977.0,"source":"codeforces-api","title":"Simple Palindrome"}
@@ -16835,6 +16837,7 @@
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1511276,"platform":"luogu","problem_id":"P2590","solved_at":1791106960.0,"source":"luogu-practice-snapshot","title":"[ZJOI2008] 树的统计"}
 {"account_id":"a148","difficulty":3,"member_id":"m66","observed_at":1792150179.1512163,"platform":"luogu","problem_id":"P2719","solved_at":1769757028.0,"source":"luogu-practice-snapshot","title":"搞笑世界杯"}
 {"account_id":"a148","difficulty":2,"member_id":"m66","observed_at":1792150179.1527739,"platform":"luogu","problem_id":"P2842","solved_at":1775034437.0,"source":"luogu-practice-snapshot","title":"纸币问题 1"}
+{"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792749303.3752909,"platform":"luogu","problem_id":"P2870","solved_at":1792749152.0,"source":"luogu-record-list","title":"[USACO07DEC] Best Cow Line G"}
 {"account_id":"a148","difficulty":2,"member_id":"m66","observed_at":1792150179.151648,"platform":"luogu","problem_id":"P2945","solved_at":1769839393.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
 {"account_id":"a148","difficulty":3,"member_id":"m66","observed_at":1792150179.151739,"platform":"luogu","problem_id":"P2949","solved_at":1770445275.0,"source":"luogu-practice-snapshot","title":"[USACO09OPEN] Work Scheduling G"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.151761,"platform":"luogu","problem_id":"P2953","solved_at":1790654604.0,"source":"luogu-practice-snapshot","title":"[USACO09OPEN] Cow Digit Game S"}
