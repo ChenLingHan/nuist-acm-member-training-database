@@ -5796,6 +5796,7 @@
 {"account_id":"a34","difficulty":2,"member_id":"m14","observed_at":1792745761.169146,"platform":"luogu","problem_id":"P1008","solved_at":1792745422.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 三连击"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792583412.6015494,"platform":"luogu","problem_id":"P1090","solved_at":1792583102.0,"source":"luogu-record-list","title":"[NOIP 2004 提高组] 合并果子"}
 {"account_id":"a39","difficulty":1,"member_id":"m17","observed_at":1792633341.7778127,"platform":"luogu","problem_id":"P1739","solved_at":1792633008.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792670918.7762258,"platform":"luogu","problem_id":"P1944","solved_at":1792670397.0,"source":"luogu-record-list","title":"最长括号匹配"}
@@ -17102,6 +17103,7 @@
 {"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792150201.90037,"platform":"luogu","problem_id":"P1824","solved_at":1787396510.0,"source":"luogu-practice-snapshot","title":"[USACO05FEB] 进击的奶牛 Aggressive Cows G"}
 {"account_id":"a151","difficulty":3,"member_id":"m67","observed_at":1792150201.900379,"platform":"luogu","problem_id":"P1886","solved_at":1753687602.0,"source":"luogu-practice-snapshot","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a151","difficulty":5,"member_id":"m67","observed_at":1792150201.900388,"platform":"luogu","problem_id":"P1896","solved_at":1754231538.0,"source":"luogu-practice-snapshot","title":"[SCOI2005] 互不侵犯"}
+{"account_id":"a151","difficulty":3,"member_id":"m67","observed_at":1792762183.016659,"platform":"luogu","problem_id":"P1944","solved_at":1792761807.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a151","difficulty":5,"member_id":"m67","observed_at":1792150201.9003978,"platform":"luogu","problem_id":"P1967","solved_at":1690787246.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 提高组] 货车运输"}
 {"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792150201.9004066,"platform":"luogu","problem_id":"P1996","solved_at":1781596386.0,"source":"luogu-practice-snapshot","title":"约瑟夫问题"}
 {"account_id":"a151","difficulty":4,"member_id":"m67","observed_at":1792150201.9004154,"platform":"luogu","problem_id":"P2015","solved_at":1753160026.0,"source":"luogu-practice-snapshot","title":"二叉苹果树"}
