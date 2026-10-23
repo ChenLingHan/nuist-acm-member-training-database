@@ -4945,6 +4945,7 @@
 {"accepted_at":1792668576.0,"account_id":"a28","difficulty":5,"observed_at":1792669011.7252283,"problem_id":"P3805","submission_id":"304800553","title":"【模板】Manacher"}
 {"accepted_at":1792741236.0,"account_id":"a28","difficulty":5,"observed_at":1792741744.4576342,"problem_id":"P3805","submission_id":"304959410","title":"【模板】Manacher"}
 {"accepted_at":1792741266.0,"account_id":"a28","difficulty":5,"observed_at":1792741744.4575214,"problem_id":"P3805","submission_id":"304959540","title":"【模板】Manacher"}
+{"accepted_at":1792741974.0,"account_id":"a28","difficulty":4,"observed_at":1792742351.556176,"problem_id":"P7410","submission_id":"304962497","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1788792955.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729434,"problem_id":"20019","submission_id":"2899043","title":"Sequence"}
 {"accepted_at":1788794500.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729356,"problem_id":"20019","submission_id":"2899390","title":"Sequence"}
 {"accepted_at":1789719785.0,"account_id":"a29","difficulty":null,"observed_at":1792126981.0729284,"problem_id":"14551","submission_id":"2987559","title":"看比赛回放"}
@@ -13533,6 +13534,8 @@
 {"accepted_at":1792479266.0,"account_id":"a95","difficulty":6,"observed_at":1792479576.5769029,"problem_id":"P3796","submission_id":"304330722","title":"AC 自动机（简单版 II）"}
 {"accepted_at":1792479414.0,"account_id":"a95","difficulty":6,"observed_at":1792479576.5767815,"problem_id":"P5357","submission_id":"304331181","title":"【模板】AC 自动机"}
 {"accepted_at":1792509343.0,"account_id":"a95","difficulty":6,"observed_at":1792509510.2682097,"problem_id":"P4052","submission_id":"304473124","title":"[JSOI2007] 文本生成器"}
+{"accepted_at":1792741593.0,"account_id":"a95","difficulty":2,"observed_at":1792742095.5696428,"problem_id":"P1177","submission_id":"304960902","title":"【模板】排序"}
+{"accepted_at":1792742053.0,"account_id":"a95","difficulty":2,"observed_at":1792742095.5695462,"problem_id":"P1059","submission_id":"304962853","title":"[NOIP 2006 普及组] 明明的随机数"}
 {"accepted_at":1781023378.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.485516,"problem_id":"2233A","submission_id":"377997670","title":"AI Project Development"}
 {"accepted_at":1782659090.0,"account_id":"a96","difficulty":800,"observed_at":1792127114.4854825,"problem_id":"2238A","submission_id":"380485715","title":"Another Puzzle from Papyrus"}
 {"accepted_at":1782659469.0,"account_id":"a96","difficulty":900,"observed_at":1792127114.485449,"problem_id":"2238B","submission_id":"380488923","title":"Crimson Triples"}
