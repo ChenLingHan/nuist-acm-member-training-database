@@ -11392,6 +11392,7 @@
 {"accepted_at":1792488645.0,"account_id":"a72","difficulty":2,"observed_at":1792489045.221205,"problem_id":"P1443","submission_id":"304367014","title":"马的遍历"}
 {"accepted_at":1792670655.0,"account_id":"a72","difficulty":2,"observed_at":1792670825.2725194,"problem_id":"P1605","submission_id":"304815217","title":"迷宫"}
 {"accepted_at":1792671943.0,"account_id":"a72","difficulty":1,"observed_at":1792672060.6872056,"problem_id":"P1739","submission_id":"304824687","title":"表达式括号匹配"}
+{"accepted_at":1792715864.0,"account_id":"a72","difficulty":2,"observed_at":1792716010.2184136,"problem_id":"P1093","submission_id":"304887712","title":"[NOIP 2007 普及组] 奖学金"}
 {"accepted_at":1761746973.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1631203,"problem_id":"2162A","submission_id":"346476628","title":"Beautiful Average"}
 {"accepted_at":1761785914.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1630282,"problem_id":"2162B","submission_id":"346546845","title":"Beautiful String"}
 {"accepted_at":1761786770.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.162935,"problem_id":"2167A","submission_id":"346547611","title":"Square?"}
@@ -24643,6 +24644,7 @@
 {"accepted_at":1792672785.0,"account_id":"a158","difficulty":1,"observed_at":1792672954.6883194,"problem_id":"P3156","submission_id":"304830693","title":"【深基15.例1】询问学号"}
 {"accepted_at":1792673157.0,"account_id":"a158","difficulty":2,"observed_at":1792673562.0474083,"problem_id":"P3613","submission_id":"304833469","title":"【深基15.例2】寄包柜"}
 {"accepted_at":1792674287.0,"account_id":"a158","difficulty":2,"observed_at":1792674807.9980216,"problem_id":"P1449","submission_id":"304841423","title":"后缀表达式"}
+{"accepted_at":1792715476.0,"account_id":"a158","difficulty":3,"observed_at":1792715725.1276333,"problem_id":"P4387","submission_id":"304887327","title":"【深基15.习9】验证栈序列"}
 {"accepted_at":1631024137.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007793,"problem_id":"1509A","submission_id":"128133913","title":"Average Height"}
 {"accepted_at":1631024816.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007552,"problem_id":"1509A","submission_id":"128134880","title":"Average Height"}
 {"accepted_at":1662869388.0,"account_id":"a159","difficulty":1000,"observed_at":1792148551.100661,"problem_id":"1266A","submission_id":"171671108","title":"Competitive Programmer"}
