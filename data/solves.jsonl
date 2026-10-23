@@ -3711,6 +3711,7 @@
 {"account_id":"a30","difficulty":1400,"member_id":"m12","observed_at":1792127118.8136976,"platform":"codeforces","problem_id":"816B","solved_at":1772629582.0,"source":"codeforces-api","title":"Karen and Coffee"}
 {"account_id":"a30","difficulty":1900,"member_id":"m12","observed_at":1792667698.5605795,"platform":"codeforces","problem_id":"817D","solved_at":1792667340.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a30","difficulty":1600,"member_id":"m12","observed_at":1792127118.8139865,"platform":"codeforces","problem_id":"835C","solved_at":1770192290.0,"source":"codeforces-api","title":"Star sky"}
+{"account_id":"a30","difficulty":2200,"member_id":"m12","observed_at":1792748208.5982058,"platform":"codeforces","problem_id":"86B","solved_at":1792747882.0,"source":"codeforces-api","title":"Tetris revisited"}
 {"account_id":"a30","difficulty":2600,"member_id":"m12","observed_at":1792127118.8116808,"platform":"codeforces","problem_id":"896C","solved_at":1789115859.0,"source":"codeforces-api","title":"Willem, Chtholly and Seniorious"}
 {"account_id":"a30","difficulty":900,"member_id":"m12","observed_at":1792127118.8233078,"platform":"codeforces","problem_id":"96A","solved_at":1677390571.0,"source":"codeforces-api","title":"Football"}
 {"account_id":"a30","difficulty":800,"member_id":"m12","observed_at":1792127118.820559,"platform":"codeforces","problem_id":"9A","solved_at":1683968954.0,"source":"codeforces-api","title":"Die Roll"}
@@ -10361,6 +10362,7 @@
 {"account_id":"a83","difficulty":3,"member_id":"m36","observed_at":1792569695.1110861,"platform":"luogu","problem_id":"P1160","solved_at":1792569228.0,"source":"luogu-record-list","title":"队列安排"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792506798.5920315,"platform":"luogu","problem_id":"P1200","solved_at":1792506454.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792677094.6949093,"platform":"luogu","problem_id":"P1241","solved_at":1792677049.0,"source":"luogu-record-list","title":"括号序列"}
+{"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792747975.7382784,"platform":"luogu","problem_id":"P1255","solved_at":1792747426.0,"source":"luogu-record-list","title":"数楼梯"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792473827.8726623,"platform":"luogu","problem_id":"P1308","solved_at":1792473432.0,"source":"luogu-record-list","title":"[NOIP 2011 普及组] 统计单词数"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792503098.306798,"platform":"luogu","problem_id":"P1321","solved_at":1792503042.0,"source":"luogu-record-list","title":"单词覆盖还原"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2945776,"platform":"luogu","problem_id":"P1421","solved_at":1788355634.0,"source":"luogu-practice-snapshot","title":"小玉买文具"}
@@ -19606,6 +19608,7 @@
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8458083,"platform":"luogu","problem_id":"P1219","solved_at":1625058729.0,"source":"luogu-practice-snapshot","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8458176,"platform":"luogu","problem_id":"P1223","solved_at":1613129211.0,"source":"luogu-practice-snapshot","title":"排队接水"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8458264,"platform":"luogu","problem_id":"P1226","solved_at":1621689566.0,"source":"luogu-practice-snapshot","title":"【模板】快速幂"}
+{"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792747529.3489215,"platform":"luogu","problem_id":"P1228","solved_at":1792747443.0,"source":"luogu-record-list","title":"地毯填补问题"}
 {"account_id":"a158","difficulty":3,"member_id":"m70","observed_at":1792150258.8458376,"platform":"luogu","problem_id":"P1229","solved_at":1621952673.0,"source":"luogu-practice-snapshot","title":"遍历问题"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.847051,"platform":"luogu","problem_id":"P1271","solved_at":1627992521.0,"source":"luogu-practice-snapshot","title":"【深基9.例1】选举学生会"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.845847,"platform":"luogu","problem_id":"P1296","solved_at":1651241324.0,"source":"luogu-practice-snapshot","title":"奶牛的耳语"}
