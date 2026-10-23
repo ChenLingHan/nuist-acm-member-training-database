@@ -30770,6 +30770,8 @@
 {"account_id":"a49","difficulty":6,"observed_at":1792513550.9961565,"problem_id":"P3809","source":"luogu-record-list","submission_id":"304478921","submitted_at":1792512970,"title":"【模板】后缀排序（SA）","verdict":"OK"}
 {"account_id":"a49","difficulty":4,"observed_at":1792732681.1069317,"problem_id":"P3368","source":"luogu-record-list","submission_id":"304928136","submitted_at":1792732590,"title":"【模板】树状数组 2","verdict":"OK"}
 {"account_id":"a49","difficulty":3,"observed_at":1792778608.0049336,"problem_id":"P3865","source":"luogu-record-list","submission_id":"305127994","submitted_at":1792778200,"title":"【模板】ST 表 & RMQ 问题","verdict":"OK"}
+{"account_id":"a49","difficulty":3,"observed_at":1792779826.225197,"problem_id":"P1816","source":"luogu-record-list","submission_id":"305128147","submitted_at":1792779551,"title":"忠诚","verdict":"OK"}
+{"account_id":"a49","difficulty":3,"observed_at":1792779826.225197,"problem_id":"P2251","source":"luogu-record-list","submission_id":"305128171","submitted_at":1792779766,"title":"质量检测","verdict":"OK"}
 {"account_id":"a5","difficulty":3,"observed_at":1792158825.7626705,"problem_id":"P1865","source":"luogu-record-list","submission_id":"61929075","submitted_at":1636206986,"title":"A % B Problem","verdict":"OK"}
 {"account_id":"a5","difficulty":3,"observed_at":1792158825.7626705,"problem_id":"P1865","source":"luogu-record-list","submission_id":"62512292","submitted_at":1636811273,"title":"A % B Problem","verdict":"OK"}
 {"account_id":"a5","difficulty":2,"observed_at":1792158825.7626705,"problem_id":"P1579","source":"luogu-record-list","submission_id":"62522143","submitted_at":1636820045,"title":"哥德巴赫猜想（升级版）","verdict":"OK"}
