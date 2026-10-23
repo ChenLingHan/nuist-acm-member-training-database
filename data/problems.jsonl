@@ -3511,6 +3511,7 @@
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"2259D","tags":["constructive algorithms","greedy"],"title":"MEX Multiset"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"2259E","tags":["2-sat","constructive algorithms","greedy"],"title":"Treasure Map Destruction (Constructive Version)"}
 {"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"2259F","tags":["data structures","math","two pointers"],"title":"Binary Bubble Sort Inversions"}
+{"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"2259G","tags":["binary search","data structures","math"],"title":"Index Removal"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"2260A","tags":["implementation"],"title":"Monocarp's Contest"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"2260B","tags":["brute force","math","number theory"],"title":"Monocarp and Projects"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2260C","tags":["bitmasks","greedy"],"title":"Maximize XOR, Minimize Operations"}
