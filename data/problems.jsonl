@@ -3953,6 +3953,7 @@
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"898F","tags":["brute force","hashing","math"],"title":"Restoring the Expression"}
 {"difficulty":2000,"platform":"codeforces","points":2250.0,"problem_id":"899E","tags":["data structures","dsu","flows","implementation","two pointers"],"title":"Segments Removal"}
 {"difficulty":2900,"platform":"codeforces","points":2500.0,"problem_id":"89E","tags":["greedy"],"title":"Fire and Ice"}
+{"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"8C","tags":["bitmasks","dp"],"title":"Looking for Order"}
 {"difficulty":2000,"platform":"codeforces","points":2000.0,"problem_id":"900D","tags":["bitmasks","combinatorics","dp","math","number theory"],"title":"Unusual Sequences"}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"907B","tags":["implementation"],"title":"Tic-Tac-Toe"}
 {"difficulty":2800,"platform":"codeforces","points":2750.0,"problem_id":"908G","tags":["dp","math"],"title":"New Year and Original Order"}
