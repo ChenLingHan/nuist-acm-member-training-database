@@ -3682,6 +3682,7 @@
 {"difficulty":2500,"platform":"codeforces","points":2500.0,"problem_id":"416E","tags":["dp","graphs","shortest paths"],"title":"President's Path"}
 {"difficulty":3100,"platform":"codeforces","points":2500.0,"problem_id":"418E","tags":["data structures"],"title":"Tricky Password"}
 {"difficulty":1900,"platform":"codeforces","points":2500.0,"problem_id":"41E","tags":["constructive algorithms","graphs","greedy"],"title":"3-cycles"}
+{"difficulty":2200,"platform":"codeforces","points":2000.0,"problem_id":"427D","tags":["dp","string suffix structures","strings"],"title":"Match & Catch"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"431C","tags":["dp","implementation","trees"],"title":"k-Tree"}
 {"difficulty":2200,"platform":"codeforces","points":2500.0,"problem_id":"431E","tags":["binary search","data structures","ternary search"],"title":"Chemistry Experiment"}
 {"difficulty":2000,"platform":"codeforces","points":2000.0,"problem_id":"432D","tags":["dp","string suffix structures","strings","two pointers"],"title":"Prefixes and Suffixes"}
