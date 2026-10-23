@@ -476,6 +476,7 @@
 {"accepted_at":1792572672.0,"account_id":"a1","difficulty":2,"observed_at":1792573088.97843,"problem_id":"P14159","submission_id":"304558422","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
 {"accepted_at":1792572794.0,"account_id":"a1","difficulty":2,"observed_at":1792573088.9783206,"problem_id":"P14161","submission_id":"304559078","title":"[ICPC 2022 Nanjing R] 完美回文"}
 {"accepted_at":1792674140.0,"account_id":"a1","difficulty":4,"observed_at":1792674345.8936105,"problem_id":"P14165","submission_id":"304840478","title":"[ICPC 2022 Nanjing R] 清空水箱"}
+{"accepted_at":1792764771.0,"account_id":"a1","difficulty":4,"observed_at":1792764813.8022382,"problem_id":"P14153","submission_id":"305104237","title":"[ICPC 2022 Nanjing R] 停停，昨日请不要再重现"}
 {"accepted_at":1721055750.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.920079,"problem_id":"1988A","submission_id":"270673349","title":"Split the Multiset"}
 {"accepted_at":1721056723.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.9200747,"problem_id":"1988B","submission_id":"270688461","title":"Make Majority"}
 {"accepted_at":1721060197.0,"account_id":"a2","difficulty":1300,"observed_at":1792070042.9200702,"problem_id":"1988C","submission_id":"270728802","title":"Increasing Sequence with Fixed OR"}
@@ -1277,6 +1278,7 @@
 {"accepted_at":1792500720.0,"account_id":"a8","difficulty":1900,"observed_at":1792501702.0171242,"problem_id":"1092F","submission_id":"395342963","title":"Tree with Maximum Cost"}
 {"accepted_at":1792652792.0,"account_id":"a8","difficulty":1800,"observed_at":1792653474.7099981,"problem_id":"1324F","submission_id":"395544144","title":"Maximum White Subtree"}
 {"accepted_at":1792676053.0,"account_id":"a8","difficulty":2100,"observed_at":1792676374.0111918,"problem_id":"1187E","submission_id":"395585081","title":"Tree Painting"}
+{"accepted_at":1792764484.0,"account_id":"a8","difficulty":2000,"observed_at":1792764754.9523778,"problem_id":"8C","submission_id":"395711115","title":"Looking for Order"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -7827,6 +7829,7 @@
 {"accepted_at":1792744393.0,"account_id":"a34","difficulty":3,"observed_at":1792744541.472883,"problem_id":"P1007","submission_id":"304973952","title":"独木桥"}
 {"accepted_at":1792745422.0,"account_id":"a34","difficulty":2,"observed_at":1792745761.169226,"problem_id":"P1008","submission_id":"304979265","title":"[NOIP 1998 普及组] 三连击"}
 {"accepted_at":1792762251.0,"account_id":"a37","difficulty":1,"observed_at":1792762289.66419,"problem_id":"P1739","submission_id":"305090389","title":"表达式括号匹配"}
+{"accepted_at":1792764580.0,"account_id":"a37","difficulty":2,"observed_at":1792764743.48393,"problem_id":"P1449","submission_id":"305103319","title":"后缀表达式"}
 {"accepted_at":1792221828.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.1811852,"problem_id":"P7911","submission_id":"303624076","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792221991.0,"account_id":"a39","difficulty":3,"observed_at":1792222410.180966,"problem_id":"P7911","submission_id":"303625515","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792394247.0,"account_id":"a39","difficulty":3,"observed_at":1792401305.5032828,"problem_id":"P7911","submission_id":"304148254","title":"[CSP-J 2021] 网络连接"}

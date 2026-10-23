@@ -184,6 +184,7 @@
 {"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1792052898.4657078,"platform":"luogu","problem_id":"P13962","solved_at":1791465498.0,"source":"luogu-practice-snapshot","title":"[ICPC 2023 Nanjing R] 电梯"}
 {"account_id":"a1","difficulty":5,"member_id":"m1","observed_at":1792052898.465709,"platform":"luogu","problem_id":"P13963","solved_at":1791539016.0,"source":"luogu-practice-snapshot","title":"[ICPC 2023 Nanjing R] 接雨水"}
 {"account_id":"a1","difficulty":5,"member_id":"m1","observed_at":1792052898.465715,"platform":"luogu","problem_id":"P14024","solved_at":1790829516.0,"source":"luogu-practice-snapshot","title":"[ICPC 2024 Nanjing R] 纸条"}
+{"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1792764813.8021514,"platform":"luogu","problem_id":"P14153","solved_at":1792764771.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 停停，昨日请不要再重现"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792573088.9784222,"platform":"luogu","problem_id":"P14159","solved_at":1792572672.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792573088.9782364,"platform":"luogu","problem_id":"P14161","solved_at":1792572794.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 完美回文"}
 {"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1792674345.8935275,"platform":"luogu","problem_id":"P14165","solved_at":1792674140.0,"source":"luogu-record-list","title":"[ICPC 2022 Nanjing R] 清空水箱"}
@@ -913,6 +914,7 @@
 {"account_id":"a8","difficulty":800,"member_id":"m4","observed_at":1792073909.8305507,"platform":"codeforces","problem_id":"716A","solved_at":1789616061.0,"source":"codeforces-api","title":"Crazy Computer"}
 {"account_id":"a8","difficulty":800,"member_id":"m4","observed_at":1792073909.8334544,"platform":"codeforces","problem_id":"71A","solved_at":1756365860.0,"source":"codeforces-api","title":"Way Too Long Words"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792073909.8296113,"platform":"codeforces","problem_id":"864D","solved_at":1791972034.0,"source":"codeforces-api","title":"Make a Permutation!"}
+{"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792764754.9451144,"platform":"codeforces","problem_id":"8C","solved_at":1792764484.0,"source":"codeforces-api","title":"Looking for Order"}
 {"account_id":"a8","difficulty":1100,"member_id":"m4","observed_at":1792073909.8304546,"platform":"codeforces","problem_id":"90B","solved_at":1789731339.0,"source":"codeforces-api","title":"African Crossword"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792073909.8297803,"platform":"codeforces","problem_id":"91B","solved_at":1791513716.0,"source":"codeforces-api","title":"Queue"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792073909.8297646,"platform":"codeforces","problem_id":"977E","solved_at":1790603721.0,"source":"codeforces-api","title":"Cyclic Components"}
@@ -5797,6 +5799,7 @@
 {"account_id":"a34","difficulty":2,"member_id":"m14","observed_at":1792745761.169146,"platform":"luogu","problem_id":"P1008","solved_at":1792745422.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 三连击"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792583412.6015494,"platform":"luogu","problem_id":"P1090","solved_at":1792583102.0,"source":"luogu-record-list","title":"[NOIP 2004 提高组] 合并果子"}
 {"account_id":"a39","difficulty":1,"member_id":"m17","observed_at":1792633341.7778127,"platform":"luogu","problem_id":"P1739","solved_at":1792633008.0,"source":"luogu-record-list","title":"表达式括号匹配"}
