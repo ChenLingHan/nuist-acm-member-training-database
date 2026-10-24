@@ -3009,6 +3009,7 @@
 {"account_id":"a27","difficulty":1000,"member_id":"m11","observed_at":1792082819.1125526,"platform":"codeforces","problem_id":"2269B","solved_at":1790436722.0,"source":"codeforces-api","title":"KiaKio and Squared Numbers"}
 {"account_id":"a27","difficulty":1200,"member_id":"m11","observed_at":1792082819.112581,"platform":"codeforces","problem_id":"2269C","solved_at":1790435650.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a27","difficulty":1500,"member_id":"m11","observed_at":1792082819.1125195,"platform":"codeforces","problem_id":"2269D","solved_at":1790441005.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
+{"account_id":"a27","difficulty":1900,"member_id":"m11","observed_at":1792809067.5749955,"platform":"codeforces","problem_id":"817D","solved_at":1792808893.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4203541,"platform":"luogu","problem_id":"AT_arc117_c","solved_at":1697200604.0,"source":"luogu-practice-snapshot","title":"[ARC117C] Tricolor Pyramid"}
 {"account_id":"a28","difficulty":1,"member_id":"m12","observed_at":1792083216.419754,"platform":"luogu","problem_id":"B2001","solved_at":1663054427.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
 {"account_id":"a28","difficulty":1,"member_id":"m12","observed_at":1792083216.4197674,"platform":"luogu","problem_id":"B2002","solved_at":1663054542.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -14716,6 +14717,7 @@
 {"account_id":"a117","difficulty":3,"member_id":"m52","observed_at":1792740036.394118,"platform":"luogu","problem_id":"P1944","solved_at":1792739883.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a117","difficulty":4,"member_id":"m52","observed_at":1792153235.9846566,"platform":"luogu","problem_id":"P3375","solved_at":1792111452.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a117","difficulty":5,"member_id":"m52","observed_at":1792546540.1594307,"platform":"luogu","problem_id":"P3435","solved_at":1792546222.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a117","difficulty":5,"member_id":"m52","observed_at":1792809265.088269,"platform":"luogu","problem_id":"P3805","solved_at":1792808776.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.9848216,"platform":"luogu","problem_id":"P3954","solved_at":1791631364.0,"source":"luogu-record-list","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.9849508,"platform":"luogu","problem_id":"P5703","solved_at":1783739571.0,"source":"luogu-record-list","title":"【深基2.例5】苹果采购"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.9849403,"platform":"luogu","problem_id":"P5704","solved_at":1783739765.0,"source":"luogu-record-list","title":"【深基2.例6】字母转换"}

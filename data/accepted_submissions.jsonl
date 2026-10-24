@@ -4079,6 +4079,7 @@
 {"accepted_at":1791962568.0,"account_id":"a27","difficulty":null,"observed_at":1792082819.1120896,"problem_id":"105901I","submission_id":"394482232","title":"Bingo 3"}
 {"accepted_at":1792559913.0,"account_id":"a27","difficulty":null,"observed_at":1792560376.2997425,"problem_id":"104128I","submission_id":"395416395","title":"Perfect Palindrome"}
 {"accepted_at":1792563998.0,"account_id":"a27","difficulty":null,"observed_at":1792564106.5633461,"problem_id":"104128G","submission_id":"395422014","title":"Inscryption"}
+{"accepted_at":1792808893.0,"account_id":"a27","difficulty":1900,"observed_at":1792809067.5750794,"problem_id":"817D","submission_id":"395781205","title":"Imbalanced Array"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -18711,6 +18712,7 @@
 {"accepted_at":1792739883.0,"account_id":"a117","difficulty":3,"observed_at":1792740036.3942015,"problem_id":"P1944","submission_id":"304953630","title":"最长括号匹配"}
 {"accepted_at":1792803386.0,"account_id":"a117","difficulty":1,"observed_at":1792803743.1870496,"problem_id":"P1897","submission_id":"305139254","title":"电梯里的尴尬"}
 {"accepted_at":1792805527.0,"account_id":"a117","difficulty":2,"observed_at":1792805578.022134,"problem_id":"P1165","submission_id":"305151217","title":"日志分析"}
+{"accepted_at":1792808776.0,"account_id":"a117","difficulty":5,"observed_at":1792809265.0883644,"problem_id":"P3805","submission_id":"305175430","title":"【模板】Manacher"}
 {"accepted_at":1792066653.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924863,"problem_id":"B2002","submission_id":"303238665","title":"Hello,World!"}
 {"accepted_at":1792066888.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924618,"problem_id":"B2025","submission_id":"303240261","title":"输出字符菱形"}
 {"accepted_at":1792068880.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924341,"problem_id":"P1425","submission_id":"303253121","title":"小鱼的游泳时间"}
