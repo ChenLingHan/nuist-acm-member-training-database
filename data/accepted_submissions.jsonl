@@ -1967,6 +1967,7 @@
 {"accepted_at":1790511812.0,"account_id":"a12","difficulty":3,"observed_at":1792128793.4474819,"problem_id":"P17511","submission_id":"299653732","title":"[入门赛 #52] 月饼调配"}
 {"accepted_at":1792220739.0,"account_id":"a12","difficulty":3,"observed_at":1792221311.520438,"problem_id":"P7911","submission_id":"303614861","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792804390.0,"account_id":"a12","difficulty":1,"observed_at":1792804734.0814643,"problem_id":"P1897","submission_id":"305144266","title":"电梯里的尴尬"}
+{"accepted_at":1792807380.0,"account_id":"a12","difficulty":2,"observed_at":1792807797.4750583,"problem_id":"P1165","submission_id":"305164332","title":"日志分析"}
 {"accepted_at":1760371539.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226588,"problem_id":"P3984","submission_id":"240431884","title":"高兴的津津"}
 {"accepted_at":1760439449.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226109,"problem_id":"P3392","submission_id":"240523673","title":"涂条纹"}
 {"accepted_at":1761355194.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.822582,"problem_id":"P1162","submission_id":"242805276","title":"填涂颜色"}
@@ -7869,6 +7870,8 @@
 {"accepted_at":1792805585.0,"account_id":"a39","difficulty":2,"observed_at":1792806126.0571148,"problem_id":"P1165","submission_id":"305151585","title":"日志分析"}
 {"accepted_at":1792805597.0,"account_id":"a39","difficulty":2,"observed_at":1792806126.056986,"problem_id":"P1165","submission_id":"305151655","title":"日志分析"}
 {"accepted_at":1792806225.0,"account_id":"a39","difficulty":1,"observed_at":1792806736.3667665,"problem_id":"P1897","submission_id":"305155895","title":"电梯里的尴尬"}
+{"accepted_at":1792807449.0,"account_id":"a39","difficulty":5,"observed_at":1792807954.2315762,"problem_id":"P3805","submission_id":"305164848","title":"【模板】Manacher"}
+{"accepted_at":1792807473.0,"account_id":"a39","difficulty":5,"observed_at":1792807954.231459,"problem_id":"P3805","submission_id":"305165014","title":"【模板】Manacher"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -12019,6 +12022,7 @@
 {"accepted_at":1792670807.0,"account_id":"a75","difficulty":1,"observed_at":1792670939.9227922,"problem_id":"P1739","submission_id":"304816431","title":"表达式括号匹配"}
 {"accepted_at":1792805996.0,"account_id":"a75","difficulty":1,"observed_at":1792806141.451615,"problem_id":"P1897","submission_id":"305154264","title":"电梯里的尴尬"}
 {"accepted_at":1792807259.0,"account_id":"a75","difficulty":2,"observed_at":1792807364.6784432,"problem_id":"P1165","submission_id":"305163456","title":"日志分析"}
+{"accepted_at":1792807783.0,"account_id":"a75","difficulty":5,"observed_at":1792807973.8345945,"problem_id":"P3805","submission_id":"305167435","title":"【模板】Manacher"}
 {"accepted_at":1785777026.0,"account_id":"a76","difficulty":800,"observed_at":1792127099.6203043,"problem_id":"4A","submission_id":"385443625","title":"Watermelon"}
 {"accepted_at":1785857308.0,"account_id":"a76","difficulty":800,"observed_at":1792127099.6202872,"problem_id":"2254A","submission_id":"385616900","title":"Riptide"}
 {"accepted_at":1785857345.0,"account_id":"a76","difficulty":900,"observed_at":1792127099.6202545,"problem_id":"2254B","submission_id":"385617460","title":"Evanescent"}
@@ -17678,6 +17682,8 @@
 {"accepted_at":1792804732.0,"account_id":"a108","difficulty":2,"observed_at":1792805049.3175523,"problem_id":"P1165","submission_id":"305146220","title":"日志分析"}
 {"accepted_at":1792804754.0,"account_id":"a108","difficulty":2,"observed_at":1792805049.3175266,"problem_id":"P1165","submission_id":"305146365","title":"日志分析"}
 {"accepted_at":1792804804.0,"account_id":"a108","difficulty":2,"observed_at":1792805049.3173466,"problem_id":"P1165","submission_id":"305146657","title":"日志分析"}
+{"accepted_at":1792807993.0,"account_id":"a108","difficulty":5,"observed_at":1792808098.412174,"problem_id":"P3805","submission_id":"305169080","title":"【模板】Manacher"}
+{"accepted_at":1792808049.0,"account_id":"a108","difficulty":5,"observed_at":1792808098.412065,"problem_id":"P3805","submission_id":"305169483","title":"【模板】Manacher"}
 {"accepted_at":1728786432.0,"account_id":"a110","difficulty":1,"observed_at":1792164132.9546237,"problem_id":"B2002","submission_id":"181756411","title":"Hello,World!"}
 {"accepted_at":1728786686.0,"account_id":"a110","difficulty":1,"observed_at":1792164132.9545975,"problem_id":"B2025","submission_id":"181758018","title":"输出字符菱形"}
 {"accepted_at":1728787299.0,"account_id":"a110","difficulty":1,"observed_at":1792164132.9545684,"problem_id":"P1000","submission_id":"181762276","title":"超级玛丽游戏"}
@@ -18631,6 +18637,7 @@
 {"accepted_at":1792748963.0,"account_id":"a113","difficulty":3,"observed_at":1792749232.4716613,"problem_id":"P1944","submission_id":"304997013","title":"最长括号匹配"}
 {"accepted_at":1792802701.0,"account_id":"a113","difficulty":1,"observed_at":1792803128.7935493,"problem_id":"P1897","submission_id":"305136384","title":"电梯里的尴尬"}
 {"accepted_at":1792805366.0,"account_id":"a113","difficulty":2,"observed_at":1792805570.3263514,"problem_id":"P1165","submission_id":"305150227","title":"日志分析"}
+{"accepted_at":1792807864.0,"account_id":"a113","difficulty":5,"observed_at":1792808025.579197,"problem_id":"P3805","submission_id":"305168043","title":"【模板】Manacher"}
 {"accepted_at":1777950218.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.377437,"problem_id":"2227B","submission_id":"373556590","title":"Party Monster"}
 {"accepted_at":1777952290.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.3774219,"problem_id":"2227A","submission_id":"373558124","title":"Koshary"}
 {"accepted_at":1777958811.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.3774068,"problem_id":"2227C","submission_id":"373563322","title":"Snowfall"}
@@ -19831,6 +19838,8 @@
 {"accepted_at":1792725193.0,"account_id":"a127","difficulty":3,"observed_at":1792725781.343464,"problem_id":"P1142","submission_id":"304909980","title":"[ECNA 1994] 轰炸"}
 {"accepted_at":1792804775.0,"account_id":"a127","difficulty":1,"observed_at":1792804801.5236013,"problem_id":"P1897","submission_id":"305146483","title":"电梯里的尴尬"}
 {"accepted_at":1792805326.0,"account_id":"a127","difficulty":2,"observed_at":1792805411.8478172,"problem_id":"P1165","submission_id":"305149992","title":"日志分析"}
+{"accepted_at":1792807383.0,"account_id":"a127","difficulty":5,"observed_at":1792807850.4669254,"problem_id":"P3805","submission_id":"305164353","title":"【模板】Manacher"}
+{"accepted_at":1792807398.0,"account_id":"a127","difficulty":5,"observed_at":1792807850.466813,"problem_id":"P3805","submission_id":"305164473","title":"【模板】Manacher"}
 {"accepted_at":1548553621.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.171839,"problem_id":"P1001","submission_id":"15761511","title":"A+B Problem"}
 {"accepted_at":1548556637.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.1718066,"problem_id":"P1421","submission_id":"15764357","title":"小玉买文具"}
 {"accepted_at":1548556964.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.1717749,"problem_id":"P1425","submission_id":"15764736","title":"小鱼的游泳时间"}
@@ -20148,6 +20157,7 @@
 {"accepted_at":1792807644.0,"account_id":"a133","difficulty":1,"observed_at":1792807692.1934242,"problem_id":"P1897","submission_id":"305166367","title":"电梯里的尴尬"}
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
+{"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
 {"accepted_at":1533354321.0,"account_id":"a137","difficulty":4,"observed_at":1792159561.5435557,"problem_id":"P1379","submission_id":"9275822","title":"八数码难题"}
 {"accepted_at":1533366539.0,"account_id":"a137","difficulty":2,"observed_at":1792159561.543501,"problem_id":"P1060","submission_id":"9282337","title":"[NOIP 2006 普及组] 开心的金明"}
 {"accepted_at":1533445145.0,"account_id":"a137","difficulty":1,"observed_at":1792159561.543474,"problem_id":"P1000","submission_id":"9314221","title":"超级玛丽游戏"}

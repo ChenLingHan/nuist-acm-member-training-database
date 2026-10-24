@@ -1501,6 +1501,7 @@
 {"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792075766.4305468,"platform":"luogu","problem_id":"P1000","solved_at":1728920922.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792075766.430351,"platform":"luogu","problem_id":"P1002","solved_at":1728922102.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792075766.4305274,"platform":"luogu","problem_id":"P1010","solved_at":1730993428.0,"source":"luogu-practice-snapshot","title":"[NOIP 1998 普及组] 幂次方"}
+{"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792807797.4749775,"platform":"luogu","problem_id":"P1165","solved_at":1792807380.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792128793.447679,"platform":"luogu","problem_id":"P17506","solved_at":1790507419.0,"source":"luogu-record-list","title":"[入门赛 #52] 分月饼"}
 {"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792128793.4476612,"platform":"luogu","problem_id":"P17507","solved_at":1790507931.0,"source":"luogu-record-list","title":"[入门赛 #52] 中秋竹灯"}
 {"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792128793.4476361,"platform":"luogu","problem_id":"P17508","solved_at":1790508861.0,"source":"luogu-record-list","title":"[入门赛 #52] 画月亮"}
@@ -9677,6 +9678,7 @@
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792401083.0914092,"platform":"luogu","problem_id":"P2947","solved_at":1792394705.0,"source":"luogu-record-list","title":"[USACO09MAR] Look Up S"}
 {"account_id":"a75","difficulty":4,"member_id":"m33","observed_at":1792130065.8026516,"platform":"luogu","problem_id":"P3375","solved_at":1792046734.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a75","difficulty":5,"member_id":"m33","observed_at":1792220877.5130796,"platform":"luogu","problem_id":"P3435","solved_at":1792220379.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a75","difficulty":5,"member_id":"m33","observed_at":1792807973.8345127,"platform":"luogu","problem_id":"P3805","solved_at":1792807783.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a75","difficulty":4,"member_id":"m33","observed_at":1792150401.6829739,"platform":"luogu","problem_id":"P4391","solved_at":1792138079.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a75","difficulty":3,"member_id":"m33","observed_at":1792219064.024297,"platform":"luogu","problem_id":"P7911","solved_at":1792218849.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a75","difficulty":2,"member_id":"m33","observed_at":1792130065.802663,"platform":"luogu","problem_id":"P8739","solved_at":1790747928.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2020 国 C] 重复字符串"}
@@ -13761,6 +13763,7 @@
 {"account_id":"a108","difficulty":3,"member_id":"m48","observed_at":1792605631.5935528,"platform":"luogu","problem_id":"P1944","solved_at":1792605053.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a108","difficulty":1,"member_id":"m48","observed_at":1792153036.8565805,"platform":"luogu","problem_id":"P2393","solved_at":1790974501.0,"source":"luogu-record-list","title":"yyy loves Maths II"}
 {"account_id":"a108","difficulty":5,"member_id":"m48","observed_at":1792225009.9283295,"platform":"luogu","problem_id":"P3435","solved_at":1792224953.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a108","difficulty":5,"member_id":"m48","observed_at":1792808098.4119804,"platform":"luogu","problem_id":"P3805","solved_at":1792807993.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a108","difficulty":3,"member_id":"m48","observed_at":1792223767.5040576,"platform":"luogu","problem_id":"P7911","solved_at":1792223627.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a110","difficulty":1,"member_id":"m49","observed_at":1792149016.6011713,"platform":"luogu","problem_id":"B2002","solved_at":1728786432.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
 {"account_id":"a110","difficulty":1,"member_id":"m49","observed_at":1792149016.601189,"platform":"luogu","problem_id":"B2005","solved_at":1728787743.0,"source":"luogu-practice-snapshot","title":"字符三角形"}
@@ -14653,6 +14656,7 @@
 {"account_id":"a113","difficulty":3,"member_id":"m50","observed_at":1792749232.4715762,"platform":"luogu","problem_id":"P1944","solved_at":1792748929.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0409052,"platform":"luogu","problem_id":"P2404","solved_at":1766239656.0,"source":"luogu-practice-snapshot","title":"自然数的拆分问题"}
 {"account_id":"a113","difficulty":5,"member_id":"m50","observed_at":1792245715.705613,"platform":"luogu","problem_id":"P3435","solved_at":1792245465.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a113","difficulty":5,"member_id":"m50","observed_at":1792808025.579114,"platform":"luogu","problem_id":"P3805","solved_at":1792807864.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a114","difficulty":900,"member_id":"m50","observed_at":1792148515.3773537,"platform":"codeforces","problem_id":"2005A","solved_at":1778128977.0,"source":"codeforces-api","title":"Simple Palindrome"}
 {"account_id":"a114","difficulty":1000,"member_id":"m50","observed_at":1792148515.3773382,"platform":"codeforces","problem_id":"2005B1","solved_at":1778133274.0,"source":"codeforces-api","title":"The Strict Teacher (Easy Version)"}
 {"account_id":"a114","difficulty":1200,"member_id":"m50","observed_at":1792148515.377322,"platform":"codeforces","problem_id":"2005B2","solved_at":1778133320.0,"source":"codeforces-api","title":"The Strict Teacher (Hard Version)"}
@@ -15773,6 +15777,7 @@
 {"account_id":"a127","difficulty":4,"member_id":"m57","observed_at":1792149238.6688087,"platform":"luogu","problem_id":"P3375","solved_at":1792069445.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a127","difficulty":3,"member_id":"m57","observed_at":1792149238.6688156,"platform":"luogu","problem_id":"P3378","solved_at":1791969360.0,"source":"luogu-practice-snapshot","title":"【模板】堆"}
 {"account_id":"a127","difficulty":5,"member_id":"m57","observed_at":1792400409.8466568,"platform":"luogu","problem_id":"P3435","solved_at":1792399075.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a127","difficulty":5,"member_id":"m57","observed_at":1792807850.4667335,"platform":"luogu","problem_id":"P3805","solved_at":1792807383.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a127","difficulty":3,"member_id":"m57","observed_at":1792149238.6688228,"platform":"luogu","problem_id":"P5461","solved_at":1791463044.0,"source":"luogu-practice-snapshot","title":"赦免战俘"}
 {"account_id":"a127","difficulty":2,"member_id":"m57","observed_at":1792149238.6688297,"platform":"luogu","problem_id":"P5742","solved_at":1791547444.0,"source":"luogu-practice-snapshot","title":"【深基7.例11】评等级"}
 {"account_id":"a130","difficulty":2,"member_id":"m58","observed_at":1792149244.9546242,"platform":"luogu","problem_id":"B3637","solved_at":1757597153.0,"source":"luogu-practice-snapshot","title":"最长上升子序列"}
@@ -16029,6 +16034,7 @@
 {"account_id":"a133","difficulty":1,"member_id":"m59","observed_at":1792807692.1933367,"platform":"luogu","problem_id":"P1897","solved_at":1792807644.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
+{"account_id":"a136","difficulty":1900,"member_id":"m60","observed_at":1792807987.845412,"platform":"codeforces","problem_id":"817D","solved_at":1792807555.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a137","difficulty":1,"member_id":"m61","observed_at":1792149564.666845,"platform":"luogu","problem_id":"B2137","solved_at":1769200546.0,"source":"luogu-practice-snapshot","title":"判决素数个数"}
 {"account_id":"a137","difficulty":3,"member_id":"m61","observed_at":1792149564.6668544,"platform":"luogu","problem_id":"B3644","solved_at":1726971298.0,"source":"luogu-practice-snapshot","title":"【模板】拓扑排序 / 家谱树"}
 {"account_id":"a137","difficulty":3,"member_id":"m61","observed_at":1792149564.6667936,"platform":"luogu","problem_id":"B3647","solved_at":1700190892.0,"source":"luogu-practice-snapshot","title":"【模板】Floyd"}
