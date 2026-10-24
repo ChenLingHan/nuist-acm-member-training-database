@@ -1506,6 +1506,7 @@
 {"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792128793.447605,"platform":"luogu","problem_id":"P17509","solved_at":1790510746.0,"source":"luogu-record-list","title":"[入门赛 #52] 中秋灯谜"}
 {"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792128793.4475648,"platform":"luogu","problem_id":"P17510","solved_at":1790511386.0,"source":"luogu-record-list","title":"[入门赛 #52] 中秋灯会"}
 {"account_id":"a12","difficulty":3,"member_id":"m6","observed_at":1792128793.447396,"platform":"luogu","problem_id":"P17511","solved_at":1790511812.0,"source":"luogu-record-list","title":"[入门赛 #52] 月饼调配"}
+{"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792804734.081382,"platform":"luogu","problem_id":"P1897","solved_at":1792804390.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a12","difficulty":3,"member_id":"m6","observed_at":1792221311.5201776,"platform":"luogu","problem_id":"P7911","solved_at":1792220739.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310737,"platform":"luogu","problem_id":"B3862","solved_at":1761973505.0,"source":"luogu-practice-snapshot","title":"图的遍历（简单版）"}
 {"account_id":"a15","difficulty":5,"member_id":"m7","observed_at":1792076650.6310804,"platform":"luogu","problem_id":"P10478","solved_at":1770193624.0,"source":"luogu-practice-snapshot","title":"生日礼物"}
@@ -1889,6 +1890,7 @@
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.974719,"platform":"luogu","problem_id":"P3378","solved_at":1786712010.0,"source":"luogu-practice-snapshot","title":"【模板】堆"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9747298,"platform":"luogu","problem_id":"P3383","solved_at":1789727894.0,"source":"luogu-practice-snapshot","title":"【模板】线性筛素数"}
 {"account_id":"a20","difficulty":5,"member_id":"m9","observed_at":1792314916.1849766,"platform":"luogu","problem_id":"P3435","solved_at":1792314690.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a20","difficulty":5,"member_id":"m9","observed_at":1792804624.5149553,"platform":"luogu","problem_id":"P3805","solved_at":1792804124.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a20","difficulty":5,"member_id":"m9","observed_at":1792079285.9747875,"platform":"luogu","problem_id":"P3807","solved_at":1789909805.0,"source":"luogu-practice-snapshot","title":"【模板】卢卡斯定理 / Lucas 定理"}
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.9747748,"platform":"luogu","problem_id":"P3811","solved_at":1789718468.0,"source":"luogu-practice-snapshot","title":"【模板】模意义下的乘法逆元"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792543893.0142827,"platform":"luogu","problem_id":"P3879","solved_at":1792543555.0,"source":"luogu-record-list","title":"[TJOI2010] 阅读理解"}
@@ -9097,6 +9099,7 @@
 {"account_id":"a67","difficulty":1300,"member_id":"m28","observed_at":1792127088.4545205,"platform":"codeforces","problem_id":"755C","solved_at":1732016721.0,"source":"codeforces-api","title":"PolandBall and Forest"}
 {"account_id":"a67","difficulty":1600,"member_id":"m28","observed_at":1792127088.454002,"platform":"codeforces","problem_id":"785C","solved_at":1737614984.0,"source":"codeforces-api","title":"Anton and Fairy Tale"}
 {"account_id":"a67","difficulty":2000,"member_id":"m28","observed_at":1792127088.4538069,"platform":"codeforces","problem_id":"938D","solved_at":1743297122.0,"source":"codeforces-api","title":"Buy a Ticket"}
+{"account_id":"a68","difficulty":1,"member_id":"m29","observed_at":1792804603.069158,"platform":"luogu","problem_id":"P1897","solved_at":1792804123.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a68","difficulty":4,"member_id":"m29","observed_at":1792164516.5662198,"platform":"luogu","problem_id":"P3375","solved_at":1792164444.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a68","difficulty":5,"member_id":"m29","observed_at":1792763530.3859415,"platform":"luogu","problem_id":"P3805","solved_at":1792763406.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a68","difficulty":3,"member_id":"m29","observed_at":1792800319.4142795,"platform":"luogu","problem_id":"P5788","solved_at":1792800207.0,"source":"luogu-record-list","title":"【模板】单调栈"}
@@ -9106,6 +9109,7 @@
 {"account_id":"a70","difficulty":2,"member_id":"m30","observed_at":1792512541.2777843,"platform":"luogu","problem_id":"P1002","solved_at":1792512532.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a70","difficulty":2,"member_id":"m30","observed_at":1792564418.896604,"platform":"luogu","problem_id":"P1003","solved_at":1792564177.0,"source":"luogu-record-list","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a70","difficulty":3,"member_id":"m30","observed_at":1792388017.9690464,"platform":"luogu","problem_id":"P10479","solved_at":1792387408.0,"source":"luogu-record-list","title":"匹配统计"}
+{"account_id":"a70","difficulty":2,"member_id":"m30","observed_at":1792804564.3709602,"platform":"luogu","problem_id":"P1165","solved_at":1792804068.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a70","difficulty":1,"member_id":"m30","observed_at":1792770257.6193204,"platform":"luogu","problem_id":"P1739","solved_at":1792769815.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a70","difficulty":1,"member_id":"m30","observed_at":1792802734.6676688,"platform":"luogu","problem_id":"P1897","solved_at":1792802700.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a70","difficulty":4,"member_id":"m30","observed_at":1792153440.087014,"platform":"luogu","problem_id":"P3375","solved_at":1792139809.0,"source":"luogu-record-list","title":"【模板】KMP"}
@@ -11769,6 +11773,7 @@
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1885152,"platform":"luogu","problem_id":"P1161","solved_at":1661227649.0,"source":"luogu-practice-snapshot","title":"开灯"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.188519,"platform":"luogu","problem_id":"P1162","solved_at":1673944165.0,"source":"luogu-practice-snapshot","title":"填涂颜色"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1885247,"platform":"luogu","problem_id":"P1164","solved_at":1670133208.0,"source":"luogu-practice-snapshot","title":"小 A 点菜"}
+{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792804658.3547535,"platform":"luogu","problem_id":"P1165","solved_at":1792804588.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1885283,"platform":"luogu","problem_id":"P1168","solved_at":1660961526.0,"source":"luogu-practice-snapshot","title":"中位数"}
 {"account_id":"a97","difficulty":7,"member_id":"m43","observed_at":1792148610.1885316,"platform":"luogu","problem_id":"P1173","solved_at":1664772295.0,"source":"luogu-practice-snapshot","title":"[NOI2016] 网格"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1885352,"platform":"luogu","problem_id":"P1175","solved_at":1673419355.0,"source":"luogu-practice-snapshot","title":"表达式的转换"}
@@ -13235,6 +13240,7 @@
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6573205,"platform":"luogu","problem_id":"P1765","solved_at":1792065480.0,"source":"luogu-practice-snapshot","title":"手机"}
 {"account_id":"a102","difficulty":2,"member_id":"m45","observed_at":1792651798.2758582,"platform":"luogu","problem_id":"P1789","solved_at":1792651644.0,"source":"luogu-record-list","title":"【Mc生存】插火把"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657333,"platform":"luogu","problem_id":"P1888","solved_at":1790688783.0,"source":"luogu-practice-snapshot","title":"三角函数"}
+{"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792804701.7448406,"platform":"luogu","problem_id":"P1897","solved_at":1792804378.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657345,"platform":"luogu","problem_id":"P1909","solved_at":1790685806.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.6573582,"platform":"luogu","problem_id":"P1914","solved_at":1792032939.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
 {"account_id":"a102","difficulty":1,"member_id":"m45","observed_at":1792148879.657371,"platform":"luogu","problem_id":"P1980","solved_at":1790906479.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 普及组] 计数问题"}
@@ -20093,6 +20099,7 @@
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4851198,"platform":"luogu","problem_id":"P1003","solved_at":1791812590.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a165","difficulty":4,"member_id":"m73","observed_at":1792150276.485181,"platform":"luogu","problem_id":"P1004","solved_at":1791939202.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 方格取数"}
 {"account_id":"a165","difficulty":1,"member_id":"m73","observed_at":1792632056.2742777,"platform":"luogu","problem_id":"P1739","solved_at":1792631518.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a165","difficulty":1,"member_id":"m73","observed_at":1792804531.6129391,"platform":"luogu","problem_id":"P1897","solved_at":1792804396.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a165","difficulty":1,"member_id":"m73","observed_at":1792150276.4852245,"platform":"luogu","problem_id":"P1914","solved_at":1791963645.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
 {"account_id":"a165","difficulty":3,"member_id":"m73","observed_at":1792634505.646073,"platform":"luogu","problem_id":"P1944","solved_at":1792634341.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a165","difficulty":4,"member_id":"m73","observed_at":1792287170.9212756,"platform":"luogu","problem_id":"P3375","solved_at":1792286906.0,"source":"luogu-record-list","title":"【模板】KMP"}
