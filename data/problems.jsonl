@@ -3585,6 +3585,7 @@
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"2276D","tags":["combinatorics","graphs"],"title":"Caveman"}
 {"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"2276E","tags":["combinatorics","data structures","dp","greedy","strings"],"title":"Good Substrings"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"2276F","tags":["brute force","dp","dsu","games","greedy","implementation","math"],"title":"Permutation Coloring Game"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2277A","tags":[],"title":"Subset Selecting"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
@@ -6228,6 +6229,7 @@
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1776","tags":[],"title":"宝物筛选"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P17760","tags":[],"title":"「奶龙OI」Round 3 - 生存大师"}
 {"difficulty":0,"platform":"luogu","points":null,"problem_id":"P17764","tags":[],"title":"「LDOI R2」极差 / Range"}
+{"difficulty":0,"platform":"luogu","points":null,"problem_id":"P17765","tags":[],"title":"「LDOI R2」平方数 / Square"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1781","tags":[],"title":"宇宙总统"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1782","tags":[],"title":"旅行商的背包"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1786","tags":[],"title":"帮贡排序"}
