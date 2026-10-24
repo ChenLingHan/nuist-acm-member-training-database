@@ -1834,6 +1834,7 @@
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9742255,"platform":"luogu","problem_id":"P1115","solved_at":1790682292.0,"source":"luogu-practice-snapshot","title":"最大子段和"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.9742362,"platform":"luogu","problem_id":"P1119","solved_at":1790084864.0,"source":"luogu-practice-snapshot","title":"灾后重建"}
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.9742475,"platform":"luogu","problem_id":"P1160","solved_at":1790218775.0,"source":"luogu-practice-snapshot","title":"队列安排"}
+{"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792803398.4100304,"platform":"luogu","problem_id":"P1165","solved_at":1792803384.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.974258,"platform":"luogu","problem_id":"P1168","solved_at":1790561695.0,"source":"luogu-practice-snapshot","title":"中位数"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9742684,"platform":"luogu","problem_id":"P1208","solved_at":1787208169.0,"source":"luogu-practice-snapshot","title":"[USACO1.3] 混合牛奶 Mixing Milk"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.974279,"platform":"luogu","problem_id":"P1223","solved_at":1789125230.0,"source":"luogu-practice-snapshot","title":"排队接水"}
@@ -2953,6 +2954,7 @@
 {"account_id":"a25","difficulty":2,"member_id":"m11","observed_at":1792081739.355108,"platform":"luogu","problem_id":"P11231","solved_at":1730190780.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2024] 决斗"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.3551211,"platform":"luogu","problem_id":"P11232","solved_at":1761938186.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2024] 超速检测"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.354862,"platform":"luogu","problem_id":"P1156","solved_at":1731569728.0,"source":"luogu-practice-snapshot","title":"[USACO01OPEN] 垃圾陷阱"}
+{"account_id":"a25","difficulty":2,"member_id":"m11","observed_at":1792803405.9728885,"platform":"luogu","problem_id":"P1165","solved_at":1792803110.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.354881,"platform":"luogu","problem_id":"P1168","solved_at":1723192183.0,"source":"luogu-practice-snapshot","title":"中位数"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.3548958,"platform":"luogu","problem_id":"P1182","solved_at":1723101512.0,"source":"luogu-practice-snapshot","title":"数列分段 Section II"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.3549087,"platform":"luogu","problem_id":"P1282","solved_at":1731655419.0,"source":"luogu-practice-snapshot","title":"[CEOI 1997] 多米诺骨牌"}
@@ -8801,6 +8803,7 @@
 {"account_id":"a63","difficulty":1,"member_id":"m27","observed_at":1792585656.5266607,"platform":"luogu","problem_id":"P1739","solved_at":1792585448.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a63","difficulty":2,"member_id":"m27","observed_at":1792129846.8503408,"platform":"luogu","problem_id":"P1781","solved_at":1790922805.0,"source":"luogu-practice-snapshot","title":"宇宙总统"}
 {"account_id":"a63","difficulty":3,"member_id":"m27","observed_at":1792129846.850352,"platform":"luogu","problem_id":"P1786","solved_at":1790830761.0,"source":"luogu-practice-snapshot","title":"帮贡排序"}
+{"account_id":"a63","difficulty":1,"member_id":"m27","observed_at":1792803149.6955955,"platform":"luogu","problem_id":"P1897","solved_at":1792803067.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a63","difficulty":2,"member_id":"m27","observed_at":1792129846.8508165,"platform":"luogu","problem_id":"P1923","solved_at":1790920123.0,"source":"luogu-practice-snapshot","title":"【深基9.例4】求第 k 小的数"}
 {"account_id":"a63","difficulty":3,"member_id":"m27","observed_at":1792129846.850362,"platform":"luogu","problem_id":"P1928","solved_at":1791608968.0,"source":"luogu-practice-snapshot","title":"外星密码"}
 {"account_id":"a63","difficulty":4,"member_id":"m27","observed_at":1792129846.8503718,"platform":"luogu","problem_id":"P1955","solved_at":1735206282.0,"source":"luogu-practice-snapshot","title":"[NOI2015] 程序自动分析"}
@@ -13714,6 +13717,7 @@
 {"account_id":"a107","difficulty":2400,"member_id":"m47","observed_at":1792148507.396188,"platform":"codeforces","problem_id":"865D","solved_at":1763177051.0,"source":"codeforces-api","title":"Buy Low Sell High"}
 {"account_id":"a107","difficulty":2500,"member_id":"m47","observed_at":1792424253.797794,"platform":"codeforces","problem_id":"992E","solved_at":1792420064.0,"source":"codeforces-api","title":"Nastya and King-Shamans"}
 {"account_id":"a108","difficulty":1,"member_id":"m48","observed_at":1792598917.272389,"platform":"luogu","problem_id":"P1739","solved_at":1792598605.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a108","difficulty":1,"member_id":"m48","observed_at":1792803225.0066197,"platform":"luogu","problem_id":"P1897","solved_at":1792802709.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a108","difficulty":3,"member_id":"m48","observed_at":1792605631.5935528,"platform":"luogu","problem_id":"P1944","solved_at":1792605053.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a108","difficulty":1,"member_id":"m48","observed_at":1792153036.8565805,"platform":"luogu","problem_id":"P2393","solved_at":1790974501.0,"source":"luogu-record-list","title":"yyy loves Maths II"}
 {"account_id":"a108","difficulty":5,"member_id":"m48","observed_at":1792225009.9283295,"platform":"luogu","problem_id":"P3435","solved_at":1792224953.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -14604,6 +14608,7 @@
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0408664,"platform":"luogu","problem_id":"P1596","solved_at":1766226649.0,"source":"luogu-practice-snapshot","title":"[USACO10OCT] Lake Counting S"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.040879,"platform":"luogu","problem_id":"P1601","solved_at":1766825526.0,"source":"luogu-practice-snapshot","title":"高精度加法"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.040892,"platform":"luogu","problem_id":"P1605","solved_at":1766214402.0,"source":"luogu-practice-snapshot","title":"迷宫"}
+{"account_id":"a113","difficulty":1,"member_id":"m50","observed_at":1792803128.793461,"platform":"luogu","problem_id":"P1897","solved_at":1792802701.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a113","difficulty":3,"member_id":"m50","observed_at":1792749232.4715762,"platform":"luogu","problem_id":"P1944","solved_at":1792748929.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0409052,"platform":"luogu","problem_id":"P2404","solved_at":1766239656.0,"source":"luogu-practice-snapshot","title":"自然数的拆分问题"}
 {"account_id":"a113","difficulty":5,"member_id":"m50","observed_at":1792245715.705613,"platform":"luogu","problem_id":"P3435","solved_at":1792245465.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -16261,6 +16266,7 @@
 {"account_id":"a140","difficulty":1000,"member_id":"m62","observed_at":1792148538.8715827,"platform":"codeforces","problem_id":"577A","solved_at":1769237767.0,"source":"codeforces-api","title":"Multiplication Table"}
 {"account_id":"a140","difficulty":1100,"member_id":"m62","observed_at":1792148538.871316,"platform":"codeforces","problem_id":"630C","solved_at":1769578632.0,"source":"codeforces-api","title":"Lucky Numbers"}
 {"account_id":"a140","difficulty":800,"member_id":"m62","observed_at":1792148538.8719914,"platform":"codeforces","problem_id":"71A","solved_at":1760452642.0,"source":"codeforces-api","title":"Way Too Long Words"}
+{"account_id":"a141","difficulty":1,"member_id":"m63","observed_at":1792803179.0866783,"platform":"luogu","problem_id":"P1897","solved_at":1792802722.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a141","difficulty":3,"member_id":"m63","observed_at":1792153289.4293149,"platform":"luogu","problem_id":"P2440","solved_at":1785574517.0,"source":"luogu-record-list","title":"木材加工"}
 {"account_id":"a141","difficulty":4,"member_id":"m63","observed_at":1792153289.4290583,"platform":"luogu","problem_id":"P4447","solved_at":1785576788.0,"source":"luogu-record-list","title":"[AHOI2018初中组] 分组"}
 {"account_id":"a143","difficulty":800,"member_id":"m63","observed_at":1792148541.068018,"platform":"codeforces","problem_id":"1367A","solved_at":1791979561.0,"source":"codeforces-api","title":"Short Substrings"}
@@ -17108,6 +17114,7 @@
 {"account_id":"a151","difficulty":4,"member_id":"m67","observed_at":1792150201.900872,"platform":"luogu","problem_id":"P11232","solved_at":1791032251.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2024] 超速检测"}
 {"account_id":"a151","difficulty":5,"member_id":"m67","observed_at":1792150201.9008803,"platform":"luogu","problem_id":"P11233","solved_at":1787302533.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2024] 染色"}
 {"account_id":"a151","difficulty":5,"member_id":"m67","observed_at":1792150201.9008892,"platform":"luogu","problem_id":"P11361","solved_at":1764340900.0,"source":"luogu-practice-snapshot","title":"[NOIP2024] 编辑字符串"}
+{"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792803242.131299,"platform":"luogu","problem_id":"P1165","solved_at":1792803041.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792150201.9002652,"platform":"luogu","problem_id":"P1177","solved_at":1756555367.0,"source":"luogu-practice-snapshot","title":"【模板】排序"}
 {"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792150201.900275,"platform":"luogu","problem_id":"P1226","solved_at":1738506490.0,"source":"luogu-practice-snapshot","title":"【模板】快速幂"}
 {"account_id":"a151","difficulty":5,"member_id":"m67","observed_at":1792150201.9008973,"platform":"luogu","problem_id":"P13085","solved_at":1753200473.0,"source":"luogu-practice-snapshot","title":"[SCOI2009] windy 数（加强版）"}
@@ -19688,6 +19695,7 @@
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.8462155,"platform":"luogu","problem_id":"P1809","solved_at":1657329990.0,"source":"luogu-practice-snapshot","title":"过河问题"}
 {"account_id":"a158","difficulty":7,"member_id":"m70","observed_at":1792150258.8462243,"platform":"luogu","problem_id":"P1861","solved_at":1662724444.0,"source":"luogu-practice-snapshot","title":"星之器"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.846234,"platform":"luogu","problem_id":"P1876","solved_at":1652021240.0,"source":"luogu-practice-snapshot","title":"开灯"}
+{"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792803268.5721684,"platform":"luogu","problem_id":"P1897","solved_at":1792803137.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a158","difficulty":1,"member_id":"m70","observed_at":1792150258.8462431,"platform":"luogu","problem_id":"P1914","solved_at":1628074356.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
 {"account_id":"a158","difficulty":2,"member_id":"m70","observed_at":1792150258.8470607,"platform":"luogu","problem_id":"P1923","solved_at":1627992971.0,"source":"luogu-practice-snapshot","title":"【深基9.例4】求第 k 小的数"}
 {"account_id":"a158","difficulty":4,"member_id":"m70","observed_at":1792150258.8462517,"platform":"luogu","problem_id":"P1932","solved_at":1628597493.0,"source":"luogu-practice-snapshot","title":"A+B  A-B  A*B  A/B A%B Problem"}
@@ -20080,6 +20088,7 @@
 {"account_id":"a165","difficulty":2,"member_id":"m73","observed_at":1792150276.4852517,"platform":"luogu","problem_id":"P9231","solved_at":1709454486.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2023 省 A] 平方差"}
 {"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1792497324.6944377,"platform":"luogu","problem_id":"B3614","solved_at":1792496796.0,"source":"luogu-record-list","title":"【模板】栈"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792150282.5806243,"platform":"luogu","problem_id":"P1001","solved_at":1789722723.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
+{"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792803328.8697052,"platform":"luogu","problem_id":"P1897","solved_at":1792802842.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a168","difficulty":4,"member_id":"m74","observed_at":1792150282.5807548,"platform":"luogu","problem_id":"P3375","solved_at":1792122129.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a168","difficulty":5,"member_id":"m74","observed_at":1792224216.7033918,"platform":"luogu","problem_id":"P3435","solved_at":1792224066.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a168","difficulty":5,"member_id":"m74","observed_at":1792674850.620104,"platform":"luogu","problem_id":"P3805","solved_at":1792674602.0,"source":"luogu-record-list","title":"【模板】Manacher"}
@@ -20109,6 +20118,7 @@
 {"account_id":"a169","difficulty":1200,"member_id":"m75","observed_at":1792148561.3835266,"platform":"codeforces","problem_id":"2257C","solved_at":1786982983.0,"source":"codeforces-api","title":"Spying on the Beaver"}
 {"account_id":"a169","difficulty":800,"member_id":"m75","observed_at":1792148561.3834558,"platform":"codeforces","problem_id":"2271A","solved_at":1791645472.0,"source":"codeforces-api","title":"Robot Odd Moves"}
 {"account_id":"a169","difficulty":1000,"member_id":"m75","observed_at":1792148561.3832788,"platform":"codeforces","problem_id":"2271B","solved_at":1791647373.0,"source":"codeforces-api","title":"MEX Game"}
+{"account_id":"a170","difficulty":1,"member_id":"m76","observed_at":1792803335.2371235,"platform":"luogu","problem_id":"P1897","solved_at":1792803080.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a170","difficulty":3,"member_id":"m76","observed_at":1792560747.5369747,"platform":"luogu","problem_id":"P7911","solved_at":1792560265.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a172","difficulty":1600,"member_id":"m57","observed_at":1792156008.1752095,"platform":"codeforces","problem_id":"171G","solved_at":1715694155.0,"source":"codeforces-api","title":"Mysterious numbers - 2"}
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.1752253,"platform":"codeforces","problem_id":"1772A","solved_at":1708403544.0,"source":"codeforces-api","title":"A+B?"}
