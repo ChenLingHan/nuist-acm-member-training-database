@@ -3911,6 +3911,7 @@
 {"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"805B","tags":["constructive algorithms"],"title":"3-palindrome"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"808F","tags":["binary search","flows","graphs"],"title":"Card Game"}
 {"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"813C","tags":["dfs and similar","graphs"],"title":"The Tag Game"}
+{"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"813E","tags":["binary search","data structures"],"title":"Army Creation"}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"816B","tags":["binary search","data structures","implementation"],"title":"Karen and Coffee"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"817A","tags":["implementation","math","number theory"],"title":"Treasure Hunt"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"817B","tags":["combinatorics","implementation","math","sortings"],"title":"Makes And The Product"}
