@@ -12046,6 +12046,7 @@
 {"accepted_at":1790438943.0,"account_id":"a76","difficulty":1200,"observed_at":1792127099.6201384,"problem_id":"2269C","submission_id":"392219465","title":"K Is Important"}
 {"accepted_at":1790440503.0,"account_id":"a76","difficulty":1500,"observed_at":1792127099.6201124,"problem_id":"2269D","submission_id":"392226632","title":"What a SauSaGe! It's All Meat"}
 {"accepted_at":1791508818.0,"account_id":"a76","difficulty":1000,"observed_at":1792127099.6200342,"problem_id":"2266C","submission_id":"393779970","title":"AND, OR, Sort!"}
+{"accepted_at":1792811527.0,"account_id":"a76","difficulty":1900,"observed_at":1792811862.4514294,"problem_id":"817D","submission_id":"395783303","title":"Imbalanced Array"}
 {"accepted_at":1758638060.0,"account_id":"a77","difficulty":1,"observed_at":1792155667.0601573,"problem_id":"P1000","submission_id":"236677952","title":"超级玛丽游戏"}
 {"accepted_at":1758638207.0,"account_id":"a77","difficulty":1,"observed_at":1792155667.0288305,"problem_id":"P1001","submission_id":"236678404","title":"A+B Problem"}
 {"accepted_at":1758640082.0,"account_id":"a77","difficulty":2,"observed_at":1792155667.0285356,"problem_id":"P1002","submission_id":"236683087","title":"[NOIP 2002 普及组] 过河卒"}
@@ -16033,6 +16034,8 @@
 {"accepted_at":1792803521.0,"account_id":"a97","difficulty":5,"observed_at":1792804046.6359837,"problem_id":"P3805","submission_id":"305139907","title":"【模板】Manacher"}
 {"accepted_at":1792803876.0,"account_id":"a97","difficulty":1,"observed_at":1792804046.635854,"problem_id":"P1897","submission_id":"305141591","title":"电梯里的尴尬"}
 {"accepted_at":1792804588.0,"account_id":"a97","difficulty":2,"observed_at":1792804658.3548372,"problem_id":"P1165","submission_id":"305145392","title":"日志分析"}
+{"accepted_at":1792811769.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261563,"problem_id":"P7410","submission_id":"305201958","title":"[USACO21FEB] Just Green Enough S"}
+{"accepted_at":1792811808.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261428,"problem_id":"P7410","submission_id":"305202333","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1696756267.0,"account_id":"a98","difficulty":800,"observed_at":1792148496.6041012,"problem_id":"1877A","submission_id":"227119660","title":"Goals of Victory"}
 {"accepted_at":1696757748.0,"account_id":"a98","difficulty":1000,"observed_at":1792148496.6040943,"problem_id":"1877B","submission_id":"227135670","title":"Helmets in Night Light"}
 {"accepted_at":1696764729.0,"account_id":"a98","difficulty":1200,"observed_at":1792148496.6040878,"problem_id":"1877C","submission_id":"227185568","title":"Joyboard"}
