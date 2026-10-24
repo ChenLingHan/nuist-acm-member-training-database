@@ -1969,6 +1969,7 @@
 {"accepted_at":1792804390.0,"account_id":"a12","difficulty":1,"observed_at":1792804734.0814643,"problem_id":"P1897","submission_id":"305144266","title":"电梯里的尴尬"}
 {"accepted_at":1792807380.0,"account_id":"a12","difficulty":2,"observed_at":1792807797.4750583,"problem_id":"P1165","submission_id":"305164332","title":"日志分析"}
 {"accepted_at":1792810629.0,"account_id":"a12","difficulty":5,"observed_at":1792810844.4472558,"problem_id":"P3805","submission_id":"305191139","title":"【模板】Manacher"}
+{"accepted_at":1792811035.0,"account_id":"a12","difficulty":5,"observed_at":1792811468.6647596,"problem_id":"P3805","submission_id":"305194976","title":"【模板】Manacher"}
 {"accepted_at":1760371539.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226588,"problem_id":"P3984","submission_id":"240431884","title":"高兴的津津"}
 {"accepted_at":1760439449.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226109,"problem_id":"P3392","submission_id":"240523673","title":"涂条纹"}
 {"accepted_at":1761355194.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.822582,"problem_id":"P1162","submission_id":"242805276","title":"填涂颜色"}
@@ -2007,6 +2008,7 @@
 {"accepted_at":1761819079.0,"account_id":"a16","difficulty":1700,"observed_at":1792077554.3268282,"problem_id":"2010C2","submission_id":"346605787","title":"Message Transmission Error (hard version)"}
 {"accepted_at":1763783114.0,"account_id":"a16","difficulty":null,"observed_at":1792077554.3267932,"problem_id":"104821F","submission_id":"350144651","title":"Equivalent Rewriting"}
 {"accepted_at":1769237489.0,"account_id":"a16","difficulty":800,"observed_at":1792077554.3266563,"problem_id":"2185A","submission_id":"359512771","title":"Perfect Root"}
+{"accepted_at":1792811250.0,"account_id":"a16","difficulty":1900,"observed_at":1792811651.8185608,"problem_id":"817D","submission_id":"395783102","title":"Imbalanced Array"}
 {"accepted_at":1638248850.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602791,"problem_id":"P1000","submission_id":"63952289","title":"超级玛丽游戏"}
 {"accepted_at":1638248934.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602527,"problem_id":"P1001","submission_id":"63952366","title":"A+B Problem"}
 {"accepted_at":1638249069.0,"account_id":"a17","difficulty":2,"observed_at":1792162038.0601962,"problem_id":"P1008","submission_id":"63952522","title":"[NOIP 1998 普及组] 三连击"}
@@ -12902,6 +12904,7 @@
 {"accepted_at":1792803905.0,"account_id":"a83","difficulty":1,"observed_at":1792804312.329722,"problem_id":"P1897","submission_id":"305141732","title":"电梯里的尴尬"}
 {"accepted_at":1792805434.0,"account_id":"a83","difficulty":2,"observed_at":1792805539.8581111,"problem_id":"P1165","submission_id":"305150652","title":"日志分析"}
 {"accepted_at":1792805453.0,"account_id":"a83","difficulty":2,"observed_at":1792805539.857986,"problem_id":"P1165","submission_id":"305150772","title":"日志分析"}
+{"accepted_at":1792811180.0,"account_id":"a83","difficulty":5,"observed_at":1792811662.6447887,"problem_id":"P3805","submission_id":"305196356","title":"【模板】Manacher"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
@@ -25615,6 +25618,7 @@
 {"accepted_at":1792763743.0,"account_id":"a177","difficulty":2,"observed_at":1792764178.4913824,"problem_id":"P1011","submission_id":"305099090","title":"[NOIP 1998 提高组] 车站"}
 {"accepted_at":1792805626.0,"account_id":"a177","difficulty":1,"observed_at":1792805861.4844544,"problem_id":"P1897","submission_id":"305151839","title":"电梯里的尴尬"}
 {"accepted_at":1792807850.0,"account_id":"a177","difficulty":2,"observed_at":1792808295.1093974,"problem_id":"P1165","submission_id":"305167921","title":"日志分析"}
+{"accepted_at":1792811240.0,"account_id":"a177","difficulty":5,"observed_at":1792811379.639533,"problem_id":"P3805","submission_id":"305196920","title":"【模板】Manacher"}
 {"accepted_at":1760869961.0,"account_id":"a179","difficulty":null,"observed_at":1792163181.2108994,"problem_id":"9802","submission_id":"1544056","title":"Light Up the Grid"}
 {"accepted_at":1775564041.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860512,"problem_id":"9806","submission_id":"2204466","title":"Growing Tree"}
 {"accepted_at":1785754600.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860069,"problem_id":"9749","submission_id":"2714366","title":"小凯的省奖之梦"}
