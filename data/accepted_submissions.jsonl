@@ -11434,6 +11434,7 @@
 {"accepted_at":1792800207.0,"account_id":"a68","difficulty":3,"observed_at":1792800319.4143603,"problem_id":"P5788","submission_id":"305130830","title":"【模板】单调栈"}
 {"accepted_at":1792804123.0,"account_id":"a68","difficulty":1,"observed_at":1792804603.0692434,"problem_id":"P1897","submission_id":"305142829","title":"电梯里的尴尬"}
 {"accepted_at":1792807547.0,"account_id":"a68","difficulty":2,"observed_at":1792807645.7098932,"problem_id":"P1165","submission_id":"305165616","title":"日志分析"}
+{"accepted_at":1792807829.0,"account_id":"a68","difficulty":5,"observed_at":1792808257.9027085,"problem_id":"P3805","submission_id":"305167759","title":"【模板】Manacher"}
 {"accepted_at":1792139809.0,"account_id":"a70","difficulty":4,"observed_at":1792153440.0873888,"problem_id":"P3375","submission_id":"303362099","title":"【模板】KMP"}
 {"accepted_at":1792140193.0,"account_id":"a70","difficulty":4,"observed_at":1792153440.0873146,"problem_id":"P3375","submission_id":"303363712","title":"【模板】KMP"}
 {"accepted_at":1792140454.0,"account_id":"a70","difficulty":4,"observed_at":1792153440.0871515,"problem_id":"P3375","submission_id":"303364811","title":"【模板】KMP"}
@@ -17085,6 +17086,7 @@
 {"accepted_at":1792749110.0,"account_id":"a102","difficulty":2,"observed_at":1792749556.055169,"problem_id":"P1075","submission_id":"304997639","title":"[NOIP 2012 普及组] 质因数分解"}
 {"accepted_at":1792804378.0,"account_id":"a102","difficulty":1,"observed_at":1792804701.7449248,"problem_id":"P1897","submission_id":"305144197","title":"电梯里的尴尬"}
 {"accepted_at":1792807450.0,"account_id":"a102","difficulty":2,"observed_at":1792807758.3376298,"problem_id":"P1165","submission_id":"305164864","title":"日志分析"}
+{"accepted_at":1792807898.0,"account_id":"a102","difficulty":5,"observed_at":1792808365.3933415,"problem_id":"P3805","submission_id":"305168314","title":"【模板】Manacher"}
 {"accepted_at":1751634385.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.8621712,"problem_id":"P1042","submission_id":"222359694","title":"[NOIP 2003 普及组] 乒乓球"}
 {"accepted_at":1751635310.0,"account_id":"a105","difficulty":1,"observed_at":1792162229.8621101,"problem_id":"P2670","submission_id":"222361494","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1751896146.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.862081,"problem_id":"P1601","submission_id":"222865354","title":"高精度加法"}
@@ -25592,6 +25594,7 @@
 {"accepted_at":1792758723.0,"account_id":"a177","difficulty":2,"observed_at":1792759298.3977346,"problem_id":"P1010","submission_id":"305063340","title":"[NOIP 1998 普及组] 幂次方"}
 {"accepted_at":1792763743.0,"account_id":"a177","difficulty":2,"observed_at":1792764178.4913824,"problem_id":"P1011","submission_id":"305099090","title":"[NOIP 1998 提高组] 车站"}
 {"accepted_at":1792805626.0,"account_id":"a177","difficulty":1,"observed_at":1792805861.4844544,"problem_id":"P1897","submission_id":"305151839","title":"电梯里的尴尬"}
+{"accepted_at":1792807850.0,"account_id":"a177","difficulty":2,"observed_at":1792808295.1093974,"problem_id":"P1165","submission_id":"305167921","title":"日志分析"}
 {"accepted_at":1760869961.0,"account_id":"a179","difficulty":null,"observed_at":1792163181.2108994,"problem_id":"9802","submission_id":"1544056","title":"Light Up the Grid"}
 {"accepted_at":1775564041.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860512,"problem_id":"9806","submission_id":"2204466","title":"Growing Tree"}
 {"accepted_at":1785754600.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860069,"problem_id":"9749","submission_id":"2714366","title":"小凯的省奖之梦"}
