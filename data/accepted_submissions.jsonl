@@ -16094,7 +16094,7 @@
 {"accepted_at":1792811769.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261563,"problem_id":"P7410","submission_id":"305201958","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1792811808.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261428,"problem_id":"P7410","submission_id":"305202333","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1792812391.0,"account_id":"a97","difficulty":4,"observed_at":1792812620.001128,"problem_id":"P7410","submission_id":"305207654","title":"[USACO21FEB] Just Green Enough S"}
-{"accepted_at":1792824233.0,"account_id":"a97","difficulty":0,"observed_at":1792840212.6887307,"problem_id":"P17764","submission_id":"305276234","title":"「LDOI R2」极差 / Range"}
+{"accepted_at":1792824233.0,"account_id":"a97","difficulty":2,"observed_at":1792840212.6887307,"problem_id":"P17764","submission_id":"305276234","title":"「LDOI R2」极差 / Range"}
 {"accepted_at":1792836864.0,"account_id":"a97","difficulty":0,"observed_at":1792840212.6886194,"problem_id":"P17765","submission_id":"305387358","title":"「LDOI R2」平方数 / Square"}
 {"accepted_at":1696756267.0,"account_id":"a98","difficulty":800,"observed_at":1792148496.6041012,"problem_id":"1877A","submission_id":"227119660","title":"Goals of Victory"}
 {"accepted_at":1696757748.0,"account_id":"a98","difficulty":1000,"observed_at":1792148496.6040943,"problem_id":"1877B","submission_id":"227135670","title":"Helmets in Night Light"}
@@ -19268,6 +19268,7 @@
 {"accepted_at":1792649166.0,"account_id":"a124","difficulty":1900,"observed_at":1792649728.052845,"problem_id":"817D","submission_id":"395539021","title":"Imbalanced Array"}
 {"accepted_at":1792840251.0,"account_id":"a124","difficulty":null,"observed_at":1792840285.9868195,"problem_id":"2277A","submission_id":"395829262","title":"Subset Selecting"}
 {"accepted_at":1792840485.0,"account_id":"a124","difficulty":null,"observed_at":1792840900.4258182,"problem_id":"2277B","submission_id":"395831223","title":"Sequence Decreasing"}
+{"accepted_at":1792841157.0,"account_id":"a124","difficulty":null,"observed_at":1792841516.5700014,"problem_id":"2277C","submission_id":"395837409","title":"Edge Addeleting"}
 {"accepted_at":1744521559.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687415,"problem_id":"P12132","submission_id":"213553321","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"accepted_at":1751885589.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687157,"problem_id":"B2139","submission_id":"222827579","title":"区间内的真素数"}
 {"accepted_at":1758884127.0,"account_id":"a125","difficulty":3,"observed_at":1792153920.168701,"problem_id":"P1518","submission_id":"237048136","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
@@ -19930,7 +19931,7 @@
 {"accepted_at":1792807383.0,"account_id":"a127","difficulty":5,"observed_at":1792807850.4669254,"problem_id":"P3805","submission_id":"305164353","title":"【模板】Manacher"}
 {"accepted_at":1792807398.0,"account_id":"a127","difficulty":5,"observed_at":1792807850.466813,"problem_id":"P3805","submission_id":"305164473","title":"【模板】Manacher"}
 {"accepted_at":1792811153.0,"account_id":"a127","difficulty":0,"observed_at":1792815208.2146258,"problem_id":"P17760","submission_id":"305196105","title":"「奶龙OI」Round 3 - 生存大师"}
-{"accepted_at":1792822171.0,"account_id":"a127","difficulty":0,"observed_at":1792839745.9532619,"problem_id":"P17764","submission_id":"305257680","title":"「LDOI R2」极差 / Range"}
+{"accepted_at":1792822171.0,"account_id":"a127","difficulty":2,"observed_at":1792839745.9532619,"problem_id":"P17764","submission_id":"305257680","title":"「LDOI R2」极差 / Range"}
 {"accepted_at":1548553621.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.171839,"problem_id":"P1001","submission_id":"15761511","title":"A+B Problem"}
 {"accepted_at":1548556637.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.1718066,"problem_id":"P1421","submission_id":"15764357","title":"小玉买文具"}
 {"accepted_at":1548556964.0,"account_id":"a130","difficulty":1,"observed_at":1792160019.1717749,"problem_id":"P1425","submission_id":"15764736","title":"小鱼的游泳时间"}
@@ -21917,6 +21918,7 @@
 {"accepted_at":1792752403.0,"account_id":"a150","difficulty":2200,"observed_at":1792752855.5361292,"problem_id":"427D","submission_id":"395684212","title":"Match & Catch"}
 {"accepted_at":1792819970.0,"account_id":"a150","difficulty":2200,"observed_at":1792820613.862941,"problem_id":"427D","submission_id":"395792065","title":"Match & Catch"}
 {"accepted_at":1792840336.0,"account_id":"a150","difficulty":null,"observed_at":1792840826.5140445,"problem_id":"2277A","submission_id":"395829934","title":"Subset Selecting"}
+{"accepted_at":1792840857.0,"account_id":"a150","difficulty":null,"observed_at":1792841438.3776655,"problem_id":"2277B","submission_id":"395834770","title":"Sequence Decreasing"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
@@ -26672,6 +26674,7 @@
 {"accepted_at":1792770804.0,"account_id":"a183","difficulty":1500,"observed_at":1792770972.2412045,"problem_id":"2259E","submission_id":"395726236","title":"Treasure Map Destruction (Constructive Version)"}
 {"accepted_at":1792770920.0,"account_id":"a183","difficulty":1800,"observed_at":1792771581.5581071,"problem_id":"2259F","submission_id":"395726496","title":"Binary Bubble Sort Inversions"}
 {"accepted_at":1792773999.0,"account_id":"a183","difficulty":1900,"observed_at":1792774046.747362,"problem_id":"2259G","submission_id":"395733497","title":"Index Removal"}
+{"accepted_at":1792841098.0,"account_id":"a183","difficulty":null,"observed_at":1792841355.1252868,"problem_id":"2277A","submission_id":"395836900","title":"Subset Selecting"}
 {"accepted_at":1749036763.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6704295,"problem_id":"11381","submission_id":"1091614","title":"Team Naming"}
 {"accepted_at":1749222440.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6703038,"problem_id":"11380","submission_id":"1094995","title":"Loose Subsequences"}
 {"accepted_at":1779080680.0,"account_id":"a184","difficulty":null,"observed_at":1792486456.2704692,"problem_id":"17467","submission_id":"2391929","title":"Galaxy of Stars in a Dream"}

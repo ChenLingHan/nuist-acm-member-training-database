@@ -12012,7 +12012,7 @@
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1917198,"platform":"luogu","problem_id":"P1757","solved_at":1679801032.0,"source":"luogu-practice-snapshot","title":"通天之分组背包"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1888604,"platform":"luogu","problem_id":"P1774","solved_at":1669941575.0,"source":"luogu-practice-snapshot","title":"最接近神的人"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1917236,"platform":"luogu","problem_id":"P1775","solved_at":1681542224.0,"source":"luogu-practice-snapshot","title":"石子合并（弱化版）"}
-{"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792840212.6887226,"platform":"luogu","problem_id":"P17764","solved_at":1792824233.0,"source":"luogu-record-list","title":"「LDOI R2」极差 / Range"}
+{"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792840212.6887226,"platform":"luogu","problem_id":"P17764","solved_at":1792824233.0,"source":"luogu-record-list","title":"「LDOI R2」极差 / Range"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792840212.6885364,"platform":"luogu","problem_id":"P17765","solved_at":1792836864.0,"source":"luogu-record-list","title":"「LDOI R2」平方数 / Square"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.188864,"platform":"luogu","problem_id":"P1801","solved_at":1673438509.0,"source":"luogu-practice-snapshot","title":"黑匣子"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1917274,"platform":"luogu","problem_id":"P1802","solved_at":1731891423.0,"source":"luogu-practice-snapshot","title":"5 倍经验日"}
@@ -15215,6 +15215,7 @@
 {"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840285.9865928,"platform":"codeforces","problem_id":"2277A","solved_at":1792840251.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840900.425722,"platform":"codeforces","problem_id":"2277B","solved_at":1792840485.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792841516.5699081,"platform":"codeforces","problem_id":"2277C","solved_at":1792841157.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a124","difficulty":2700,"member_id":"m54","observed_at":1792148519.6788023,"platform":"codeforces","problem_id":"243D","solved_at":1779371351.0,"source":"codeforces-api","title":"Cubes"}
 {"account_id":"a124","difficulty":3000,"member_id":"m54","observed_at":1792148519.6810186,"platform":"codeforces","problem_id":"526F","solved_at":1774536791.0,"source":"codeforces-api","title":"Pudding Monsters"}
 {"account_id":"a124","difficulty":1900,"member_id":"m54","observed_at":1792649728.0527573,"platform":"codeforces","problem_id":"817D","solved_at":1792649166.0,"source":"codeforces-api","title":"Imbalanced Array"}
@@ -15833,7 +15834,7 @@
 {"account_id":"a127","difficulty":3,"member_id":"m57","observed_at":1792149238.6688726,"platform":"luogu","problem_id":"P17706","solved_at":1792043817.0,"source":"luogu-practice-snapshot","title":"[ICPC 2019 Nanjing R] Prince and Princess"}
 {"account_id":"a127","difficulty":3,"member_id":"m57","observed_at":1792149238.6688795,"platform":"luogu","problem_id":"P17709","solved_at":1792049184.0,"source":"luogu-practice-snapshot","title":"[ICPC 2019 Nanjing R] Triangle"}
 {"account_id":"a127","difficulty":0,"member_id":"m57","observed_at":1792815208.2145395,"platform":"luogu","problem_id":"P17760","solved_at":1792811153.0,"source":"luogu-record-list","title":"「奶龙OI」Round 3 - 生存大师"}
-{"account_id":"a127","difficulty":0,"member_id":"m57","observed_at":1792839745.9531782,"platform":"luogu","problem_id":"P17764","solved_at":1792822171.0,"source":"luogu-record-list","title":"「LDOI R2」极差 / Range"}
+{"account_id":"a127","difficulty":2,"member_id":"m57","observed_at":1792839745.9531782,"platform":"luogu","problem_id":"P17764","solved_at":1792822171.0,"source":"luogu-record-list","title":"「LDOI R2」极差 / Range"}
 {"account_id":"a127","difficulty":1,"member_id":"m57","observed_at":1792804801.523514,"platform":"luogu","problem_id":"P1897","solved_at":1792804775.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a127","difficulty":5,"member_id":"m57","observed_at":1792328230.9171271,"platform":"luogu","problem_id":"P2353","solved_at":1792328177.0,"source":"luogu-record-list","title":"背单词"}
 {"account_id":"a127","difficulty":2,"member_id":"m57","observed_at":1792149238.668801,"platform":"luogu","problem_id":"P2615","solved_at":1788073414.0,"source":"luogu-practice-snapshot","title":"[NOIP 2015 提高组] 神奇的幻方"}
@@ -17165,6 +17166,7 @@
 {"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1792148545.117751,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a150","difficulty":1300,"member_id":"m66","observed_at":1792148545.1177082,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792840826.5139465,"platform":"codeforces","problem_id":"2277A","solved_at":1792840336.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792841438.377568,"platform":"codeforces","problem_id":"2277B","solved_at":1792840857.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1792148545.1195297,"platform":"codeforces","problem_id":"252A","solved_at":1789632242.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a150","difficulty":2200,"member_id":"m66","observed_at":1792410890.445494,"platform":"codeforces","problem_id":"25E","solved_at":1792410598.0,"source":"codeforces-api","title":"Test"}
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1178768,"platform":"codeforces","problem_id":"268E","solved_at":1791801762.0,"source":"codeforces-api","title":"Playlist"}
@@ -21498,6 +21500,7 @@
 {"account_id":"a183","difficulty":1100,"member_id":"m80","observed_at":1792486471.1309617,"platform":"codeforces","problem_id":"2276C","solved_at":1791989940.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a183","difficulty":1400,"member_id":"m80","observed_at":1792486471.130935,"platform":"codeforces","problem_id":"2276D","solved_at":1791991881.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1309175,"platform":"codeforces","problem_id":"2276E","solved_at":1791995476.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1792841355.125177,"platform":"codeforces","problem_id":"2277A","solved_at":1792841098.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1597798,"platform":"codeforces","problem_id":"300C","solved_at":1737615987.0,"source":"codeforces-api","title":"Beautiful Numbers"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1606162,"platform":"codeforces","problem_id":"471D","solved_at":1730313523.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a183","difficulty":1600,"member_id":"m80","observed_at":1792486471.160011,"platform":"codeforces","problem_id":"510C","solved_at":1733537500.0,"source":"codeforces-api","title":"Fox And Names"}
