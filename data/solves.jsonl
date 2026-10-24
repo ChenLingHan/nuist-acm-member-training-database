@@ -2108,6 +2108,7 @@
 {"account_id":"a22","difficulty":1,"member_id":"m10","observed_at":1792080362.5680187,"platform":"luogu","problem_id":"P1151","solved_at":1642154179.0,"source":"luogu-practice-snapshot","title":"子数整数"}
 {"account_id":"a22","difficulty":1,"member_id":"m10","observed_at":1792080362.5680232,"platform":"luogu","problem_id":"P1152","solved_at":1635397594.0,"source":"luogu-practice-snapshot","title":"欢乐的跳"}
 {"account_id":"a22","difficulty":3,"member_id":"m10","observed_at":1792080362.5680277,"platform":"luogu","problem_id":"P1160","solved_at":1642424549.0,"source":"luogu-practice-snapshot","title":"队列安排"}
+{"account_id":"a22","difficulty":2,"member_id":"m10","observed_at":1792803604.7664516,"platform":"luogu","problem_id":"P1165","solved_at":1792803113.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a22","difficulty":4,"member_id":"m10","observed_at":1792080362.568032,"platform":"luogu","problem_id":"P1169","solved_at":1697530258.0,"source":"luogu-practice-snapshot","title":"[ZJOI2007] 棋盘制作"}
 {"account_id":"a22","difficulty":4,"member_id":"m10","observed_at":1792080362.5680368,"platform":"luogu","problem_id":"P1171","solved_at":1683704099.0,"source":"luogu-practice-snapshot","title":"售货员的难题"}
 {"account_id":"a22","difficulty":7,"member_id":"m10","observed_at":1792080362.5680413,"platform":"luogu","problem_id":"P1173","solved_at":1689587003.0,"source":"luogu-practice-snapshot","title":"[NOI2016] 网格"}
@@ -8003,6 +8004,7 @@
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792466997.8880298,"platform":"luogu","problem_id":"P1007","solved_at":1792466898.0,"source":"luogu-record-list","title":"独木桥"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792129822.5043197,"platform":"luogu","problem_id":"P1434","solved_at":1790860445.0,"source":"luogu-practice-snapshot","title":"[SHOI2002] 滑雪"}
 {"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792596472.6132135,"platform":"luogu","problem_id":"P1739","solved_at":1792596317.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792803590.5187411,"platform":"luogu","problem_id":"P1897","solved_at":1792803186.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792641512.3502824,"platform":"luogu","problem_id":"P1944","solved_at":1792640993.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792129822.5043232,"platform":"luogu","problem_id":"P3375","solved_at":1792113355.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792223826.1535144,"platform":"luogu","problem_id":"P3435","solved_at":1792223359.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -11033,6 +11035,7 @@
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.661584,"platform":"luogu","problem_id":"P1424","solved_at":1791767295.0,"source":"luogu-practice-snapshot","title":"小鱼的航程（改进版）"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.661591,"platform":"luogu","problem_id":"P1425","solved_at":1791538637.0,"source":"luogu-practice-snapshot","title":"小鱼的游泳时间"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792477312.4288552,"platform":"luogu","problem_id":"P1888","solved_at":1792476708.0,"source":"luogu-record-list","title":"三角函数"}
+{"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792803560.1355157,"platform":"luogu","problem_id":"P1897","solved_at":1792803355.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6615977,"platform":"luogu","problem_id":"P1909","solved_at":1791766863.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6616046,"platform":"luogu","problem_id":"P3954","solved_at":1791538901.0,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6616192,"platform":"luogu","problem_id":"P4414","solved_at":1791769274.0,"source":"luogu-practice-snapshot","title":"[COCI 2006/2007 #2] ABC"}
@@ -14664,6 +14667,7 @@
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.9848328,"platform":"luogu","problem_id":"P1421","solved_at":1791630894.0,"source":"luogu-record-list","title":"小玉买文具"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.984843,"platform":"luogu","problem_id":"P1425","solved_at":1791630780.0,"source":"luogu-record-list","title":"小鱼的游泳时间"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792667345.7179675,"platform":"luogu","problem_id":"P1739","solved_at":1792666939.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792803743.1869645,"platform":"luogu","problem_id":"P1897","solved_at":1792803386.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a117","difficulty":3,"member_id":"m52","observed_at":1792740036.394118,"platform":"luogu","problem_id":"P1944","solved_at":1792739883.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a117","difficulty":4,"member_id":"m52","observed_at":1792153235.9846566,"platform":"luogu","problem_id":"P3375","solved_at":1792111452.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a117","difficulty":5,"member_id":"m52","observed_at":1792546540.1594307,"platform":"luogu","problem_id":"P3435","solved_at":1792546222.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -19808,6 +19812,7 @@
 {"account_id":"a160","difficulty":0,"member_id":"m71","observed_at":1792153338.1037877,"platform":"luogu","problem_id":"P1094","solved_at":1706579884.0,"source":"luogu-record-list","title":"P1094"}
 {"account_id":"a160","difficulty":0,"member_id":"m71","observed_at":1792153338.1041088,"platform":"luogu","problem_id":"P1106","solved_at":1705106964.0,"source":"luogu-record-list","title":"P1106"}
 {"account_id":"a160","difficulty":3,"member_id":"m71","observed_at":1792150264.648464,"platform":"luogu","problem_id":"P1309","solved_at":1705885940.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 瑞士轮"}
+{"account_id":"a160","difficulty":1,"member_id":"m71","observed_at":1792803889.303842,"platform":"luogu","problem_id":"P1897","solved_at":1792803358.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a160","difficulty":2,"member_id":"m71","observed_at":1792150264.6485527,"platform":"luogu","problem_id":"P3383","solved_at":1706316190.0,"source":"luogu-practice-snapshot","title":"【模板】线性筛素数"}
 {"account_id":"a160","difficulty":5,"member_id":"m71","observed_at":1792302507.5261874,"platform":"luogu","problem_id":"P3435","solved_at":1792301908.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a160","difficulty":5,"member_id":"m71","observed_at":1792668089.1887224,"platform":"luogu","problem_id":"P3805","solved_at":1792667656.0,"source":"luogu-record-list","title":"【模板】Manacher"}
