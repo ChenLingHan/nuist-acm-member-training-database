@@ -4017,6 +4017,7 @@
 {"accepted_at":1791989583.0,"account_id":"a24","difficulty":1100,"observed_at":1792081262.3121722,"problem_id":"2276C","submission_id":"394546547","title":"Subarrays"}
 {"accepted_at":1792030783.0,"account_id":"a24","difficulty":1400,"observed_at":1792081262.3121545,"problem_id":"2276D","submission_id":"394636885","title":"Caveman"}
 {"accepted_at":1792036081.0,"account_id":"a24","difficulty":1800,"observed_at":1792081262.312058,"problem_id":"2276E","submission_id":"394641074","title":"Good Substrings"}
+{"accepted_at":1792806134.0,"account_id":"a24","difficulty":1900,"observed_at":1792806450.2447467,"problem_id":"817D","submission_id":"395779399","title":"Imbalanced Array"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -7862,6 +7863,8 @@
 {"accepted_at":1792633008.0,"account_id":"a39","difficulty":1,"observed_at":1792633341.7778947,"problem_id":"P1739","submission_id":"304691490","title":"表达式括号匹配"}
 {"accepted_at":1792670397.0,"account_id":"a39","difficulty":3,"observed_at":1792670918.7763116,"problem_id":"P1944","submission_id":"304813404","title":"最长括号匹配"}
 {"accepted_at":1792803765.0,"account_id":"a39","difficulty":1,"observed_at":1792804271.0554826,"problem_id":"P1897","submission_id":"305141056","title":"电梯里的尴尬"}
+{"accepted_at":1792805585.0,"account_id":"a39","difficulty":2,"observed_at":1792806126.0571148,"problem_id":"P1165","submission_id":"305151585","title":"日志分析"}
+{"accepted_at":1792805597.0,"account_id":"a39","difficulty":2,"observed_at":1792806126.056986,"problem_id":"P1165","submission_id":"305151655","title":"日志分析"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -11163,6 +11166,7 @@
 {"accepted_at":1792509269.0,"account_id":"a63","difficulty":5,"observed_at":1792509337.8117356,"problem_id":"P2375","submission_id":"304472949","title":"[NOI2014] 动物园"}
 {"accepted_at":1792585448.0,"account_id":"a63","difficulty":1,"observed_at":1792585656.5267475,"problem_id":"P1739","submission_id":"304624471","title":"表达式括号匹配"}
 {"accepted_at":1792803067.0,"account_id":"a63","difficulty":1,"observed_at":1792803149.6956928,"problem_id":"P1897","submission_id":"305137840","title":"电梯里的尴尬"}
+{"accepted_at":1792805817.0,"account_id":"a63","difficulty":2,"observed_at":1792806218.351778,"problem_id":"P1165","submission_id":"305153055","title":"日志分析"}
 {"accepted_at":1792143886.0,"account_id":"a64","difficulty":1800,"observed_at":1792144061.6260312,"problem_id":"471D","submission_id":"394794682","title":"MUH and Cube Walls"}
 {"accepted_at":1541297725.0,"account_id":"a65","difficulty":3,"observed_at":1792153391.9855702,"problem_id":"P4994","submission_id":"13077862","title":"终于结束的起点"}
 {"accepted_at":1541905792.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1815884,"problem_id":"P5015","submission_id":"13648673","title":"[NOIP 2018 普及组] 标题统计"}
@@ -12006,6 +12010,7 @@
 {"accepted_at":1792393134.0,"account_id":"a75","difficulty":2,"observed_at":1792401083.0918643,"problem_id":"P1540","submission_id":"304144981","title":"[NOIP 2010 提高组] 机器翻译"}
 {"accepted_at":1792394705.0,"account_id":"a75","difficulty":3,"observed_at":1792401083.0915902,"problem_id":"P2947","submission_id":"304149783","title":"[USACO09MAR] Look Up S"}
 {"accepted_at":1792670807.0,"account_id":"a75","difficulty":1,"observed_at":1792670939.9227922,"problem_id":"P1739","submission_id":"304816431","title":"表达式括号匹配"}
+{"accepted_at":1792805996.0,"account_id":"a75","difficulty":1,"observed_at":1792806141.451615,"problem_id":"P1897","submission_id":"305154264","title":"电梯里的尴尬"}
 {"accepted_at":1785777026.0,"account_id":"a76","difficulty":800,"observed_at":1792127099.6203043,"problem_id":"4A","submission_id":"385443625","title":"Watermelon"}
 {"accepted_at":1785857308.0,"account_id":"a76","difficulty":800,"observed_at":1792127099.6202872,"problem_id":"2254A","submission_id":"385616900","title":"Riptide"}
 {"accepted_at":1785857345.0,"account_id":"a76","difficulty":900,"observed_at":1792127099.6202545,"problem_id":"2254B","submission_id":"385617460","title":"Evanescent"}
@@ -21434,6 +21439,7 @@
 {"accepted_at":1791107200.0,"account_id":"a147","difficulty":1,"observed_at":1792153301.88673,"problem_id":"P1001","submission_id":"300965191","title":"A+B Problem"}
 {"accepted_at":1791121485.0,"account_id":"a147","difficulty":2,"observed_at":1792153301.8866994,"problem_id":"P1443","submission_id":"301020701","title":"马的遍历"}
 {"accepted_at":1791121512.0,"account_id":"a147","difficulty":2,"observed_at":1792153301.886536,"problem_id":"P1443","submission_id":"301020797","title":"马的遍历"}
+{"accepted_at":1792806078.0,"account_id":"a147","difficulty":1,"observed_at":1792806254.5520015,"problem_id":"P1897","submission_id":"305154842","title":"电梯里的尴尬"}
 {"accepted_at":1760876352.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1841102,"problem_id":"B2025","submission_id":"241747398","title":"输出字符菱形"}
 {"accepted_at":1760876386.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1840804,"problem_id":"B2025","submission_id":"241747580","title":"输出字符菱形"}
 {"accepted_at":1760876609.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1840413,"problem_id":"P3954","submission_id":"241748865","title":"[NOIP 2017 普及组] 成绩"}
@@ -21903,6 +21909,7 @@
 {"accepted_at":1788855591.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1553798,"problem_id":"20028","submission_id":"2905798","title":"Check In"}
 {"accepted_at":1791121291.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.927953,"problem_id":"2267A","submission_id":"393183238","title":"Turn Into a Palindrome"}
 {"accepted_at":1791385374.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.9277208,"problem_id":"2267B","submission_id":"393541374","title":"Fashionable Array"}
+{"accepted_at":1792805755.0,"account_id":"a153","difficulty":1900,"observed_at":1792806223.4820352,"problem_id":"817D","submission_id":"395779169","title":"Imbalanced Array"}
 {"accepted_at":1792658779.0,"account_id":"a154","difficulty":1,"observed_at":1792658909.5037622,"problem_id":"P1001","submission_id":"304757881","title":"A+B Problem"}
 {"accepted_at":1792660153.0,"account_id":"a154","difficulty":1,"observed_at":1792660732.0938506,"problem_id":"P14747","submission_id":"304764291","title":"相似字符串"}
 {"accepted_at":1558227959.0,"account_id":"a155","difficulty":2,"observed_at":1792165740.846896,"problem_id":"P1030","submission_id":"19174683","title":"[NOIP 2001 普及组] 求先序排列"}
@@ -24809,6 +24816,8 @@
 {"accepted_at":1792803137.0,"account_id":"a158","difficulty":1,"observed_at":1792803268.5722086,"problem_id":"P1897","submission_id":"305138120","title":"电梯里的尴尬"}
 {"accepted_at":1792803147.0,"account_id":"a158","difficulty":1,"observed_at":1792803268.5721767,"problem_id":"P1897","submission_id":"305138169","title":"电梯里的尴尬"}
 {"accepted_at":1792803264.0,"account_id":"a158","difficulty":2,"observed_at":1792803268.5720546,"problem_id":"P1165","submission_id":"305138691","title":"日志分析"}
+{"accepted_at":1792805739.0,"account_id":"a158","difficulty":5,"observed_at":1792806308.91074,"problem_id":"P3805","submission_id":"305152540","title":"【模板】Manacher"}
+{"accepted_at":1792805757.0,"account_id":"a158","difficulty":5,"observed_at":1792806308.910616,"problem_id":"P3805","submission_id":"305152646","title":"【模板】Manacher"}
 {"accepted_at":1631024137.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007793,"problem_id":"1509A","submission_id":"128133913","title":"Average Height"}
 {"accepted_at":1631024816.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007552,"problem_id":"1509A","submission_id":"128134880","title":"Average Height"}
 {"accepted_at":1662869388.0,"account_id":"a159","difficulty":1000,"observed_at":1792148551.100661,"problem_id":"1266A","submission_id":"171671108","title":"Competitive Programmer"}
@@ -24841,6 +24850,7 @@
 {"accepted_at":1792803358.0,"account_id":"a160","difficulty":1,"observed_at":1792803889.3039258,"problem_id":"P1897","submission_id":"305139114","title":"电梯里的尴尬"}
 {"accepted_at":1792804922.0,"account_id":"a160","difficulty":2,"observed_at":1792805107.804667,"problem_id":"P1165","submission_id":"305147430","title":"日志分析"}
 {"accepted_at":1792805063.0,"account_id":"a160","difficulty":2,"observed_at":1792805107.804543,"problem_id":"P1165","submission_id":"305148348","title":"日志分析"}
+{"accepted_at":1792806173.0,"account_id":"a160","difficulty":5,"observed_at":1792806323.37915,"problem_id":"P3805","submission_id":"305155517","title":"【模板】Manacher"}
 {"accepted_at":1763168089.0,"account_id":"a163","difficulty":2,"observed_at":1792154879.111504,"problem_id":"P11388","submission_id":"247261219","title":"[COCI 2024/2025 #1] 飞跃 / Skokovi"}
 {"accepted_at":1763168109.0,"account_id":"a163","difficulty":2,"observed_at":1792154879.1114745,"problem_id":"P11388","submission_id":"247261280","title":"[COCI 2024/2025 #1] 飞跃 / Skokovi"}
 {"accepted_at":1763196523.0,"account_id":"a163","difficulty":3,"observed_at":1792154879.111461,"problem_id":"P10909","submission_id":"247417295","title":"[蓝桥杯 2024 国 B] 立定跳远"}
@@ -25117,6 +25127,7 @@
 {"accepted_at":1792634341.0,"account_id":"a165","difficulty":3,"observed_at":1792634505.646156,"problem_id":"P1944","submission_id":"304693736","title":"最长括号匹配"}
 {"accepted_at":1792674263.0,"account_id":"a165","difficulty":2,"observed_at":1792674844.0373368,"problem_id":"P8647","submission_id":"304841264","title":"[蓝桥杯 2017 省 AB] 分巧克力"}
 {"accepted_at":1792804396.0,"account_id":"a165","difficulty":1,"observed_at":1792804531.6130242,"problem_id":"P1897","submission_id":"305144295","title":"电梯里的尴尬"}
+{"accepted_at":1792806148.0,"account_id":"a165","difficulty":2,"observed_at":1792806355.3006794,"problem_id":"P1165","submission_id":"305155344","title":"日志分析"}
 {"accepted_at":1789722723.0,"account_id":"a168","difficulty":1,"observed_at":1792153355.6163747,"problem_id":"P1001","submission_id":"298314404","title":"A+B Problem"}
 {"accepted_at":1792122129.0,"account_id":"a168","difficulty":4,"observed_at":1792153355.616316,"problem_id":"P3375","submission_id":"303319327","title":"【模板】KMP"}
 {"accepted_at":1792222092.0,"account_id":"a168","difficulty":3,"observed_at":1792222363.1346326,"problem_id":"P7911","submission_id":"303626356","title":"[CSP-J 2021] 网络连接"}
