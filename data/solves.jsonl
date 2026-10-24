@@ -1513,6 +1513,7 @@
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.631088,"platform":"luogu","problem_id":"P10909","solved_at":1763178194.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2024 国 B] 立定跳远"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310954,"platform":"luogu","problem_id":"P11388","solved_at":1763168086.0,"source":"luogu-practice-snapshot","title":"[COCI 2024/2025 #1] 飞跃 / Skokovi"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.630599,"platform":"luogu","problem_id":"P1162","solved_at":1761355194.0,"source":"luogu-practice-snapshot","title":"填涂颜色"}
+{"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792807188.622056,"platform":"luogu","problem_id":"P1165","solved_at":1792807039.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a15","difficulty":1,"member_id":"m7","observed_at":1792076650.6311026,"platform":"luogu","problem_id":"P12170","solved_at":1775920087.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2025 省 Python B] 攻击次数"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310122,"platform":"luogu","problem_id":"P1443","solved_at":1761960675.0,"source":"luogu-practice-snapshot","title":"马的遍历"}
 {"account_id":"a15","difficulty":1,"member_id":"m7","observed_at":1792076650.6311092,"platform":"luogu","problem_id":"P15430","solved_at":1775919094.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2025 国 Python B] 等差数列计数"}
@@ -8016,6 +8017,7 @@
 {"account_id":"a54","difficulty":2,"member_id":"m23","observed_at":1792129822.5043156,"platform":"luogu","problem_id":"P1003","solved_at":1790753465.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792477378.0270247,"platform":"luogu","problem_id":"P1004","solved_at":1792476766.0,"source":"luogu-record-list","title":"[NOIP 2000 提高组] 方格取数"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792466997.8880298,"platform":"luogu","problem_id":"P1007","solved_at":1792466898.0,"source":"luogu-record-list","title":"独木桥"}
+{"account_id":"a54","difficulty":2,"member_id":"m23","observed_at":1792807254.9279788,"platform":"luogu","problem_id":"P1165","solved_at":1792807031.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792129822.5043197,"platform":"luogu","problem_id":"P1434","solved_at":1790860445.0,"source":"luogu-practice-snapshot","title":"[SHOI2002] 滑雪"}
 {"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792596472.6132135,"platform":"luogu","problem_id":"P1739","solved_at":1792596317.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792803590.5187411,"platform":"luogu","problem_id":"P1897","solved_at":1792803186.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
@@ -8470,6 +8472,7 @@
 {"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792129840.9113173,"platform":"luogu","problem_id":"P1125","solved_at":1776601640.0,"source":"luogu-practice-snapshot","title":"[NOIP 2008 提高组] 笨小猴"}
 {"account_id":"a60","difficulty":1,"member_id":"m26","observed_at":1792129840.9113262,"platform":"luogu","problem_id":"P1152","solved_at":1782370037.0,"source":"luogu-practice-snapshot","title":"欢乐的跳"}
 {"account_id":"a60","difficulty":1,"member_id":"m26","observed_at":1792129840.9113362,"platform":"luogu","problem_id":"P1161","solved_at":1776410570.0,"source":"luogu-practice-snapshot","title":"开灯"}
+{"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792807309.127114,"platform":"luogu","problem_id":"P1165","solved_at":1792806902.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792129840.9113455,"platform":"luogu","problem_id":"P1177","solved_at":1777815414.0,"source":"luogu-practice-snapshot","title":"【模板】排序"}
 {"account_id":"a60","difficulty":1,"member_id":"m26","observed_at":1792129840.9113543,"platform":"luogu","problem_id":"P1179","solved_at":1791890539.0,"source":"luogu-practice-snapshot","title":"[NOIP 2010 普及组] 数字统计"}
 {"account_id":"a60","difficulty":3,"member_id":"m26","observed_at":1792129840.911363,"platform":"luogu","problem_id":"P1182","solved_at":1782810728.0,"source":"luogu-practice-snapshot","title":"数列分段 Section II"}
@@ -12573,6 +12576,7 @@
 {"account_id":"a98","difficulty":1600,"member_id":"m43","observed_at":1792148496.6040668,"platform":"codeforces","problem_id":"601A","solved_at":1697115935.0,"source":"codeforces-api","title":"The Two Routes"}
 {"account_id":"a98","difficulty":1400,"member_id":"m43","observed_at":1792148496.6038806,"platform":"codeforces","problem_id":"757B","solved_at":1703329986.0,"source":"codeforces-api","title":"Bash's Big Day"}
 {"account_id":"a98","difficulty":1800,"member_id":"m43","observed_at":1792148496.6038697,"platform":"codeforces","problem_id":"7C","solved_at":1727436250.0,"source":"codeforces-api","title":"Line"}
+{"account_id":"a98","difficulty":1900,"member_id":"m43","observed_at":1792806942.6650903,"platform":"codeforces","problem_id":"817D","solved_at":1792806539.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.603931,"platform":"codeforces","problem_id":"817F","solved_at":1699054731.0,"source":"codeforces-api","title":"MEX Queries"}
 {"account_id":"a98","difficulty":1800,"member_id":"m43","observed_at":1792148496.6039064,"platform":"codeforces","problem_id":"888E","solved_at":1699931273.0,"source":"codeforces-api","title":"Maximum Subsequence"}
 {"account_id":"a98","difficulty":2600,"member_id":"m43","observed_at":1792148496.6039536,"platform":"codeforces","problem_id":"896C","solved_at":1698907747.0,"source":"codeforces-api","title":"Willem, Chtholly and Seniorious"}

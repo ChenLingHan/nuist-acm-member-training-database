@@ -1998,6 +1998,7 @@
 {"accepted_at":1780748460.0,"account_id":"a15","difficulty":2,"observed_at":1792128798.1937852,"problem_id":"P16816","submission_id":"280982248","title":"[蓝桥杯 2026 国 Python B] 贴纸册交换"}
 {"accepted_at":1780748680.0,"account_id":"a15","difficulty":2,"observed_at":1792128798.1936722,"problem_id":"P16817","submission_id":"280983048","title":"[蓝桥杯 2026 国 Python B] 稳定史莱姆"}
 {"accepted_at":1792804111.0,"account_id":"a15","difficulty":1,"observed_at":1792804144.9181135,"problem_id":"P1897","submission_id":"305142767","title":"电梯里的尴尬"}
+{"accepted_at":1792807039.0,"account_id":"a15","difficulty":2,"observed_at":1792807188.6221423,"problem_id":"P1165","submission_id":"305161760","title":"日志分析"}
 {"accepted_at":1761380429.0,"account_id":"a16","difficulty":1500,"observed_at":1792077554.3268752,"problem_id":"91B","submission_id":"345710149","title":"Queue"}
 {"accepted_at":1761817835.0,"account_id":"a16","difficulty":1300,"observed_at":1792077554.3268526,"problem_id":"1029A","submission_id":"346603067","title":"Many Equal Substrings"}
 {"accepted_at":1761819079.0,"account_id":"a16","difficulty":1700,"observed_at":1792077554.3268282,"problem_id":"2010C2","submission_id":"346605787","title":"Message Transmission Error (hard version)"}
@@ -3699,6 +3700,7 @@
 {"accepted_at":1792758688.0,"account_id":"a22","difficulty":6,"observed_at":1792758891.3648622,"problem_id":"P5410","submission_id":"305063011","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
 {"accepted_at":1792802408.0,"account_id":"a22","difficulty":1,"observed_at":1792802988.5508344,"problem_id":"P1897","submission_id":"305135191","title":"电梯里的尴尬"}
 {"accepted_at":1792803113.0,"account_id":"a22","difficulty":2,"observed_at":1792803604.7665336,"problem_id":"P1165","submission_id":"305138039","title":"日志分析"}
+{"accepted_at":1792806759.0,"account_id":"a22","difficulty":5,"observed_at":1792807275.39943,"problem_id":"P3805","submission_id":"305159623","title":"【模板】Manacher"}
 {"accepted_at":1719911996.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.0724063,"problem_id":"7631","submission_id":"461267","title":"Inverted"}
 {"accepted_at":1722774616.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.0723872,"problem_id":"8043","submission_id":"505138","title":"Middle Race"}
 {"accepted_at":1725524964.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.072292,"problem_id":"8822","submission_id":"548226","title":"Guess The Sequence 2"}
@@ -10219,6 +10221,7 @@
 {"accepted_at":1792596317.0,"account_id":"a54","difficulty":1,"observed_at":1792596472.613296,"problem_id":"P1739","submission_id":"304676641","title":"表达式括号匹配"}
 {"accepted_at":1792640993.0,"account_id":"a54","difficulty":3,"observed_at":1792641512.3503644,"problem_id":"P1944","submission_id":"304706806","title":"最长括号匹配"}
 {"accepted_at":1792803186.0,"account_id":"a54","difficulty":1,"observed_at":1792803590.518827,"problem_id":"P1897","submission_id":"305138348","title":"电梯里的尴尬"}
+{"accepted_at":1792807031.0,"account_id":"a54","difficulty":2,"observed_at":1792807254.9280636,"problem_id":"P1165","submission_id":"305161696","title":"日志分析"}
 {"accepted_at":1792142109.0,"account_id":"a55","difficulty":1800,"observed_at":1792142257.8199384,"problem_id":"471D","submission_id":"394791996","title":"MUH and Cube Walls"}
 {"accepted_at":1792150940.0,"account_id":"a55","difficulty":1800,"observed_at":1792151291.9676378,"problem_id":"471D","submission_id":"394806695","title":"MUH and Cube Walls"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
@@ -10881,6 +10884,7 @@
 {"accepted_at":1792588309.0,"account_id":"a60","difficulty":4,"observed_at":1792588602.775915,"problem_id":"P3375","submission_id":"304643066","title":"【模板】KMP"}
 {"accepted_at":1792640515.0,"account_id":"a60","difficulty":4,"observed_at":1792640952.5228095,"problem_id":"P3375","submission_id":"304705937","title":"【模板】KMP"}
 {"accepted_at":1792805030.0,"account_id":"a60","difficulty":1,"observed_at":1792805474.4897387,"problem_id":"P1897","submission_id":"305148130","title":"电梯里的尴尬"}
+{"accepted_at":1792806902.0,"account_id":"a60","difficulty":2,"observed_at":1792807309.127197,"problem_id":"P1165","submission_id":"305160684","title":"日志分析"}
 {"accepted_at":1787801796.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637406,"problem_id":"8072","submission_id":"2822478","title":"Qualifiers Ranking Rules"}
 {"accepted_at":1787803757.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637266,"problem_id":"8083","submission_id":"2822582","title":"KaChang!"}
 {"accepted_at":1787822164.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637115,"problem_id":"8081","submission_id":"2824307","title":"Minimum Manhattan Distance"}
@@ -16042,6 +16046,7 @@
 {"accepted_at":1727436250.0,"account_id":"a98","difficulty":1800,"observed_at":1792148496.6038728,"problem_id":"7C","submission_id":"283164185","title":"Line"}
 {"accepted_at":1791989362.0,"account_id":"a98","difficulty":800,"observed_at":1792148496.603856,"problem_id":"2276A","submission_id":"394543568","title":"Perfect Sandwiches"}
 {"accepted_at":1791990411.0,"account_id":"a98","difficulty":1100,"observed_at":1792148496.6038203,"problem_id":"2276C","submission_id":"394555799","title":"Subarrays"}
+{"accepted_at":1792806539.0,"account_id":"a98","difficulty":1900,"observed_at":1792806942.6651907,"problem_id":"817D","submission_id":"395779667","title":"Imbalanced Array"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
