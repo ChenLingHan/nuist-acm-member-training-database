@@ -2972,6 +2972,7 @@
 {"account_id":"a25","difficulty":5,"member_id":"m11","observed_at":1792081739.3549726,"platform":"luogu","problem_id":"P2966","solved_at":1727002984.0,"source":"luogu-practice-snapshot","title":"[USACO09DEC] Cow Toll Paths G"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.354986,"platform":"luogu","problem_id":"P3182","solved_at":1731844934.0,"source":"luogu-practice-snapshot","title":"[HAOI2016] 放棋子"}
 {"account_id":"a25","difficulty":5,"member_id":"m11","observed_at":1792212686.1454127,"platform":"luogu","problem_id":"P3435","solved_at":1792212464.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a25","difficulty":5,"member_id":"m11","observed_at":1792805854.3799179,"platform":"luogu","problem_id":"P3805","solved_at":1792805520.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.355011,"platform":"luogu","problem_id":"P4779","solved_at":1732005255.0,"source":"luogu-practice-snapshot","title":"【模板】单源最短路径（标准版）"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.3550236,"platform":"luogu","problem_id":"P5658","solved_at":1729673874.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2019] 括号树"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.3550363,"platform":"luogu","problem_id":"P5662","solved_at":1731486275.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2019] 纪念品"}
@@ -9118,6 +9119,7 @@
 {"account_id":"a70","difficulty":1,"member_id":"m30","observed_at":1792802734.6676688,"platform":"luogu","problem_id":"P1897","solved_at":1792802700.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a70","difficulty":4,"member_id":"m30","observed_at":1792153440.087014,"platform":"luogu","problem_id":"P3375","solved_at":1792139809.0,"source":"luogu-record-list","title":"【模板】KMP"}
 {"account_id":"a70","difficulty":5,"member_id":"m30","observed_at":1792224850.3742287,"platform":"luogu","problem_id":"P3435","solved_at":1792224437.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a70","difficulty":5,"member_id":"m30","observed_at":1792805780.1331873,"platform":"luogu","problem_id":"P3805","solved_at":1792805247.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a70","difficulty":3,"member_id":"m30","observed_at":1792204726.8661346,"platform":"luogu","problem_id":"P7911","solved_at":1792204492.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792130059.5312717,"platform":"luogu","problem_id":"P1002","solved_at":1792068426.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 过河卒"}
 {"account_id":"a72","difficulty":4,"member_id":"m31","observed_at":1792130059.5313718,"platform":"luogu","problem_id":"P1004","solved_at":1789476996.0,"source":"luogu-practice-snapshot","title":"[NOIP 2000 提高组] 方格取数"}
@@ -11055,6 +11057,7 @@
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792477312.4288552,"platform":"luogu","problem_id":"P1888","solved_at":1792476708.0,"source":"luogu-record-list","title":"三角函数"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792803560.1355157,"platform":"luogu","problem_id":"P1897","solved_at":1792803355.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6615977,"platform":"luogu","problem_id":"P1909","solved_at":1791766863.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
+{"account_id":"a91","difficulty":5,"member_id":"m40","observed_at":1792805993.6139147,"platform":"luogu","problem_id":"P3805","solved_at":1792805672.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6616046,"platform":"luogu","problem_id":"P3954","solved_at":1791538901.0,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6616192,"platform":"luogu","problem_id":"P4414","solved_at":1791769274.0,"source":"luogu-practice-snapshot","title":"[COCI 2006/2007 #2] ABC"}
 {"account_id":"a91","difficulty":1,"member_id":"m40","observed_at":1792130110.6616263,"platform":"luogu","problem_id":"P5703","solved_at":1791526600.0,"source":"luogu-practice-snapshot","title":"【深基2.例5】苹果采购"}
@@ -20520,6 +20523,7 @@
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792756225.8211553,"platform":"luogu","problem_id":"P1009","solved_at":1792756080.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 阶乘之和"}
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792759298.3976507,"platform":"luogu","problem_id":"P1010","solved_at":1792758723.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 幂次方"}
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792764178.4913,"platform":"luogu","problem_id":"P1011","solved_at":1792763743.0,"source":"luogu-record-list","title":"[NOIP 1998 提高组] 车站"}
+{"account_id":"a177","difficulty":1,"member_id":"m78","observed_at":1792805861.484368,"platform":"luogu","problem_id":"P1897","solved_at":1792805626.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a177","difficulty":3,"member_id":"m78","observed_at":1792220023.7087138,"platform":"luogu","problem_id":"P7911","solved_at":1792219751.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915253,"platform":"qoj","problem_id":"14689","solved_at":1789722752.0,"source":"qoj-profile","title":"Imagined Holly"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915296,"platform":"qoj","problem_id":"14820","solved_at":1791353415.0,"source":"qoj-profile","title":"扫雪"}
