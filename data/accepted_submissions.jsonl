@@ -10273,6 +10273,7 @@
 {"accepted_at":1792150940.0,"account_id":"a55","difficulty":1800,"observed_at":1792151291.9676378,"problem_id":"471D","submission_id":"394806695","title":"MUH and Cube Walls"}
 {"accepted_at":1792824590.0,"account_id":"a55","difficulty":1900,"observed_at":1792824984.8450851,"problem_id":"817D","submission_id":"395799169","title":"Imbalanced Array"}
 {"accepted_at":1792841765.0,"account_id":"a55","difficulty":null,"observed_at":1792842114.3739164,"problem_id":"2277A","submission_id":"395842067","title":"Subset Selecting"}
+{"accepted_at":1792844103.0,"account_id":"a55","difficulty":null,"observed_at":1792844569.937313,"problem_id":"2277B","submission_id":"395855290","title":"Sequence Decreasing"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11123,6 +11124,7 @@
 {"accepted_at":1792508575.0,"account_id":"a62","difficulty":1000,"observed_at":1792509057.2291925,"problem_id":"2055B","submission_id":"395358919","title":"Crafting"}
 {"accepted_at":1792539347.0,"account_id":"a62","difficulty":1400,"observed_at":1792539586.1994934,"problem_id":"2055C","submission_id":"395400842","title":"The Trail"}
 {"accepted_at":1792842109.0,"account_id":"a62","difficulty":1900,"observed_at":1792842589.3871424,"problem_id":"817D","submission_id":"395844495","title":"Imbalanced Array"}
+{"accepted_at":1792844388.0,"account_id":"a62","difficulty":null,"observed_at":1792844431.072848,"problem_id":"2277A","submission_id":"395856612","title":"Subset Selecting"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
@@ -12378,6 +12380,7 @@
 {"accepted_at":1792820573.0,"account_id":"a79","difficulty":2200,"observed_at":1792820653.7345853,"problem_id":"813E","submission_id":"395792882","title":"Army Creation"}
 {"accepted_at":1792840823.0,"account_id":"a79","difficulty":null,"observed_at":1792840909.289203,"problem_id":"2277A","submission_id":"395834459","title":"Subset Selecting"}
 {"accepted_at":1792842308.0,"account_id":"a79","difficulty":null,"observed_at":1792842758.5240822,"problem_id":"2277B","submission_id":"395845798","title":"Sequence Decreasing"}
+{"accepted_at":1792843990.0,"account_id":"a79","difficulty":null,"observed_at":1792844592.86531,"problem_id":"2277C","submission_id":"395854742","title":"Edge Addeleting"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
