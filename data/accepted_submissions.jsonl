@@ -2359,6 +2359,7 @@
 {"accepted_at":1788082002.0,"account_id":"a17","difficulty":2,"observed_at":1792128803.8813536,"problem_id":"P17335","submission_id":"296100222","title":"【MX-X30-T1】演剧"}
 {"accepted_at":1788332010.0,"account_id":"a17","difficulty":2,"observed_at":1792128803.8812356,"problem_id":"P17335","submission_id":"296346482","title":"【MX-X30-T1】演剧"}
 {"accepted_at":1792206382.0,"account_id":"a17","difficulty":3,"observed_at":1792206749.784388,"problem_id":"P7911","submission_id":"303537095","title":"[CSP-J 2021] 网络连接"}
+{"accepted_at":1792802706.0,"account_id":"a17","difficulty":1,"observed_at":1792802928.8855813,"problem_id":"P1897","submission_id":"305136404","title":"电梯里的尴尬"}
 {"accepted_at":1786408167.0,"account_id":"a20","difficulty":1,"observed_at":1792155991.950182,"problem_id":"B2002","submission_id":"292036396","title":"Hello,World!"}
 {"accepted_at":1786408271.0,"account_id":"a20","difficulty":1,"observed_at":1792155991.9501648,"problem_id":"B2025","submission_id":"292036565","title":"输出字符菱形"}
 {"accepted_at":1786408561.0,"account_id":"a20","difficulty":1,"observed_at":1792155991.9501472,"problem_id":"P1000","submission_id":"292037122","title":"超级玛丽游戏"}
@@ -2491,6 +2492,7 @@
 {"accepted_at":1792630584.0,"account_id":"a20","difficulty":3,"observed_at":1792631076.7295969,"problem_id":"P2866","submission_id":"304687222","title":"[USACO06NOV] Bad Hair Day S"}
 {"accepted_at":1792635069.0,"account_id":"a20","difficulty":3,"observed_at":1792635351.8845851,"problem_id":"P3378","submission_id":"304694861","title":"【模板】堆"}
 {"accepted_at":1792636027.0,"account_id":"a20","difficulty":3,"observed_at":1792636585.2554405,"problem_id":"P1090","submission_id":"304696401","title":"[NOIP 2004 提高组] 合并果子"}
+{"accepted_at":1792802576.0,"account_id":"a20","difficulty":1,"observed_at":1792802791.0581715,"problem_id":"P1897","submission_id":"305135871","title":"电梯里的尴尬"}
 {"accepted_at":1606553368.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1292365,"problem_id":"P1001","submission_id":"42770738","title":"A+B Problem"}
 {"accepted_at":1606558540.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.129202,"problem_id":"P1001","submission_id":"42780833","title":"A+B Problem"}
 {"accepted_at":1606558591.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1291585,"problem_id":"P1001","submission_id":"42780947","title":"A+B Problem"}
@@ -3687,6 +3689,7 @@
 {"accepted_at":1792329159.0,"account_id":"a22","difficulty":4,"observed_at":1792329470.1658862,"problem_id":"P3375","submission_id":"304068548","title":"【模板】KMP"}
 {"accepted_at":1792757190.0,"account_id":"a22","difficulty":6,"observed_at":1792757647.0049608,"problem_id":"P5410","submission_id":"305049452","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
 {"accepted_at":1792758688.0,"account_id":"a22","difficulty":6,"observed_at":1792758891.3648622,"problem_id":"P5410","submission_id":"305063011","title":"【模板】扩展 KMP / exKMP（Z 函数）"}
+{"accepted_at":1792802408.0,"account_id":"a22","difficulty":1,"observed_at":1792802988.5508344,"problem_id":"P1897","submission_id":"305135191","title":"电梯里的尴尬"}
 {"accepted_at":1719911996.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.0724063,"problem_id":"7631","submission_id":"461267","title":"Inverted"}
 {"accepted_at":1722774616.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.0723872,"problem_id":"8043","submission_id":"505138","title":"Middle Race"}
 {"accepted_at":1725524964.0,"account_id":"a23","difficulty":null,"observed_at":1792127017.072292,"problem_id":"8822","submission_id":"548226","title":"Guess The Sequence 2"}
@@ -4036,6 +4039,7 @@
 {"accepted_at":1791636328.0,"account_id":"a25","difficulty":4,"observed_at":1792128822.7737412,"problem_id":"P17496","submission_id":"302289257","title":"[ICPC 2026 Wuhan I] Prime Game"}
 {"accepted_at":1792210077.0,"account_id":"a25","difficulty":3,"observed_at":1792210265.4190605,"problem_id":"P7911","submission_id":"303563672","title":"[CSP-J 2021] 网络连接"}
 {"accepted_at":1792212464.0,"account_id":"a25","difficulty":5,"observed_at":1792212686.145612,"problem_id":"P3435","submission_id":"303571238","title":"[POI 2006] OKR-Periods of Words"}
+{"accepted_at":1792802565.0,"account_id":"a25","difficulty":1,"observed_at":1792802798.6921854,"problem_id":"P1897","submission_id":"305135817","title":"电梯里的尴尬"}
 {"accepted_at":1790593421.0,"account_id":"a26","difficulty":null,"observed_at":1792126978.7973619,"problem_id":"9568","submission_id":"3053251","title":"Left Shifting 3"}
 {"accepted_at":1790599833.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6680236,"problem_id":"9573","submission_id":"3054104","title":"Social Media"}
 {"accepted_at":1791456224.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6679103,"problem_id":"6428","submission_id":"3130838","title":"K Co-prime Permutation"}
@@ -11407,6 +11411,7 @@
 {"accepted_at":1792512532.0,"account_id":"a70","difficulty":2,"observed_at":1792512541.277869,"problem_id":"P1002","submission_id":"304478551","title":"[NOIP 2002 普及组] 过河卒"}
 {"accepted_at":1792564177.0,"account_id":"a70","difficulty":2,"observed_at":1792564418.896688,"problem_id":"P1003","submission_id":"304525719","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1792769815.0,"account_id":"a70","difficulty":1,"observed_at":1792770257.6194067,"problem_id":"P1739","submission_id":"305121305","title":"表达式括号匹配"}
+{"accepted_at":1792802700.0,"account_id":"a70","difficulty":1,"observed_at":1792802734.6939206,"problem_id":"P1897","submission_id":"305136378","title":"电梯里的尴尬"}
 {"accepted_at":1789476996.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381396,"problem_id":"P1004","submission_id":"298014105","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791458322.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381212,"problem_id":"P1005","submission_id":"301933959","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
 {"accepted_at":1791470985.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381012,"problem_id":"P1006","submission_id":"301995987","title":"[NOIP 2008 提高组] 传纸条"}
@@ -11429,6 +11434,7 @@
 {"accepted_at":1792671943.0,"account_id":"a72","difficulty":1,"observed_at":1792672060.6872056,"problem_id":"P1739","submission_id":"304824687","title":"表达式括号匹配"}
 {"accepted_at":1792715864.0,"account_id":"a72","difficulty":2,"observed_at":1792716010.2184136,"problem_id":"P1093","submission_id":"304887712","title":"[NOIP 2007 普及组] 奖学金"}
 {"accepted_at":1792716779.0,"account_id":"a72","difficulty":2,"observed_at":1792717232.7214468,"problem_id":"P1051","submission_id":"304888703","title":"[NOIP 2005 提高组] 谁拿了最多奖学金"}
+{"accepted_at":1792802834.0,"account_id":"a72","difficulty":1,"observed_at":1792802966.4228694,"problem_id":"P1897","submission_id":"305136936","title":"电梯里的尴尬"}
 {"accepted_at":1761746973.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1631203,"problem_id":"2162A","submission_id":"346476628","title":"Beautiful Average"}
 {"accepted_at":1761785914.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1630282,"problem_id":"2162B","submission_id":"346546845","title":"Beautiful String"}
 {"accepted_at":1761786770.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.162935,"problem_id":"2167A","submission_id":"346547611","title":"Square?"}
