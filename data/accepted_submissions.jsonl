@@ -10254,6 +10254,7 @@
 {"accepted_at":1792803186.0,"account_id":"a54","difficulty":1,"observed_at":1792803590.518827,"problem_id":"P1897","submission_id":"305138348","title":"电梯里的尴尬"}
 {"accepted_at":1792807031.0,"account_id":"a54","difficulty":2,"observed_at":1792807254.9280636,"problem_id":"P1165","submission_id":"305161696","title":"日志分析"}
 {"accepted_at":1792809462.0,"account_id":"a54","difficulty":5,"observed_at":1792809703.9898431,"problem_id":"P3805","submission_id":"305181160","title":"【模板】Manacher"}
+{"accepted_at":1792828111.0,"account_id":"a54","difficulty":4,"observed_at":1792828121.0219288,"problem_id":"P7410","submission_id":"305316348","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1792142109.0,"account_id":"a55","difficulty":1800,"observed_at":1792142257.8199384,"problem_id":"471D","submission_id":"394791996","title":"MUH and Cube Walls"}
 {"accepted_at":1792150940.0,"account_id":"a55","difficulty":1800,"observed_at":1792151291.9676378,"problem_id":"471D","submission_id":"394806695","title":"MUH and Cube Walls"}
 {"accepted_at":1792824590.0,"account_id":"a55","difficulty":1900,"observed_at":1792824984.8450851,"problem_id":"817D","submission_id":"395799169","title":"Imbalanced Array"}
@@ -24923,6 +24924,8 @@
 {"accepted_at":1631024137.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007793,"problem_id":"1509A","submission_id":"128133913","title":"Average Height"}
 {"accepted_at":1631024816.0,"account_id":"a159","difficulty":800,"observed_at":1792148551.1007552,"problem_id":"1509A","submission_id":"128134880","title":"Average Height"}
 {"accepted_at":1662869388.0,"account_id":"a159","difficulty":1000,"observed_at":1792148551.100661,"problem_id":"1266A","submission_id":"171671108","title":"Competitive Programmer"}
+{"accepted_at":1792827929.0,"account_id":"a159","difficulty":1900,"observed_at":1792828347.938556,"problem_id":"817D","submission_id":"395805569","title":"Imbalanced Array"}
+{"accepted_at":1792828288.0,"account_id":"a159","difficulty":1900,"observed_at":1792828347.9384432,"problem_id":"817D","submission_id":"395806309","title":"Imbalanced Array"}
 {"accepted_at":1690856482.0,"account_id":"a160","difficulty":2,"observed_at":1792154098.0012527,"problem_id":"P5657","submission_id":"118375466","title":"[CSP-S 2019] 格雷码"}
 {"accepted_at":1690861574.0,"account_id":"a160","difficulty":4,"observed_at":1792154098.001232,"problem_id":"P5658","submission_id":"118395882","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1690862060.0,"account_id":"a160","difficulty":4,"observed_at":1792154098.00114,"problem_id":"P5658","submission_id":"118397672","title":"[CSP-S 2019] 括号树"}
