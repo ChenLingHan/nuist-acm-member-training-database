@@ -894,6 +894,7 @@
 {"account_id":"a8","difficulty":1100,"member_id":"m4","observed_at":1792073909.8296387,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a8","difficulty":1300,"member_id":"m4","observed_at":1792073909.8296301,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
 {"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792073909.829619,"platform":"codeforces","problem_id":"2274D","solved_at":1791897106.0,"source":"codeforces-api","title":"Robot Championship"}
+{"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792840755.3927255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840718.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a8","difficulty":800,"member_id":"m4","observed_at":1792073909.8333986,"platform":"codeforces","problem_id":"231A","solved_at":1756366470.0,"source":"codeforces-api","title":"Team"}
 {"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792073909.8293872,"platform":"codeforces","problem_id":"251C","solved_at":1792067810.0,"source":"codeforces-api","title":"Number Transformation"}
 {"account_id":"a8","difficulty":1100,"member_id":"m4","observed_at":1792073909.830527,"platform":"codeforces","problem_id":"252A","solved_at":1789621933.0,"source":"codeforces-api","title":"Little Xor"}
@@ -5836,6 +5837,7 @@
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792824187.963228,"platform":"luogu","problem_id":"P3805","solved_at":1792824123.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792840477.8747497,"platform":"codeforces","problem_id":"2277A","solved_at":1792840128.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792809463.298421,"platform":"luogu","problem_id":"P1165","solved_at":1792808877.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
@@ -11010,6 +11012,7 @@
 {"account_id":"a87","difficulty":1500,"member_id":"m37","observed_at":1792127108.1133795,"platform":"codeforces","problem_id":"2269D","solved_at":1790439015.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
 {"account_id":"a87","difficulty":800,"member_id":"m37","observed_at":1792127108.1132164,"platform":"codeforces","problem_id":"2276A","solved_at":1792068180.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1130576,"platform":"codeforces","problem_id":"2276B","solved_at":1792071312.0,"source":"codeforces-api","title":"Replace and Compress"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792840406.5611255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840228.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a87","difficulty":1500,"member_id":"m37","observed_at":1792127108.1260288,"platform":"codeforces","problem_id":"553A","solved_at":1769586564.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a87","difficulty":2200,"member_id":"m37","observed_at":1792127108.1136808,"platform":"codeforces","problem_id":"570D","solved_at":1787808976.0,"source":"codeforces-api","title":"Tree Requests"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1274004,"platform":"codeforces","problem_id":"577A","solved_at":1769233256.0,"source":"codeforces-api","title":"Multiplication Table"}
@@ -20191,6 +20194,7 @@
 {"account_id":"a164","difficulty":1000,"member_id":"m72","observed_at":1792148555.414262,"platform":"codeforces","problem_id":"2269B","solved_at":1790434630.0,"source":"codeforces-api","title":"KiaKio and Squared Numbers"}
 {"account_id":"a164","difficulty":1200,"member_id":"m72","observed_at":1792148555.4142349,"platform":"codeforces","problem_id":"2269C","solved_at":1790436794.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4142156,"platform":"codeforces","problem_id":"2269D","solved_at":1790438608.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792840714.670558,"platform":"codeforces","problem_id":"2277A","solved_at":1792840678.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.417089,"platform":"codeforces","problem_id":"300B","solved_at":1768627932.0,"source":"codeforces-api","title":"Coach"}
 {"account_id":"a164","difficulty":1700,"member_id":"m72","observed_at":1792148555.4167795,"platform":"codeforces","problem_id":"466C","solved_at":1769242582.0,"source":"codeforces-api","title":"Number of Ways"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4166586,"platform":"codeforces","problem_id":"553A","solved_at":1769584054.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
