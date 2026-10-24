@@ -1195,6 +1195,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9977083,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9976745,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.997722,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792826534.7823727,"platform":"codeforces","problem_id":"104901A","solved_at":1792826064.0,"source":"codeforces-api","title":"Many Many Heads"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792819133.4583795,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792819752.5156164,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792656902.8336296,"platform":"codeforces","problem_id":"105386A","solved_at":1792656821.0,"source":"codeforces-api","title":"Two-star Contest"}
@@ -10803,6 +10804,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1132562,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.113248,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1132646,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792826273.737618,"platform":"codeforces","problem_id":"104901A","solved_at":1792826064.0,"source":"codeforces-api","title":"Many Many Heads"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792818920.3940535,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792819527.4537332,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1177263,"platform":"codeforces","problem_id":"105161F","solved_at":1778395528.0,"source":"codeforces-api","title":"Download Speed Monitor"}
@@ -13804,6 +13806,7 @@
 {"account_id":"a108","difficulty":5,"member_id":"m48","observed_at":1792225009.9283295,"platform":"luogu","problem_id":"P3435","solved_at":1792224953.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a108","difficulty":5,"member_id":"m48","observed_at":1792808098.4119804,"platform":"luogu","problem_id":"P3805","solved_at":1792807993.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a108","difficulty":3,"member_id":"m48","observed_at":1792223767.5040576,"platform":"luogu","problem_id":"P7911","solved_at":1792223627.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a109","difficulty":1900,"member_id":"m48","observed_at":1792826412.9236925,"platform":"codeforces","problem_id":"817D","solved_at":1792826219.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a110","difficulty":1,"member_id":"m49","observed_at":1792149016.6011713,"platform":"luogu","problem_id":"B2002","solved_at":1728786432.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
 {"account_id":"a110","difficulty":1,"member_id":"m49","observed_at":1792149016.601189,"platform":"luogu","problem_id":"B2005","solved_at":1728787743.0,"source":"luogu-practice-snapshot","title":"字符三角形"}
 {"account_id":"a110","difficulty":1,"member_id":"m49","observed_at":1792149016.601221,"platform":"luogu","problem_id":"B2025","solved_at":1728786686.0,"source":"luogu-practice-snapshot","title":"输出字符菱形"}
@@ -17006,6 +17009,7 @@
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792744414.2215734,"platform":"luogu","problem_id":"P4051","solved_at":1792744190.0,"source":"luogu-record-list","title":"[JSOI2007] 字符加密"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1511822,"platform":"luogu","problem_id":"P4053","solved_at":1770098062.0,"source":"luogu-practice-snapshot","title":"[JSOI2007] 建筑抢修"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1521745,"platform":"luogu","problem_id":"P4114","solved_at":1791198186.0,"source":"luogu-practice-snapshot","title":"Qtree1"}
+{"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792826522.5327966,"platform":"luogu","problem_id":"P4248","solved_at":1792826378.0,"source":"luogu-record-list","title":"[AHOI2013] 差异"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1522298,"platform":"luogu","problem_id":"P4279","solved_at":1768905768.0,"source":"luogu-practice-snapshot","title":"[SHOI2008] 小约翰的游戏"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792150179.1522067,"platform":"luogu","problem_id":"P4281","solved_at":1791027484.0,"source":"luogu-practice-snapshot","title":"[AHOI2008] 紧急集合 / 聚会"}
 {"account_id":"a148","difficulty":4,"member_id":"m66","observed_at":1792230201.3296773,"platform":"luogu","problem_id":"P4391","solved_at":1792229788.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
@@ -17271,6 +17275,7 @@
 {"account_id":"a151","difficulty":4,"member_id":"m67","observed_at":1792150201.900653,"platform":"luogu","problem_id":"P6909","solved_at":1642322056.0,"source":"luogu-practice-snapshot","title":"[ICPC 2015 WF] Keyboarding"}
 {"account_id":"a151","difficulty":4,"member_id":"m67","observed_at":1792150201.9006708,"platform":"luogu","problem_id":"P7074","solved_at":1759306755.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2020] 方格取数"}
 {"account_id":"a151","difficulty":3,"member_id":"m67","observed_at":1792150201.9006786,"platform":"luogu","problem_id":"P7076","solved_at":1790596662.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2020] 动物园"}
+{"account_id":"a151","difficulty":4,"member_id":"m67","observed_at":1792826530.0131373,"platform":"luogu","problem_id":"P7410","solved_at":1792826316.0,"source":"luogu-record-list","title":"[USACO21FEB] Just Green Enough S"}
 {"account_id":"a151","difficulty":2,"member_id":"m67","observed_at":1792150201.9006946,"platform":"luogu","problem_id":"P7909","solved_at":1691590470.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2021] 分糖果"}
 {"account_id":"a151","difficulty":3,"member_id":"m67","observed_at":1792150201.9006867,"platform":"luogu","problem_id":"P7910","solved_at":1691585377.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2021] 插入排序"}
 {"account_id":"a151","difficulty":3,"member_id":"m67","observed_at":1792206477.6551611,"platform":"luogu","problem_id":"P7911","solved_at":1792206207.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
@@ -19924,6 +19929,7 @@
 {"account_id":"a160","difficulty":1,"member_id":"m71","observed_at":1792150264.6640313,"platform":"luogu","problem_id":"P5739","solved_at":1705197336.0,"source":"luogu-practice-snapshot","title":"【深基7.例7】计算阶乘"}
 {"account_id":"a160","difficulty":1,"member_id":"m71","observed_at":1792150264.7106304,"platform":"luogu","problem_id":"P5743","solved_at":1705197558.0,"source":"luogu-practice-snapshot","title":"【深基7.习8】猴子吃桃"}
 {"account_id":"a160","difficulty":3,"member_id":"m71","observed_at":1792150264.7720208,"platform":"luogu","problem_id":"P7076","solved_at":1690947203.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2020] 动物园"}
+{"account_id":"a160","difficulty":4,"member_id":"m71","observed_at":1792826572.7323456,"platform":"luogu","problem_id":"P7410","solved_at":1792826337.0,"source":"luogu-record-list","title":"[USACO21FEB] Just Green Enough S"}
 {"account_id":"a160","difficulty":2,"member_id":"m71","observed_at":1792150264.8158715,"platform":"luogu","problem_id":"P7909","solved_at":1690966710.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2021] 分糖果"}
 {"account_id":"a160","difficulty":3,"member_id":"m71","observed_at":1792226005.7733972,"platform":"luogu","problem_id":"P7911","solved_at":1792225472.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a160","difficulty":6,"member_id":"m71","observed_at":1792150264.8159137,"platform":"luogu","problem_id":"P7914","solved_at":1691032935.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2021] 括号序列"}
@@ -19991,6 +19997,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140236,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414007,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140394,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792826673.0132082,"platform":"codeforces","problem_id":"104901A","solved_at":1792826064.0,"source":"codeforces-api","title":"Many Many Heads"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792818724.356784,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792819333.4392397,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792656887.1059456,"platform":"codeforces","problem_id":"105386A","solved_at":1792656821.0,"source":"codeforces-api","title":"Two-star Contest"}
