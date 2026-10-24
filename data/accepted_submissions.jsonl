@@ -2513,6 +2513,7 @@
 {"accepted_at":1792804162.0,"account_id":"a20","difficulty":5,"observed_at":1792804624.51515,"problem_id":"P3805","submission_id":"305143047","title":"【模板】Manacher"}
 {"accepted_at":1792804179.0,"account_id":"a20","difficulty":5,"observed_at":1792804624.515039,"problem_id":"P3805","submission_id":"305143125","title":"【模板】Manacher"}
 {"accepted_at":1792822736.0,"account_id":"a21","difficulty":1900,"observed_at":1792822769.173934,"problem_id":"817D","submission_id":"395796041","title":"Imbalanced Array"}
+{"accepted_at":1792822779.0,"account_id":"a21","difficulty":1900,"observed_at":1792823377.4140918,"problem_id":"817D","submission_id":"395796116","title":"Imbalanced Array"}
 {"accepted_at":1606553368.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1292365,"problem_id":"P1001","submission_id":"42770738","title":"A+B Problem"}
 {"accepted_at":1606558540.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.129202,"problem_id":"P1001","submission_id":"42780833","title":"A+B Problem"}
 {"accepted_at":1606558591.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1291585,"problem_id":"P1001","submission_id":"42780947","title":"A+B Problem"}
@@ -10908,6 +10909,7 @@
 {"accepted_at":1792640515.0,"account_id":"a60","difficulty":4,"observed_at":1792640952.5228095,"problem_id":"P3375","submission_id":"304705937","title":"【模板】KMP"}
 {"accepted_at":1792805030.0,"account_id":"a60","difficulty":1,"observed_at":1792805474.4897387,"problem_id":"P1897","submission_id":"305148130","title":"电梯里的尴尬"}
 {"accepted_at":1792806902.0,"account_id":"a60","difficulty":2,"observed_at":1792807309.127197,"problem_id":"P1165","submission_id":"305160684","title":"日志分析"}
+{"accepted_at":1792822870.0,"account_id":"a60","difficulty":2,"observed_at":1792823264.8155315,"problem_id":"P1553","submission_id":"305263663","title":"数字反转（升级版）"}
 {"accepted_at":1787801796.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637406,"problem_id":"8072","submission_id":"2822478","title":"Qualifiers Ranking Rules"}
 {"accepted_at":1787803757.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637266,"problem_id":"8083","submission_id":"2822582","title":"KaChang!"}
 {"accepted_at":1787822164.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637115,"problem_id":"8081","submission_id":"2824307","title":"Minimum Manhattan Distance"}
@@ -12154,6 +12156,7 @@
 {"accepted_at":1792746709.0,"account_id":"a77","difficulty":6,"observed_at":1792746738.9156282,"problem_id":"P4137","submission_id":"304986129","title":"Rmq Problem / mex"}
 {"accepted_at":1792816588.0,"account_id":"a77","difficulty":6,"observed_at":1792817170.8271682,"problem_id":"P2617","submission_id":"305233033","title":"Dynamic Rankings"}
 {"accepted_at":1792817334.0,"account_id":"a77","difficulty":6,"observed_at":1792817796.183738,"problem_id":"P2617","submission_id":"305235330","title":"Dynamic Rankings"}
+{"accepted_at":1792822945.0,"account_id":"a77","difficulty":7,"observed_at":1792823317.4564419,"problem_id":"P1919","submission_id":"305264341","title":"【模板】高精度乘法 / A*B Problem 升级版"}
 {"accepted_at":1787645545.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.067829,"problem_id":"14307","submission_id":"2813919","title":"Sorting"}
 {"accepted_at":1787646428.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.0678096,"problem_id":"14302","submission_id":"2814020","title":"Creating Chaos"}
 {"accepted_at":1787648851.0,"account_id":"a78","difficulty":null,"observed_at":1792127091.0676794,"problem_id":"14301","submission_id":"2814325","title":"Who Can Win"}
