@@ -1288,6 +1288,7 @@
 {"accepted_at":1792829956.0,"account_id":"a8","difficulty":2200,"observed_at":1792830327.0671227,"problem_id":"1238E","submission_id":"395809443","title":"Keyboard Purchase"}
 {"accepted_at":1792832695.0,"account_id":"a8","difficulty":2300,"observed_at":1792832826.8092587,"problem_id":"327E","submission_id":"395814735","title":"Axis Walking"}
 {"accepted_at":1792840718.0,"account_id":"a8","difficulty":null,"observed_at":1792840755.3928277,"problem_id":"2277A","submission_id":"395833447","title":"Subset Selecting"}
+{"accepted_at":1792842496.0,"account_id":"a8","difficulty":null,"observed_at":1792842585.6884146,"problem_id":"2277B","submission_id":"395846946","title":"Sequence Decreasing"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -11120,6 +11121,7 @@
 {"accepted_at":1792507148.0,"account_id":"a62","difficulty":800,"observed_at":1792507207.9402094,"problem_id":"2055A","submission_id":"395356261","title":"Two Frogs"}
 {"accepted_at":1792508575.0,"account_id":"a62","difficulty":1000,"observed_at":1792509057.2291925,"problem_id":"2055B","submission_id":"395358919","title":"Crafting"}
 {"accepted_at":1792539347.0,"account_id":"a62","difficulty":1400,"observed_at":1792539586.1994934,"problem_id":"2055C","submission_id":"395400842","title":"The Trail"}
+{"accepted_at":1792842109.0,"account_id":"a62","difficulty":1900,"observed_at":1792842589.3871424,"problem_id":"817D","submission_id":"395844495","title":"Imbalanced Array"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
@@ -12374,6 +12376,7 @@
 {"accepted_at":1792672643.0,"account_id":"a79","difficulty":2800,"observed_at":1792672881.849435,"problem_id":"19D","submission_id":"395578116","title":"Points"}
 {"accepted_at":1792820573.0,"account_id":"a79","difficulty":2200,"observed_at":1792820653.7345853,"problem_id":"813E","submission_id":"395792882","title":"Army Creation"}
 {"accepted_at":1792840823.0,"account_id":"a79","difficulty":null,"observed_at":1792840909.289203,"problem_id":"2277A","submission_id":"395834459","title":"Subset Selecting"}
+{"accepted_at":1792842308.0,"account_id":"a79","difficulty":null,"observed_at":1792842758.5240822,"problem_id":"2277B","submission_id":"395845798","title":"Sequence Decreasing"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -26681,6 +26684,7 @@
 {"accepted_at":1792770920.0,"account_id":"a183","difficulty":1800,"observed_at":1792771581.5581071,"problem_id":"2259F","submission_id":"395726496","title":"Binary Bubble Sort Inversions"}
 {"accepted_at":1792773999.0,"account_id":"a183","difficulty":1900,"observed_at":1792774046.747362,"problem_id":"2259G","submission_id":"395733497","title":"Index Removal"}
 {"accepted_at":1792841098.0,"account_id":"a183","difficulty":null,"observed_at":1792841355.1252868,"problem_id":"2277A","submission_id":"395836900","title":"Subset Selecting"}
+{"accepted_at":1792842458.0,"account_id":"a183","difficulty":null,"observed_at":1792842576.3744123,"problem_id":"2277B","submission_id":"395846723","title":"Sequence Decreasing"}
 {"accepted_at":1749036763.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6704295,"problem_id":"11381","submission_id":"1091614","title":"Team Naming"}
 {"accepted_at":1749222440.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6703038,"problem_id":"11380","submission_id":"1094995","title":"Loose Subsequences"}
 {"accepted_at":1779080680.0,"account_id":"a184","difficulty":null,"observed_at":1792486456.2704692,"problem_id":"17467","submission_id":"2391929","title":"Galaxy of Stars in a Dream"}

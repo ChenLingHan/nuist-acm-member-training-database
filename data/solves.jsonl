@@ -895,6 +895,7 @@
 {"account_id":"a8","difficulty":1300,"member_id":"m4","observed_at":1792073909.8296301,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
 {"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792073909.829619,"platform":"codeforces","problem_id":"2274D","solved_at":1791897106.0,"source":"codeforces-api","title":"Robot Championship"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792840755.3927255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840718.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792842585.68832,"platform":"codeforces","problem_id":"2277B","solved_at":1792842496.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a8","difficulty":800,"member_id":"m4","observed_at":1792073909.8333986,"platform":"codeforces","problem_id":"231A","solved_at":1756366470.0,"source":"codeforces-api","title":"Team"}
 {"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792073909.8293872,"platform":"codeforces","problem_id":"251C","solved_at":1792067810.0,"source":"codeforces-api","title":"Number Transformation"}
 {"account_id":"a8","difficulty":1100,"member_id":"m4","observed_at":1792073909.830527,"platform":"codeforces","problem_id":"252A","solved_at":1789621933.0,"source":"codeforces-api","title":"Little Xor"}
@@ -8801,6 +8802,7 @@
 {"account_id":"a62","difficulty":1100,"member_id":"m26","observed_at":1792127084.1049898,"platform":"codeforces","problem_id":"706B","solved_at":1782109176.0,"source":"codeforces-api","title":"Interesting drink"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1063364,"platform":"codeforces","problem_id":"71A","solved_at":1774196004.0,"source":"codeforces-api","title":"Way Too Long Words"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1030369,"platform":"codeforces","problem_id":"791A","solved_at":1789007174.0,"source":"codeforces-api","title":"Bear and Big Brother"}
+{"account_id":"a62","difficulty":1900,"member_id":"m26","observed_at":1792842589.3870592,"platform":"codeforces","problem_id":"817D","solved_at":1792842109.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a62","difficulty":900,"member_id":"m26","observed_at":1792127084.1029005,"platform":"codeforces","problem_id":"96A","solved_at":1789030016.0,"source":"codeforces-api","title":"Football"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1016877,"platform":"codeforces","problem_id":"977A","solved_at":1790515767.0,"source":"codeforces-api","title":"Wrong Subtraction"}
 {"account_id":"a62","difficulty":1200,"member_id":"m26","observed_at":1792127084.1055348,"platform":"codeforces","problem_id":"977C","solved_at":1782113259.0,"source":"codeforces-api","title":"Less or Equal"}
@@ -9952,6 +9954,7 @@
 {"account_id":"a79","difficulty":1400,"member_id":"m34","observed_at":1792127101.4506493,"platform":"codeforces","problem_id":"2276D","solved_at":1791992569.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a79","difficulty":1800,"member_id":"m34","observed_at":1792127101.4506404,"platform":"codeforces","problem_id":"2276E","solved_at":1791994926.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792840909.289103,"platform":"codeforces","problem_id":"2277A","solved_at":1792840823.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792842758.52399,"platform":"codeforces","problem_id":"2277B","solved_at":1792842308.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a79","difficulty":2600,"member_id":"m34","observed_at":1792467399.3548937,"platform":"codeforces","problem_id":"240F","solved_at":1792466906.0,"source":"codeforces-api","title":"TorCoder"}
 {"account_id":"a79","difficulty":2000,"member_id":"m34","observed_at":1792478868.616622,"platform":"codeforces","problem_id":"242E","solved_at":1792478214.0,"source":"codeforces-api","title":"XOR on Segment"}
 {"account_id":"a79","difficulty":2400,"member_id":"m34","observed_at":1792127101.4510262,"platform":"codeforces","problem_id":"246E","solved_at":1791278073.0,"source":"codeforces-api","title":"Blood Cousins Return"}
@@ -21507,6 +21510,7 @@
 {"account_id":"a183","difficulty":1400,"member_id":"m80","observed_at":1792486471.130935,"platform":"codeforces","problem_id":"2276D","solved_at":1791991881.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1309175,"platform":"codeforces","problem_id":"2276E","solved_at":1791995476.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1792841355.125177,"platform":"codeforces","problem_id":"2277A","solved_at":1792841098.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1792842576.3743126,"platform":"codeforces","problem_id":"2277B","solved_at":1792842458.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1597798,"platform":"codeforces","problem_id":"300C","solved_at":1737615987.0,"source":"codeforces-api","title":"Beautiful Numbers"}
 {"account_id":"a183","difficulty":1800,"member_id":"m80","observed_at":1792486471.1606162,"platform":"codeforces","problem_id":"471D","solved_at":1730313523.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a183","difficulty":1600,"member_id":"m80","observed_at":1792486471.160011,"platform":"codeforces","problem_id":"510C","solved_at":1733537500.0,"source":"codeforces-api","title":"Fox And Names"}
