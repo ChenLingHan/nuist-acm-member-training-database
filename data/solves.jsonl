@@ -10487,6 +10487,7 @@
 {"account_id":"a84","difficulty":800,"member_id":"m36","observed_at":1792127105.5385208,"platform":"codeforces","problem_id":"2267A","solved_at":1790409327.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
 {"account_id":"a84","difficulty":800,"member_id":"m36","observed_at":1792127105.5385046,"platform":"codeforces","problem_id":"2267B","solved_at":1790413402.0,"source":"codeforces-api","title":"Fashionable Array"}
 {"account_id":"a84","difficulty":800,"member_id":"m36","observed_at":1792127105.5383456,"platform":"codeforces","problem_id":"2269A","solved_at":1790435335.0,"source":"codeforces-api","title":"SauSaGe Bank"}
+{"account_id":"a84","difficulty":1900,"member_id":"m36","observed_at":1792808878.401726,"platform":"codeforces","problem_id":"817D","solved_at":1792808664.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a85","difficulty":1,"member_id":"m37","observed_at":1792130092.409336,"platform":"luogu","problem_id":"B2002","solved_at":1762755748.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
 {"account_id":"a85","difficulty":1,"member_id":"m37","observed_at":1792130092.409347,"platform":"luogu","problem_id":"B2005","solved_at":1762755972.0,"source":"luogu-practice-snapshot","title":"字符三角形"}
 {"account_id":"a85","difficulty":1,"member_id":"m37","observed_at":1792130092.4093573,"platform":"luogu","problem_id":"B2025","solved_at":1761470506.0,"source":"luogu-practice-snapshot","title":"输出字符菱形"}
@@ -16032,6 +16033,7 @@
 {"account_id":"a132","difficulty":2100,"member_id":"m58","observed_at":1792148526.0004153,"platform":"codeforces","problem_id":"5D","solved_at":1762866790.0,"source":"codeforces-api","title":"Follow Traffic Rules"}
 {"account_id":"a132","difficulty":2100,"member_id":"m58","observed_at":1792148526.000012,"platform":"codeforces","problem_id":"620E","solved_at":1772628100.0,"source":"codeforces-api","title":"New Year Tree"}
 {"account_id":"a132","difficulty":2400,"member_id":"m58","observed_at":1792148525.9999604,"platform":"codeforces","problem_id":"865D","solved_at":1763191838.0,"source":"codeforces-api","title":"Buy Low Sell High"}
+{"account_id":"a133","difficulty":2,"member_id":"m59","observed_at":1792808913.2777297,"platform":"luogu","problem_id":"P1165","solved_at":1792808375.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a133","difficulty":1,"member_id":"m59","observed_at":1792807692.1933367,"platform":"luogu","problem_id":"P1897","solved_at":1792807644.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
@@ -16322,6 +16324,7 @@
 {"account_id":"a141","difficulty":2,"member_id":"m63","observed_at":1792807468.536191,"platform":"luogu","problem_id":"P1165","solved_at":1792807020.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a141","difficulty":1,"member_id":"m63","observed_at":1792803179.0866783,"platform":"luogu","problem_id":"P1897","solved_at":1792802722.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a141","difficulty":3,"member_id":"m63","observed_at":1792153289.4293149,"platform":"luogu","problem_id":"P2440","solved_at":1785574517.0,"source":"luogu-record-list","title":"木材加工"}
+{"account_id":"a141","difficulty":5,"member_id":"m63","observed_at":1792808697.443306,"platform":"luogu","problem_id":"P3805","solved_at":1792808667.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a141","difficulty":4,"member_id":"m63","observed_at":1792153289.4290583,"platform":"luogu","problem_id":"P4447","solved_at":1785576788.0,"source":"luogu-record-list","title":"[AHOI2018初中组] 分组"}
 {"account_id":"a143","difficulty":800,"member_id":"m63","observed_at":1792148541.068018,"platform":"codeforces","problem_id":"1367A","solved_at":1791979561.0,"source":"codeforces-api","title":"Short Substrings"}
 {"account_id":"a143","difficulty":1000,"member_id":"m63","observed_at":1792588345.6595347,"platform":"codeforces","problem_id":"2276B","solved_at":1792587792.0,"source":"codeforces-api","title":"Replace and Compress"}

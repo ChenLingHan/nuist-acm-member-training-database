@@ -12898,6 +12898,7 @@
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
 {"accepted_at":1790435335.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5384402,"problem_id":"2269A","submission_id":"392195883","title":"SauSaGe Bank"}
+{"accepted_at":1792808664.0,"account_id":"a84","difficulty":1900,"observed_at":1792808878.40181,"problem_id":"817D","submission_id":"395781044","title":"Imbalanced Array"}
 {"accepted_at":1760750320.0,"account_id":"a85","difficulty":1,"observed_at":1792161488.6871831,"problem_id":"P1000","submission_id":"241211088","title":"超级玛丽游戏"}
 {"accepted_at":1760752796.0,"account_id":"a85","difficulty":1,"observed_at":1792161488.686997,"problem_id":"P1001","submission_id":"241223856","title":"A+B Problem"}
 {"accepted_at":1760755796.0,"account_id":"a85","difficulty":1,"observed_at":1792160993.4655616,"problem_id":"P1909","submission_id":"241241689","title":"[NOIP 2016 普及组] 买铅笔"}
@@ -20157,6 +20158,7 @@
 {"accepted_at":1792331867.0,"account_id":"a132","difficulty":1800,"observed_at":1792332214.5938015,"problem_id":"2261E","submission_id":"395100790","title":"What Does the Cow Say?"}
 {"accepted_at":1792378161.0,"account_id":"a132","difficulty":null,"observed_at":1792378187.1753433,"problem_id":"104901K","submission_id":"395163653","title":"Rainbow Subarray"}
 {"accepted_at":1792807644.0,"account_id":"a133","difficulty":1,"observed_at":1792807692.1934242,"problem_id":"P1897","submission_id":"305166367","title":"电梯里的尴尬"}
+{"accepted_at":1792808375.0,"account_id":"a133","difficulty":2,"observed_at":1792808913.2778113,"problem_id":"P1165","submission_id":"305172076","title":"日志分析"}
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
@@ -20513,6 +20515,7 @@
 {"accepted_at":1792802722.0,"account_id":"a141","difficulty":1,"observed_at":1792803179.0867593,"problem_id":"P1897","submission_id":"305136477","title":"电梯里的尴尬"}
 {"accepted_at":1792807020.0,"account_id":"a141","difficulty":2,"observed_at":1792807468.5363994,"problem_id":"P1165","submission_id":"305161609","title":"日志分析"}
 {"accepted_at":1792807040.0,"account_id":"a141","difficulty":2,"observed_at":1792807468.5362744,"problem_id":"P1165","submission_id":"305161768","title":"日志分析"}
+{"accepted_at":1792808667.0,"account_id":"a141","difficulty":5,"observed_at":1792808697.446778,"problem_id":"P3805","submission_id":"305174466","title":"【模板】Manacher"}
 {"accepted_at":1791979561.0,"account_id":"a143","difficulty":800,"observed_at":1792148541.068099,"problem_id":"1367A","submission_id":"394510385","title":"Short Substrings"}
 {"accepted_at":1792587792.0,"account_id":"a143","difficulty":1000,"observed_at":1792588345.6596172,"problem_id":"2276B","submission_id":"395465020","title":"Replace and Compress"}
 {"accepted_at":1569048669.0,"account_id":"a144","difficulty":1,"observed_at":1792167117.9727745,"problem_id":"P1000","submission_id":"24174192","title":"超级玛丽游戏"}
