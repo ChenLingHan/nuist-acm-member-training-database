@@ -5838,6 +5838,7 @@
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792824187.963228,"platform":"luogu","problem_id":"P3805","solved_at":1792824123.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792840477.8747497,"platform":"codeforces","problem_id":"2277A","solved_at":1792840128.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792841703.8482797,"platform":"codeforces","problem_id":"2277B","solved_at":1792841542.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792809463.298421,"platform":"luogu","problem_id":"P1165","solved_at":1792808877.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
@@ -20202,6 +20203,7 @@
 {"account_id":"a164","difficulty":1200,"member_id":"m72","observed_at":1792148555.4142349,"platform":"codeforces","problem_id":"2269C","solved_at":1790436794.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4142156,"platform":"codeforces","problem_id":"2269D","solved_at":1790438608.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792840714.670558,"platform":"codeforces","problem_id":"2277A","solved_at":1792840678.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792841993.380614,"platform":"codeforces","problem_id":"2277B","solved_at":1792841369.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.417089,"platform":"codeforces","problem_id":"300B","solved_at":1768627932.0,"source":"codeforces-api","title":"Coach"}
 {"account_id":"a164","difficulty":1700,"member_id":"m72","observed_at":1792148555.4167795,"platform":"codeforces","problem_id":"466C","solved_at":1769242582.0,"source":"codeforces-api","title":"Number of Ways"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4166586,"platform":"codeforces","problem_id":"553A","solved_at":1769584054.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
