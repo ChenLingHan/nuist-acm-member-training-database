@@ -1123,6 +1123,7 @@
 {"accepted_at":1792754833.0,"account_id":"a6","difficulty":3,"observed_at":1792755058.0283449,"problem_id":"P2622","submission_id":"305028570","title":"关灯问题 II"}
 {"accepted_at":1792755046.0,"account_id":"a6","difficulty":3,"observed_at":1792755058.0282385,"problem_id":"P2622","submission_id":"305030278","title":"关灯问题 II"}
 {"accepted_at":1792807658.0,"account_id":"a6","difficulty":1,"observed_at":1792807746.501308,"problem_id":"P1897","submission_id":"305166468","title":"电梯里的尴尬"}
+{"accepted_at":1792819491.0,"account_id":"a6","difficulty":5,"observed_at":1792820008.7825546,"problem_id":"P3092","submission_id":"305242890","title":"[USACO13NOV] No Change G"}
 {"accepted_at":1787839150.0,"account_id":"a7","difficulty":null,"observed_at":1792073548.062167,"problem_id":"14309","submission_id":"2825838","title":"Knapsack Problem"}
 {"accepted_at":1787880883.0,"account_id":"a7","difficulty":null,"observed_at":1792073548.0621014,"problem_id":"14307","submission_id":"2826906","title":"Sorting"}
 {"accepted_at":1756365334.0,"account_id":"a8","difficulty":800,"observed_at":1792073909.8335257,"problem_id":"4A","submission_id":"335895502","title":"Watermelon"}
@@ -1950,6 +1951,7 @@
 {"accepted_at":1792651292.0,"account_id":"a11","difficulty":null,"observed_at":1792651342.1752305,"problem_id":"105386I","submission_id":"395542002","title":"Left Shifting 2"}
 {"accepted_at":1792656821.0,"account_id":"a11","difficulty":null,"observed_at":1792656902.8337355,"problem_id":"105386A","submission_id":"395550327","title":"Two-star Contest"}
 {"accepted_at":1792818517.0,"account_id":"a11","difficulty":null,"observed_at":1792819133.4584744,"problem_id":"104901D","submission_id":"395790177","title":"Largest Digit"}
+{"accepted_at":1792819237.0,"account_id":"a11","difficulty":null,"observed_at":1792819752.515741,"problem_id":"104901I","submission_id":"395791113","title":"Strange Sorting"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -20419,6 +20421,7 @@
 {"accepted_at":1791267276.0,"account_id":"a138","difficulty":null,"observed_at":1792148509.0787182,"problem_id":"9568","submission_id":"3111734","title":"Left Shifting 3"}
 {"accepted_at":1791271357.0,"account_id":"a138","difficulty":null,"observed_at":1792148509.078601,"problem_id":"9573","submission_id":"3112820","title":"Social Media"}
 {"accepted_at":1792812890.0,"account_id":"a138","difficulty":null,"observed_at":1792813398.654366,"problem_id":"14811","submission_id":"3260114","title":"Xiangqi"}
+{"accepted_at":1792819978.0,"account_id":"a138","difficulty":null,"observed_at":1792820028.7393992,"problem_id":"14807","submission_id":"3261191","title":"Bucket Bonanza"}
 {"accepted_at":1696086720.0,"account_id":"a139","difficulty":900,"observed_at":1792148534.0783625,"problem_id":"1875A","submission_id":"225970094","title":"Jellyfish and Undertale"}
 {"accepted_at":1696088621.0,"account_id":"a139","difficulty":1200,"observed_at":1792148534.0783436,"problem_id":"1875B","submission_id":"225991900","title":"Jellyfish and Game"}
 {"accepted_at":1696091455.0,"account_id":"a139","difficulty":1400,"observed_at":1792148534.0783281,"problem_id":"1875C","submission_id":"226036254","title":"Jellyfish and Green Apple"}

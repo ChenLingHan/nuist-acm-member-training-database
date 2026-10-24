@@ -744,6 +744,7 @@
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8357952,"platform":"luogu","problem_id":"P2945","solved_at":1769839676.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8358018,"platform":"luogu","problem_id":"P2949","solved_at":1770450650.0,"source":"luogu-practice-snapshot","title":"[USACO09OPEN] Work Scheduling G"}
 {"account_id":"a6","difficulty":4,"member_id":"m4","observed_at":1792497498.9532523,"platform":"luogu","problem_id":"P2986","solved_at":1792497239.0,"source":"luogu-record-list","title":"[USACO10MAR] Great Cow Gathering G"}
+{"account_id":"a6","difficulty":5,"member_id":"m4","observed_at":1792820008.7824664,"platform":"luogu","problem_id":"P3092","solved_at":1792819491.0,"source":"luogu-record-list","title":"[USACO13NOV] No Change G"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8358078,"platform":"luogu","problem_id":"P3131","solved_at":1763778978.0,"source":"luogu-practice-snapshot","title":"[USACO16JAN] Subsequences Summing to Sevens S"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8358197,"platform":"luogu","problem_id":"P3197","solved_at":1769567181.0,"source":"luogu-practice-snapshot","title":"[HNOI2008] 越狱"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8357835,"platform":"luogu","problem_id":"P3370","solved_at":1784528902.0,"source":"luogu-practice-snapshot","title":"【模板】字符串哈希"}
@@ -1194,6 +1195,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9976745,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.997722,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792819133.4583795,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792819752.5156164,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792656902.8336296,"platform":"codeforces","problem_id":"105386A","solved_at":1792656821.0,"source":"codeforces-api","title":"Two-star Contest"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792648281.473727,"platform":"codeforces","problem_id":"105386B","solved_at":1792647839.0,"source":"codeforces-api","title":"Gold Medal"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792648891.2028883,"platform":"codeforces","problem_id":"105386G","solved_at":1792648563.0,"source":"codeforces-api","title":"Be Positive"}
@@ -16223,6 +16225,7 @@
 {"account_id":"a137","difficulty":6,"member_id":"m61","observed_at":1792149564.6671004,"platform":"luogu","problem_id":"P9755","solved_at":1700117546.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2023] 种树"}
 {"account_id":"a137","difficulty":2,"member_id":"m61","observed_at":1792156156.7828324,"platform":"luogu","problem_id":"P9868","solved_at":1700307083.0,"source":"luogu-record-list","title":"[NOIP2023] 词典"}
 {"account_id":"a138","difficulty":null,"member_id":"m61","observed_at":1792148448.603249,"platform":"qoj","problem_id":"14550","solved_at":1789731959.0,"source":"qoj-profile","title":"通配符匹配"}
+{"account_id":"a138","difficulty":null,"member_id":"m61","observed_at":1792820028.7393064,"platform":"qoj","problem_id":"14807","solved_at":1792819978.0,"source":"qoj-authenticated","title":"Bucket Bonanza"}
 {"account_id":"a138","difficulty":null,"member_id":"m61","observed_at":1792813398.6542733,"platform":"qoj","problem_id":"14811","solved_at":1792812890.0,"source":"qoj-authenticated","title":"Xiangqi"}
 {"account_id":"a138","difficulty":null,"member_id":"m61","observed_at":1792148448.603036,"platform":"qoj","problem_id":"9568","solved_at":1791267276.0,"source":"qoj-profile","title":"Left Shifting 3"}
 {"account_id":"a138","difficulty":null,"member_id":"m61","observed_at":1792148448.6032333,"platform":"qoj","problem_id":"9573","solved_at":1791271357.0,"source":"qoj-profile","title":"Social Media"}
