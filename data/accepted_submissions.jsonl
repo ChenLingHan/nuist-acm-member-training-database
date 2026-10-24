@@ -20166,6 +20166,8 @@
 {"accepted_at":1792378161.0,"account_id":"a132","difficulty":null,"observed_at":1792378187.1753433,"problem_id":"104901K","submission_id":"395163653","title":"Rainbow Subarray"}
 {"accepted_at":1792807644.0,"account_id":"a133","difficulty":1,"observed_at":1792807692.1934242,"problem_id":"P1897","submission_id":"305166367","title":"电梯里的尴尬"}
 {"accepted_at":1792808375.0,"account_id":"a133","difficulty":2,"observed_at":1792808913.2778113,"problem_id":"P1165","submission_id":"305172076","title":"日志分析"}
+{"accepted_at":1792809549.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9384167,"problem_id":"P1165","submission_id":"305181913","title":"日志分析"}
+{"accepted_at":1792809576.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9383092,"problem_id":"P1165","submission_id":"305182146","title":"日志分析"}
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
@@ -20523,6 +20525,8 @@
 {"accepted_at":1792807020.0,"account_id":"a141","difficulty":2,"observed_at":1792807468.5363994,"problem_id":"P1165","submission_id":"305161609","title":"日志分析"}
 {"accepted_at":1792807040.0,"account_id":"a141","difficulty":2,"observed_at":1792807468.5362744,"problem_id":"P1165","submission_id":"305161768","title":"日志分析"}
 {"accepted_at":1792808667.0,"account_id":"a141","difficulty":5,"observed_at":1792808697.446778,"problem_id":"P3805","submission_id":"305174466","title":"【模板】Manacher"}
+{"accepted_at":1792809684.0,"account_id":"a141","difficulty":5,"observed_at":1792809930.272908,"problem_id":"P3805","submission_id":"305183092","title":"【模板】Manacher"}
+{"accepted_at":1792809697.0,"account_id":"a141","difficulty":5,"observed_at":1792809930.2516286,"problem_id":"P3805","submission_id":"305183197","title":"【模板】Manacher"}
 {"accepted_at":1791979561.0,"account_id":"a143","difficulty":800,"observed_at":1792148541.068099,"problem_id":"1367A","submission_id":"394510385","title":"Short Substrings"}
 {"accepted_at":1792587792.0,"account_id":"a143","difficulty":1000,"observed_at":1792588345.6596172,"problem_id":"2276B","submission_id":"395465020","title":"Replace and Compress"}
 {"accepted_at":1569048669.0,"account_id":"a144","difficulty":1,"observed_at":1792167117.9727745,"problem_id":"P1000","submission_id":"24174192","title":"超级玛丽游戏"}
@@ -21475,6 +21479,8 @@
 {"accepted_at":1791121485.0,"account_id":"a147","difficulty":2,"observed_at":1792153301.8866994,"problem_id":"P1443","submission_id":"301020701","title":"马的遍历"}
 {"accepted_at":1791121512.0,"account_id":"a147","difficulty":2,"observed_at":1792153301.886536,"problem_id":"P1443","submission_id":"301020797","title":"马的遍历"}
 {"accepted_at":1792806078.0,"account_id":"a147","difficulty":1,"observed_at":1792806254.5520015,"problem_id":"P1897","submission_id":"305154842","title":"电梯里的尴尬"}
+{"accepted_at":1792809829.0,"account_id":"a147","difficulty":2,"observed_at":1792809937.1977804,"problem_id":"P1165","submission_id":"305184216","title":"日志分析"}
+{"accepted_at":1792809886.0,"account_id":"a147","difficulty":2,"observed_at":1792809937.197662,"problem_id":"P1165","submission_id":"305184680","title":"日志分析"}
 {"accepted_at":1760876352.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1841102,"problem_id":"B2025","submission_id":"241747398","title":"输出字符菱形"}
 {"accepted_at":1760876386.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1840804,"problem_id":"B2025","submission_id":"241747580","title":"输出字符菱形"}
 {"accepted_at":1760876609.0,"account_id":"a148","difficulty":1,"observed_at":1792158020.1840413,"problem_id":"P3954","submission_id":"241748865","title":"[NOIP 2017 普及组] 成绩"}
