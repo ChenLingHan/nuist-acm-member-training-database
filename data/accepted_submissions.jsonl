@@ -2003,6 +2003,7 @@
 {"accepted_at":1780748680.0,"account_id":"a15","difficulty":2,"observed_at":1792128798.1936722,"problem_id":"P16817","submission_id":"280983048","title":"[蓝桥杯 2026 国 Python B] 稳定史莱姆"}
 {"accepted_at":1792804111.0,"account_id":"a15","difficulty":1,"observed_at":1792804144.9181135,"problem_id":"P1897","submission_id":"305142767","title":"电梯里的尴尬"}
 {"accepted_at":1792807039.0,"account_id":"a15","difficulty":2,"observed_at":1792807188.6221423,"problem_id":"P1165","submission_id":"305161760","title":"日志分析"}
+{"accepted_at":1792812423.0,"account_id":"a15","difficulty":5,"observed_at":1792812708.3560812,"problem_id":"P3805","submission_id":"305207966","title":"【模板】Manacher"}
 {"accepted_at":1761380429.0,"account_id":"a16","difficulty":1500,"observed_at":1792077554.3268752,"problem_id":"91B","submission_id":"345710149","title":"Queue"}
 {"accepted_at":1761817835.0,"account_id":"a16","difficulty":1300,"observed_at":1792077554.3268526,"problem_id":"1029A","submission_id":"346603067","title":"Many Equal Substrings"}
 {"accepted_at":1761819079.0,"account_id":"a16","difficulty":1700,"observed_at":1792077554.3268282,"problem_id":"2010C2","submission_id":"346605787","title":"Message Transmission Error (hard version)"}
@@ -16039,6 +16040,7 @@
 {"accepted_at":1792804588.0,"account_id":"a97","difficulty":2,"observed_at":1792804658.3548372,"problem_id":"P1165","submission_id":"305145392","title":"日志分析"}
 {"accepted_at":1792811769.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261563,"problem_id":"P7410","submission_id":"305201958","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1792811808.0,"account_id":"a97","difficulty":4,"observed_at":1792812003.261428,"problem_id":"P7410","submission_id":"305202333","title":"[USACO21FEB] Just Green Enough S"}
+{"accepted_at":1792812391.0,"account_id":"a97","difficulty":4,"observed_at":1792812620.001128,"problem_id":"P7410","submission_id":"305207654","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1696756267.0,"account_id":"a98","difficulty":800,"observed_at":1792148496.6041012,"problem_id":"1877A","submission_id":"227119660","title":"Goals of Victory"}
 {"accepted_at":1696757748.0,"account_id":"a98","difficulty":1000,"observed_at":1792148496.6040943,"problem_id":"1877B","submission_id":"227135670","title":"Helmets in Night Light"}
 {"accepted_at":1696764729.0,"account_id":"a98","difficulty":1200,"observed_at":1792148496.6040878,"problem_id":"1877C","submission_id":"227185568","title":"Joyboard"}
@@ -20179,6 +20181,9 @@
 {"accepted_at":1792808375.0,"account_id":"a133","difficulty":2,"observed_at":1792808913.2778113,"problem_id":"P1165","submission_id":"305172076","title":"日志分析"}
 {"accepted_at":1792809549.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9384167,"problem_id":"P1165","submission_id":"305181913","title":"日志分析"}
 {"accepted_at":1792809576.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9383092,"problem_id":"P1165","submission_id":"305182146","title":"日志分析"}
+{"accepted_at":1792812203.0,"account_id":"a133","difficulty":5,"observed_at":1792812611.4685988,"problem_id":"P3805","submission_id":"305205943","title":"【模板】Manacher"}
+{"accepted_at":1792812225.0,"account_id":"a133","difficulty":5,"observed_at":1792812611.468572,"problem_id":"P3805","submission_id":"305206129","title":"【模板】Manacher"}
+{"accepted_at":1792812241.0,"account_id":"a133","difficulty":5,"observed_at":1792812611.468456,"problem_id":"P3805","submission_id":"305206265","title":"【模板】Manacher"}
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
