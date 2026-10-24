@@ -2617,6 +2617,7 @@
 {"account_id":"a22","difficulty":5,"member_id":"m10","observed_at":1792080362.5712216,"platform":"luogu","problem_id":"P7112","solved_at":1686294547.0,"source":"luogu-practice-snapshot","title":"【模板】行列式求值"}
 {"account_id":"a22","difficulty":4,"member_id":"m10","observed_at":1792080362.5712597,"platform":"luogu","problem_id":"P7167","solved_at":1687944395.0,"source":"luogu-practice-snapshot","title":"[eJOI 2020] Fountain (Day1)"}
 {"account_id":"a22","difficulty":3,"member_id":"m10","observed_at":1792080362.5712855,"platform":"luogu","problem_id":"P7404","solved_at":1652763285.0,"source":"luogu-practice-snapshot","title":"[JOI 2021 Final] 有趣的家庭菜园 4 / Growing Vegetables is Fun 4"}
+{"account_id":"a22","difficulty":4,"member_id":"m10","observed_at":1792809719.878505,"platform":"luogu","problem_id":"P7410","solved_at":1792809126.0,"source":"luogu-record-list","title":"[USACO21FEB] Just Green Enough S"}
 {"account_id":"a22","difficulty":8,"member_id":"m10","observed_at":1792080362.571306,"platform":"luogu","problem_id":"P7470","solved_at":1715693119.0,"source":"luogu-practice-snapshot","title":"[NOI Online 2021 提高组] 岛屿探险"}
 {"account_id":"a22","difficulty":3,"member_id":"m10","observed_at":1792080362.5712996,"platform":"luogu","problem_id":"P7471","solved_at":1619414501.0,"source":"luogu-practice-snapshot","title":"[NOI Online 2021 入门组] 切蛋糕"}
 {"account_id":"a22","difficulty":7,"member_id":"m10","observed_at":1792080362.5712724,"platform":"luogu","problem_id":"P7497","solved_at":1699970884.0,"source":"luogu-practice-snapshot","title":"四方喝彩"}
@@ -5820,6 +5821,7 @@
 {"account_id":"a34","difficulty":1,"member_id":"m14","observed_at":1792803988.543439,"platform":"luogu","problem_id":"P1897","solved_at":1792803424.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792809463.298421,"platform":"luogu","problem_id":"P1165","solved_at":1792808877.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792805197.5390935,"platform":"luogu","problem_id":"P1897","solved_at":1792805163.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
@@ -7685,6 +7687,7 @@
 {"account_id":"a49","difficulty":4,"member_id":"m21","observed_at":1792129810.2161644,"platform":"luogu","problem_id":"P1880","solved_at":1777885592.0,"source":"luogu-practice-snapshot","title":"[NOI1995] 石子合并"}
 {"account_id":"a49","difficulty":3,"member_id":"m21","observed_at":1792129810.2161717,"platform":"luogu","problem_id":"P1886","solved_at":1777300252.0,"source":"luogu-practice-snapshot","title":"【模板】单调队列 / 滑动窗口"}
 {"account_id":"a49","difficulty":3,"member_id":"m21","observed_at":1792780441.9275017,"platform":"luogu","problem_id":"P1890","solved_at":1792780116.0,"source":"luogu-record-list","title":"gcd 区间"}
+{"account_id":"a49","difficulty":1,"member_id":"m21","observed_at":1792809853.3986602,"platform":"luogu","problem_id":"P1897","solved_at":1792809316.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a49","difficulty":3,"member_id":"m21","observed_at":1792129810.2161791,"platform":"luogu","problem_id":"P1902","solved_at":1786704732.0,"source":"luogu-practice-snapshot","title":"刺杀大使"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2161865,"platform":"luogu","problem_id":"P1910","solved_at":1786415463.0,"source":"luogu-practice-snapshot","title":"L 国的战斗之间谍"}
 {"account_id":"a49","difficulty":1,"member_id":"m21","observed_at":1792129810.2161942,"platform":"luogu","problem_id":"P1914","solved_at":1776066792.0,"source":"luogu-practice-snapshot","title":"小书童——凯撒密码"}
@@ -8027,6 +8030,7 @@
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792641512.3502824,"platform":"luogu","problem_id":"P1944","solved_at":1792640993.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792129822.5043232,"platform":"luogu","problem_id":"P3375","solved_at":1792113355.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792223826.1535144,"platform":"luogu","problem_id":"P3435","solved_at":1792223359.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
+{"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792809703.989761,"platform":"luogu","problem_id":"P3805","solved_at":1792809462.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792220197.2092807,"platform":"luogu","problem_id":"P7911","solved_at":1792220189.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5646367,"platform":"luogu","problem_id":"B2002","solved_at":1790816323.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -20202,6 +20206,7 @@
 {"account_id":"a172","difficulty":2200,"member_id":"m57","observed_at":1792156008.175194,"platform":"codeforces","problem_id":"570D","solved_at":1705976052.0,"source":"codeforces-api","title":"Tree Requests"}
 {"account_id":"a172","difficulty":2300,"member_id":"m57","observed_at":1792156008.1752877,"platform":"codeforces","problem_id":"600E","solved_at":1705900439.0,"source":"codeforces-api","title":"Lomsat gelral"}
 {"account_id":"a172","difficulty":2100,"member_id":"m57","observed_at":1792156008.1751306,"platform":"codeforces","problem_id":"656D","solved_at":1719713014.0,"source":"codeforces-api","title":"Rosetta Problem"}
+{"account_id":"a172","difficulty":1900,"member_id":"m57","observed_at":1792809739.3634422,"platform":"codeforces","problem_id":"817D","solved_at":1792809226.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a173","difficulty":1,"member_id":"m77","observed_at":1792158551.982763,"platform":"luogu","problem_id":"B2149","solved_at":1763537741.0,"source":"luogu-practice-snapshot","title":"求三角形面积"}
 {"account_id":"a173","difficulty":2,"member_id":"m77","observed_at":1792158551.982729,"platform":"luogu","problem_id":"B3784","solved_at":1760700793.0,"source":"luogu-practice-snapshot","title":"[语言月赛202306] 演唱会"}
 {"account_id":"a173","difficulty":3,"member_id":"m77","observed_at":1792158551.9827383,"platform":"luogu","problem_id":"P10095","solved_at":1732784466.0,"source":"luogu-practice-snapshot","title":"[ROIR 2023] 斐波那契乘积 (Day 1)"}
