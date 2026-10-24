@@ -1193,6 +1193,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9977083,"platform":"codeforces","problem_id":"104821C","solved_at":1791268434.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9976745,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.997722,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792819133.4583795,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792656902.8336296,"platform":"codeforces","problem_id":"105386A","solved_at":1792656821.0,"source":"codeforces-api","title":"Two-star Contest"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792648281.473727,"platform":"codeforces","problem_id":"105386B","solved_at":1792647839.0,"source":"codeforces-api","title":"Gold Medal"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792648891.2028883,"platform":"codeforces","problem_id":"105386G","solved_at":1792648563.0,"source":"codeforces-api","title":"Be Positive"}
@@ -8857,6 +8858,7 @@
 {"account_id":"a63","difficulty":5,"member_id":"m27","observed_at":1792240480.1823606,"platform":"luogu","problem_id":"P3435","solved_at":1792240008.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a63","difficulty":2,"member_id":"m27","observed_at":1792129846.850406,"platform":"luogu","problem_id":"P3654","solved_at":1791082335.0,"source":"luogu-practice-snapshot","title":"First Step (ファーストステップ)"}
 {"account_id":"a63","difficulty":3,"member_id":"m27","observed_at":1792129846.8505366,"platform":"luogu","problem_id":"P3799","solved_at":1791091334.0,"source":"luogu-practice-snapshot","title":"小 Y 拼木棒"}
+{"account_id":"a63","difficulty":5,"member_id":"m27","observed_at":1792819094.82627,"platform":"luogu","problem_id":"P3805","solved_at":1792818932.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a63","difficulty":1,"member_id":"m27","observed_at":1792129846.8504636,"platform":"luogu","problem_id":"P3954","solved_at":1786529299.0,"source":"luogu-practice-snapshot","title":"[NOIP 2017 普及组] 成绩"}
 {"account_id":"a63","difficulty":2,"member_id":"m27","observed_at":1792129846.8505487,"platform":"luogu","problem_id":"P4924","solved_at":1790437240.0,"source":"luogu-practice-snapshot","title":"[1007] 魔法少女小Scarlet"}
 {"account_id":"a63","difficulty":2,"member_id":"m27","observed_at":1792129846.8505266,"platform":"luogu","problem_id":"P5143","solved_at":1790928746.0,"source":"luogu-practice-snapshot","title":"攀爬者"}
@@ -10789,6 +10791,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.113248,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1132646,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792818920.3940535,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792819527.4537332,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1177263,"platform":"codeforces","problem_id":"105161F","solved_at":1778395528.0,"source":"codeforces-api","title":"Download Speed Monitor"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1177187,"platform":"codeforces","problem_id":"105161G","solved_at":1778397443.0,"source":"codeforces-api","title":"Download Time Monitor"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.11771,"platform":"codeforces","problem_id":"105161K","solved_at":1778397613.0,"source":"codeforces-api","title":"Number Deletion Game"}
@@ -19973,6 +19976,7 @@
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.414007,"platform":"codeforces","problem_id":"104821F","solved_at":1791273916.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792148555.4140394,"platform":"codeforces","problem_id":"104821I","solved_at":1791263906.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792818724.356784,"platform":"codeforces","problem_id":"104901D","solved_at":1792818517.0,"source":"codeforces-api","title":"Largest Digit"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792819333.4392397,"platform":"codeforces","problem_id":"104901I","solved_at":1792819237.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792656887.1059456,"platform":"codeforces","problem_id":"105386A","solved_at":1792656821.0,"source":"codeforces-api","title":"Two-star Contest"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792648306.955089,"platform":"codeforces","problem_id":"105386B","solved_at":1792647839.0,"source":"codeforces-api","title":"Gold Medal"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792648918.2463074,"platform":"codeforces","problem_id":"105386G","solved_at":1792648563.0,"source":"codeforces-api","title":"Be Positive"}
