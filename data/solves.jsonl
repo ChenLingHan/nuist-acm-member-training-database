@@ -8010,6 +8010,7 @@
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0409887,"platform":"codeforces","problem_id":"2276A","solved_at":1791989182.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0409677,"platform":"codeforces","problem_id":"2276C","solved_at":1791991552.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a51","difficulty":1400,"member_id":"m21","observed_at":1792127076.0406446,"platform":"codeforces","problem_id":"2276D","solved_at":1791994336.0,"source":"codeforces-api","title":"Caveman"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792840923.8780022,"platform":"codeforces","problem_id":"2277A","solved_at":1792840918.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -9946,6 +9947,7 @@
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4506555,"platform":"codeforces","problem_id":"2276C","solved_at":1791990471.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a79","difficulty":1400,"member_id":"m34","observed_at":1792127101.4506493,"platform":"codeforces","problem_id":"2276D","solved_at":1791992569.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a79","difficulty":1800,"member_id":"m34","observed_at":1792127101.4506404,"platform":"codeforces","problem_id":"2276E","solved_at":1791994926.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792840909.289103,"platform":"codeforces","problem_id":"2277A","solved_at":1792840823.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a79","difficulty":2600,"member_id":"m34","observed_at":1792467399.3548937,"platform":"codeforces","problem_id":"240F","solved_at":1792466906.0,"source":"codeforces-api","title":"TorCoder"}
 {"account_id":"a79","difficulty":2000,"member_id":"m34","observed_at":1792478868.616622,"platform":"codeforces","problem_id":"242E","solved_at":1792478214.0,"source":"codeforces-api","title":"XOR on Segment"}
 {"account_id":"a79","difficulty":2400,"member_id":"m34","observed_at":1792127101.4510262,"platform":"codeforces","problem_id":"246E","solved_at":1791278073.0,"source":"codeforces-api","title":"Blood Cousins Return"}
@@ -11013,6 +11015,7 @@
 {"account_id":"a87","difficulty":800,"member_id":"m37","observed_at":1792127108.1132164,"platform":"codeforces","problem_id":"2276A","solved_at":1792068180.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1130576,"platform":"codeforces","problem_id":"2276B","solved_at":1792071312.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792840406.5611255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840228.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792841017.065828,"platform":"codeforces","problem_id":"2277B","solved_at":1792840791.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a87","difficulty":1500,"member_id":"m37","observed_at":1792127108.1260288,"platform":"codeforces","problem_id":"553A","solved_at":1769586564.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a87","difficulty":2200,"member_id":"m37","observed_at":1792127108.1136808,"platform":"codeforces","problem_id":"570D","solved_at":1787808976.0,"source":"codeforces-api","title":"Tree Requests"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1274004,"platform":"codeforces","problem_id":"577A","solved_at":1769233256.0,"source":"codeforces-api","title":"Multiplication Table"}
@@ -15211,6 +15214,7 @@
 {"account_id":"a124","difficulty":2100,"member_id":"m54","observed_at":1792148519.67645,"platform":"codeforces","problem_id":"2271E","solved_at":1791655212.0,"source":"codeforces-api","title":"Array Emptying"}
 {"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840285.9865928,"platform":"codeforces","problem_id":"2277A","solved_at":1792840251.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840900.425722,"platform":"codeforces","problem_id":"2277B","solved_at":1792840485.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a124","difficulty":2700,"member_id":"m54","observed_at":1792148519.6788023,"platform":"codeforces","problem_id":"243D","solved_at":1779371351.0,"source":"codeforces-api","title":"Cubes"}
 {"account_id":"a124","difficulty":3000,"member_id":"m54","observed_at":1792148519.6810186,"platform":"codeforces","problem_id":"526F","solved_at":1774536791.0,"source":"codeforces-api","title":"Pudding Monsters"}
 {"account_id":"a124","difficulty":1900,"member_id":"m54","observed_at":1792649728.0527573,"platform":"codeforces","problem_id":"817D","solved_at":1792649166.0,"source":"codeforces-api","title":"Imbalanced Array"}
@@ -17160,6 +17164,7 @@
 {"account_id":"a150","difficulty":800,"member_id":"m66","observed_at":1792148545.1177692,"platform":"codeforces","problem_id":"2274A","solved_at":1791888051.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1792148545.117751,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a150","difficulty":1300,"member_id":"m66","observed_at":1792148545.1177082,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
+{"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792840826.5139465,"platform":"codeforces","problem_id":"2277A","solved_at":1792840336.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1792148545.1195297,"platform":"codeforces","problem_id":"252A","solved_at":1789632242.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a150","difficulty":2200,"member_id":"m66","observed_at":1792410890.445494,"platform":"codeforces","problem_id":"25E","solved_at":1792410598.0,"source":"codeforces-api","title":"Test"}
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1178768,"platform":"codeforces","problem_id":"268E","solved_at":1791801762.0,"source":"codeforces-api","title":"Playlist"}
