@@ -13533,6 +13533,7 @@
 {"accepted_at":1792840228.0,"account_id":"a87","difficulty":null,"observed_at":1792840406.5612273,"problem_id":"2277A","submission_id":"395829092","title":"Subset Selecting"}
 {"accepted_at":1792840791.0,"account_id":"a87","difficulty":null,"observed_at":1792841017.0659204,"problem_id":"2277B","submission_id":"395834146","title":"Sequence Decreasing"}
 {"accepted_at":1792842161.0,"account_id":"a87","difficulty":null,"observed_at":1792842251.4342885,"problem_id":"2277C","submission_id":"395844802","title":"Edge Addeleting"}
+{"accepted_at":1792845155.0,"account_id":"a87","difficulty":null,"observed_at":1792845304.625977,"problem_id":"2277D1","submission_id":"395859769","title":"Number Operating (Easy Version)"}
 {"accepted_at":1761372539.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224429,"problem_id":"P5718","submission_id":"242899207","title":"【深基4.例2】找最小值"}
 {"accepted_at":1762582638.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.222424,"problem_id":"P1307","submission_id":"246029492","title":"[NOIP 2011 普及组] 数字反转"}
 {"accepted_at":1762586659.0,"account_id":"a88","difficulty":1,"observed_at":1792150431.2224019,"problem_id":"P1089","submission_id":"246058044","title":"[NOIP 2004 提高组] 津津的储蓄计划"}
@@ -13770,6 +13771,7 @@
 {"accepted_at":1791992351.0,"account_id":"a96","difficulty":1400,"observed_at":1792127114.4830768,"problem_id":"2276D","submission_id":"394573473","title":"Caveman"}
 {"accepted_at":1791993081.0,"account_id":"a96","difficulty":1000,"observed_at":1792127114.4829898,"problem_id":"2276B","submission_id":"394578985","title":"Replace and Compress"}
 {"accepted_at":1792843056.0,"account_id":"a96","difficulty":null,"observed_at":1792843449.1713698,"problem_id":"2277A","submission_id":"395850124","title":"Subset Selecting"}
+{"accepted_at":1792844680.0,"account_id":"a96","difficulty":null,"observed_at":1792845282.1622658,"problem_id":"2277B","submission_id":"395857845","title":"Sequence Decreasing"}
 {"accepted_at":1657420372.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.779435,"problem_id":"B2052","submission_id":"78948658","title":"简单计算器"}
 {"accepted_at":1657524725.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.779387,"problem_id":"B2027","submission_id":"79094554","title":"计算球的体积"}
 {"accepted_at":1657524876.0,"account_id":"a97","difficulty":1,"observed_at":1792168901.7793396,"problem_id":"B2001","submission_id":"79095078","title":"入门测试题目"}

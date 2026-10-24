@@ -11028,6 +11028,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792840406.5611255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840228.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792841017.065828,"platform":"codeforces","problem_id":"2277B","solved_at":1792840791.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792842251.4341962,"platform":"codeforces","problem_id":"2277C","solved_at":1792842161.0,"source":"codeforces-api","title":"Edge Addeleting"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792845304.6258523,"platform":"codeforces","problem_id":"2277D1","solved_at":1792845155.0,"source":"codeforces-api","title":"Number Operating (Easy Version)"}
 {"account_id":"a87","difficulty":1500,"member_id":"m37","observed_at":1792127108.1260288,"platform":"codeforces","problem_id":"553A","solved_at":1769586564.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a87","difficulty":2200,"member_id":"m37","observed_at":1792127108.1136808,"platform":"codeforces","problem_id":"570D","solved_at":1787808976.0,"source":"codeforces-api","title":"Tree Requests"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1274004,"platform":"codeforces","problem_id":"577A","solved_at":1769233256.0,"source":"codeforces-api","title":"Multiplication Table"}
@@ -11238,6 +11239,7 @@
 {"account_id":"a96","difficulty":1100,"member_id":"m42","observed_at":1792127114.4830856,"platform":"codeforces","problem_id":"2276C","solved_at":1791990816.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a96","difficulty":1400,"member_id":"m42","observed_at":1792127114.4830663,"platform":"codeforces","problem_id":"2276D","solved_at":1791992351.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a96","difficulty":null,"member_id":"m42","observed_at":1792843449.1712677,"platform":"codeforces","problem_id":"2277A","solved_at":1792843056.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a96","difficulty":null,"member_id":"m42","observed_at":1792845282.1621654,"platform":"codeforces","problem_id":"2277B","solved_at":1792844680.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1898856,"platform":"luogu","problem_id":"AT_abc001_1","solved_at":1667177157.0,"source":"luogu-practice-snapshot","title":"[ABC001A] 積雪深差"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1898823,"platform":"luogu","problem_id":"AT_abc002_1","solved_at":1666704573.0,"source":"luogu-practice-snapshot","title":"[ABC002A] 正直者"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1898737,"platform":"luogu","problem_id":"AT_abc003_1","solved_at":1667177908.0,"source":"luogu-practice-snapshot","title":"[ABC003A] AtCoder社の給料"}
