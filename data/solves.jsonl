@@ -5839,6 +5839,7 @@
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792840477.8747497,"platform":"codeforces","problem_id":"2277A","solved_at":1792840128.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792841703.8482797,"platform":"codeforces","problem_id":"2277B","solved_at":1792841542.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792842313.904872,"platform":"codeforces","problem_id":"2277C","solved_at":1792841898.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792809463.298421,"platform":"luogu","problem_id":"P1165","solved_at":1792808877.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
@@ -8012,6 +8013,7 @@
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0409677,"platform":"codeforces","problem_id":"2276C","solved_at":1791991552.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a51","difficulty":1400,"member_id":"m21","observed_at":1792127076.0406446,"platform":"codeforces","problem_id":"2276D","solved_at":1791994336.0,"source":"codeforces-api","title":"Caveman"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792840923.8780022,"platform":"codeforces","problem_id":"2277A","solved_at":1792840918.0,"source":"codeforces-api","title":"Subset Selecting"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792842161.3479402,"platform":"codeforces","problem_id":"2277B","solved_at":1792841745.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -8055,6 +8057,7 @@
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792809703.989761,"platform":"luogu","problem_id":"P3805","solved_at":1792809462.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792828121.0218477,"platform":"luogu","problem_id":"P7410","solved_at":1792828111.0,"source":"luogu-record-list","title":"[USACO21FEB] Just Green Enough S"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792220197.2092807,"platform":"luogu","problem_id":"P7911","solved_at":1792220189.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792842114.3738103,"platform":"codeforces","problem_id":"2277A","solved_at":1792841765.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a55","difficulty":1900,"member_id":"m23","observed_at":1792824984.8450022,"platform":"codeforces","problem_id":"817D","solved_at":1792824590.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5646367,"platform":"luogu","problem_id":"B2002","solved_at":1790816323.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -11017,6 +11020,7 @@
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1130576,"platform":"codeforces","problem_id":"2276B","solved_at":1792071312.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792840406.5611255,"platform":"codeforces","problem_id":"2277A","solved_at":1792840228.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792841017.065828,"platform":"codeforces","problem_id":"2277B","solved_at":1792840791.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792842251.4341962,"platform":"codeforces","problem_id":"2277C","solved_at":1792842161.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a87","difficulty":1500,"member_id":"m37","observed_at":1792127108.1260288,"platform":"codeforces","problem_id":"553A","solved_at":1769586564.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a87","difficulty":2200,"member_id":"m37","observed_at":1792127108.1136808,"platform":"codeforces","problem_id":"570D","solved_at":1787808976.0,"source":"codeforces-api","title":"Tree Requests"}
 {"account_id":"a87","difficulty":1000,"member_id":"m37","observed_at":1792127108.1274004,"platform":"codeforces","problem_id":"577A","solved_at":1769233256.0,"source":"codeforces-api","title":"Multiplication Table"}
