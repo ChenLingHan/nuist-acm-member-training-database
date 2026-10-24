@@ -1509,6 +1509,7 @@
 {"account_id":"a12","difficulty":2,"member_id":"m6","observed_at":1792128793.4475648,"platform":"luogu","problem_id":"P17510","solved_at":1790511386.0,"source":"luogu-record-list","title":"[入门赛 #52] 中秋灯会"}
 {"account_id":"a12","difficulty":3,"member_id":"m6","observed_at":1792128793.447396,"platform":"luogu","problem_id":"P17511","solved_at":1790511812.0,"source":"luogu-record-list","title":"[入门赛 #52] 月饼调配"}
 {"account_id":"a12","difficulty":1,"member_id":"m6","observed_at":1792804734.081382,"platform":"luogu","problem_id":"P1897","solved_at":1792804390.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
+{"account_id":"a12","difficulty":5,"member_id":"m6","observed_at":1792810844.447173,"platform":"luogu","problem_id":"P3805","solved_at":1792810629.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a12","difficulty":3,"member_id":"m6","observed_at":1792221311.5201776,"platform":"luogu","problem_id":"P7911","solved_at":1792220739.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310737,"platform":"luogu","problem_id":"B3862","solved_at":1761973505.0,"source":"luogu-practice-snapshot","title":"图的遍历（简单版）"}
 {"account_id":"a15","difficulty":5,"member_id":"m7","observed_at":1792076650.6310804,"platform":"luogu","problem_id":"P10478","solved_at":1770193624.0,"source":"luogu-practice-snapshot","title":"生日礼物"}
@@ -7559,6 +7560,7 @@
 {"account_id":"a49","difficulty":1,"member_id":"m21","observed_at":1792129810.2152658,"platform":"luogu","problem_id":"P1161","solved_at":1777021170.0,"source":"luogu-practice-snapshot","title":"开灯"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2153034,"platform":"luogu","problem_id":"P1163","solved_at":1777014478.0,"source":"luogu-practice-snapshot","title":"银行贷款"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2153146,"platform":"luogu","problem_id":"P1164","solved_at":1776948215.0,"source":"luogu-practice-snapshot","title":"小 A 点菜"}
+{"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792811072.8205183,"platform":"luogu","problem_id":"P1165","solved_at":1792810546.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a49","difficulty":3,"member_id":"m21","observed_at":1792129810.2153234,"platform":"luogu","problem_id":"P1168","solved_at":1777408256.0,"source":"luogu-practice-snapshot","title":"中位数"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2153351,"platform":"luogu","problem_id":"P1177","solved_at":1776475942.0,"source":"luogu-practice-snapshot","title":"【模板】排序"}
 {"account_id":"a49","difficulty":2,"member_id":"m21","observed_at":1792129810.2153437,"platform":"luogu","problem_id":"P1181","solved_at":1783142780.0,"source":"luogu-practice-snapshot","title":"数列分段 Section I"}
