@@ -10168,6 +10168,7 @@
 {"accepted_at":1792737839.0,"account_id":"a52","difficulty":3,"observed_at":1792737972.7626202,"problem_id":"P4387","submission_id":"304945788","title":"【深基15.习9】验证栈序列"}
 {"accepted_at":1792739914.0,"account_id":"a52","difficulty":3,"observed_at":1792740427.8408918,"problem_id":"P2058","submission_id":"304953745","title":"[NOIP 2016 普及组] 海港"}
 {"accepted_at":1792744601.0,"account_id":"a52","difficulty":3,"observed_at":1792744733.8362193,"problem_id":"P1160","submission_id":"304974999","title":"队列安排"}
+{"accepted_at":1792802235.0,"account_id":"a52","difficulty":1,"observed_at":1792802328.69123,"problem_id":"P1897","submission_id":"305134528","title":"电梯里的尴尬"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
 {"accepted_at":1790266826.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.293393,"problem_id":"P1001","submission_id":"299099035","title":"A+B Problem"}
 {"accepted_at":1790688554.0,"account_id":"a54","difficulty":2,"observed_at":1792148369.293386,"problem_id":"P1002","submission_id":"299952348","title":"[NOIP 2002 普及组] 过河卒"}
@@ -21836,6 +21837,7 @@
 {"accepted_at":1792222795.0,"account_id":"a151","difficulty":4,"observed_at":1792222918.8054974,"problem_id":"P3375","submission_id":"303632194","title":"【模板】KMP"}
 {"accepted_at":1792759138.0,"account_id":"a151","difficulty":5,"observed_at":1792759743.136019,"problem_id":"P3805","submission_id":"305066987","title":"【模板】Manacher"}
 {"accepted_at":1792761807.0,"account_id":"a151","difficulty":3,"observed_at":1792762183.0167398,"problem_id":"P1944","submission_id":"305087409","title":"最长括号匹配"}
+{"accepted_at":1792802423.0,"account_id":"a151","difficulty":1,"observed_at":1792802632.7035968,"problem_id":"P1897","submission_id":"305135255","title":"电梯里的尴尬"}
 {"accepted_at":1788854125.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1556063,"problem_id":"20021","submission_id":"2905356","title":"50 Years of Excellence"}
 {"accepted_at":1788855591.0,"account_id":"a152","difficulty":null,"observed_at":1792148523.1553798,"problem_id":"20028","submission_id":"2905798","title":"Check In"}
 {"accepted_at":1791121291.0,"account_id":"a153","difficulty":800,"observed_at":1792148546.927953,"problem_id":"2267A","submission_id":"393183238","title":"Turn Into a Palindrome"}
