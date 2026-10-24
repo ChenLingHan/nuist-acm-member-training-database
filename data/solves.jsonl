@@ -1525,6 +1525,7 @@
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6311605,"platform":"luogu","problem_id":"P16817","solved_at":1780748680.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2026 国 Python B] 稳定史莱姆"}
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.631167,"platform":"luogu","problem_id":"P16818","solved_at":1780745213.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2026 国 Python B] 仓库管理"}
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.6311734,"platform":"luogu","problem_id":"P16819","solved_at":1780743187.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2026 国 Python B] 最小耗水定额"}
+{"account_id":"a15","difficulty":1,"member_id":"m7","observed_at":1792804144.9180274,"platform":"luogu","problem_id":"P1897","solved_at":1792804111.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.6310267,"platform":"luogu","problem_id":"P1901","solved_at":1761373648.0,"source":"luogu-practice-snapshot","title":"发射站"}
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.631035,"platform":"luogu","problem_id":"P2712","solved_at":1763776522.0,"source":"luogu-practice-snapshot","title":"摄像头"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.631042,"platform":"luogu","problem_id":"P2945","solved_at":1769839609.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
@@ -1644,6 +1645,7 @@
 {"account_id":"a17","difficulty":1,"member_id":"m8","observed_at":1792077926.0847664,"platform":"luogu","problem_id":"P1152","solved_at":1664255374.0,"source":"luogu-practice-snapshot","title":"欢乐的跳"}
 {"account_id":"a17","difficulty":2,"member_id":"m8","observed_at":1792077926.084771,"platform":"luogu","problem_id":"P1157","solved_at":1653369555.0,"source":"luogu-practice-snapshot","title":"组合的输出"}
 {"account_id":"a17","difficulty":3,"member_id":"m8","observed_at":1792077926.0861433,"platform":"luogu","problem_id":"P11615","solved_at":1764122021.0,"source":"luogu-practice-snapshot","title":"【模板】哈希表"}
+{"account_id":"a17","difficulty":2,"member_id":"m8","observed_at":1792804151.6853406,"platform":"luogu","problem_id":"P1165","solved_at":1792803743.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a17","difficulty":3,"member_id":"m8","observed_at":1792077926.0847757,"platform":"luogu","problem_id":"P1168","solved_at":1714220814.0,"source":"luogu-practice-snapshot","title":"中位数"}
 {"account_id":"a17","difficulty":2,"member_id":"m8","observed_at":1792077926.0847802,"platform":"luogu","problem_id":"P1177","solved_at":1762220235.0,"source":"luogu-practice-snapshot","title":"【模板】排序"}
 {"account_id":"a17","difficulty":1,"member_id":"m8","observed_at":1792077926.0848181,"platform":"luogu","problem_id":"P1179","solved_at":1650950195.0,"source":"luogu-practice-snapshot","title":"[NOIP 2010 普及组] 数字统计"}
@@ -3535,6 +3537,7 @@
 {"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792115479.3681977,"platform":"qoj","problem_id":"14549","solved_at":1789731426.0,"source":"qoj-profile","title":"造桥与砍树"}
 {"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792115479.3682113,"platform":"qoj","problem_id":"14551","solved_at":1789719785.0,"source":"qoj-profile","title":"看比赛回放"}
 {"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792115479.368219,"platform":"qoj","problem_id":"14557","solved_at":1789722654.0,"source":"qoj-profile","title":"置换环"}
+{"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792804004.7591136,"platform":"qoj","problem_id":"14803","solved_at":1792803869.0,"source":"qoj-authenticated","title":"Distributing Candies"}
 {"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792115479.3682253,"platform":"qoj","problem_id":"20019","solved_at":1788792955.0,"source":"qoj-profile","title":"Sequence"}
 {"account_id":"a29","difficulty":null,"member_id":"m12","observed_at":1792115479.368032,"platform":"qoj","problem_id":"9573","solved_at":1791551609.0,"source":"qoj-profile","title":"Social Media"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8125696,"platform":"codeforces","problem_id":"102875C","solved_at":1778067732.0,"source":"codeforces-api","title":"Cats"}
@@ -5805,12 +5808,14 @@
 {"account_id":"a34","difficulty":2,"member_id":"m14","observed_at":1792639434.8409402,"platform":"luogu","problem_id":"P1003","solved_at":1792638836.0,"source":"luogu-record-list","title":"[NOIP 2011 提高组] 铺地毯"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792744541.4727995,"platform":"luogu","problem_id":"P1007","solved_at":1792744393.0,"source":"luogu-record-list","title":"独木桥"}
 {"account_id":"a34","difficulty":2,"member_id":"m14","observed_at":1792745761.169146,"platform":"luogu","problem_id":"P1008","solved_at":1792745422.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 三连击"}
+{"account_id":"a34","difficulty":1,"member_id":"m14","observed_at":1792803988.543439,"platform":"luogu","problem_id":"P1897","solved_at":1792803424.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792223028.8861878,"platform":"luogu","problem_id":"P3435","solved_at":1792222456.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792764743.4838424,"platform":"luogu","problem_id":"P1449","solved_at":1792764580.0,"source":"luogu-record-list","title":"后缀表达式"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792762289.6641035,"platform":"luogu","problem_id":"P1739","solved_at":1792762251.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792583412.6015494,"platform":"luogu","problem_id":"P1090","solved_at":1792583102.0,"source":"luogu-record-list","title":"[NOIP 2004 提高组] 合并果子"}
 {"account_id":"a39","difficulty":1,"member_id":"m17","observed_at":1792633341.7778127,"platform":"luogu","problem_id":"P1739","solved_at":1792633008.0,"source":"luogu-record-list","title":"表达式括号匹配"}
+{"account_id":"a39","difficulty":1,"member_id":"m17","observed_at":1792804271.0553968,"platform":"luogu","problem_id":"P1897","solved_at":1792803765.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792670918.7762258,"platform":"luogu","problem_id":"P1944","solved_at":1792670397.0,"source":"luogu-record-list","title":"最长括号匹配"}
 {"account_id":"a39","difficulty":3,"member_id":"m17","observed_at":1792587072.065759,"platform":"luogu","problem_id":"P2678","solved_at":1792586645.0,"source":"luogu-record-list","title":"[NOIP 2015 提高组] 跳石头"}
 {"account_id":"a39","difficulty":5,"member_id":"m17","observed_at":1792463108.6660933,"platform":"luogu","problem_id":"P3435","solved_at":1792462785.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
@@ -7982,6 +7987,7 @@
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792155454.7431643,"platform":"luogu","problem_id":"P1044","solved_at":1792155034.0,"source":"luogu-record-list","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792675054.7018068,"platform":"luogu","problem_id":"P1135","solved_at":1792674899.0,"source":"luogu-record-list","title":"奇怪的电梯"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792744733.8361382,"platform":"luogu","problem_id":"P1160","solved_at":1792744601.0,"source":"luogu-record-list","title":"队列安排"}
+{"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792804159.0954344,"platform":"luogu","problem_id":"P1165","solved_at":1792804092.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792410793.0703573,"platform":"luogu","problem_id":"P1182","solved_at":1792410754.0,"source":"luogu-record-list","title":"数列分段 Section II"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792483418.7227647,"platform":"luogu","problem_id":"P1219","solved_at":1792482890.0,"source":"luogu-record-list","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"account_id":"a52","difficulty":4,"member_id":"m22","observed_at":1792508475.6726112,"platform":"luogu","problem_id":"P1433","solved_at":1792508432.0,"source":"luogu-record-list","title":"吃奶酪"}
@@ -9115,6 +9121,7 @@
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792717232.7213624,"platform":"luogu","problem_id":"P1051","solved_at":1792716779.0,"source":"luogu-record-list","title":"[NOIP 2005 提高组] 谁拿了最多奖学金"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792327897.6492283,"platform":"luogu","problem_id":"P1071","solved_at":1792327396.0,"source":"luogu-record-list","title":"[NOIP 2009 提高组] 潜伏者"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792716010.2183294,"platform":"luogu","problem_id":"P1093","solved_at":1792715864.0,"source":"luogu-record-list","title":"[NOIP 2007 普及组] 奖学金"}
+{"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792804193.3739443,"platform":"luogu","problem_id":"P1165","solved_at":1792803816.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792489045.2211208,"platform":"luogu","problem_id":"P1443","solved_at":1792488645.0,"source":"luogu-record-list","title":"马的遍历"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792670825.2724328,"platform":"luogu","problem_id":"P1605","solved_at":1792670655.0,"source":"luogu-record-list","title":"迷宫"}
 {"account_id":"a72","difficulty":1,"member_id":"m31","observed_at":1792672060.6871254,"platform":"luogu","problem_id":"P1739","solved_at":1792671943.0,"source":"luogu-record-list","title":"表达式括号匹配"}
@@ -10413,6 +10420,7 @@
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792505572.0821126,"platform":"luogu","problem_id":"P1603","solved_at":1792505493.0,"source":"luogu-record-list","title":"斯诺登的密码"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792502067.1684387,"platform":"luogu","problem_id":"P1765","solved_at":1792501656.0,"source":"luogu-record-list","title":"手机"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2946084,"platform":"luogu","problem_id":"P1888","solved_at":1789130996.0,"source":"luogu-practice-snapshot","title":"三角函数"}
+{"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792804312.3296368,"platform":"luogu","problem_id":"P1897","solved_at":1792803837.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2946162,"platform":"luogu","problem_id":"P1909","solved_at":1789122278.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792150420.7693765,"platform":"luogu","problem_id":"P1914","solved_at":1792139204.0,"source":"luogu-record-list","title":"小书童——凯撒密码"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792471392.402826,"platform":"luogu","problem_id":"P1957","solved_at":1792471059.0,"source":"luogu-record-list","title":"口算练习题"}
@@ -11957,6 +11965,7 @@
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.19178,"platform":"luogu","problem_id":"P1892","solved_at":1699430055.0,"source":"luogu-practice-snapshot","title":"[BalticOI 2003] 团伙 (Day 2)"}
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1917837,"platform":"luogu","problem_id":"P1894","solved_at":1697500712.0,"source":"luogu-practice-snapshot","title":"[USACO4.2] 完美的牛栏The Perfect Stall"}
 {"account_id":"a97","difficulty":5,"member_id":"m43","observed_at":1792148610.1889126,"platform":"luogu","problem_id":"P1896","solved_at":1660964243.0,"source":"luogu-practice-snapshot","title":"[SCOI2005] 互不侵犯"}
+{"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792804046.6357405,"platform":"luogu","problem_id":"P1897","solved_at":1792803876.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a97","difficulty":3,"member_id":"m43","observed_at":1792148610.1889162,"platform":"luogu","problem_id":"P1908","solved_at":1660465451.0,"source":"luogu-practice-snapshot","title":"逆序对"}
 {"account_id":"a97","difficulty":1,"member_id":"m43","observed_at":1792148610.1889198,"platform":"luogu","problem_id":"P1909","solved_at":1660577012.0,"source":"luogu-practice-snapshot","title":"[NOIP 2016 普及组] 买铅笔"}
 {"account_id":"a97","difficulty":2,"member_id":"m43","observed_at":1792148610.1917872,"platform":"luogu","problem_id":"P1918","solved_at":1730276366.0,"source":"luogu-practice-snapshot","title":"保龄球"}
