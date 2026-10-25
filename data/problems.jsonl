@@ -881,6 +881,7 @@
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1373D","tags":["divide and conquer","dp","greedy","implementation"],"title":"Maximum Sum on Even Positions"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1374B","tags":["math"],"title":"Multiply by 2, divide by 6"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"1374C","tags":["greedy","strings"],"title":"Move Brackets"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1374E1","tags":["data structures","greedy","sortings"],"title":"Reading Books (easy version)"}
 {"difficulty":2800,"platform":"codeforces","points":2250.0,"problem_id":"1375G","tags":["brute force","constructive algorithms","dfs and similar","graph matchings","graphs","trees"],"title":"Tree Modification"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"1380C","tags":["brute force","dp","greedy","implementation","sortings"],"title":"Create The Teams"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"1381A2","tags":["constructive algorithms","data structures","implementation","strings","two pointers"],"title":"Prefix Flip (Hard Version)"}
