@@ -718,6 +718,7 @@
 {"difficulty":3200,"platform":"codeforces","points":1250.0,"problem_id":"1229E2","tags":["brute force","probabilities"],"title":"Marek and Matching (hard version)"}
 {"difficulty":3500,"platform":"codeforces","points":3500.0,"problem_id":"1229F","tags":["dp"],"title":"Mateusz and Escape Room"}
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"122A","tags":["brute force","number theory"],"title":"Lucky Division"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1234D","tags":["data structures"],"title":"Distinct Characters Queries"}
 {"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"1238E","tags":["bitmasks","dp"],"title":"Keyboard Purchase"}
 {"difficulty":3100,"platform":"codeforces","points":2500.0,"problem_id":"1239E","tags":["dp","implementation"],"title":"Turtle"}
 {"difficulty":1400,"platform":"codeforces","points":1250.0,"problem_id":"1245C","tags":["dp"],"title":"Constanze's Machine"}
