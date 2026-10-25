@@ -3587,6 +3587,7 @@
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8147948,"platform":"codeforces","problem_id":"104172K","solved_at":1769238259.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8155887,"platform":"codeforces","problem_id":"104396F","solved_at":1763790978.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792917429.140064,"platform":"codeforces","problem_id":"104821C","solved_at":1792917280.0,"source":"codeforces-api","title":"Primitive Root"}
+{"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792920483.897464,"platform":"codeforces","problem_id":"104821F","solved_at":1792920301.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792908864.3322883,"platform":"codeforces","problem_id":"104821I","solved_at":1792908248.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8124104,"platform":"codeforces","problem_id":"105161E","solved_at":1778749251.0,"source":"codeforces-api","title":"Divide"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8124843,"platform":"codeforces","problem_id":"105161F","solved_at":1778393111.0,"source":"codeforces-api","title":"Download Speed Monitor"}
@@ -16076,6 +16077,7 @@
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792148526.0000699,"platform":"codeforces","problem_id":"104172K","solved_at":1769235822.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792148526.0003457,"platform":"codeforces","problem_id":"104396F","solved_at":1763779981.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792917425.3144805,"platform":"codeforces","problem_id":"104821C","solved_at":1792917280.0,"source":"codeforces-api","title":"Primitive Root"}
+{"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792920540.1979396,"platform":"codeforces","problem_id":"104821F","solved_at":1792920301.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792908856.2394993,"platform":"codeforces","problem_id":"104821I","solved_at":1792908248.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792378187.1751134,"platform":"codeforces","problem_id":"104901K","solved_at":1792378161.0,"source":"codeforces-api","title":"Rainbow Subarray"}
 {"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1792148525.9997542,"platform":"codeforces","problem_id":"105161F","solved_at":1778393111.0,"source":"codeforces-api","title":"Download Speed Monitor"}
@@ -16326,6 +16328,7 @@
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0773392,"platform":"codeforces","problem_id":"103118M","solved_at":1784441992.0,"source":"codeforces-api","title":"Matrix Problem"}
 {"account_id":"a139","difficulty":1100,"member_id":"m61","observed_at":1792148534.0778782,"platform":"codeforces","problem_id":"1033B","solved_at":1769234730.0,"source":"codeforces-api","title":"Square Difference"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792917450.3417659,"platform":"codeforces","problem_id":"104821C","solved_at":1792917280.0,"source":"codeforces-api","title":"Primitive Root"}
+{"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792920513.292855,"platform":"codeforces","problem_id":"104821F","solved_at":1792920301.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792908738.1164846,"platform":"codeforces","problem_id":"104821I","solved_at":1792908248.0,"source":"codeforces-api","title":"Counter"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0775006,"platform":"codeforces","problem_id":"105161F","solved_at":1778393111.0,"source":"codeforces-api","title":"Download Speed Monitor"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0774443,"platform":"codeforces","problem_id":"105161G","solved_at":1778398775.0,"source":"codeforces-api","title":"Download Time Monitor"}

@@ -5250,6 +5250,7 @@
 {"accepted_at":1792747938.0,"account_id":"a30","difficulty":2200,"observed_at":1792748208.5982907,"problem_id":"86B","submission_id":"395676428","title":"Tetris revisited"}
 {"accepted_at":1792908248.0,"account_id":"a30","difficulty":null,"observed_at":1792908864.3323877,"problem_id":"104821I","submission_id":"395944135","title":"Counter"}
 {"accepted_at":1792917280.0,"account_id":"a30","difficulty":null,"observed_at":1792917429.1401582,"problem_id":"104821C","submission_id":"395958508","title":"Primitive Root"}
+{"accepted_at":1792920301.0,"account_id":"a30","difficulty":null,"observed_at":1792920483.8975675,"problem_id":"104821F","submission_id":"395963891","title":"Equivalent Rewriting"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -20299,6 +20300,7 @@
 {"accepted_at":1792378161.0,"account_id":"a132","difficulty":null,"observed_at":1792378187.1753433,"problem_id":"104901K","submission_id":"395163653","title":"Rainbow Subarray"}
 {"accepted_at":1792908248.0,"account_id":"a132","difficulty":null,"observed_at":1792908856.2396116,"problem_id":"104821I","submission_id":"395944135","title":"Counter"}
 {"accepted_at":1792917280.0,"account_id":"a132","difficulty":null,"observed_at":1792917425.314585,"problem_id":"104821C","submission_id":"395958508","title":"Primitive Root"}
+{"accepted_at":1792920301.0,"account_id":"a132","difficulty":null,"observed_at":1792920540.1980293,"problem_id":"104821F","submission_id":"395963891","title":"Equivalent Rewriting"}
 {"accepted_at":1792807644.0,"account_id":"a133","difficulty":1,"observed_at":1792807692.1934242,"problem_id":"P1897","submission_id":"305166367","title":"电梯里的尴尬"}
 {"accepted_at":1792808375.0,"account_id":"a133","difficulty":2,"observed_at":1792808913.2778113,"problem_id":"P1165","submission_id":"305172076","title":"日志分析"}
 {"accepted_at":1792809549.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9384167,"problem_id":"P1165","submission_id":"305181913","title":"日志分析"}
@@ -20617,6 +20619,7 @@
 {"accepted_at":1792152039.0,"account_id":"a139","difficulty":null,"observed_at":1792152199.2941303,"problem_id":"105657H","submission_id":"394808554","title":"Heavy-light Decomposition"}
 {"accepted_at":1792908248.0,"account_id":"a139","difficulty":null,"observed_at":1792908738.1165922,"problem_id":"104821I","submission_id":"395944135","title":"Counter"}
 {"accepted_at":1792917280.0,"account_id":"a139","difficulty":null,"observed_at":1792917450.3418686,"problem_id":"104821C","submission_id":"395958508","title":"Primitive Root"}
+{"accepted_at":1792920301.0,"account_id":"a139","difficulty":null,"observed_at":1792920513.292946,"problem_id":"104821F","submission_id":"395963891","title":"Equivalent Rewriting"}
 {"accepted_at":1760451389.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.872015,"problem_id":"4A","submission_id":"343714408","title":"Watermelon"}
 {"accepted_at":1760452642.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719974,"problem_id":"71A","submission_id":"343717895","title":"Way Too Long Words"}
 {"accepted_at":1760593208.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719797,"problem_id":"2148A","submission_id":"343964436","title":"Sublime Sequence"}
