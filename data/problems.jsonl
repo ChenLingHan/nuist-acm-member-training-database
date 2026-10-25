@@ -828,6 +828,7 @@
 {"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"1335F","tags":["data structures","dfs and similar","dsu","graphs","greedy","matrices"],"title":"Robots on a Grid"}
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"1336A","tags":["dfs and similar","dp","greedy","sortings","trees"],"title":"Linova and Kingdom"}
 {"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"133A","tags":["implementation"],"title":"HQ9+"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1342C","tags":["math","number theory"],"title":"Yet Another Counting Problem"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1343A","tags":["brute force","math"],"title":"Candies"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1343B","tags":["constructive algorithms","math"],"title":"Balanced Array"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1343C","tags":["dp","greedy","two pointers"],"title":"Alternating Subsequence"}
