@@ -17064,6 +17064,7 @@
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1513245,"platform":"luogu","problem_id":"P3620","solved_at":1770188324.0,"source":"luogu-practice-snapshot","title":"[APIO/CTSC2007] 数据备份"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792150179.1510866,"platform":"luogu","problem_id":"P3763","solved_at":1792138992.0,"source":"luogu-practice-snapshot","title":"[TJOI2017] DNA"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792658268.0874743,"platform":"luogu","problem_id":"P3796","solved_at":1792658092.0,"source":"luogu-record-list","title":"AC 自动机（简单版 II）"}
+{"account_id":"a148","difficulty":7,"member_id":"m66","observed_at":1792915452.0502698,"platform":"luogu","problem_id":"P3804","solved_at":1792914847.0,"source":"luogu-record-list","title":"【模板】后缀自动机（SAM）"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792496019.7417114,"platform":"luogu","problem_id":"P3805","solved_at":1792495548.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a148","difficulty":5,"member_id":"m66","observed_at":1792150179.1521144,"platform":"luogu","problem_id":"P3807","solved_at":1769493950.0,"source":"luogu-practice-snapshot","title":"【模板】卢卡斯定理 / Lucas 定理"}
 {"account_id":"a148","difficulty":6,"member_id":"m66","observed_at":1792657660.9319317,"platform":"luogu","problem_id":"P3808","solved_at":1792657132.0,"source":"luogu-record-list","title":"AC 自动机（简单版）"}
@@ -21587,3 +21588,5 @@
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890745,"platform":"qoj","problem_id":"17467","solved_at":1779080680.0,"source":"qoj-profile","title":"Galaxy of Stars in a Dream"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.6890805,"platform":"qoj","problem_id":"17759","solved_at":1787544758.0,"source":"qoj-profile","title":"Snake"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689087,"platform":"qoj","problem_id":"17761","solved_at":1787534700.0,"source":"qoj-profile","title":"Calendar Cubes"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792915322.082261,"platform":"qoj","problem_id":"20060","solved_at":null,"source":"qoj-profile","title":"20060"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792915314.7182968,"platform":"qoj","problem_id":"22910","solved_at":1792915290.0,"source":"qoj-authenticated","title":"又一道纸笔问题"}
