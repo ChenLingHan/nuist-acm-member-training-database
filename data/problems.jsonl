@@ -585,6 +585,7 @@
 {"difficulty":2600,"platform":"codeforces","points":1750.0,"problem_id":"1067C","tags":["constructive algorithms"],"title":"Knights"}
 {"difficulty":3100,"platform":"codeforces","points":2250.0,"problem_id":"1067D","tags":["dp","greedy","math","probabilities"],"title":"Computer Game"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1072C","tags":["greedy","math"],"title":"Cram Time"}
+{"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"1073E","tags":["bitmasks","combinatorics","dp","math"],"title":"Segment Sum"}
 {"difficulty":2500,"platform":"codeforces","points":null,"problem_id":"1073F","tags":["dfs and similar","dp","greedy","trees"],"title":"Choosing Two Paths"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1077A","tags":["math"],"title":"Frog Jumping"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"1077B","tags":["greedy"],"title":"Disturbed People"}
