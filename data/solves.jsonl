@@ -2962,6 +2962,7 @@
 {"account_id":"a24","difficulty":1800,"member_id":"m10","observed_at":1792081262.3119152,"platform":"codeforces","problem_id":"2276E","solved_at":1792036081.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792926214.9036877,"platform":"codeforces","problem_id":"2277A","solved_at":1792925882.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792926823.9060974,"platform":"codeforces","problem_id":"2277B","solved_at":1792926407.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792929276.80488,"platform":"codeforces","problem_id":"2277C","solved_at":1792929042.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a24","difficulty":2400,"member_id":"m10","observed_at":1792081262.3190646,"platform":"codeforces","problem_id":"246E","solved_at":1706067325.0,"source":"codeforces-api","title":"Blood Cousins Return"}
 {"account_id":"a24","difficulty":2200,"member_id":"m10","observed_at":1792081262.320592,"platform":"codeforces","problem_id":"25E","solved_at":1699239951.0,"source":"codeforces-api","title":"Test"}
 {"account_id":"a24","difficulty":2200,"member_id":"m10","observed_at":1792081262.3159277,"platform":"codeforces","problem_id":"28C","solved_at":1720669214.0,"source":"codeforces-api","title":"Bath Queue"}
@@ -21608,3 +21609,4 @@
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792486414.689087,"platform":"qoj","problem_id":"17761","solved_at":1787534700.0,"source":"qoj-profile","title":"Calendar Cubes"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792915322.082261,"platform":"qoj","problem_id":"20060","solved_at":null,"source":"qoj-profile","title":"20060"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792915314.7182968,"platform":"qoj","problem_id":"22910","solved_at":1792915290.0,"source":"qoj-authenticated","title":"又一道纸笔问题"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792929216.3733451,"platform":"qoj","problem_id":"22914","solved_at":1792928907.0,"source":"qoj-authenticated","title":"遍历"}

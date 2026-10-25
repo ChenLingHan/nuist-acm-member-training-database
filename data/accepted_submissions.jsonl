@@ -4059,6 +4059,7 @@
 {"accepted_at":1792806134.0,"account_id":"a24","difficulty":1900,"observed_at":1792806450.2447467,"problem_id":"817D","submission_id":"395779399","title":"Imbalanced Array"}
 {"accepted_at":1792925882.0,"account_id":"a24","difficulty":null,"observed_at":1792926214.9038181,"problem_id":"2277A","submission_id":"395973537","title":"Subset Selecting"}
 {"accepted_at":1792926407.0,"account_id":"a24","difficulty":null,"observed_at":1792926823.90619,"problem_id":"2277B","submission_id":"395974513","title":"Sequence Decreasing"}
+{"accepted_at":1792929042.0,"account_id":"a24","difficulty":null,"observed_at":1792929276.8049753,"problem_id":"2277C","submission_id":"395978982","title":"Edge Addeleting"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -26788,3 +26789,4 @@
 {"accepted_at":1791637488.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.477692,"problem_id":"14824","submission_id":"3147935","title":"01 背包"}
 {"accepted_at":1791643162.0,"account_id":"a184","difficulty":null,"observed_at":1792486416.4775248,"problem_id":"14814","submission_id":"3148509","title":"k-子集和最大公约数问题"}
 {"accepted_at":1792915290.0,"account_id":"a184","difficulty":null,"observed_at":1792915314.7183897,"problem_id":"22910","submission_id":"3274429","title":"又一道纸笔问题"}
+{"accepted_at":1792928907.0,"account_id":"a184","difficulty":null,"observed_at":1792929216.3734362,"problem_id":"22914","submission_id":"3277575","title":"遍历"}
