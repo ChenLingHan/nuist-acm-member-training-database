@@ -10330,6 +10330,7 @@
 {"accepted_at":1792841765.0,"account_id":"a55","difficulty":null,"observed_at":1792842114.3739164,"problem_id":"2277A","submission_id":"395842067","title":"Subset Selecting"}
 {"accepted_at":1792844103.0,"account_id":"a55","difficulty":null,"observed_at":1792844569.937313,"problem_id":"2277B","submission_id":"395855290","title":"Sequence Decreasing"}
 {"accepted_at":1793026766.0,"account_id":"a55","difficulty":null,"observed_at":1793027333.9244921,"problem_id":"2272A","submission_id":"396130388","title":"Maximize One MEX"}
+{"accepted_at":1793029658.0,"account_id":"a55","difficulty":null,"observed_at":1793029793.3954186,"problem_id":"2272B","submission_id":"396154638","title":"Frogs Jump"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -12167,6 +12168,7 @@
 {"accepted_at":1791508818.0,"account_id":"a76","difficulty":1000,"observed_at":1792127099.6200342,"problem_id":"2266C","submission_id":"393779970","title":"AND, OR, Sort!"}
 {"accepted_at":1792811527.0,"account_id":"a76","difficulty":1900,"observed_at":1792811862.4514294,"problem_id":"817D","submission_id":"395783303","title":"Imbalanced Array"}
 {"accepted_at":1793028104.0,"account_id":"a76","difficulty":null,"observed_at":1793028158.0287628,"problem_id":"2272A","submission_id":"396143440","title":"Maximize One MEX"}
+{"accepted_at":1793029605.0,"account_id":"a76","difficulty":null,"observed_at":1793029990.7625444,"problem_id":"2272B","submission_id":"396154303","title":"Frogs Jump"}
 {"accepted_at":1758638060.0,"account_id":"a77","difficulty":1,"observed_at":1792155667.0601573,"problem_id":"P1000","submission_id":"236677952","title":"超级玛丽游戏"}
 {"accepted_at":1758638207.0,"account_id":"a77","difficulty":1,"observed_at":1792155667.0288305,"problem_id":"P1001","submission_id":"236678404","title":"A+B Problem"}
 {"accepted_at":1758640082.0,"account_id":"a77","difficulty":2,"observed_at":1792155667.0285356,"problem_id":"P1002","submission_id":"236683087","title":"[NOIP 2002 普及组] 过河卒"}
@@ -25875,6 +25877,7 @@
 {"accepted_at":1792072415.0,"account_id":"a176","difficulty":null,"observed_at":1792158818.6511776,"problem_id":"104857I","submission_id":"394701810","title":"Linguistics Puzzle"}
 {"accepted_at":1793026327.0,"account_id":"a176","difficulty":null,"observed_at":1793026747.901658,"problem_id":"2272A","submission_id":"396125029","title":"Maximize One MEX"}
 {"accepted_at":1793027335.0,"account_id":"a176","difficulty":null,"observed_at":1793027356.8476567,"problem_id":"2272B","submission_id":"396137163","title":"Frogs Jump"}
+{"accepted_at":1793029490.0,"account_id":"a176","difficulty":null,"observed_at":1793029818.491967,"problem_id":"2272C","submission_id":"396153525","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1791879768.0,"account_id":"a177","difficulty":1,"observed_at":1792163340.8166044,"problem_id":"P1000","submission_id":"302817914","title":"超级玛丽游戏"}
 {"accepted_at":1791880112.0,"account_id":"a177","difficulty":1,"observed_at":1792163340.8165925,"problem_id":"P1001","submission_id":"302818967","title":"A+B Problem"}
 {"accepted_at":1791884822.0,"account_id":"a177","difficulty":2,"observed_at":1792163340.8165805,"problem_id":"P1002","submission_id":"302836523","title":"[NOIP 2002 普及组] 过河卒"}
