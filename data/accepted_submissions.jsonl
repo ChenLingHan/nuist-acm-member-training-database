@@ -4099,6 +4099,7 @@
 {"accepted_at":1792803110.0,"account_id":"a25","difficulty":2,"observed_at":1792803405.9729705,"problem_id":"P1165","submission_id":"305138022","title":"日志分析"}
 {"accepted_at":1792805520.0,"account_id":"a25","difficulty":5,"observed_at":1792805854.3800008,"problem_id":"P3805","submission_id":"305151176","title":"【模板】Manacher"}
 {"accepted_at":1792927233.0,"account_id":"a25","difficulty":4,"observed_at":1792927300.6116006,"problem_id":"P12630","submission_id":"305745091","title":"[ICPC 2025 NAC] SLA Tomography"}
+{"accepted_at":1793017142.0,"account_id":"a25","difficulty":4,"observed_at":1793017623.3710203,"problem_id":"P14452","submission_id":"305989613","title":"[ICPC 2025 Xi'an R] Follow the Penguins"}
 {"accepted_at":1790593421.0,"account_id":"a26","difficulty":null,"observed_at":1792126978.7973619,"problem_id":"9568","submission_id":"3053251","title":"Left Shifting 3"}
 {"accepted_at":1790599833.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6680236,"problem_id":"9573","submission_id":"3054104","title":"Social Media"}
 {"accepted_at":1791456224.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6679103,"problem_id":"6428","submission_id":"3130838","title":"K Co-prime Permutation"}
@@ -10614,6 +10615,7 @@
 {"accepted_at":1791637187.0,"account_id":"a57","difficulty":4,"observed_at":1792150372.3766065,"problem_id":"P17496","submission_id":"302294092","title":"[ICPC 2026 Wuhan I] Prime Game"}
 {"accepted_at":1792065340.0,"account_id":"a57","difficulty":4,"observed_at":1792150372.3765225,"problem_id":"P3372","submission_id":"303229861","title":"【模板】线段树 1"}
 {"accepted_at":1792574340.0,"account_id":"a57","difficulty":2,"observed_at":1792574798.8579319,"problem_id":"P14159","submission_id":"304567628","title":"[ICPC 2022 Nanjing R] 邪恶铭刻"}
+{"accepted_at":1793017289.0,"account_id":"a57","difficulty":4,"observed_at":1793017495.402098,"problem_id":"P14452","submission_id":"305990828","title":"[ICPC 2025 Xi'an R] Follow the Penguins"}
 {"accepted_at":1790229439.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8188648,"problem_id":"8971","submission_id":"3023012","title":"Adrien and Austin"}
 {"accepted_at":1790599028.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8188467,"problem_id":"9568","submission_id":"3053981","title":"Left Shifting 3"}
 {"accepted_at":1790604311.0,"account_id":"a58","difficulty":null,"observed_at":1792126993.8187497,"problem_id":"9573","submission_id":"3054680","title":"Social Media"}
@@ -13028,6 +13030,7 @@
 {"accepted_at":1793014858.0,"account_id":"a83","difficulty":2,"observed_at":1793015453.13353,"problem_id":"P5723","submission_id":"305971069","title":"【深基4.例13】质数口袋"}
 {"accepted_at":1793015680.0,"account_id":"a83","difficulty":2,"observed_at":1793016062.6646855,"problem_id":"P1217","submission_id":"305977599","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"accepted_at":1793015878.0,"account_id":"a83","difficulty":2,"observed_at":1793016062.6645355,"problem_id":"P1075","submission_id":"305979208","title":"[NOIP 2012 普及组] 质因数分解"}
+{"accepted_at":1793017117.0,"account_id":"a83","difficulty":2,"observed_at":1793017307.5820632,"problem_id":"P1044","submission_id":"305989424","title":"[NOIP 2003 普及组] 栈"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
