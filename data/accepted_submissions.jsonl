@@ -7975,6 +7975,7 @@
 {"accepted_at":1792053442.0,"account_id":"a40","difficulty":1100,"observed_at":1792127067.5860753,"problem_id":"2276C","submission_id":"394664772","title":"Subarrays"}
 {"accepted_at":1792065092.0,"account_id":"a40","difficulty":1800,"observed_at":1792127067.5859802,"problem_id":"471D","submission_id":"394687121","title":"MUH and Cube Walls"}
 {"accepted_at":1793013432.0,"account_id":"a40","difficulty":1900,"observed_at":1793013697.0735204,"problem_id":"817D","submission_id":"396096651","title":"Imbalanced Array"}
+{"accepted_at":1793030407.0,"account_id":"a40","difficulty":null,"observed_at":1793030857.9730785,"problem_id":"2272A","submission_id":"396159405","title":"Maximize One MEX"}
 {"accepted_at":1497787060.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001384,"problem_id":"P1000","submission_id":"2380116","title":"超级玛丽游戏"}
 {"accepted_at":1497787234.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001163,"problem_id":"P1001","submission_id":"2380138","title":"A+B Problem"}
 {"accepted_at":1497787953.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.60002,"problem_id":"P1421","submission_id":"2380225","title":"小玉买文具"}
@@ -12472,6 +12473,7 @@
 {"accepted_at":1793026140.0,"account_id":"a79","difficulty":null,"observed_at":1793026413.2493432,"problem_id":"2272A","submission_id":"396123194","title":"Maximize One MEX"}
 {"accepted_at":1793027003.0,"account_id":"a79","difficulty":null,"observed_at":1793027070.5602107,"problem_id":"2272B","submission_id":"396134203","title":"Frogs Jump"}
 {"accepted_at":1793028579.0,"account_id":"a79","difficulty":null,"observed_at":1793028910.334595,"problem_id":"2272C","submission_id":"396147053","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793030509.0,"account_id":"a79","difficulty":null,"observed_at":1793030752.366764,"problem_id":"2272D","submission_id":"396160022","title":"Connecting the Conflicts"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -19405,6 +19407,7 @@
 {"accepted_at":1793026142.0,"account_id":"a124","difficulty":null,"observed_at":1793026327.7569458,"problem_id":"2272B","submission_id":"396123213","title":"Frogs Jump"}
 {"accepted_at":1793028272.0,"account_id":"a124","difficulty":null,"observed_at":1793028442.1677244,"problem_id":"2272C","submission_id":"396144746","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793029334.0,"account_id":"a124","difficulty":null,"observed_at":1793029659.9014552,"problem_id":"2272D","submission_id":"396152448","title":"Connecting the Conflicts"}
+{"accepted_at":1793030849.0,"account_id":"a124","difficulty":null,"observed_at":1793030967.36093,"problem_id":"2272F","submission_id":"396162011","title":"Tree Reduction Game"}
 {"accepted_at":1744521559.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687415,"problem_id":"P12132","submission_id":"213553321","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"accepted_at":1751885589.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687157,"problem_id":"B2139","submission_id":"222827579","title":"区间内的真素数"}
 {"accepted_at":1758884127.0,"account_id":"a125","difficulty":3,"observed_at":1792153920.168701,"problem_id":"P1518","submission_id":"237048136","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
@@ -24657,6 +24660,7 @@
 {"accepted_at":1792044152.0,"account_id":"a157","difficulty":null,"observed_at":1792148549.4520876,"problem_id":"103428M","submission_id":"394649690","title":"810975"}
 {"accepted_at":1793027172.0,"account_id":"a157","difficulty":null,"observed_at":1793027638.7467268,"problem_id":"2272A","submission_id":"396135799","title":"Maximize One MEX"}
 {"accepted_at":1793027927.0,"account_id":"a157","difficulty":null,"observed_at":1793028247.0857813,"problem_id":"2272B","submission_id":"396142094","title":"Frogs Jump"}
+{"accepted_at":1793030648.0,"account_id":"a157","difficulty":null,"observed_at":1793030693.399964,"problem_id":"2272C","submission_id":"396160812","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1613023895.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4404154,"problem_id":"P1001","submission_id":"46498545","title":"A+B Problem"}
 {"accepted_at":1613122966.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4401765,"problem_id":"P1046","submission_id":"46521041","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1613123213.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4401178,"problem_id":"P1089","submission_id":"46521142","title":"[NOIP 2004 提高组] 津津的储蓄计划"}

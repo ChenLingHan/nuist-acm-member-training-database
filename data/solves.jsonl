@@ -5916,6 +5916,7 @@
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5862157,"platform":"codeforces","problem_id":"2266A","solved_at":1790001570.0,"source":"codeforces-api","title":"Good Contest"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5861516,"platform":"codeforces","problem_id":"2266B","solved_at":1790002136.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a40","difficulty":1000,"member_id":"m17","observed_at":1792127067.5861259,"platform":"codeforces","problem_id":"2266C","solved_at":1790432115.0,"source":"codeforces-api","title":"AND, OR, Sort!"}
+{"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793030857.9729848,"platform":"codeforces","problem_id":"2272A","solved_at":1793030407.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.586101,"platform":"codeforces","problem_id":"2274A","solved_at":1791902997.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5860856,"platform":"codeforces","problem_id":"2276A","solved_at":1791989234.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a40","difficulty":1100,"member_id":"m17","observed_at":1792127067.5860624,"platform":"codeforces","problem_id":"2276C","solved_at":1792053442.0,"source":"codeforces-api","title":"Subarrays"}
@@ -10028,6 +10029,7 @@
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793026413.2492454,"platform":"codeforces","problem_id":"2272A","solved_at":1793026140.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793027070.560088,"platform":"codeforces","problem_id":"2272B","solved_at":1793027003.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793028910.3344939,"platform":"codeforces","problem_id":"2272C","solved_at":1793028579.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793030752.3666637,"platform":"codeforces","problem_id":"2272D","solved_at":1793030509.0,"source":"codeforces-api","title":"Connecting the Conflicts"}
 {"account_id":"a79","difficulty":800,"member_id":"m34","observed_at":1792127101.4507763,"platform":"codeforces","problem_id":"2274A","solved_at":1791888051.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4507701,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1792127101.4507453,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
@@ -15332,6 +15334,7 @@
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793026327.7568545,"platform":"codeforces","problem_id":"2272B","solved_at":1793026142.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793028442.1615593,"platform":"codeforces","problem_id":"2272C","solved_at":1793028272.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793029659.901361,"platform":"codeforces","problem_id":"2272D","solved_at":1793029334.0,"source":"codeforces-api","title":"Connecting the Conflicts"}
+{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793030967.3608232,"platform":"codeforces","problem_id":"2272F","solved_at":1793030849.0,"source":"codeforces-api","title":"Tree Reduction Game"}
 {"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840285.9865928,"platform":"codeforces","problem_id":"2277A","solved_at":1792840251.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840900.425722,"platform":"codeforces","problem_id":"2277B","solved_at":1792840485.0,"source":"codeforces-api","title":"Sequence Decreasing"}
@@ -19660,6 +19663,7 @@
 {"account_id":"a157","difficulty":1500,"member_id":"m69","observed_at":1792148549.4523034,"platform":"codeforces","problem_id":"2268B","solved_at":1790435325.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1793027638.7466278,"platform":"codeforces","problem_id":"2272A","solved_at":1793027172.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1793028247.0856838,"platform":"codeforces","problem_id":"2272B","solved_at":1793027927.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1793030693.3875906,"platform":"codeforces","problem_id":"2272C","solved_at":1793030648.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a157","difficulty":800,"member_id":"m69","observed_at":1792148549.4522612,"platform":"codeforces","problem_id":"2276A","solved_at":1791989973.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a157","difficulty":1000,"member_id":"m69","observed_at":1792148549.4522429,"platform":"codeforces","problem_id":"2276B","solved_at":1791990391.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a157","difficulty":1100,"member_id":"m69","observed_at":1792148549.452223,"platform":"codeforces","problem_id":"2276C","solved_at":1791990821.0,"source":"codeforces-api","title":"Subarrays"}
