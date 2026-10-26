@@ -1501,6 +1501,7 @@
 {"account_id":"a11","difficulty":1000,"member_id":"m5","observed_at":1792075180.9980366,"platform":"codeforces","problem_id":"2269B","solved_at":1790434556.0,"source":"codeforces-api","title":"KiaKio and Squared Numbers"}
 {"account_id":"a11","difficulty":1200,"member_id":"m5","observed_at":1792075180.9979763,"platform":"codeforces","problem_id":"2269C","solved_at":1790441036.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a11","difficulty":1500,"member_id":"m5","observed_at":1792075180.9980078,"platform":"codeforces","problem_id":"2269D","solved_at":1790439884.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1793026910.3410337,"platform":"codeforces","problem_id":"2272A","solved_at":1793026792.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075180.9972878,"platform":"codeforces","problem_id":"2274A","solved_at":1791904519.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792855885.1769779,"platform":"codeforces","problem_id":"2277C","solved_at":1792855450.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.017075,"platform":"codeforces","problem_id":"22A","solved_at":1767107778.0,"source":"codeforces-api","title":"Second Order Statistics"}
@@ -20750,6 +20751,7 @@
 {"account_id":"a176","difficulty":800,"member_id":"m77","observed_at":1792158818.6515207,"platform":"codeforces","problem_id":"2267B","solved_at":1790937626.0,"source":"codeforces-api","title":"Fashionable Array"}
 {"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.651542,"platform":"codeforces","problem_id":"2267C","solved_at":1790937457.0,"source":"codeforces-api","title":"GCD Treasury"}
 {"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.651482,"platform":"codeforces","problem_id":"2267D","solved_at":1790937738.0,"source":"codeforces-api","title":"Backrooms Hill"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1793026747.9015613,"platform":"codeforces","problem_id":"2272A","solved_at":1793026327.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6563063,"platform":"codeforces","problem_id":"471D","solved_at":1731123255.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a176","difficulty":2300,"member_id":"m77","observed_at":1792158818.655538,"platform":"codeforces","problem_id":"600E","solved_at":1762613764.0,"source":"codeforces-api","title":"Lomsat gelral"}
 {"account_id":"a177","difficulty":1,"member_id":"m78","observed_at":1792163050.6972265,"platform":"luogu","problem_id":"P1000","solved_at":1791879768.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
