@@ -8547,6 +8547,7 @@
 {"account_id":"a60","difficulty":1,"member_id":"m26","observed_at":1792129840.9113543,"platform":"luogu","problem_id":"P1179","solved_at":1791890539.0,"source":"luogu-practice-snapshot","title":"[NOIP 2010 普及组] 数字统计"}
 {"account_id":"a60","difficulty":3,"member_id":"m26","observed_at":1792129840.911363,"platform":"luogu","problem_id":"P1182","solved_at":1782810728.0,"source":"luogu-practice-snapshot","title":"数列分段 Section II"}
 {"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792129840.9113717,"platform":"luogu","problem_id":"P1192","solved_at":1787147376.0,"source":"luogu-practice-snapshot","title":"台阶问题"}
+{"account_id":"a60","difficulty":1,"member_id":"m26","observed_at":1793008011.212511,"platform":"luogu","problem_id":"P1200","solved_at":1793007972.0,"source":"luogu-record-list","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
 {"account_id":"a60","difficulty":3,"member_id":"m26","observed_at":1792129840.91138,"platform":"luogu","problem_id":"P1205","solved_at":1777396541.0,"source":"luogu-practice-snapshot","title":"[USACO1.2] 方块转换 Transformations"}
 {"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792129840.91139,"platform":"luogu","problem_id":"P1208","solved_at":1782392716.0,"source":"luogu-practice-snapshot","title":"[USACO1.3] 混合牛奶 Mixing Milk"}
 {"account_id":"a60","difficulty":2,"member_id":"m26","observed_at":1792129840.911399,"platform":"luogu","problem_id":"P1217","solved_at":1774175903.0,"source":"luogu-practice-snapshot","title":"[USACO1.5] 回文质数 Prime Palindromes"}
@@ -11160,6 +11161,7 @@
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6256645,"platform":"luogu","problem_id":"P3378","solved_at":1789907834.0,"source":"luogu-practice-snapshot","title":"【模板】堆"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625675,"platform":"luogu","problem_id":"P3397","solved_at":1791269827.0,"source":"luogu-practice-snapshot","title":"地毯"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6256702,"platform":"luogu","problem_id":"P3406","solved_at":1791275217.0,"source":"luogu-practice-snapshot","title":"海底高铁"}
+{"account_id":"a89","difficulty":5,"member_id":"m39","observed_at":1793008095.2862523,"platform":"luogu","problem_id":"P3805","solved_at":1793008030.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a89","difficulty":4,"member_id":"m39","observed_at":1792407403.165106,"platform":"luogu","problem_id":"P4391","solved_at":1792407153.0,"source":"luogu-record-list","title":"[BalticOI 2009] Radio Transmission 无线传输"}
 {"account_id":"a89","difficulty":5,"member_id":"m39","observed_at":1792156827.5435781,"platform":"luogu","problem_id":"P4824","solved_at":1792156630.0,"source":"luogu-record-list","title":"[USACO15FEB] Censoring S"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792658178.228451,"platform":"luogu","problem_id":"P4913","solved_at":1792657588.0,"source":"luogu-record-list","title":"【深基16.例3】二叉树深度"}
