@@ -10969,6 +10969,7 @@
 {"accepted_at":1792824247.0,"account_id":"a60","difficulty":2,"observed_at":1792824486.5009248,"problem_id":"P1553","submission_id":"305276382","title":"数字反转（升级版）"}
 {"accepted_at":1792989981.0,"account_id":"a60","difficulty":2,"observed_at":1792990269.109913,"problem_id":"P1603","submission_id":"305876028","title":"斯诺登的密码"}
 {"accepted_at":1792990131.0,"account_id":"a60","difficulty":2,"observed_at":1792990269.1097956,"problem_id":"P1603","submission_id":"305876345","title":"斯诺登的密码"}
+{"accepted_at":1793000687.0,"account_id":"a60","difficulty":2,"observed_at":1793001288.4665084,"problem_id":"P1603","submission_id":"305908417","title":"斯诺登的密码"}
 {"accepted_at":1787801796.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637406,"problem_id":"8072","submission_id":"2822478","title":"Qualifiers Ranking Rules"}
 {"accepted_at":1787803757.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637266,"problem_id":"8083","submission_id":"2822582","title":"KaChang!"}
 {"accepted_at":1787822164.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637115,"problem_id":"8081","submission_id":"2824307","title":"Minimum Manhattan Distance"}
@@ -13695,6 +13696,8 @@
 {"accepted_at":1792500036.0,"account_id":"a89","difficulty":3,"observed_at":1792500219.6814194,"problem_id":"P1944","submission_id":"304426723","title":"最长括号匹配"}
 {"accepted_at":1792651908.0,"account_id":"a89","difficulty":2,"observed_at":1792652057.7613537,"problem_id":"B3642","submission_id":"304732443","title":"二叉树的遍历"}
 {"accepted_at":1792657588.0,"account_id":"a89","difficulty":2,"observed_at":1792658178.2285316,"problem_id":"P4913","submission_id":"304752577","title":"【深基16.例3】二叉树深度"}
+{"accepted_at":1793001594.0,"account_id":"a89","difficulty":1,"observed_at":1793001979.2558012,"problem_id":"P1897","submission_id":"305911630","title":"电梯里的尴尬"}
+{"accepted_at":1793001737.0,"account_id":"a89","difficulty":1,"observed_at":1793001979.2539878,"problem_id":"P1897","submission_id":"305912085","title":"电梯里的尴尬"}
 {"accepted_at":1791525110.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.1905293,"problem_id":"B2002","submission_id":"302040432","title":"Hello,World!"}
 {"accepted_at":1791525192.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.190501,"problem_id":"B2025","submission_id":"302040600","title":"输出字符菱形"}
 {"accepted_at":1791525696.0,"account_id":"a91","difficulty":1,"observed_at":1792153428.1904645,"problem_id":"P1001","submission_id":"302041794","title":"A+B Problem"}
