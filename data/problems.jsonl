@@ -3577,7 +3577,7 @@
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272C","tags":[],"title":"Yet Another Black Cell Problem"}
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2272D","tags":[],"title":"Connecting the Conflicts"}
 {"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2272E","tags":["greedy"],"title":"Memory Cell Interception"}
-{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2272F","tags":[],"title":"Tree Reduction Game"}
+{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2272F","tags":["dfs and similar","dp","trees"],"title":"Tree Reduction Game"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["dfs and similar","dp","hashing","implementation","math"],"title":"The Projections of Paco"}
 {"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
 {"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
@@ -3601,7 +3601,7 @@
 {"difficulty":null,"platform":"codeforces","points":750.0,"problem_id":"2277B","tags":["constructive algorithms","greedy"],"title":"Sequence Decreasing"}
 {"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2277C","tags":["dfs and similar","graphs","greedy","trees"],"title":"Edge Addeleting"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2277D1","tags":[],"title":"Number Operating (Easy Version)"}
-{"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2277D2","tags":["brute force","divide and conquer","implementation"],"title":"Number Operating (Hard Version)"}
+{"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2277D2","tags":["bitmasks","brute force","divide and conquer","implementation"],"title":"Number Operating (Hard Version)"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
