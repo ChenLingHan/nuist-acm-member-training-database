@@ -2042,6 +2042,7 @@
 {"accepted_at":1769237489.0,"account_id":"a16","difficulty":800,"observed_at":1792077554.3266563,"problem_id":"2185A","submission_id":"359512771","title":"Perfect Root"}
 {"accepted_at":1792811250.0,"account_id":"a16","difficulty":1900,"observed_at":1792811651.8185608,"problem_id":"817D","submission_id":"395783102","title":"Imbalanced Array"}
 {"accepted_at":1793027177.0,"account_id":"a16","difficulty":null,"observed_at":1793027658.7715635,"problem_id":"2272A","submission_id":"396135836","title":"Maximize One MEX"}
+{"accepted_at":1793028303.0,"account_id":"a16","difficulty":null,"observed_at":1793028886.7344322,"problem_id":"2272B","submission_id":"396145010","title":"Frogs Jump"}
 {"accepted_at":1638248850.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602791,"problem_id":"P1000","submission_id":"63952289","title":"超级玛丽游戏"}
 {"accepted_at":1638248934.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602527,"problem_id":"P1001","submission_id":"63952366","title":"A+B Problem"}
 {"accepted_at":1638249069.0,"account_id":"a17","difficulty":2,"observed_at":1792162038.0601962,"problem_id":"P1008","submission_id":"63952522","title":"[NOIP 1998 普及组] 三连击"}
@@ -12468,6 +12469,7 @@
 {"accepted_at":1793019760.0,"account_id":"a79","difficulty":2700,"observed_at":1793020322.1979063,"problem_id":"13E","submission_id":"396108427","title":"Holes"}
 {"accepted_at":1793026140.0,"account_id":"a79","difficulty":null,"observed_at":1793026413.2493432,"problem_id":"2272A","submission_id":"396123194","title":"Maximize One MEX"}
 {"accepted_at":1793027003.0,"account_id":"a79","difficulty":null,"observed_at":1793027070.5602107,"problem_id":"2272B","submission_id":"396134203","title":"Frogs Jump"}
+{"accepted_at":1793028579.0,"account_id":"a79","difficulty":null,"observed_at":1793028910.334595,"problem_id":"2272C","submission_id":"396147053","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -25419,6 +25421,7 @@
 {"accepted_at":1792911740.0,"account_id":"a164","difficulty":null,"observed_at":1792912258.5735166,"problem_id":"105385C","submission_id":"395949198","title":"Colorful Segments 2"}
 {"accepted_at":1792912121.0,"account_id":"a164","difficulty":null,"observed_at":1792912258.5733373,"problem_id":"105385C","submission_id":"395949803","title":"Colorful Segments 2"}
 {"accepted_at":1793026490.0,"account_id":"a164","difficulty":null,"observed_at":1793027096.53848,"problem_id":"2272A","submission_id":"396126606","title":"Maximize One MEX"}
+{"accepted_at":1793028696.0,"account_id":"a164","difficulty":null,"observed_at":1793028940.7151659,"problem_id":"2272B","submission_id":"396147899","title":"Frogs Jump"}
 {"accepted_at":1699691204.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1270413,"problem_id":"B3869","submission_id":"134540660","title":"[GESP202309 四级] 进制转换"}
 {"accepted_at":1700298041.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1269932,"problem_id":"B3870","submission_id":"135740502","title":"[GESP202309 四级] 变长编码"}
 {"accepted_at":1703322186.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.126949,"problem_id":"P8597","submission_id":"140702758","title":"[蓝桥杯 2013 省 B] 翻硬币"}

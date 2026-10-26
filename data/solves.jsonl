@@ -1571,6 +1571,7 @@
 {"account_id":"a16","difficulty":1700,"member_id":"m7","observed_at":1792077554.3268185,"platform":"codeforces","problem_id":"2010C2","solved_at":1761819079.0,"source":"codeforces-api","title":"Message Transmission Error (hard version)"}
 {"account_id":"a16","difficulty":800,"member_id":"m7","observed_at":1792077554.326495,"platform":"codeforces","problem_id":"2185A","solved_at":1769237489.0,"source":"codeforces-api","title":"Perfect Root"}
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793027658.7714603,"platform":"codeforces","problem_id":"2272A","solved_at":1793027177.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793028886.7174351,"platform":"codeforces","problem_id":"2272B","solved_at":1793028303.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a16","difficulty":1900,"member_id":"m7","observed_at":1792811651.818478,"platform":"codeforces","problem_id":"817D","solved_at":1792811250.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a16","difficulty":1500,"member_id":"m7","observed_at":1792077554.3268685,"platform":"codeforces","problem_id":"91B","solved_at":1761380429.0,"source":"codeforces-api","title":"Queue"}
 {"account_id":"a17","difficulty":1,"member_id":"m8","observed_at":1792077926.0857232,"platform":"luogu","problem_id":"B2001","solved_at":1638852640.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
@@ -10024,6 +10025,7 @@
 {"account_id":"a79","difficulty":1700,"member_id":"m34","observed_at":1792127101.451663,"platform":"codeforces","problem_id":"2267F1","solved_at":1790350724.0,"source":"codeforces-api","title":"XOR Transformations (Easy Version)"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793026413.2492454,"platform":"codeforces","problem_id":"2272A","solved_at":1793026140.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793027070.560088,"platform":"codeforces","problem_id":"2272B","solved_at":1793027003.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793028910.3344939,"platform":"codeforces","problem_id":"2272C","solved_at":1793028579.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a79","difficulty":800,"member_id":"m34","observed_at":1792127101.4507763,"platform":"codeforces","problem_id":"2274A","solved_at":1791888051.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4507701,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1792127101.4507453,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
@@ -20347,6 +20349,7 @@
 {"account_id":"a164","difficulty":1200,"member_id":"m72","observed_at":1792148555.4142349,"platform":"codeforces","problem_id":"2269C","solved_at":1790436794.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4142156,"platform":"codeforces","problem_id":"2269D","solved_at":1790438608.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1793027096.5383816,"platform":"codeforces","problem_id":"2272A","solved_at":1793026490.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1793028940.715064,"platform":"codeforces","problem_id":"2272B","solved_at":1793028696.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792840714.670558,"platform":"codeforces","problem_id":"2277A","solved_at":1792840678.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792841993.380614,"platform":"codeforces","problem_id":"2277B","solved_at":1792841369.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792848824.687114,"platform":"codeforces","problem_id":"2277C","solved_at":1792848687.0,"source":"codeforces-api","title":"Edge Addeleting"}
