@@ -3248,6 +3248,7 @@
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4149978,"platform":"luogu","problem_id":"P1376","solved_at":1691898252.0,"source":"luogu-practice-snapshot","title":"[USACO05MAR] Yogurt factory 机器工厂"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.415011,"platform":"luogu","problem_id":"P1379","solved_at":1690511583.0,"source":"luogu-practice-snapshot","title":"八数码难题"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.415025,"platform":"luogu","problem_id":"P1395","solved_at":1690857676.0,"source":"luogu-practice-snapshot","title":"会议"}
+{"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1793004297.9651515,"platform":"luogu","problem_id":"P13962","solved_at":1793004180.0,"source":"luogu-record-list","title":"[ICPC 2023 Nanjing R] 电梯"}
 {"account_id":"a28","difficulty":2,"member_id":"m12","observed_at":1792083216.4150405,"platform":"luogu","problem_id":"P1403","solved_at":1769140207.0,"source":"luogu-practice-snapshot","title":"[AHOI2005] 约数研究"}
 {"account_id":"a28","difficulty":4,"member_id":"m12","observed_at":1792083216.4211938,"platform":"luogu","problem_id":"P14059","solved_at":1768994373.0,"source":"luogu-practice-snapshot","title":"【MX-X21-T4】[IAMOI R5] 使一颗心免于哀伤"}
 {"account_id":"a28","difficulty":3,"member_id":"m12","observed_at":1792083216.42118,"platform":"luogu","problem_id":"P14115","solved_at":1763191012.0,"source":"luogu-practice-snapshot","title":"[IAMOI R4] 木桶效应"}
@@ -3599,6 +3600,7 @@
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792917429.140064,"platform":"codeforces","problem_id":"104821C","solved_at":1792917280.0,"source":"codeforces-api","title":"Primitive Root"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792920483.897464,"platform":"codeforces","problem_id":"104821F","solved_at":1792920301.0,"source":"codeforces-api","title":"Equivalent Rewriting"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792908864.3322883,"platform":"codeforces","problem_id":"104821I","solved_at":1792908248.0,"source":"codeforces-api","title":"Counter"}
+{"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1793004164.2817025,"platform":"codeforces","problem_id":"104821L","solved_at":1793004160.0,"source":"codeforces-api","title":"Elevator"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8124104,"platform":"codeforces","problem_id":"105161E","solved_at":1778749251.0,"source":"codeforces-api","title":"Divide"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.8124843,"platform":"codeforces","problem_id":"105161F","solved_at":1778393111.0,"source":"codeforces-api","title":"Download Speed Monitor"}
 {"account_id":"a30","difficulty":null,"member_id":"m12","observed_at":1792127118.812429,"platform":"codeforces","problem_id":"105161G","solved_at":1778398775.0,"source":"codeforces-api","title":"Download Time Monitor"}
@@ -11124,6 +11126,7 @@
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625547,"platform":"luogu","problem_id":"P1125","solved_at":1789557214.0,"source":"luogu-practice-snapshot","title":"[NOIP 2008 提高组] 笨小猴"}
 {"account_id":"a89","difficulty":3,"member_id":"m39","observed_at":1792130104.6255517,"platform":"luogu","problem_id":"P1160","solved_at":1789883023.0,"source":"luogu-practice-snapshot","title":"队列安排"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6255565,"platform":"luogu","problem_id":"P1164","solved_at":1791366416.0,"source":"luogu-practice-snapshot","title":"小 A 点菜"}
+{"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1793003806.4422505,"platform":"luogu","problem_id":"P1165","solved_at":1793003486.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.625561,"platform":"luogu","problem_id":"P1177","solved_at":1791809661.0,"source":"luogu-practice-snapshot","title":"【模板】排序"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6255658,"platform":"luogu","problem_id":"P1192","solved_at":1791353768.0,"source":"luogu-practice-snapshot","title":"台阶问题"}
 {"account_id":"a89","difficulty":2,"member_id":"m39","observed_at":1792130104.6255705,"platform":"luogu","problem_id":"P1216","solved_at":1791351159.0,"source":"luogu-practice-snapshot","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
