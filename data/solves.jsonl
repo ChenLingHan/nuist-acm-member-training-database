@@ -8049,6 +8049,7 @@
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0420263,"platform":"codeforces","problem_id":"2269B","solved_at":1790446234.0,"source":"codeforces-api","title":"KiaKio and Squared Numbers"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0420845,"platform":"codeforces","problem_id":"2269C","solved_at":1790436592.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a51","difficulty":1500,"member_id":"m21","observed_at":1792127076.042054,"platform":"codeforces","problem_id":"2269D","solved_at":1790439940.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793027100.64148,"platform":"codeforces","problem_id":"2272B","solved_at":1793026871.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0412872,"platform":"codeforces","problem_id":"2275A","solved_at":1791384601.0,"source":"codeforces-api","title":"In Search of Convenience"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.041274,"platform":"codeforces","problem_id":"2275B","solved_at":1791385147.0,"source":"codeforces-api","title":"Did Not Go to Print"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0412607,"platform":"codeforces","problem_id":"2275C","solved_at":1791387472.0,"source":"codeforces-api","title":"Unrequited Love"}
@@ -8102,6 +8103,7 @@
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792809703.989761,"platform":"luogu","problem_id":"P3805","solved_at":1792809462.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792828121.0218477,"platform":"luogu","problem_id":"P7410","solved_at":1792828111.0,"source":"luogu-record-list","title":"[USACO21FEB] Just Green Enough S"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792220197.2092807,"platform":"luogu","problem_id":"P7911","solved_at":1792220189.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793027333.924396,"platform":"codeforces","problem_id":"2272A","solved_at":1793026766.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792842114.3738103,"platform":"codeforces","problem_id":"2277A","solved_at":1792841765.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792844569.9372141,"platform":"codeforces","problem_id":"2277B","solved_at":1792844103.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
@@ -10014,6 +10016,7 @@
 {"account_id":"a79","difficulty":1400,"member_id":"m34","observed_at":1792127101.451645,"platform":"codeforces","problem_id":"2267D","solved_at":1790351986.0,"source":"codeforces-api","title":"Backrooms Hill"}
 {"account_id":"a79","difficulty":1700,"member_id":"m34","observed_at":1792127101.451663,"platform":"codeforces","problem_id":"2267F1","solved_at":1790350724.0,"source":"codeforces-api","title":"XOR Transformations (Easy Version)"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793026413.2492454,"platform":"codeforces","problem_id":"2272A","solved_at":1793026140.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793027070.560088,"platform":"codeforces","problem_id":"2272B","solved_at":1793027003.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a79","difficulty":800,"member_id":"m34","observed_at":1792127101.4507763,"platform":"codeforces","problem_id":"2274A","solved_at":1791888051.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4507701,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1792127101.4507453,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
@@ -16207,6 +16210,7 @@
 {"account_id":"a132","difficulty":800,"member_id":"m58","observed_at":1792148525.9989042,"platform":"codeforces","problem_id":"2267A","solved_at":1790347242.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
 {"account_id":"a132","difficulty":800,"member_id":"m58","observed_at":1792148525.9988863,"platform":"codeforces","problem_id":"2267B","solved_at":1790347792.0,"source":"codeforces-api","title":"Fashionable Array"}
 {"account_id":"a132","difficulty":1200,"member_id":"m58","observed_at":1792148525.9988618,"platform":"codeforces","problem_id":"2267C","solved_at":1790349694.0,"source":"codeforces-api","title":"GCD Treasury"}
+{"account_id":"a132","difficulty":null,"member_id":"m58","observed_at":1793027073.8093302,"platform":"codeforces","problem_id":"2272A","solved_at":1793026591.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a132","difficulty":2000,"member_id":"m58","observed_at":1792148526.0004737,"platform":"codeforces","problem_id":"2B","solved_at":1760534415.0,"source":"codeforces-api","title":"The least round way"}
 {"account_id":"a132","difficulty":1500,"member_id":"m58","observed_at":1792148526.000029,"platform":"codeforces","problem_id":"566F","solved_at":1769240503.0,"source":"codeforces-api","title":"Clique in the Divisibility Graph"}
 {"account_id":"a132","difficulty":1000,"member_id":"m58","observed_at":1792148526.000194,"platform":"codeforces","problem_id":"577A","solved_at":1769233135.0,"source":"codeforces-api","title":"Multiplication Table"}
@@ -20331,6 +20335,7 @@
 {"account_id":"a164","difficulty":1000,"member_id":"m72","observed_at":1792148555.414262,"platform":"codeforces","problem_id":"2269B","solved_at":1790434630.0,"source":"codeforces-api","title":"KiaKio and Squared Numbers"}
 {"account_id":"a164","difficulty":1200,"member_id":"m72","observed_at":1792148555.4142349,"platform":"codeforces","problem_id":"2269C","solved_at":1790436794.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a164","difficulty":1500,"member_id":"m72","observed_at":1792148555.4142156,"platform":"codeforces","problem_id":"2269D","solved_at":1790438608.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
+{"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1793027096.5383816,"platform":"codeforces","problem_id":"2272A","solved_at":1793026490.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792840714.670558,"platform":"codeforces","problem_id":"2277A","solved_at":1792840678.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792841993.380614,"platform":"codeforces","problem_id":"2277B","solved_at":1792841369.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a164","difficulty":null,"member_id":"m72","observed_at":1792848824.687114,"platform":"codeforces","problem_id":"2277C","solved_at":1792848687.0,"source":"codeforces-api","title":"Edge Addeleting"}
@@ -20752,6 +20757,7 @@
 {"account_id":"a176","difficulty":1200,"member_id":"m77","observed_at":1792158818.651542,"platform":"codeforces","problem_id":"2267C","solved_at":1790937457.0,"source":"codeforces-api","title":"GCD Treasury"}
 {"account_id":"a176","difficulty":1400,"member_id":"m77","observed_at":1792158818.651482,"platform":"codeforces","problem_id":"2267D","solved_at":1790937738.0,"source":"codeforces-api","title":"Backrooms Hill"}
 {"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1793026747.9015613,"platform":"codeforces","problem_id":"2272A","solved_at":1793026327.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a176","difficulty":null,"member_id":"m77","observed_at":1793027356.847566,"platform":"codeforces","problem_id":"2272B","solved_at":1793027335.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a176","difficulty":1800,"member_id":"m77","observed_at":1792158818.6563063,"platform":"codeforces","problem_id":"471D","solved_at":1731123255.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a176","difficulty":2300,"member_id":"m77","observed_at":1792158818.655538,"platform":"codeforces","problem_id":"600E","solved_at":1762613764.0,"source":"codeforces-api","title":"Lomsat gelral"}
 {"account_id":"a177","difficulty":1,"member_id":"m78","observed_at":1792163050.6972265,"platform":"luogu","problem_id":"P1000","solved_at":1791879768.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
@@ -21626,6 +21632,7 @@
 {"account_id":"a183","difficulty":1400,"member_id":"m80","observed_at":1792486471.131055,"platform":"codeforces","problem_id":"2271C","solved_at":1791647535.0,"source":"codeforces-api","title":"XOR Problem"}
 {"account_id":"a183","difficulty":1700,"member_id":"m80","observed_at":1792486471.1310148,"platform":"codeforces","problem_id":"2271D","solved_at":1791650381.0,"source":"codeforces-api","title":"Target Infection"}
 {"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1793026379.2719615,"platform":"codeforces","problem_id":"2272A","solved_at":1793025797.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1793027011.647286,"platform":"codeforces","problem_id":"2272B","solved_at":1793026424.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a183","difficulty":800,"member_id":"m80","observed_at":1792677187.8614805,"platform":"codeforces","problem_id":"2274A","solved_at":1792677049.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a183","difficulty":1100,"member_id":"m80","observed_at":1792683451.5027812,"platform":"codeforces","problem_id":"2274B","solved_at":1792683157.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a183","difficulty":1300,"member_id":"m80","observed_at":1792682844.4125803,"platform":"codeforces","problem_id":"2274C","solved_at":1792682600.0,"source":"codeforces-api","title":"Lavencia Oranges"}
