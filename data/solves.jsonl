@@ -10534,6 +10534,7 @@
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2947178,"platform":"luogu","problem_id":"P1000","solved_at":1777725184.0,"source":"luogu-practice-snapshot","title":"超级玛丽游戏"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.1804445,"platform":"luogu","problem_id":"P1001","solved_at":1777728661.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1792749202.2821646,"platform":"luogu","problem_id":"P1002","solved_at":1792749185.0,"source":"luogu-record-list","title":"[NOIP 2002 普及组] 过河卒"}
+{"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1793019163.2111907,"platform":"luogu","problem_id":"P1028","solved_at":1793018673.0,"source":"luogu-record-list","title":"[NOIP 2001 普及组] 数的计算"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2839231,"platform":"luogu","problem_id":"P1035","solved_at":1777730179.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 级数求和"}
 {"account_id":"a83","difficulty":2,"member_id":"m36","observed_at":1793017307.5819793,"platform":"luogu","problem_id":"P1044","solved_at":1793017117.0,"source":"luogu-record-list","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a83","difficulty":1,"member_id":"m36","observed_at":1792130086.2944133,"platform":"luogu","problem_id":"P1046","solved_at":1777730659.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -20754,6 +20755,7 @@
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792756225.8211553,"platform":"luogu","problem_id":"P1009","solved_at":1792756080.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 阶乘之和"}
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792759298.3976507,"platform":"luogu","problem_id":"P1010","solved_at":1792758723.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 幂次方"}
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792764178.4913,"platform":"luogu","problem_id":"P1011","solved_at":1792763743.0,"source":"luogu-record-list","title":"[NOIP 1998 提高组] 车站"}
+{"account_id":"a177","difficulty":4,"member_id":"m78","observed_at":1793019470.6471746,"platform":"luogu","problem_id":"P1012","solved_at":1793019271.0,"source":"luogu-record-list","title":"[NOIP 1998 提高组] 拼数"}
 {"account_id":"a177","difficulty":2,"member_id":"m78","observed_at":1792808295.109317,"platform":"luogu","problem_id":"P1165","solved_at":1792807850.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a177","difficulty":1,"member_id":"m78","observed_at":1792805861.484368,"platform":"luogu","problem_id":"P1897","solved_at":1792805626.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a177","difficulty":5,"member_id":"m78","observed_at":1792811379.6394482,"platform":"luogu","problem_id":"P3805","solved_at":1792811240.0,"source":"luogu-record-list","title":"【模板】Manacher"}

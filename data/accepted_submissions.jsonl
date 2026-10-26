@@ -13034,6 +13034,7 @@
 {"accepted_at":1793015680.0,"account_id":"a83","difficulty":2,"observed_at":1793016062.6646855,"problem_id":"P1217","submission_id":"305977599","title":"[USACO1.5] 回文质数 Prime Palindromes"}
 {"accepted_at":1793015878.0,"account_id":"a83","difficulty":2,"observed_at":1793016062.6645355,"problem_id":"P1075","submission_id":"305979208","title":"[NOIP 2012 普及组] 质因数分解"}
 {"accepted_at":1793017117.0,"account_id":"a83","difficulty":2,"observed_at":1793017307.5820632,"problem_id":"P1044","submission_id":"305989424","title":"[NOIP 2003 普及组] 栈"}
+{"accepted_at":1793018673.0,"account_id":"a83","difficulty":2,"observed_at":1793019163.2112727,"problem_id":"P1028","submission_id":"306002402","title":"[NOIP 2001 普及组] 数的计算"}
 {"accepted_at":1788879048.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.5385377,"problem_id":"2260A","submission_id":"389896989","title":"Monocarp's Contest"}
 {"accepted_at":1790409327.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538525,"problem_id":"2267A","submission_id":"392130162","title":"Turn Into a Palindrome"}
 {"accepted_at":1790413402.0,"account_id":"a84","difficulty":800,"observed_at":1792127105.538511,"problem_id":"2267B","submission_id":"392137381","title":"Fashionable Array"}
@@ -25856,6 +25857,7 @@
 {"accepted_at":1792807850.0,"account_id":"a177","difficulty":2,"observed_at":1792808295.1093974,"problem_id":"P1165","submission_id":"305167921","title":"日志分析"}
 {"accepted_at":1792811240.0,"account_id":"a177","difficulty":5,"observed_at":1792811379.639533,"problem_id":"P3805","submission_id":"305196920","title":"【模板】Manacher"}
 {"accepted_at":1793016572.0,"account_id":"a177","difficulty":2,"observed_at":1793017022.0752554,"problem_id":"P1011","submission_id":"305985091","title":"[NOIP 1998 提高组] 车站"}
+{"accepted_at":1793019271.0,"account_id":"a177","difficulty":4,"observed_at":1793019470.647263,"problem_id":"P1012","submission_id":"306006958","title":"[NOIP 1998 提高组] 拼数"}
 {"accepted_at":1760869961.0,"account_id":"a179","difficulty":null,"observed_at":1792163181.2108994,"problem_id":"9802","submission_id":"1544056","title":"Light Up the Grid"}
 {"accepted_at":1775564041.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860512,"problem_id":"9806","submission_id":"2204466","title":"Growing Tree"}
 {"accepted_at":1785754600.0,"account_id":"a179","difficulty":null,"observed_at":1792163160.0860069,"problem_id":"9749","submission_id":"2714366","title":"小凯的省奖之梦"}
