@@ -10012,6 +10012,7 @@
 {"account_id":"a79","difficulty":1200,"member_id":"m34","observed_at":1792127101.451682,"platform":"codeforces","problem_id":"2267C","solved_at":1790348820.0,"source":"codeforces-api","title":"GCD Treasury"}
 {"account_id":"a79","difficulty":1400,"member_id":"m34","observed_at":1792127101.451645,"platform":"codeforces","problem_id":"2267D","solved_at":1790351986.0,"source":"codeforces-api","title":"Backrooms Hill"}
 {"account_id":"a79","difficulty":1700,"member_id":"m34","observed_at":1792127101.451663,"platform":"codeforces","problem_id":"2267F1","solved_at":1790350724.0,"source":"codeforces-api","title":"XOR Transformations (Easy Version)"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793026413.2492454,"platform":"codeforces","problem_id":"2272A","solved_at":1793026140.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a79","difficulty":800,"member_id":"m34","observed_at":1792127101.4507763,"platform":"codeforces","problem_id":"2274A","solved_at":1791888051.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a79","difficulty":1100,"member_id":"m34","observed_at":1792127101.4507701,"platform":"codeforces","problem_id":"2274B","solved_at":1791889265.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1792127101.4507453,"platform":"codeforces","problem_id":"2274C","solved_at":1791892006.0,"source":"codeforces-api","title":"Lavencia Oranges"}
@@ -15313,6 +15314,7 @@
 {"account_id":"a124","difficulty":1700,"member_id":"m54","observed_at":1792148519.676485,"platform":"codeforces","problem_id":"2271D","solved_at":1791648632.0,"source":"codeforces-api","title":"Target Infection"}
 {"account_id":"a124","difficulty":2100,"member_id":"m54","observed_at":1792148519.67645,"platform":"codeforces","problem_id":"2271E","solved_at":1791655212.0,"source":"codeforces-api","title":"Array Emptying"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793025719.8635733,"platform":"codeforces","problem_id":"2272A","solved_at":1793025524.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793026327.7568545,"platform":"codeforces","problem_id":"2272B","solved_at":1793026142.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840285.9865928,"platform":"codeforces","problem_id":"2277A","solved_at":1792840251.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840900.425722,"platform":"codeforces","problem_id":"2277B","solved_at":1792840485.0,"source":"codeforces-api","title":"Sequence Decreasing"}
@@ -21621,6 +21623,7 @@
 {"account_id":"a183","difficulty":1000,"member_id":"m80","observed_at":1792486471.1310725,"platform":"codeforces","problem_id":"2271B","solved_at":1791645862.0,"source":"codeforces-api","title":"MEX Game"}
 {"account_id":"a183","difficulty":1400,"member_id":"m80","observed_at":1792486471.131055,"platform":"codeforces","problem_id":"2271C","solved_at":1791647535.0,"source":"codeforces-api","title":"XOR Problem"}
 {"account_id":"a183","difficulty":1700,"member_id":"m80","observed_at":1792486471.1310148,"platform":"codeforces","problem_id":"2271D","solved_at":1791650381.0,"source":"codeforces-api","title":"Target Infection"}
+{"account_id":"a183","difficulty":null,"member_id":"m80","observed_at":1793026379.2719615,"platform":"codeforces","problem_id":"2272A","solved_at":1793025797.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a183","difficulty":800,"member_id":"m80","observed_at":1792677187.8614805,"platform":"codeforces","problem_id":"2274A","solved_at":1792677049.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a183","difficulty":1100,"member_id":"m80","observed_at":1792683451.5027812,"platform":"codeforces","problem_id":"2274B","solved_at":1792683157.0,"source":"codeforces-api","title":"Prefix"}
 {"account_id":"a183","difficulty":1300,"member_id":"m80","observed_at":1792682844.4125803,"platform":"codeforces","problem_id":"2274C","solved_at":1792682600.0,"source":"codeforces-api","title":"Lavencia Oranges"}

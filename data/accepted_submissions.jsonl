@@ -12456,6 +12456,7 @@
 {"accepted_at":1792843990.0,"account_id":"a79","difficulty":null,"observed_at":1792844592.86531,"problem_id":"2277C","submission_id":"395854742","title":"Edge Addeleting"}
 {"accepted_at":1792851029.0,"account_id":"a79","difficulty":null,"observed_at":1792851415.0379333,"problem_id":"2277D1","submission_id":"395876695","title":"Number Operating (Easy Version)"}
 {"accepted_at":1793019760.0,"account_id":"a79","difficulty":2700,"observed_at":1793020322.1979063,"problem_id":"13E","submission_id":"396108427","title":"Holes"}
+{"accepted_at":1793026140.0,"account_id":"a79","difficulty":null,"observed_at":1793026413.2493432,"problem_id":"2272A","submission_id":"396123194","title":"Maximize One MEX"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -19386,6 +19387,7 @@
 {"accepted_at":1792843038.0,"account_id":"a124","difficulty":null,"observed_at":1792843362.7105284,"problem_id":"2277D1","submission_id":"395850015","title":"Number Operating (Easy Version)"}
 {"accepted_at":1792848982.0,"account_id":"a124","difficulty":null,"observed_at":1792849469.6667998,"problem_id":"2277D2","submission_id":"395872280","title":"Number Operating (Hard Version)"}
 {"accepted_at":1793025524.0,"account_id":"a124","difficulty":null,"observed_at":1793025719.8636768,"problem_id":"2272A","submission_id":"396118686","title":"Maximize One MEX"}
+{"accepted_at":1793026142.0,"account_id":"a124","difficulty":null,"observed_at":1793026327.7569458,"problem_id":"2272B","submission_id":"396123213","title":"Frogs Jump"}
 {"accepted_at":1744521559.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687415,"problem_id":"P12132","submission_id":"213553321","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"accepted_at":1751885589.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687157,"problem_id":"B2139","submission_id":"222827579","title":"区间内的真素数"}
 {"accepted_at":1758884127.0,"account_id":"a125","difficulty":3,"observed_at":1792153920.168701,"problem_id":"P1518","submission_id":"237048136","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
@@ -26829,6 +26831,7 @@
 {"accepted_at":1792842458.0,"account_id":"a183","difficulty":null,"observed_at":1792842576.3744123,"problem_id":"2277B","submission_id":"395846723","title":"Sequence Decreasing"}
 {"accepted_at":1792843259.0,"account_id":"a183","difficulty":null,"observed_at":1792843796.1592124,"problem_id":"2277C","submission_id":"395851235","title":"Edge Addeleting"}
 {"accepted_at":1792848695.0,"account_id":"a183","difficulty":null,"observed_at":1792849293.1162643,"problem_id":"2277D1","submission_id":"395871652","title":"Number Operating (Easy Version)"}
+{"accepted_at":1793025797.0,"account_id":"a183","difficulty":null,"observed_at":1793026379.2720606,"problem_id":"2272A","submission_id":"396120144","title":"Maximize One MEX"}
 {"accepted_at":1749036763.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6704295,"problem_id":"11381","submission_id":"1091614","title":"Team Naming"}
 {"accepted_at":1749222440.0,"account_id":"a184","difficulty":null,"observed_at":1792486463.6703038,"problem_id":"11380","submission_id":"1094995","title":"Loose Subsequences"}
 {"accepted_at":1779080680.0,"account_id":"a184","difficulty":null,"observed_at":1792486456.2704692,"problem_id":"17467","submission_id":"2391929","title":"Galaxy of Stars in a Dream"}
