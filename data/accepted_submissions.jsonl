@@ -7921,6 +7921,8 @@
 {"accepted_at":1792841542.0,"account_id":"a36","difficulty":null,"observed_at":1792841703.8483884,"problem_id":"2277B","submission_id":"395840337","title":"Sequence Decreasing"}
 {"accepted_at":1792841898.0,"account_id":"a36","difficulty":null,"observed_at":1792842313.9049666,"problem_id":"2277C","submission_id":"395843036","title":"Edge Addeleting"}
 {"accepted_at":1793027831.0,"account_id":"a36","difficulty":null,"observed_at":1793028055.3001904,"problem_id":"2272A","submission_id":"396141381","title":"Maximize One MEX"}
+{"accepted_at":1793028054.0,"account_id":"a36","difficulty":null,"observed_at":1793028663.9764404,"problem_id":"2272B","submission_id":"396143042","title":"Frogs Jump"}
+{"accepted_at":1793028489.0,"account_id":"a36","difficulty":null,"observed_at":1793028663.9763138,"problem_id":"2272C","submission_id":"396146412","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1792762251.0,"account_id":"a37","difficulty":1,"observed_at":1792762289.66419,"problem_id":"P1739","submission_id":"305090389","title":"表达式括号匹配"}
 {"accepted_at":1792764580.0,"account_id":"a37","difficulty":2,"observed_at":1792764743.48393,"problem_id":"P1449","submission_id":"305103319","title":"后缀表达式"}
 {"accepted_at":1792805163.0,"account_id":"a37","difficulty":1,"observed_at":1792805197.539181,"problem_id":"P1897","submission_id":"305148967","title":"电梯里的尴尬"}
@@ -19397,6 +19399,7 @@
 {"accepted_at":1792848982.0,"account_id":"a124","difficulty":null,"observed_at":1792849469.6667998,"problem_id":"2277D2","submission_id":"395872280","title":"Number Operating (Hard Version)"}
 {"accepted_at":1793025524.0,"account_id":"a124","difficulty":null,"observed_at":1793025719.8636768,"problem_id":"2272A","submission_id":"396118686","title":"Maximize One MEX"}
 {"accepted_at":1793026142.0,"account_id":"a124","difficulty":null,"observed_at":1793026327.7569458,"problem_id":"2272B","submission_id":"396123213","title":"Frogs Jump"}
+{"accepted_at":1793028272.0,"account_id":"a124","difficulty":null,"observed_at":1793028442.1677244,"problem_id":"2272C","submission_id":"396144746","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1744521559.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687415,"problem_id":"P12132","submission_id":"213553321","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"accepted_at":1751885589.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687157,"problem_id":"B2139","submission_id":"222827579","title":"区间内的真素数"}
 {"accepted_at":1758884127.0,"account_id":"a125","difficulty":3,"observed_at":1792153920.168701,"problem_id":"P1518","submission_id":"237048136","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
@@ -20400,6 +20403,7 @@
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
+{"accepted_at":1793028652.0,"account_id":"a136","difficulty":null,"observed_at":1793028746.4544451,"problem_id":"2272A","submission_id":"396147580","title":"Maximize One MEX"}
 {"accepted_at":1533354321.0,"account_id":"a137","difficulty":4,"observed_at":1792159561.5435557,"problem_id":"P1379","submission_id":"9275822","title":"八数码难题"}
 {"accepted_at":1533366539.0,"account_id":"a137","difficulty":2,"observed_at":1792159561.543501,"problem_id":"P1060","submission_id":"9282337","title":"[NOIP 2006 普及组] 开心的金明"}
 {"accepted_at":1533445145.0,"account_id":"a137","difficulty":1,"observed_at":1792159561.543474,"problem_id":"P1000","submission_id":"9314221","title":"超级玛丽游戏"}

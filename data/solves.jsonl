@@ -5874,6 +5874,8 @@
 {"account_id":"a34","difficulty":5,"member_id":"m14","observed_at":1792824187.963228,"platform":"luogu","problem_id":"P3805","solved_at":1792824123.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a34","difficulty":3,"member_id":"m14","observed_at":1792220584.8173778,"platform":"luogu","problem_id":"P7911","solved_at":1792220348.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1793028055.2983804,"platform":"codeforces","problem_id":"2272A","solved_at":1793027831.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1793028663.9764206,"platform":"codeforces","problem_id":"2272B","solved_at":1793028054.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1793028663.9762158,"platform":"codeforces","problem_id":"2272C","solved_at":1793028489.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792840477.8747497,"platform":"codeforces","problem_id":"2277A","solved_at":1792840128.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792841703.8482797,"platform":"codeforces","problem_id":"2277B","solved_at":1792841542.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792842313.904872,"platform":"codeforces","problem_id":"2277C","solved_at":1792841898.0,"source":"codeforces-api","title":"Edge Addeleting"}
@@ -15324,6 +15326,7 @@
 {"account_id":"a124","difficulty":2100,"member_id":"m54","observed_at":1792148519.67645,"platform":"codeforces","problem_id":"2271E","solved_at":1791655212.0,"source":"codeforces-api","title":"Array Emptying"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793025719.8635733,"platform":"codeforces","problem_id":"2272A","solved_at":1793025524.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793026327.7568545,"platform":"codeforces","problem_id":"2272B","solved_at":1793026142.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1793028442.1615593,"platform":"codeforces","problem_id":"2272C","solved_at":1793028272.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a124","difficulty":2400,"member_id":"m54","observed_at":1792148519.676562,"platform":"codeforces","problem_id":"2275H","solved_at":1791638308.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840285.9865928,"platform":"codeforces","problem_id":"2277A","solved_at":1792840251.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a124","difficulty":null,"member_id":"m54","observed_at":1792840900.425722,"platform":"codeforces","problem_id":"2277B","solved_at":1792840485.0,"source":"codeforces-api","title":"Sequence Decreasing"}
@@ -16225,6 +16228,7 @@
 {"account_id":"a133","difficulty":2,"member_id":"m59","observed_at":1792808913.2777297,"platform":"luogu","problem_id":"P1165","solved_at":1792808375.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a133","difficulty":1,"member_id":"m59","observed_at":1792807692.1933367,"platform":"luogu","problem_id":"P1897","solved_at":1792807644.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a133","difficulty":5,"member_id":"m59","observed_at":1792812611.4683685,"platform":"luogu","problem_id":"P3805","solved_at":1792812203.0,"source":"luogu-record-list","title":"【模板】Manacher"}
+{"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793028746.45435,"platform":"codeforces","problem_id":"2272A","solved_at":1793028652.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
 {"account_id":"a136","difficulty":1900,"member_id":"m60","observed_at":1792807987.845412,"platform":"codeforces","problem_id":"817D","solved_at":1792807555.0,"source":"codeforces-api","title":"Imbalanced Array"}
