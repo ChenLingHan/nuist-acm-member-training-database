@@ -3572,6 +3572,7 @@
 {"difficulty":1700,"platform":"codeforces","points":1750.0,"problem_id":"2271D","tags":["binary search","brute force","greedy","implementation","two pointers"],"title":"Target Infection"}
 {"difficulty":2100,"platform":"codeforces","points":2250.0,"problem_id":"2271E","tags":["binary search","data structures","greedy"],"title":"Array Emptying"}
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"2271F","tags":["constructive algorithms","data structures","dp","greedy","implementation"],"title":"Beautiful Pillers"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2272A","tags":[],"title":"Maximize One MEX"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["dfs and similar","dp","hashing","implementation","math"],"title":"The Projections of Paco"}
 {"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
 {"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
