@@ -3572,7 +3572,7 @@
 {"difficulty":1700,"platform":"codeforces","points":1750.0,"problem_id":"2271D","tags":["binary search","brute force","greedy","implementation","two pointers"],"title":"Target Infection"}
 {"difficulty":2100,"platform":"codeforces","points":2250.0,"problem_id":"2271E","tags":["binary search","data structures","greedy"],"title":"Array Emptying"}
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"2271F","tags":["constructive algorithms","data structures","dp","greedy","implementation"],"title":"Beautiful Pillers"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2272A","tags":[],"title":"Maximize One MEX"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2272A","tags":["brute force"],"title":"Maximize One MEX"}
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272B","tags":[],"title":"Frogs Jump"}
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272C","tags":[],"title":"Yet Another Black Cell Problem"}
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2272D","tags":[],"title":"Connecting the Conflicts"}
