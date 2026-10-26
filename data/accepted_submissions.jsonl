@@ -4066,6 +4066,8 @@
 {"accepted_at":1792997396.0,"account_id":"a24","difficulty":null,"observed_at":1792997759.9160414,"problem_id":"2277D1","submission_id":"396068638","title":"Number Operating (Easy Version)"}
 {"accepted_at":1793017708.0,"account_id":"a24","difficulty":2200,"observed_at":1793017893.8556848,"problem_id":"86B","submission_id":"396104642","title":"Tetris revisited"}
 {"accepted_at":1793017823.0,"account_id":"a24","difficulty":2200,"observed_at":1793017893.8555717,"problem_id":"86B","submission_id":"396104850","title":"Tetris revisited"}
+{"accepted_at":1793019256.0,"account_id":"a24","difficulty":2200,"observed_at":1793019729.5102267,"problem_id":"86B","submission_id":"396107413","title":"Tetris revisited"}
+{"accepted_at":1793019362.0,"account_id":"a24","difficulty":2200,"observed_at":1793019729.5101156,"problem_id":"86B","submission_id":"396107638","title":"Tetris revisited"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -11553,6 +11555,8 @@
 {"accepted_at":1792804111.0,"account_id":"a70","difficulty":2,"observed_at":1792804564.3710442,"problem_id":"P1165","submission_id":"305142772","title":"日志分析"}
 {"accepted_at":1792805247.0,"account_id":"a70","difficulty":5,"observed_at":1792805780.1333742,"problem_id":"P3805","submission_id":"305149517","title":"【模板】Manacher"}
 {"accepted_at":1792805328.0,"account_id":"a70","difficulty":5,"observed_at":1792805780.133268,"problem_id":"P3805","submission_id":"305150008","title":"【模板】Manacher"}
+{"accepted_at":1793019117.0,"account_id":"a71","difficulty":1900,"observed_at":1793019545.9634428,"problem_id":"817D","submission_id":"396107163","title":"Imbalanced Array"}
+{"accepted_at":1793019245.0,"account_id":"a71","difficulty":1900,"observed_at":1793019545.9633224,"problem_id":"817D","submission_id":"396107383","title":"Imbalanced Array"}
 {"accepted_at":1789476996.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381396,"problem_id":"P1004","submission_id":"298014105","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791458322.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381212,"problem_id":"P1005","submission_id":"301933959","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
 {"accepted_at":1791470985.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381012,"problem_id":"P1006","submission_id":"301995987","title":"[NOIP 2008 提高组] 传纸条"}
