@@ -900,6 +900,7 @@
 {"difficulty":3000,"platform":"codeforces","points":3500.0,"problem_id":"1392H","tags":["combinatorics","dp","math","probabilities"],"title":"ZS Shuffles Cards"}
 {"difficulty":1700,"platform":"codeforces","points":1500.0,"problem_id":"1393C","tags":["constructive algorithms","greedy","math","sortings"],"title":"Pinkie Pie Eats Patty-cakes"}
 {"difficulty":3200,"platform":"codeforces","points":1500.0,"problem_id":"1393E2","tags":["dp","hashing","implementation","string suffix structures","strings","two pointers"],"title":"Twilight and Ancient Scroll (harder version)"}
+{"difficulty":1600,"platform":"codeforces","points":1000.0,"problem_id":"1395C","tags":["bitmasks","brute force","dp","greedy"],"title":"Boboniu and Bit Operations"}
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"1396A","tags":["constructive algorithms","greedy","number theory"],"title":"Multiples of Length"}
 {"difficulty":1800,"platform":"codeforces","points":1000.0,"problem_id":"1396B","tags":["brute force","constructive algorithms","games","greedy"],"title":"Stoned Game"}
 {"difficulty":2300,"platform":"codeforces","points":1750.0,"problem_id":"1396C","tags":["dp","greedy","implementation"],"title":"Monster Invaders"}

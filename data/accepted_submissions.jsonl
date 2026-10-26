@@ -1976,6 +1976,7 @@
 {"accepted_at":1792923409.0,"account_id":"a11","difficulty":1600,"observed_at":1792924015.9937446,"problem_id":"1528A","submission_id":"395969458","title":"Parsa's Humongous Tree"}
 {"accepted_at":1792937226.0,"account_id":"a11","difficulty":1600,"observed_at":1792937482.8021767,"problem_id":"1342C","submission_id":"395996801","title":"Yet Another Counting Problem"}
 {"accepted_at":1792938569.0,"account_id":"a11","difficulty":1600,"observed_at":1792938698.2707918,"problem_id":"1374E1","submission_id":"396000028","title":"Reading Books (easy version)"}
+{"accepted_at":1793015758.0,"account_id":"a11","difficulty":1600,"observed_at":1793016330.5583992,"problem_id":"1395C","submission_id":"396100857","title":"Boboniu and Bit Operations"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -7906,6 +7907,7 @@
 {"accepted_at":1792980948.0,"account_id":"a34","difficulty":2,"observed_at":1792981354.1537085,"problem_id":"P1009","submission_id":"305857280","title":"[NOIP 1998 普及组] 阶乘之和"}
 {"accepted_at":1792997045.0,"account_id":"a34","difficulty":2,"observed_at":1792997333.5630572,"problem_id":"P1010","submission_id":"305894401","title":"[NOIP 1998 普及组] 幂次方"}
 {"accepted_at":1793015428.0,"account_id":"a34","difficulty":2,"observed_at":1793015730.5659792,"problem_id":"P1011","submission_id":"305975485","title":"[NOIP 1998 提高组] 车站"}
+{"accepted_at":1793016346.0,"account_id":"a34","difficulty":4,"observed_at":1793016373.383795,"problem_id":"P1012","submission_id":"305983185","title":"[NOIP 1998 提高组] 拼数"}
 {"accepted_at":1792840128.0,"account_id":"a36","difficulty":null,"observed_at":1792840477.8748548,"problem_id":"2277A","submission_id":"395828433","title":"Subset Selecting"}
 {"accepted_at":1792841542.0,"account_id":"a36","difficulty":null,"observed_at":1792841703.8483884,"problem_id":"2277B","submission_id":"395840337","title":"Sequence Decreasing"}
 {"accepted_at":1792841898.0,"account_id":"a36","difficulty":null,"observed_at":1792842313.9049666,"problem_id":"2277C","submission_id":"395843036","title":"Edge Addeleting"}
