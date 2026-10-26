@@ -7941,6 +7941,8 @@
 {"accepted_at":1792806225.0,"account_id":"a39","difficulty":1,"observed_at":1792806736.3667665,"problem_id":"P1897","submission_id":"305155895","title":"电梯里的尴尬"}
 {"accepted_at":1792807449.0,"account_id":"a39","difficulty":5,"observed_at":1792807954.2315762,"problem_id":"P3805","submission_id":"305164848","title":"【模板】Manacher"}
 {"accepted_at":1792807473.0,"account_id":"a39","difficulty":5,"observed_at":1792807954.231459,"problem_id":"P3805","submission_id":"305165014","title":"【模板】Manacher"}
+{"accepted_at":1793019953.0,"account_id":"a39","difficulty":4,"observed_at":1793020366.1722643,"problem_id":"P7410","submission_id":"306012270","title":"[USACO21FEB] Just Green Enough S"}
+{"accepted_at":1793019972.0,"account_id":"a39","difficulty":4,"observed_at":1793020366.1721334,"problem_id":"P7410","submission_id":"306012422","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -12451,6 +12453,7 @@
 {"accepted_at":1792842308.0,"account_id":"a79","difficulty":null,"observed_at":1792842758.5240822,"problem_id":"2277B","submission_id":"395845798","title":"Sequence Decreasing"}
 {"accepted_at":1792843990.0,"account_id":"a79","difficulty":null,"observed_at":1792844592.86531,"problem_id":"2277C","submission_id":"395854742","title":"Edge Addeleting"}
 {"accepted_at":1792851029.0,"account_id":"a79","difficulty":null,"observed_at":1792851415.0379333,"problem_id":"2277D1","submission_id":"395876695","title":"Number Operating (Easy Version)"}
+{"accepted_at":1793019760.0,"account_id":"a79","difficulty":2700,"observed_at":1793020322.1979063,"problem_id":"13E","submission_id":"396108427","title":"Holes"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
