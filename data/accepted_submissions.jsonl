@@ -11024,6 +11024,8 @@
 {"accepted_at":1792990131.0,"account_id":"a60","difficulty":2,"observed_at":1792990269.1097956,"problem_id":"P1603","submission_id":"305876345","title":"斯诺登的密码"}
 {"accepted_at":1793000687.0,"account_id":"a60","difficulty":2,"observed_at":1793001288.4665084,"problem_id":"P1603","submission_id":"305908417","title":"斯诺登的密码"}
 {"accepted_at":1793007972.0,"account_id":"a60","difficulty":1,"observed_at":1793008011.2125921,"problem_id":"P1200","submission_id":"305938532","title":"[USACO1.1] 你的飞碟在这儿 Your Ride Is Here"}
+{"accepted_at":1793107120.0,"account_id":"a60","difficulty":3,"observed_at":1793107526.0623348,"problem_id":"P1219","submission_id":"306246703","title":"[USACO1.5] 八皇后 Checker Challenge"}
+{"accepted_at":1793107451.0,"account_id":"a60","difficulty":3,"observed_at":1793107526.0622218,"problem_id":"P1219","submission_id":"306249101","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"accepted_at":1787801796.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637406,"problem_id":"8072","submission_id":"2822478","title":"Qualifiers Ranking Rules"}
 {"accepted_at":1787803757.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637266,"problem_id":"8083","submission_id":"2822582","title":"KaChang!"}
 {"accepted_at":1787822164.0,"account_id":"a61","difficulty":null,"observed_at":1792127055.1637115,"problem_id":"8081","submission_id":"2824307","title":"Minimum Manhattan Distance"}
@@ -12157,6 +12159,7 @@
 {"accepted_at":1793014829.0,"account_id":"a74","difficulty":null,"observed_at":1793015050.778995,"problem_id":"2277A","submission_id":"396099199","title":"Subset Selecting"}
 {"accepted_at":1793014855.0,"account_id":"a74","difficulty":null,"observed_at":1793015050.7789683,"problem_id":"2277B","submission_id":"396099249","title":"Sequence Decreasing"}
 {"accepted_at":1793014881.0,"account_id":"a74","difficulty":null,"observed_at":1793015050.7788477,"problem_id":"2277C","submission_id":"396099288","title":"Edge Addeleting"}
+{"accepted_at":1793107215.0,"account_id":"a74","difficulty":null,"observed_at":1793107415.5407262,"problem_id":"2272B","submission_id":"396295274","title":"Frogs Jump"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
