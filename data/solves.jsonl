@@ -2962,6 +2962,7 @@
 {"account_id":"a24","difficulty":1200,"member_id":"m10","observed_at":1792081262.3126342,"platform":"codeforces","problem_id":"2269C","solved_at":1791280371.0,"source":"codeforces-api","title":"K Is Important"}
 {"account_id":"a24","difficulty":1500,"member_id":"m10","observed_at":1792081262.312584,"platform":"codeforces","problem_id":"2269D","solved_at":1791294370.0,"source":"codeforces-api","title":"What a SauSaGe! It's All Meat"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1793099061.8292542,"platform":"codeforces","problem_id":"2272A","solved_at":1793098782.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1793100306.0353189,"platform":"codeforces","problem_id":"2272B","solved_at":1793099700.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a24","difficulty":800,"member_id":"m10","observed_at":1792081262.312531,"platform":"codeforces","problem_id":"2275A","solved_at":1791542901.0,"source":"codeforces-api","title":"In Search of Convenience"}
 {"account_id":"a24","difficulty":800,"member_id":"m10","observed_at":1792081262.3124986,"platform":"codeforces","problem_id":"2275B","solved_at":1791543417.0,"source":"codeforces-api","title":"Did Not Go to Print"}
 {"account_id":"a24","difficulty":1000,"member_id":"m10","observed_at":1792081262.3124804,"platform":"codeforces","problem_id":"2275C","solved_at":1791544439.0,"source":"codeforces-api","title":"Unrequited Love"}
@@ -9864,6 +9865,7 @@
 {"account_id":"a77","difficulty":4,"member_id":"m34","observed_at":1792130072.129183,"platform":"luogu","problem_id":"P1879","solved_at":1759287048.0,"source":"luogu-practice-snapshot","title":"[USACO06NOV] Corn Fields G"}
 {"account_id":"a77","difficulty":3,"member_id":"m34","observed_at":1792130072.1291933,"platform":"luogu","problem_id":"P1890","solved_at":1775375098.0,"source":"luogu-practice-snapshot","title":"gcd 区间"}
 {"account_id":"a77","difficulty":3,"member_id":"m34","observed_at":1792130072.1292043,"platform":"luogu","problem_id":"P1901","solved_at":1761358090.0,"source":"luogu-practice-snapshot","title":"发射站"}
+{"account_id":"a77","difficulty":6,"member_id":"m34","observed_at":1793100557.697787,"platform":"luogu","problem_id":"P1903","solved_at":1793100200.0,"source":"luogu-record-list","title":"【模板】带修莫队 / [国家集训队] 数颜色 / 维护队列"}
 {"account_id":"a77","difficulty":7,"member_id":"m34","observed_at":1792823317.4563594,"platform":"luogu","problem_id":"P1919","solved_at":1792822945.0,"source":"luogu-record-list","title":"【模板】高精度乘法 / A*B Problem 升级版"}
 {"account_id":"a77","difficulty":5,"member_id":"m34","observed_at":1792130072.1292145,"platform":"luogu","problem_id":"P1967","solved_at":1791099567.0,"source":"luogu-practice-snapshot","title":"[NOIP 2013 提高组] 货车运输"}
 {"account_id":"a77","difficulty":4,"member_id":"m34","observed_at":1792130072.1292262,"platform":"luogu","problem_id":"P2197","solved_at":1768897701.0,"source":"luogu-practice-snapshot","title":"【模板】Nim 游戏"}
