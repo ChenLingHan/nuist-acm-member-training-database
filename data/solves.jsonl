@@ -1902,6 +1902,7 @@
 {"account_id":"a20","difficulty":1,"member_id":"m9","observed_at":1792079285.9744966,"platform":"luogu","problem_id":"P1567","solved_at":1786437307.0,"source":"luogu-practice-snapshot","title":"统计天数"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9745073,"platform":"luogu","problem_id":"P1605","solved_at":1787299908.0,"source":"luogu-practice-snapshot","title":"迷宫"}
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.9745178,"platform":"luogu","problem_id":"P1629","solved_at":1790081259.0,"source":"luogu-practice-snapshot","title":"邮递员送信"}
+{"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1793101086.5891337,"platform":"luogu","problem_id":"P1631","solved_at":1793100623.0,"source":"luogu-record-list","title":"序列合并"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.974528,"platform":"luogu","problem_id":"P1650","solved_at":1789216045.0,"source":"luogu-practice-snapshot","title":"[ICPC 2004 Shanghai R] 田忌赛马"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9745386,"platform":"luogu","problem_id":"P1781","solved_at":1786688336.0,"source":"luogu-practice-snapshot","title":"宇宙总统"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9745507,"platform":"luogu","problem_id":"P1803","solved_at":1787230108.0,"source":"luogu-practice-snapshot","title":"凌乱的yyy / 线段覆盖"}
@@ -8068,6 +8069,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793028320.7339442,"platform":"codeforces","problem_id":"2272A","solved_at":1793028235.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793027100.64148,"platform":"codeforces","problem_id":"2272B","solved_at":1793026871.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793032024.0260844,"platform":"codeforces","problem_id":"2272C","solved_at":1793031490.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
+{"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1793100947.9076195,"platform":"codeforces","problem_id":"2273A","solved_at":1793100667.0,"source":"codeforces-api","title":"Lavencia Oranges"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0412872,"platform":"codeforces","problem_id":"2275A","solved_at":1791384601.0,"source":"codeforces-api","title":"In Search of Convenience"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.041274,"platform":"codeforces","problem_id":"2275B","solved_at":1791385147.0,"source":"codeforces-api","title":"Did Not Go to Print"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0412607,"platform":"codeforces","problem_id":"2275C","solved_at":1791387472.0,"source":"codeforces-api","title":"Unrequited Love"}
