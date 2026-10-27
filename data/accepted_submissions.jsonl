@@ -7955,6 +7955,7 @@
 {"accepted_at":1792807473.0,"account_id":"a39","difficulty":5,"observed_at":1792807954.231459,"problem_id":"P3805","submission_id":"305165014","title":"【模板】Manacher"}
 {"accepted_at":1793019953.0,"account_id":"a39","difficulty":4,"observed_at":1793020366.1722643,"problem_id":"P7410","submission_id":"306012270","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1793019972.0,"account_id":"a39","difficulty":4,"observed_at":1793020366.1721334,"problem_id":"P7410","submission_id":"306012422","title":"[USACO21FEB] Just Green Enough S"}
+{"accepted_at":1793084727.0,"account_id":"a39","difficulty":4,"observed_at":1793085360.5903168,"problem_id":"P7410","submission_id":"306122013","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1781024115.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865924,"problem_id":"2233A","submission_id":"377999294","title":"AI Project Development"}
 {"accepted_at":1781279752.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.58657,"problem_id":"2236A","submission_id":"378400412","title":"Games on the Train"}
 {"accepted_at":1781280097.0,"account_id":"a40","difficulty":800,"observed_at":1792127067.5865474,"problem_id":"2236B","submission_id":"378404292","title":"Tatar TV Show"}
@@ -10338,6 +10339,7 @@
 {"accepted_at":1792844103.0,"account_id":"a55","difficulty":null,"observed_at":1792844569.937313,"problem_id":"2277B","submission_id":"395855290","title":"Sequence Decreasing"}
 {"accepted_at":1793026766.0,"account_id":"a55","difficulty":null,"observed_at":1793027333.9244921,"problem_id":"2272A","submission_id":"396130388","title":"Maximize One MEX"}
 {"accepted_at":1793029658.0,"account_id":"a55","difficulty":null,"observed_at":1793029793.3954186,"problem_id":"2272B","submission_id":"396154638","title":"Frogs Jump"}
+{"accepted_at":1793085165.0,"account_id":"a55","difficulty":null,"observed_at":1793085343.7024784,"problem_id":"2272C","submission_id":"396250806","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11553,6 +11555,7 @@
 {"accepted_at":1792379988.0,"account_id":"a67","difficulty":1000,"observed_at":1792380522.7590766,"problem_id":"2261C","submission_id":"395165075","title":"I Know About a Million Things"}
 {"accepted_at":1792385745.0,"account_id":"a67","difficulty":1300,"observed_at":1792386107.849242,"problem_id":"2261D1","submission_id":"395170094","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
 {"accepted_at":1793081702.0,"account_id":"a67","difficulty":null,"observed_at":1793081973.7559588,"problem_id":"2272B","submission_id":"396245425","title":"Frogs Jump"}
+{"accepted_at":1793085539.0,"account_id":"a67","difficulty":null,"observed_at":1793085627.9434423,"problem_id":"2272C","submission_id":"396251458","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1792164444.0,"account_id":"a68","difficulty":4,"observed_at":1792164516.567243,"problem_id":"P3375","submission_id":"303480380","title":"【模板】KMP"}
 {"accepted_at":1792763406.0,"account_id":"a68","difficulty":5,"observed_at":1792763530.3860326,"problem_id":"P3805","submission_id":"305097291","title":"【模板】Manacher"}
 {"accepted_at":1792765136.0,"account_id":"a68","difficulty":3,"observed_at":1792765363.1680915,"problem_id":"P7911","submission_id":"305105898","title":"[CSP-J 2021] 网络连接"}
