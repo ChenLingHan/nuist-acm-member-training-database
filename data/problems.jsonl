@@ -3719,6 +3719,7 @@
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"43A","tags":["strings"],"title":"Football"}
 {"difficulty":1300,"platform":"codeforces","points":1500.0,"problem_id":"43C","tags":["greedy"],"title":"Lucky Tickets"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"443A","tags":["constructive algorithms","implementation"],"title":"Anton and Letters"}
+{"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"443B","tags":["brute force","implementation","strings"],"title":"Kolya and Tandem Repeat"}
 {"difficulty":1200,"platform":"codeforces","points":500.0,"problem_id":"445A","tags":["dfs and similar","implementation"],"title":"DZY Loves Chessboard"}
 {"difficulty":2000,"platform":"codeforces","points":1500.0,"problem_id":"446B","tags":["brute force","data structures","greedy"],"title":"DZY Loves Modification"}
 {"difficulty":2400,"platform":"codeforces","points":1500.0,"problem_id":"446C","tags":["data structures","math","number theory"],"title":"DZY Loves Fibonacci Numbers"}
