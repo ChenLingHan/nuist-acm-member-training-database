@@ -3578,6 +3578,7 @@
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2272D","tags":[],"title":"Connecting the Conflicts"}
 {"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2272E","tags":["greedy"],"title":"Memory Cell Interception"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2272F","tags":["dfs and similar","dp","games","trees"],"title":"Tree Reduction Game"}
+{"difficulty":1300,"platform":"codeforces","points":500.0,"problem_id":"2273A","tags":["binary search","constructive algorithms","dp","greedy"],"title":"Lavencia Oranges"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["dfs and similar","dp","hashing","implementation","math"],"title":"The Projections of Paco"}
 {"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"2274B","tags":["greedy"],"title":"Prefix"}
 {"difficulty":1300,"platform":"codeforces","points":1250.0,"problem_id":"2274C","tags":["binary search","constructive algorithms"],"title":"Lavencia Oranges"}
