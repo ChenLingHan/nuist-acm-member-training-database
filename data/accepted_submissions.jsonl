@@ -478,6 +478,8 @@
 {"accepted_at":1792674140.0,"account_id":"a1","difficulty":4,"observed_at":1792674345.8936105,"problem_id":"P14165","submission_id":"304840478","title":"[ICPC 2022 Nanjing R] 清空水箱"}
 {"accepted_at":1792764771.0,"account_id":"a1","difficulty":4,"observed_at":1792764813.8022382,"problem_id":"P14153","submission_id":"305104237","title":"[ICPC 2022 Nanjing R] 停停，昨日请不要再重现"}
 {"accepted_at":1793097654.0,"account_id":"a1","difficulty":4,"observed_at":1793098024.6653936,"problem_id":"P12630","submission_id":"306176575","title":"[ICPC 2025 NAC] SLA Tomography"}
+{"accepted_at":1793103307.0,"account_id":"a1","difficulty":4,"observed_at":1793103633.103445,"problem_id":"P14455","submission_id":"306216076","title":"[ICPC 2025 Xi'an R] Imagined Holly"}
+{"accepted_at":1793103544.0,"account_id":"a1","difficulty":4,"observed_at":1793103633.1033263,"problem_id":"P14455","submission_id":"306218105","title":"[ICPC 2025 Xi'an R] Imagined Holly"}
 {"accepted_at":1721055750.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.920079,"problem_id":"1988A","submission_id":"270673349","title":"Split the Multiset"}
 {"accepted_at":1721056723.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.9200747,"problem_id":"1988B","submission_id":"270688461","title":"Make Majority"}
 {"accepted_at":1721060197.0,"account_id":"a2","difficulty":1300,"observed_at":1792070042.9200702,"problem_id":"1988C","submission_id":"270728802","title":"Increasing Sequence with Fixed OR"}
@@ -4082,6 +4084,7 @@
 {"accepted_at":1793019362.0,"account_id":"a24","difficulty":2200,"observed_at":1793019729.5101156,"problem_id":"86B","submission_id":"396107638","title":"Tetris revisited"}
 {"accepted_at":1793098782.0,"account_id":"a24","difficulty":null,"observed_at":1793099061.8293495,"problem_id":"2272A","submission_id":"396275935","title":"Maximize One MEX"}
 {"accepted_at":1793099700.0,"account_id":"a24","difficulty":null,"observed_at":1793100306.0354238,"problem_id":"2272B","submission_id":"396277786","title":"Frogs Jump"}
+{"accepted_at":1793103905.0,"account_id":"a24","difficulty":null,"observed_at":1793103981.7106376,"problem_id":"2272D","submission_id":"396288728","title":"Connecting the Conflicts"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
