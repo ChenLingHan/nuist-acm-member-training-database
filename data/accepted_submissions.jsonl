@@ -4087,6 +4087,7 @@
 {"accepted_at":1793098782.0,"account_id":"a24","difficulty":null,"observed_at":1793099061.8293495,"problem_id":"2272A","submission_id":"396275935","title":"Maximize One MEX"}
 {"accepted_at":1793099700.0,"account_id":"a24","difficulty":null,"observed_at":1793100306.0354238,"problem_id":"2272B","submission_id":"396277786","title":"Frogs Jump"}
 {"accepted_at":1793103905.0,"account_id":"a24","difficulty":null,"observed_at":1793103981.7106376,"problem_id":"2272D","submission_id":"396288728","title":"Connecting the Conflicts"}
+{"accepted_at":1793108335.0,"account_id":"a24","difficulty":null,"observed_at":1793108875.9545462,"problem_id":"2272C","submission_id":"396297662","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -10356,6 +10357,7 @@
 {"accepted_at":1793026766.0,"account_id":"a55","difficulty":null,"observed_at":1793027333.9244921,"problem_id":"2272A","submission_id":"396130388","title":"Maximize One MEX"}
 {"accepted_at":1793029658.0,"account_id":"a55","difficulty":null,"observed_at":1793029793.3954186,"problem_id":"2272B","submission_id":"396154638","title":"Frogs Jump"}
 {"accepted_at":1793085165.0,"account_id":"a55","difficulty":null,"observed_at":1793085343.7024784,"problem_id":"2272C","submission_id":"396250806","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793108797.0,"account_id":"a55","difficulty":1300,"observed_at":1793108860.5523286,"problem_id":"2273A","submission_id":"396298728","title":"Lavencia Oranges"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -17350,6 +17352,8 @@
 {"accepted_at":1792829465.0,"account_id":"a102","difficulty":1,"observed_at":1792829838.996398,"problem_id":"P1427","submission_id":"305329941","title":"小鱼的数字游戏"}
 {"accepted_at":1792829682.0,"account_id":"a102","difficulty":1,"observed_at":1792829838.9952881,"problem_id":"P5727","submission_id":"305332035","title":"【深基5.例3】冰雹猜想"}
 {"accepted_at":1792829921.0,"account_id":"a102","difficulty":1,"observed_at":1792830450.8725078,"problem_id":"P1047","submission_id":"305334444","title":"[NOIP 2005 普及组] 校门外的树"}
+{"accepted_at":1793108976.0,"account_id":"a102","difficulty":1,"observed_at":1793109183.7810152,"problem_id":"P5728","submission_id":"306259763","title":"【深基5.例5】旗鼓相当的对手"}
+{"accepted_at":1793109180.0,"account_id":"a102","difficulty":1,"observed_at":1793109183.7809048,"problem_id":"P5729","submission_id":"306261116","title":"【深基5.例7】工艺品制作"}
 {"accepted_at":1751634385.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.8621712,"problem_id":"P1042","submission_id":"222359694","title":"[NOIP 2003 普及组] 乒乓球"}
 {"accepted_at":1751635310.0,"account_id":"a105","difficulty":1,"observed_at":1792162229.8621101,"problem_id":"P2670","submission_id":"222361494","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1751896146.0,"account_id":"a105","difficulty":2,"observed_at":1792162229.862081,"problem_id":"P1601","submission_id":"222865354","title":"高精度加法"}
