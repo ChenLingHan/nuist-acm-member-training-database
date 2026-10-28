@@ -5293,6 +5293,7 @@
 {"accepted_at":1792920301.0,"account_id":"a30","difficulty":null,"observed_at":1792920483.8975675,"problem_id":"104821F","submission_id":"395963891","title":"Equivalent Rewriting"}
 {"accepted_at":1792925371.0,"account_id":"a30","difficulty":null,"observed_at":1792925960.8679092,"problem_id":"104821A","submission_id":"395972704","title":"Cool, It's Yesterday Four Times More"}
 {"accepted_at":1793004160.0,"account_id":"a30","difficulty":null,"observed_at":1793004164.2817984,"problem_id":"104821L","submission_id":"396079129","title":"Elevator"}
+{"accepted_at":1793194639.0,"account_id":"a30","difficulty":null,"observed_at":1793194753.7268057,"problem_id":"2272A","submission_id":"396424802","title":"Maximize One MEX"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -9787,6 +9788,7 @@
 {"accepted_at":1793185930.0,"account_id":"a48","difficulty":null,"observed_at":1793186246.6372175,"problem_id":"2277B","submission_id":"396408222","title":"Sequence Decreasing"}
 {"accepted_at":1793186633.0,"account_id":"a48","difficulty":null,"observed_at":1793186860.7274332,"problem_id":"2277C","submission_id":"396409416","title":"Edge Addeleting"}
 {"accepted_at":1793189317.0,"account_id":"a48","difficulty":null,"observed_at":1793189437.2019303,"problem_id":"2277D1","submission_id":"396414047","title":"Number Operating (Easy Version)"}
+{"accepted_at":1793193849.0,"account_id":"a48","difficulty":null,"observed_at":1793194389.4689977,"problem_id":"2277D2","submission_id":"396423157","title":"Number Operating (Hard Version)"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -12200,6 +12202,7 @@
 {"accepted_at":1793188659.0,"account_id":"a74","difficulty":900,"observed_at":1793189429.1727374,"problem_id":"2072B","submission_id":"396412807","title":"Having Been a Treasurer in the Past, I Help Goblins Deceive"}
 {"accepted_at":1793190187.0,"account_id":"a74","difficulty":1200,"observed_at":1793190693.2969017,"problem_id":"2072C","submission_id":"396415717","title":"Creating Keys for StORages Has Become My Main Skill"}
 {"accepted_at":1793191338.0,"account_id":"a74","difficulty":1300,"observed_at":1793191917.4195428,"problem_id":"2072D","submission_id":"396417937","title":"For Wizards, the Exam Is Easy, but I Couldn't Handle It"}
+{"accepted_at":1793194176.0,"account_id":"a74","difficulty":1500,"observed_at":1793194368.9700458,"problem_id":"2072E","submission_id":"396423842","title":"Do You Love Your Hero and His Two-Hit Multi-Target Attacks?"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
