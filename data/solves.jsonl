@@ -17417,6 +17417,7 @@
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792148545.1180673,"platform":"codeforces","problem_id":"691D","solved_at":1791526156.0,"source":"codeforces-api","title":"Swaps in Permutation"}
 {"account_id":"a150","difficulty":1900,"member_id":"m66","observed_at":1792148545.1183023,"platform":"codeforces","problem_id":"6E","solved_at":1790934031.0,"source":"codeforces-api","title":"Exposition"}
 {"account_id":"a150","difficulty":800,"member_id":"m66","observed_at":1792148545.1195474,"platform":"codeforces","problem_id":"716A","solved_at":1789631685.0,"source":"codeforces-api","title":"Crazy Computer"}
+{"account_id":"a150","difficulty":2300,"member_id":"m66","observed_at":1793180788.953342,"platform":"codeforces","problem_id":"727E","solved_at":1793180174.0,"source":"codeforces-api","title":"Games on a CD"}
 {"account_id":"a150","difficulty":2200,"member_id":"m66","observed_at":1792148545.1172764,"platform":"codeforces","problem_id":"7D","solved_at":1792134576.0,"source":"codeforces-api","title":"Palindrome Degree"}
 {"account_id":"a150","difficulty":1000,"member_id":"m66","observed_at":1792148545.1193757,"platform":"codeforces","problem_id":"805B","solved_at":1789900888.0,"source":"codeforces-api","title":"3-palindrome"}
 {"account_id":"a150","difficulty":1800,"member_id":"m66","observed_at":1792148545.1175082,"platform":"codeforces","problem_id":"827B","solved_at":1792046096.0,"source":"codeforces-api","title":"High Load"}
@@ -20502,6 +20503,7 @@
 {"account_id":"a169","difficulty":1200,"member_id":"m75","observed_at":1792148561.3835266,"platform":"codeforces","problem_id":"2257C","solved_at":1786982983.0,"source":"codeforces-api","title":"Spying on the Beaver"}
 {"account_id":"a169","difficulty":800,"member_id":"m75","observed_at":1792148561.3834558,"platform":"codeforces","problem_id":"2271A","solved_at":1791645472.0,"source":"codeforces-api","title":"Robot Odd Moves"}
 {"account_id":"a169","difficulty":1000,"member_id":"m75","observed_at":1792148561.3832788,"platform":"codeforces","problem_id":"2271B","solved_at":1791647373.0,"source":"codeforces-api","title":"MEX Game"}
+{"account_id":"a170","difficulty":1,"member_id":"m76","observed_at":1793180524.8379142,"platform":"luogu","problem_id":"B2002","solved_at":1793180120.0,"source":"luogu-record-list","title":"Hello,World!"}
 {"account_id":"a170","difficulty":1,"member_id":"m76","observed_at":1792803335.2371235,"platform":"luogu","problem_id":"P1897","solved_at":1792803080.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a170","difficulty":3,"member_id":"m76","observed_at":1792560747.5369747,"platform":"luogu","problem_id":"P7911","solved_at":1792560265.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a172","difficulty":1600,"member_id":"m57","observed_at":1792156008.1752095,"platform":"codeforces","problem_id":"171G","solved_at":1715694155.0,"source":"codeforces-api","title":"Mysterious numbers - 2"}
