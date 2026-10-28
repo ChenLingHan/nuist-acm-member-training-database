@@ -1129,6 +1129,7 @@
 {"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"1560F2","tags":["bitmasks","brute force","constructive algorithms","dfs and similar","dp","greedy"],"title":"Nearest Beautiful Number (hard version)"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1562A","tags":["greedy","math"],"title":"The Miracle and the Sleeper"}
 {"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"1562B","tags":["brute force","constructive algorithms","implementation","math","number theory"],"title":"Scenes From a Memory"}
+{"difficulty":2000,"platform":"codeforces","points":2000.0,"problem_id":"1566E","tags":["constructive algorithms","dfs and similar","dp","greedy","trees"],"title":"Buds Re-hanging"}
 {"difficulty":2000,"platform":"codeforces","points":1750.0,"problem_id":"1567D","tags":["constructive algorithms","greedy","implementation","math"],"title":"Expression Evaluation Error"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"1569C","tags":["combinatorics","math"],"title":"Jury Meeting"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1569D","tags":["binary search","data structures","implementation","sortings","two pointers"],"title":"Inconvenient Pairs"}
