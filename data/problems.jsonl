@@ -649,6 +649,7 @@
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"1156F","tags":["dp","math","probabilities"],"title":"Card Bag"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1159A","tags":["implementation","math"],"title":"A pile of stones"}
 {"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"115A","tags":["dfs and similar","graphs","trees"],"title":"Party"}
+{"difficulty":2400,"platform":"codeforces","points":2500.0,"problem_id":"115E","tags":["data structures","dp"],"title":"Linear Kingdom Races"}
 {"difficulty":3000,"platform":"codeforces","points":3250.0,"problem_id":"1163F","tags":["data structures","graphs","shortest paths"],"title":"Indecisive Taxi Fee"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1165A","tags":["implementation","math"],"title":"Remainder"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"1165B","tags":["data structures","greedy","sortings"],"title":"Polycarp Training"}
@@ -3983,6 +3984,7 @@
 {"difficulty":3000,"platform":"codeforces","points":2250.0,"problem_id":"889E","tags":["binary search","dp","math"],"title":"Mod Mod Mod"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"893C","tags":["dfs and similar","graphs","greedy"],"title":"Rumor"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"893D","tags":["data structures","dp","greedy","implementation"],"title":"Credit Card"}
+{"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"893F","tags":["data structures","trees"],"title":"Subtree Minimum Query"}
 {"difficulty":2000,"platform":"codeforces","points":1750.0,"problem_id":"895C","tags":["bitmasks","combinatorics","dp","math"],"title":"Square Subsets"}
 {"difficulty":2600,"platform":"codeforces","points":1500.0,"problem_id":"896C","tags":["data structures","probabilities"],"title":"Willem, Chtholly and Seniorious"}
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"898F","tags":["brute force","hashing","math"],"title":"Restoring the Expression"}
