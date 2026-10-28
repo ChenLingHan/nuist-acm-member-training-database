@@ -871,6 +871,7 @@
 {"difficulty":2700,"platform":"codeforces","points":null,"problem_id":"1366F","tags":["binary search","dp","geometry","graphs"],"title":"Jog Around The Graph"}
 {"difficulty":2700,"platform":"codeforces","points":null,"problem_id":"1366G","tags":["data structures","dp","strings"],"title":"Construct the String"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1367A","tags":["implementation","strings"],"title":"Short Substrings"}
+{"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1367B","tags":["greedy","math"],"title":"Even Array"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"1367F2","tags":["binary search","data structures","dp","greedy","sortings","two pointers"],"title":"Flying Sort (Hard Version)"}
 {"difficulty":1500,"platform":"codeforces","points":1500.0,"problem_id":"1368C","tags":["constructive algorithms"],"title":"Even Picture"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1370A","tags":["greedy","implementation","math","number theory"],"title":"Maximum GCD"}

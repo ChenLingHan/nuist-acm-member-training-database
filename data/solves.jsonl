@@ -842,6 +842,7 @@
 {"account_id":"a8","difficulty":2500,"member_id":"m4","observed_at":1792073909.8299985,"platform":"codeforces","problem_id":"1497E2","solved_at":1790866045.0,"source":"codeforces-api","title":"Square-Free Division (hard version)"}
 {"account_id":"a8","difficulty":1400,"member_id":"m4","observed_at":1792073909.8298628,"platform":"codeforces","problem_id":"1548A","solved_at":1791357750.0,"source":"codeforces-api","title":"Web of Lies"}
 {"account_id":"a8","difficulty":1600,"member_id":"m4","observed_at":1792073909.829508,"platform":"codeforces","problem_id":"154B","solved_at":1792047259.0,"source":"codeforces-api","title":"Colliders"}
+{"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1793193226.8198924,"platform":"codeforces","problem_id":"1566E","solved_at":1793193092.0,"source":"codeforces-api","title":"Buds Re-hanging"}
 {"account_id":"a8","difficulty":900,"member_id":"m4","observed_at":1792073909.8321338,"platform":"codeforces","problem_id":"1593B","solved_at":1771048701.0,"source":"codeforces-api","title":"Make it Divisible by 25"}
 {"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792073909.8323712,"platform":"codeforces","problem_id":"1599C","solved_at":1769826371.0,"source":"codeforces-api","title":"Bubble Strike"}
 {"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792073909.8328989,"platform":"codeforces","problem_id":"15C","solved_at":1768977013.0,"source":"codeforces-api","title":"Industrial Nim"}
@@ -8062,6 +8063,7 @@
 {"account_id":"a51","difficulty":900,"member_id":"m21","observed_at":1792127076.0429904,"platform":"codeforces","problem_id":"2247B","solved_at":1784386682.0,"source":"codeforces-api","title":"Yet Another Constructive"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0419788,"platform":"codeforces","problem_id":"2250B","solved_at":1790473601.0,"source":"codeforces-api","title":"String Construction"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.042144,"platform":"codeforces","problem_id":"2252B","solved_at":1790394786.0,"source":"codeforces-api","title":"Always Changing"}
+{"account_id":"a51","difficulty":1400,"member_id":"m21","observed_at":1793193281.242002,"platform":"codeforces","problem_id":"2252C","solved_at":1793193184.0,"source":"codeforces-api","title":"Risky Tower"}
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0422359,"platform":"codeforces","problem_id":"2253B","solved_at":1790344130.0,"source":"codeforces-api","title":"Hypercarp and the Control Panel"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0423038,"platform":"codeforces","problem_id":"2254C1","solved_at":1790192361.0,"source":"codeforces-api","title":"Marenol (easy version)"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0422685,"platform":"codeforces","problem_id":"2254C2","solved_at":1790194731.0,"source":"codeforces-api","title":"Marenol (hard version)"}
@@ -14970,6 +14972,7 @@
 {"account_id":"a117","difficulty":2,"member_id":"m52","observed_at":1792153235.9847662,"platform":"luogu","problem_id":"P1009","solved_at":1791686788.0,"source":"luogu-record-list","title":"[NOIP 1998 普及组] 阶乘之和"}
 {"account_id":"a117","difficulty":2,"member_id":"m52","observed_at":1792153235.9847844,"platform":"luogu","problem_id":"P1055","solved_at":1791652852.0,"source":"luogu-record-list","title":"[NOIP 2008 普及组] ISBN 号码"}
 {"account_id":"a117","difficulty":2,"member_id":"m52","observed_at":1792805578.0220459,"platform":"luogu","problem_id":"P1165","solved_at":1792805527.0,"source":"luogu-record-list","title":"日志分析"}
+{"account_id":"a117","difficulty":3,"member_id":"m52","observed_at":1793193339.2391515,"platform":"luogu","problem_id":"P1219","solved_at":1793192784.0,"source":"luogu-record-list","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.9848328,"platform":"luogu","problem_id":"P1421","solved_at":1791630894.0,"source":"luogu-record-list","title":"小玉买文具"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792153235.984843,"platform":"luogu","problem_id":"P1425","solved_at":1791630780.0,"source":"luogu-record-list","title":"小鱼的游泳时间"}
 {"account_id":"a117","difficulty":1,"member_id":"m52","observed_at":1792667345.7179675,"platform":"luogu","problem_id":"P1739","solved_at":1792666939.0,"source":"luogu-record-list","title":"表达式括号匹配"}
@@ -20913,6 +20916,7 @@
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3914475,"platform":"qoj","problem_id":"9749","solved_at":1785754600.0,"source":"qoj-profile","title":"小凯的省奖之梦"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915176,"platform":"qoj","problem_id":"9802","solved_at":1760869961.0,"source":"qoj-profile","title":"Light Up the Grid"}
 {"account_id":"a179","difficulty":null,"member_id":"m77","observed_at":1792163144.3915224,"platform":"qoj","problem_id":"9806","solved_at":1775564041.0,"source":"qoj-profile","title":"Growing Tree"}
+{"account_id":"a180","difficulty":800,"member_id":"m39","observed_at":1793193073.5544522,"platform":"codeforces","problem_id":"1367B","solved_at":1793192494.0,"source":"codeforces-api","title":"Even Array"}
 {"account_id":"a180","difficulty":1600,"member_id":"m39","observed_at":1793163857.6632752,"platform":"codeforces","problem_id":"1398C","solved_at":1793163517.0,"source":"codeforces-api","title":"Good Subarrays"}
 {"account_id":"a180","difficulty":1600,"member_id":"m39","observed_at":1793167528.5712764,"platform":"codeforces","problem_id":"1722E","solved_at":1793167027.0,"source":"codeforces-api","title":"Counting Rectangles"}
 {"account_id":"a180","difficulty":800,"member_id":"m39","observed_at":1792167379.616174,"platform":"codeforces","problem_id":"2276A","solved_at":1791989258.0,"source":"codeforces-api","title":"Perfect Sandwiches"}

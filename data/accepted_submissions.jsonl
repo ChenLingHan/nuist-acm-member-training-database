@@ -1299,6 +1299,7 @@
 {"accepted_at":1792842496.0,"account_id":"a8","difficulty":null,"observed_at":1792842585.6884146,"problem_id":"2277B","submission_id":"395846946","title":"Sequence Decreasing"}
 {"accepted_at":1792908519.0,"account_id":"a8","difficulty":1900,"observed_at":1792908782.422141,"problem_id":"1036C","submission_id":"395944487","title":"Classy Numbers"}
 {"accepted_at":1792916012.0,"account_id":"a8","difficulty":2300,"observed_at":1792916143.852338,"problem_id":"1073E","submission_id":"395956215","title":"Segment Sum"}
+{"accepted_at":1793193092.0,"account_id":"a8","difficulty":2000,"observed_at":1793193226.8199828,"problem_id":"1566E","submission_id":"396421470","title":"Buds Re-hanging"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -10313,6 +10314,7 @@
 {"accepted_at":1793167072.0,"account_id":"a51","difficulty":1400,"observed_at":1793167110.3575075,"problem_id":"2266E","submission_id":"396373605","title":"Prime Destruction"}
 {"accepted_at":1793181583.0,"account_id":"a51","difficulty":1400,"observed_at":1793182137.1400404,"problem_id":"2264C","submission_id":"396401312","title":"Madamant's Skating Dynasty"}
 {"accepted_at":1793188207.0,"account_id":"a51","difficulty":1300,"observed_at":1793188320.8256114,"problem_id":"2261D1","submission_id":"396412038","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
+{"accepted_at":1793193184.0,"account_id":"a51","difficulty":1400,"observed_at":1793193281.2420893,"problem_id":"2252C","submission_id":"396421661","title":"Risky Tower"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
@@ -19034,6 +19036,7 @@
 {"accepted_at":1792803386.0,"account_id":"a117","difficulty":1,"observed_at":1792803743.1870496,"problem_id":"P1897","submission_id":"305139254","title":"电梯里的尴尬"}
 {"accepted_at":1792805527.0,"account_id":"a117","difficulty":2,"observed_at":1792805578.022134,"problem_id":"P1165","submission_id":"305151217","title":"日志分析"}
 {"accepted_at":1792808776.0,"account_id":"a117","difficulty":5,"observed_at":1792809265.0883644,"problem_id":"P3805","submission_id":"305175430","title":"【模板】Manacher"}
+{"accepted_at":1793192784.0,"account_id":"a117","difficulty":3,"observed_at":1793193339.2392359,"problem_id":"P1219","submission_id":"306482887","title":"[USACO1.5] 八皇后 Checker Challenge"}
 {"accepted_at":1792066653.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924863,"problem_id":"B2002","submission_id":"303238665","title":"Hello,World!"}
 {"accepted_at":1792066888.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924618,"problem_id":"B2025","submission_id":"303240261","title":"输出字符菱形"}
 {"accepted_at":1792068880.0,"account_id":"a119","difficulty":1,"observed_at":1792153241.3924341,"problem_id":"P1425","submission_id":"303253121","title":"小鱼的游泳时间"}
@@ -26045,6 +26048,7 @@
 {"accepted_at":1793120419.0,"account_id":"a180","difficulty":1200,"observed_at":1793120988.6815555,"problem_id":"433B","submission_id":"396322447","title":"Kuriyama Mirai's Stones"}
 {"accepted_at":1793163517.0,"account_id":"a180","difficulty":1600,"observed_at":1793163857.663362,"problem_id":"1398C","submission_id":"396369159","title":"Good Subarrays"}
 {"accepted_at":1793167027.0,"account_id":"a180","difficulty":1600,"observed_at":1793167528.5713594,"problem_id":"1722E","submission_id":"396373524","title":"Counting Rectangles"}
+{"accepted_at":1793192494.0,"account_id":"a180","difficulty":800,"observed_at":1793193073.554538,"problem_id":"1367B","submission_id":"396420240","title":"Even Array"}
 {"accepted_at":1769003977.0,"account_id":"a181","difficulty":900,"observed_at":1792167449.781802,"problem_id":"1972B","submission_id":"359073670","title":"Coin Games"}
 {"accepted_at":1769182126.0,"account_id":"a181","difficulty":800,"observed_at":1792167449.7817562,"problem_id":"2189A","submission_id":"359404451","title":"Table with Numbers"}
 {"accepted_at":1769185752.0,"account_id":"a181","difficulty":1200,"observed_at":1792167449.781708,"problem_id":"2189B","submission_id":"359442625","title":"The Curse of the Frog"}
