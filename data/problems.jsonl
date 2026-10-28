@@ -3583,9 +3583,9 @@
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"2271F","tags":["constructive algorithms","data structures","dp","greedy","implementation"],"title":"Beautiful Pillers"}
 {"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2272A","tags":["brute force","greedy"],"title":"Maximize One MEX"}
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272B","tags":["constructive algorithms","greedy"],"title":"Frogs Jump"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272C","tags":[],"title":"Yet Another Black Cell Problem"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2272D","tags":[],"title":"Connecting the Conflicts"}
-{"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2272E","tags":["greedy"],"title":"Memory Cell Interception"}
+{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2272C","tags":["binary search","constructive algorithms","dp"],"title":"Yet Another Black Cell Problem"}
+{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2272D","tags":["brute force","constructive algorithms","dfs and similar","dp"],"title":"Connecting the Conflicts"}
+{"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2272E","tags":["data structures","greedy"],"title":"Memory Cell Interception"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2272F","tags":["dfs and similar","dp","games","trees"],"title":"Tree Reduction Game"}
 {"difficulty":1300,"platform":"codeforces","points":500.0,"problem_id":"2273A","tags":["binary search","constructive algorithms","dp","greedy"],"title":"Lavencia Oranges"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2274A","tags":["dfs and similar","dp","hashing","implementation","math"],"title":"The Projections of Paco"}
