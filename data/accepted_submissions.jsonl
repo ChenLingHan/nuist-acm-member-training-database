@@ -7082,6 +7082,7 @@
 {"accepted_at":1792660697.0,"account_id":"a32","difficulty":null,"observed_at":1792660804.2708693,"problem_id":"15309","submission_id":"3246419","title":"Dumb Problem II"}
 {"accepted_at":1793088372.0,"account_id":"a32","difficulty":null,"observed_at":1793088540.3265822,"problem_id":"8242","submission_id":"3291678","title":"V-Diagram"}
 {"accepted_at":1793090938.0,"account_id":"a32","difficulty":null,"observed_at":1793091564.8063374,"problem_id":"8235","submission_id":"3292266","title":"Top Cluster"}
+{"accepted_at":1793179710.0,"account_id":"a32","difficulty":null,"observed_at":1793179797.1342378,"problem_id":"7904","submission_id":"3301949","title":"Rainbow Subarray"}
 {"accepted_at":1633421257.0,"account_id":"a33","difficulty":1700,"observed_at":1792127172.4327662,"problem_id":"1312D","submission_id":"130869867","title":"Count the Arrays"}
 {"accepted_at":1633430233.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4325411,"problem_id":"446B","submission_id":"130880519","title":"DZY Loves Modification"}
 {"accepted_at":1633433408.0,"account_id":"a33","difficulty":2000,"observed_at":1792127172.4323192,"problem_id":"1408D","submission_id":"130884225","title":"Searchlights"}
@@ -10363,6 +10364,7 @@
 {"accepted_at":1792809462.0,"account_id":"a54","difficulty":5,"observed_at":1792809703.9898431,"problem_id":"P3805","submission_id":"305181160","title":"【模板】Manacher"}
 {"accepted_at":1792828111.0,"account_id":"a54","difficulty":4,"observed_at":1792828121.0219288,"problem_id":"P7410","submission_id":"305316348","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1793072240.0,"account_id":"a54","difficulty":5,"observed_at":1793072397.787124,"problem_id":"P3805","submission_id":"306090543","title":"【模板】Manacher"}
+{"accepted_at":1793179219.0,"account_id":"a54","difficulty":2,"observed_at":1793179566.8820043,"problem_id":"P1996","submission_id":"306394539","title":"约瑟夫问题"}
 {"accepted_at":1792142109.0,"account_id":"a55","difficulty":1800,"observed_at":1792142257.8199384,"problem_id":"471D","submission_id":"394791996","title":"MUH and Cube Walls"}
 {"accepted_at":1792150940.0,"account_id":"a55","difficulty":1800,"observed_at":1792151291.9676378,"problem_id":"471D","submission_id":"394806695","title":"MUH and Cube Walls"}
 {"accepted_at":1792824590.0,"account_id":"a55","difficulty":1900,"observed_at":1792824984.8450851,"problem_id":"817D","submission_id":"395799169","title":"Imbalanced Array"}

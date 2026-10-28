@@ -5232,6 +5232,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792501251.0092757,"platform":"qoj","problem_id":"7736","solved_at":1792500907.0,"source":"qoj-authenticated","title":"Red Black Tree"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792483738.9062016,"platform":"qoj","problem_id":"7744","solved_at":1792483488.0,"source":"qoj-authenticated","title":"Elevator"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792487963.9551399,"platform":"qoj","problem_id":"7745","solved_at":1792487504.0,"source":"qoj-authenticated","title":"Trapping Rain Water"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793179797.1341443,"platform":"qoj","problem_id":"7904","solved_at":1793179710.0,"source":"qoj-authenticated","title":"Rainbow Subarray"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984166,"platform":"qoj","problem_id":"8077","solved_at":1788433494.0,"source":"qoj-profile","title":"Alice and Bob"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793091564.806244,"platform":"qoj","problem_id":"8235","solved_at":1793090938.0,"source":"qoj-authenticated","title":"Top Cluster"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793088540.3264885,"platform":"qoj","problem_id":"8242","solved_at":1793088372.0,"source":"qoj-authenticated","title":"V-Diagram"}
@@ -8138,6 +8139,7 @@
 {"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792596472.6132135,"platform":"luogu","problem_id":"P1739","solved_at":1792596317.0,"source":"luogu-record-list","title":"表达式括号匹配"}
 {"account_id":"a54","difficulty":1,"member_id":"m23","observed_at":1792803590.5187411,"platform":"luogu","problem_id":"P1897","solved_at":1792803186.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a54","difficulty":3,"member_id":"m23","observed_at":1792641512.3502824,"platform":"luogu","problem_id":"P1944","solved_at":1792640993.0,"source":"luogu-record-list","title":"最长括号匹配"}
+{"account_id":"a54","difficulty":2,"member_id":"m23","observed_at":1793179566.8819184,"platform":"luogu","problem_id":"P1996","solved_at":1793179219.0,"source":"luogu-record-list","title":"约瑟夫问题"}
 {"account_id":"a54","difficulty":4,"member_id":"m23","observed_at":1792129822.5043232,"platform":"luogu","problem_id":"P3375","solved_at":1792113355.0,"source":"luogu-practice-snapshot","title":"【模板】KMP"}
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792223826.1535144,"platform":"luogu","problem_id":"P3435","solved_at":1792223359.0,"source":"luogu-record-list","title":"[POI 2006] OKR-Periods of Words"}
 {"account_id":"a54","difficulty":5,"member_id":"m23","observed_at":1792809703.989761,"platform":"luogu","problem_id":"P3805","solved_at":1792809462.0,"source":"luogu-record-list","title":"【模板】Manacher"}
