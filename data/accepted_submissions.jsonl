@@ -9785,6 +9785,7 @@
 {"accepted_at":1793185793.0,"account_id":"a48","difficulty":null,"observed_at":1793186246.637361,"problem_id":"2277A","submission_id":"396407970","title":"Subset Selecting"}
 {"accepted_at":1793185930.0,"account_id":"a48","difficulty":null,"observed_at":1793186246.6372175,"problem_id":"2277B","submission_id":"396408222","title":"Sequence Decreasing"}
 {"accepted_at":1793186633.0,"account_id":"a48","difficulty":null,"observed_at":1793186860.7274332,"problem_id":"2277C","submission_id":"396409416","title":"Edge Addeleting"}
+{"accepted_at":1793189317.0,"account_id":"a48","difficulty":null,"observed_at":1793189437.2019303,"problem_id":"2277D1","submission_id":"396414047","title":"Number Operating (Easy Version)"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -12193,6 +12194,7 @@
 {"accepted_at":1793117924.0,"account_id":"a74","difficulty":null,"observed_at":1793118306.1735132,"problem_id":"2272D","submission_id":"396317621","title":"Connecting the Conflicts"}
 {"accepted_at":1793187403.0,"account_id":"a74","difficulty":1500,"observed_at":1793187436.7451723,"problem_id":"2149E","submission_id":"396410649","title":"Hidden Knowledge of the Ancients"}
 {"accepted_at":1793188387.0,"account_id":"a74","difficulty":800,"observed_at":1793188656.8958364,"problem_id":"2072A","submission_id":"396412363","title":"New World, New Me, New Array"}
+{"accepted_at":1793188659.0,"account_id":"a74","difficulty":900,"observed_at":1793189429.1727374,"problem_id":"2072B","submission_id":"396412807","title":"Having Been a Treasurer in the Past, I Help Goblins Deceive"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
