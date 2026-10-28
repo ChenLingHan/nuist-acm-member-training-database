@@ -3895,6 +3895,7 @@
 {"difficulty":2900,"platform":"codeforces","points":2000.0,"problem_id":"722E","tags":["combinatorics","dp"],"title":"Research Rover"}
 {"difficulty":2300,"platform":"codeforces","points":3000.0,"problem_id":"723F","tags":["dsu","graphs","greedy","implementation"],"title":"st-Spanning Tree"}
 {"difficulty":2600,"platform":"codeforces","points":2500.0,"problem_id":"724G","tags":["bitmasks","graphs","math","number theory","trees"],"title":"Xor-matic Number of the Graph"}
+{"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"727E","tags":["data structures","hashing","string suffix structures","strings"],"title":"Games on a CD"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"730I","tags":["dp","flows","graphs","greedy"],"title":"Olympiad in Programming and Sports"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"730J","tags":["dp"],"title":"Bottles"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"731C","tags":["dfs and similar","dsu","graphs","greedy"],"title":"Socks"}
