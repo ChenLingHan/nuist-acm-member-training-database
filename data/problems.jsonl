@@ -1061,6 +1061,7 @@
 {"difficulty":2200,"platform":"codeforces","points":2250.0,"problem_id":"1526D","tags":["brute force","constructive algorithms","data structures","math","strings"],"title":"Kill Anton"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1527A","tags":["bitmasks"],"title":"And Then There Were K"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"1527B1","tags":["constructive algorithms","games"],"title":"Palindrome Game (easy version)"}
+{"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1527C","tags":["hashing","implementation","math"],"title":"Sequence Pair Weight"}
 {"difficulty":1600,"platform":"codeforces","points":750.0,"problem_id":"1528A","tags":["dfs and similar","divide and conquer","dp","greedy","trees"],"title":"Parsa's Humongous Tree"}
 {"difficulty":1700,"platform":"codeforces","points":1000.0,"problem_id":"1528B","tags":["combinatorics","dp","math"],"title":"Kavi on Pairing Duty"}
 {"difficulty":2300,"platform":"codeforces","points":1750.0,"problem_id":"1528C","tags":["data structures","dfs and similar","greedy","trees"],"title":"Trees of Tranquillity"}

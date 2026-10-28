@@ -1991,6 +1991,7 @@
 {"accepted_at":1793031199.0,"account_id":"a11","difficulty":null,"observed_at":1793031805.8749115,"problem_id":"2272C","submission_id":"396163986","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793034914.0,"account_id":"a11","difficulty":null,"observed_at":1793034947.5711832,"problem_id":"2272D","submission_id":"396202027","title":"Connecting the Conflicts"}
 {"accepted_at":1793114969.0,"account_id":"a11","difficulty":1600,"observed_at":1793115470.608052,"problem_id":"1542C","submission_id":"396311811","title":"Strange Function"}
+{"accepted_at":1793196572.0,"account_id":"a11","difficulty":1600,"observed_at":1793197059.5516381,"problem_id":"1542C","submission_id":"396429032","title":"Strange Function"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -9789,6 +9790,7 @@
 {"accepted_at":1793186633.0,"account_id":"a48","difficulty":null,"observed_at":1793186860.7274332,"problem_id":"2277C","submission_id":"396409416","title":"Edge Addeleting"}
 {"accepted_at":1793189317.0,"account_id":"a48","difficulty":null,"observed_at":1793189437.2019303,"problem_id":"2277D1","submission_id":"396414047","title":"Number Operating (Easy Version)"}
 {"accepted_at":1793193849.0,"account_id":"a48","difficulty":null,"observed_at":1793194389.4689977,"problem_id":"2277D2","submission_id":"396423157","title":"Number Operating (Hard Version)"}
+{"accepted_at":1793196214.0,"account_id":"a48","difficulty":null,"observed_at":1793196860.5573478,"problem_id":"2277D2","submission_id":"396428248","title":"Number Operating (Hard Version)"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
