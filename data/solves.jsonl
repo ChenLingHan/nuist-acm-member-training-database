@@ -200,6 +200,7 @@
 {"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1793103633.103235,"platform":"luogu","problem_id":"P14455","solved_at":1793103307.0,"source":"luogu-record-list","title":"[ICPC 2025 Xi'an R] Imagined Holly"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.465375,"platform":"luogu","problem_id":"P1480","solved_at":1659755407.0,"source":"luogu-practice-snapshot","title":"A/B Problem（高精度除法Ⅰ）"}
 {"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1792052898.4653761,"platform":"luogu","problem_id":"P1531","solved_at":1614330626.0,"source":"luogu-practice-snapshot","title":"I Hate It"}
+{"account_id":"a1","difficulty":4,"member_id":"m1","observed_at":1793177551.0308697,"platform":"luogu","problem_id":"P15904","solved_at":1793170917.0,"source":"luogu-record-list","title":"[TOPC 2025] Stapler"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.4653776,"platform":"luogu","problem_id":"P1591","solved_at":1628052700.0,"source":"luogu-practice-snapshot","title":"阶乘数码"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.4653788,"platform":"luogu","problem_id":"P1601","solved_at":1627090932.0,"source":"luogu-practice-snapshot","title":"高精度加法"}
 {"account_id":"a1","difficulty":2,"member_id":"m1","observed_at":1792052898.4653802,"platform":"luogu","problem_id":"P1618","solved_at":1627096013.0,"source":"luogu-practice-snapshot","title":"三连击（升级版）"}
@@ -3024,6 +3025,7 @@
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792927300.611517,"platform":"luogu","problem_id":"P12630","solved_at":1792927233.0,"source":"luogu-record-list","title":"[ICPC 2025 NAC] SLA Tomography"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1792081739.3549087,"platform":"luogu","problem_id":"P1282","solved_at":1731655419.0,"source":"luogu-practice-snapshot","title":"[CEOI 1997] 多米诺骨牌"}
 {"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1793017623.3709378,"platform":"luogu","problem_id":"P14452","solved_at":1793017142.0,"source":"luogu-record-list","title":"[ICPC 2025 Xi'an R] Follow the Penguins"}
+{"account_id":"a25","difficulty":4,"member_id":"m11","observed_at":1793177521.6921368,"platform":"luogu","problem_id":"P14456","solved_at":1793177348.0,"source":"luogu-record-list","title":"[ICPC 2025 Xi'an R] January's Color"}
 {"account_id":"a25","difficulty":2,"member_id":"m11","observed_at":1792081739.354922,"platform":"luogu","problem_id":"P1536","solved_at":1723266952.0,"source":"luogu-practice-snapshot","title":"村村通"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.354935,"platform":"luogu","problem_id":"P1551","solved_at":1723267593.0,"source":"luogu-practice-snapshot","title":"亲戚"}
 {"account_id":"a25","difficulty":3,"member_id":"m11","observed_at":1792081739.3549478,"platform":"luogu","problem_id":"P1656","solved_at":1723260088.0,"source":"luogu-practice-snapshot","title":"炸铁路"}
@@ -7559,6 +7561,9 @@
 {"account_id":"a48","difficulty":2300,"member_id":"m20","observed_at":1792127074.139717,"platform":"codeforces","problem_id":"2271F","solved_at":1792067315.0,"source":"codeforces-api","title":"Beautiful Pillers"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793167380.6237104,"platform":"codeforces","problem_id":"2272A","solved_at":1793167292.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793167987.5399058,"platform":"codeforces","problem_id":"2272B","solved_at":1793167575.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793177612.9433613,"platform":"codeforces","problem_id":"2272C","solved_at":1793169832.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
+{"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793177612.943332,"platform":"codeforces","problem_id":"2272D","solved_at":1793172687.0,"source":"codeforces-api","title":"Connecting the Conflicts"}
+{"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793177612.9431148,"platform":"codeforces","problem_id":"2272E","solved_at":1793175521.0,"source":"codeforces-api","title":"Memory Cell Interception"}
 {"account_id":"a48","difficulty":800,"member_id":"m20","observed_at":1792127074.1398737,"platform":"codeforces","problem_id":"2276A","solved_at":1792044504.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a48","difficulty":1000,"member_id":"m20","observed_at":1792127074.1398149,"platform":"codeforces","problem_id":"2276B","solved_at":1792057500.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a48","difficulty":1100,"member_id":"m20","observed_at":1792127074.139859,"platform":"codeforces","problem_id":"2276C","solved_at":1792057485.0,"source":"codeforces-api","title":"Subarrays"}
@@ -8105,6 +8110,7 @@
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792804159.0954344,"platform":"luogu","problem_id":"P1165","solved_at":1792804092.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792410793.0703573,"platform":"luogu","problem_id":"P1182","solved_at":1792410754.0,"source":"luogu-record-list","title":"数列分段 Section II"}
 {"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1792483418.7227647,"platform":"luogu","problem_id":"P1219","solved_at":1792482890.0,"source":"luogu-record-list","title":"[USACO1.5] 八皇后 Checker Challenge"}
+{"account_id":"a52","difficulty":3,"member_id":"m22","observed_at":1793177657.9198077,"platform":"luogu","problem_id":"P1364","solved_at":1793168510.0,"source":"luogu-record-list","title":"医院设置"}
 {"account_id":"a52","difficulty":4,"member_id":"m22","observed_at":1792508475.6726112,"platform":"luogu","problem_id":"P1433","solved_at":1792508432.0,"source":"luogu-record-list","title":"吃奶酪"}
 {"account_id":"a52","difficulty":2,"member_id":"m22","observed_at":1792672013.3847644,"platform":"luogu","problem_id":"P1443","solved_at":1792671932.0,"source":"luogu-record-list","title":"马的遍历"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792802328.6911418,"platform":"luogu","problem_id":"P1897","solved_at":1792802235.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
@@ -13973,6 +13979,7 @@
 {"account_id":"a107","difficulty":1200,"member_id":"m47","observed_at":1792148507.394939,"platform":"codeforces","problem_id":"2256C","solved_at":1786290402.0,"source":"codeforces-api","title":"Hot Potatoes at the Fairy Warehouse"}
 {"account_id":"a107","difficulty":null,"member_id":"m47","observed_at":1793173136.9474654,"platform":"codeforces","problem_id":"2272A","solved_at":1793168494.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a107","difficulty":null,"member_id":"m47","observed_at":1793173136.9472456,"platform":"codeforces","problem_id":"2272B","solved_at":1793169827.0,"source":"codeforces-api","title":"Frogs Jump"}
+{"account_id":"a107","difficulty":null,"member_id":"m47","observed_at":1793177729.320756,"platform":"codeforces","problem_id":"2272C","solved_at":1793176120.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a107","difficulty":2600,"member_id":"m47","observed_at":1792148507.394846,"platform":"codeforces","problem_id":"240F","solved_at":1790757335.0,"source":"codeforces-api","title":"TorCoder"}
 {"account_id":"a107","difficulty":2000,"member_id":"m47","observed_at":1792148507.3948567,"platform":"codeforces","problem_id":"242E","solved_at":1790672083.0,"source":"codeforces-api","title":"XOR on Segment"}
 {"account_id":"a107","difficulty":1800,"member_id":"m47","observed_at":1792148507.3962336,"platform":"codeforces","problem_id":"371D","solved_at":1762778970.0,"source":"codeforces-api","title":"Vessels"}
@@ -17329,6 +17336,7 @@
 {"account_id":"a150","difficulty":2100,"member_id":"m66","observed_at":1792148545.1176033,"platform":"codeforces","problem_id":"1811G1","solved_at":1791967189.0,"source":"codeforces-api","title":"Vlad and the Nice Paths (easy version)"}
 {"account_id":"a150","difficulty":2600,"member_id":"m66","observed_at":1792148545.1182847,"platform":"codeforces","problem_id":"1823F","solved_at":1790992004.0,"source":"codeforces-api","title":"Random Walk"}
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792407241.8322275,"platform":"codeforces","problem_id":"182D","solved_at":1792406882.0,"source":"codeforces-api","title":"Common Divisors"}
+{"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1793177692.366191,"platform":"codeforces","problem_id":"1835A","solved_at":1793176911.0,"source":"codeforces-api","title":"k-th equality"}
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1184227,"platform":"codeforces","problem_id":"1849C","solved_at":1790854306.0,"source":"codeforces-api","title":"Binary String Copying"}
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792148545.1187944,"platform":"codeforces","problem_id":"1905C","solved_at":1790516782.0,"source":"codeforces-api","title":"Largest Subsequence"}
 {"account_id":"a150","difficulty":1300,"member_id":"m66","observed_at":1792148545.1212103,"platform":"codeforces","problem_id":"1931D","solved_at":1769238331.0,"source":"codeforces-api","title":"Divisible Pairs"}

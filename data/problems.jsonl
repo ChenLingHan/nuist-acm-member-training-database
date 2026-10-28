@@ -1844,6 +1844,7 @@
 {"difficulty":1200,"platform":"codeforces","points":1250.0,"problem_id":"1834C","tags":["games","greedy","math","strings"],"title":"Game with Reversing"}
 {"difficulty":1900,"platform":"codeforces","points":1750.0,"problem_id":"1834D","tags":["brute force","data structures","greedy","implementation","sortings"],"title":"Survey in Class"}
 {"difficulty":2300,"platform":"codeforces","points":2500.0,"problem_id":"1834E","tags":["binary search","data structures","implementation","math","number theory"],"title":"MEX of LCM"}
+{"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"1835A","tags":["brute force","implementation","math"],"title":"k-th equality"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1837A","tags":["constructive algorithms","math"],"title":"Grasshopper on a Line"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1837B","tags":["greedy"],"title":"Comparison String"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"1837C","tags":["constructive algorithms","greedy"],"title":"Best Binary String"}
@@ -5925,6 +5926,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1443","tags":[],"title":"马的遍历"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P14452","tags":[],"title":"[ICPC 2025 Xi'an R] Follow the Penguins"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P14455","tags":[],"title":"[ICPC 2025 Xi'an R] Imagined Holly"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P14456","tags":[],"title":"[ICPC 2025 Xi'an R] January's Color"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1447","tags":[],"title":"[NOI2010] 能量采集"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1449","tags":[],"title":"后缀表达式"}
 {"difficulty":5,"platform":"luogu","points":null,"problem_id":"P1450","tags":[],"title":"[HAOI2008] 硬币购物"}
@@ -6061,6 +6063,7 @@
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1589","tags":[],"title":"[USACO05OPEN] 泥泞路"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P15896","tags":[],"title":"[TOPC 2025] Palindromic Distance"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1590","tags":[],"title":"失踪的7"}
+{"difficulty":4,"platform":"luogu","points":null,"problem_id":"P15904","tags":[],"title":"[TOPC 2025] Stapler"}
 {"difficulty":2,"platform":"luogu","points":null,"problem_id":"P1591","tags":[],"title":"阶乘数码"}
 {"difficulty":3,"platform":"luogu","points":null,"problem_id":"P1592","tags":[],"title":"互质"}
 {"difficulty":4,"platform":"luogu","points":null,"problem_id":"P1593","tags":[],"title":"因子和"}

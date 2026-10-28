@@ -480,6 +480,7 @@
 {"accepted_at":1793097654.0,"account_id":"a1","difficulty":4,"observed_at":1793098024.6653936,"problem_id":"P12630","submission_id":"306176575","title":"[ICPC 2025 NAC] SLA Tomography"}
 {"accepted_at":1793103307.0,"account_id":"a1","difficulty":4,"observed_at":1793103633.103445,"problem_id":"P14455","submission_id":"306216076","title":"[ICPC 2025 Xi'an R] Imagined Holly"}
 {"accepted_at":1793103544.0,"account_id":"a1","difficulty":4,"observed_at":1793103633.1033263,"problem_id":"P14455","submission_id":"306218105","title":"[ICPC 2025 Xi'an R] Imagined Holly"}
+{"accepted_at":1793170917.0,"account_id":"a1","difficulty":4,"observed_at":1793177551.0309553,"problem_id":"P15904","submission_id":"306352463","title":"[TOPC 2025] Stapler"}
 {"accepted_at":1721055750.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.920079,"problem_id":"1988A","submission_id":"270673349","title":"Split the Multiset"}
 {"accepted_at":1721056723.0,"account_id":"a2","difficulty":900,"observed_at":1792070042.9200747,"problem_id":"1988B","submission_id":"270688461","title":"Make Majority"}
 {"accepted_at":1721060197.0,"account_id":"a2","difficulty":1300,"observed_at":1792070042.9200702,"problem_id":"1988C","submission_id":"270728802","title":"Increasing Sequence with Fixed OR"}
@@ -4125,6 +4126,7 @@
 {"accepted_at":1792805520.0,"account_id":"a25","difficulty":5,"observed_at":1792805854.3800008,"problem_id":"P3805","submission_id":"305151176","title":"【模板】Manacher"}
 {"accepted_at":1792927233.0,"account_id":"a25","difficulty":4,"observed_at":1792927300.6116006,"problem_id":"P12630","submission_id":"305745091","title":"[ICPC 2025 NAC] SLA Tomography"}
 {"accepted_at":1793017142.0,"account_id":"a25","difficulty":4,"observed_at":1793017623.3710203,"problem_id":"P14452","submission_id":"305989613","title":"[ICPC 2025 Xi'an R] Follow the Penguins"}
+{"accepted_at":1793177348.0,"account_id":"a25","difficulty":4,"observed_at":1793177521.6922371,"problem_id":"P14456","submission_id":"306382783","title":"[ICPC 2025 Xi'an R] January's Color"}
 {"accepted_at":1790593421.0,"account_id":"a26","difficulty":null,"observed_at":1792126978.7973619,"problem_id":"9568","submission_id":"3053251","title":"Left Shifting 3"}
 {"accepted_at":1790599833.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6680236,"problem_id":"9573","submission_id":"3054104","title":"Social Media"}
 {"accepted_at":1791456224.0,"account_id":"a26","difficulty":null,"observed_at":1792082326.6679103,"problem_id":"6428","submission_id":"3130838","title":"K Co-prime Permutation"}
@@ -9774,6 +9776,9 @@
 {"accepted_at":1792575222.0,"account_id":"a48","difficulty":null,"observed_at":1792575628.9535327,"problem_id":"105588G","submission_id":"395442426","title":"GCD"}
 {"accepted_at":1793167292.0,"account_id":"a48","difficulty":null,"observed_at":1793167380.623822,"problem_id":"2272A","submission_id":"396373948","title":"Maximize One MEX"}
 {"accepted_at":1793167575.0,"account_id":"a48","difficulty":null,"observed_at":1793167987.54001,"problem_id":"2272B","submission_id":"396374470","title":"Frogs Jump"}
+{"accepted_at":1793169832.0,"account_id":"a48","difficulty":null,"observed_at":1793177612.943368,"problem_id":"2272C","submission_id":"396379213","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793172687.0,"account_id":"a48","difficulty":null,"observed_at":1793177612.943341,"problem_id":"2272D","submission_id":"396385270","title":"Connecting the Conflicts"}
+{"accepted_at":1793175521.0,"account_id":"a48","difficulty":null,"observed_at":1793177612.943214,"problem_id":"2272E","submission_id":"396390698","title":"Memory Cell Interception"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -10328,6 +10333,7 @@
 {"accepted_at":1792824967.0,"account_id":"a52","difficulty":4,"observed_at":1792825017.9895623,"problem_id":"P7410","submission_id":"305283644","title":"[USACO21FEB] Just Green Enough S"}
 {"accepted_at":1792836954.0,"account_id":"a52","difficulty":5,"observed_at":1792837270.3329055,"problem_id":"P3805","submission_id":"305387794","title":"【模板】Manacher"}
 {"accepted_at":1793159187.0,"account_id":"a52","difficulty":3,"observed_at":1793159562.4669693,"problem_id":"P3884","submission_id":"306322934","title":"[JLOI2009] 二叉树问题"}
+{"accepted_at":1793168510.0,"account_id":"a52","difficulty":3,"observed_at":1793177657.9198961,"problem_id":"P1364","submission_id":"306344054","title":"医院设置"}
 {"accepted_at":1792818487.0,"account_id":"a53","difficulty":1900,"observed_at":1792818515.756751,"problem_id":"817D","submission_id":"395790136","title":"Imbalanced Array"}
 {"accepted_at":1792818546.0,"account_id":"a53","difficulty":1900,"observed_at":1792819124.6014917,"problem_id":"817D","submission_id":"395790202","title":"Imbalanced Array"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
@@ -17961,6 +17967,7 @@
 {"accepted_at":1792575222.0,"account_id":"a107","difficulty":null,"observed_at":1792575669.4009686,"problem_id":"105588G","submission_id":"395442426","title":"GCD"}
 {"accepted_at":1793168494.0,"account_id":"a107","difficulty":null,"observed_at":1793173136.9474742,"problem_id":"2272A","submission_id":"396376308","title":"Maximize One MEX"}
 {"accepted_at":1793169827.0,"account_id":"a107","difficulty":null,"observed_at":1793173136.9473488,"problem_id":"2272B","submission_id":"396379204","title":"Frogs Jump"}
+{"accepted_at":1793176120.0,"account_id":"a107","difficulty":null,"observed_at":1793177729.3208501,"problem_id":"2272C","submission_id":"396391685","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1790974501.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.856845,"problem_id":"P2393","submission_id":"300531850","title":"yyy loves Maths II"}
 {"accepted_at":1790974905.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.8567226,"problem_id":"P2393","submission_id":"300531873","title":"yyy loves Maths II"}
 {"accepted_at":1792223627.0,"account_id":"a108","difficulty":3,"observed_at":1792223767.5046532,"problem_id":"P7911","submission_id":"303639248","title":"[CSP-J 2021] 网络连接"}
@@ -22165,6 +22172,7 @@
 {"accepted_at":1792840857.0,"account_id":"a150","difficulty":null,"observed_at":1792841438.3776655,"problem_id":"2277B","submission_id":"395834770","title":"Sequence Decreasing"}
 {"accepted_at":1792845590.0,"account_id":"a150","difficulty":null,"observed_at":1792845707.9260144,"problem_id":"2277D1","submission_id":"395861466","title":"Number Operating (Easy Version)"}
 {"accepted_at":1792846680.0,"account_id":"a150","difficulty":null,"observed_at":1792846928.1716757,"problem_id":"2277C","submission_id":"395865508","title":"Edge Addeleting"}
+{"accepted_at":1793176911.0,"account_id":"a150","difficulty":1700,"observed_at":1793177692.366275,"problem_id":"1835A","submission_id":"396393082","title":"k-th equality"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
