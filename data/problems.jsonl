@@ -3600,7 +3600,7 @@
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"2276F","tags":["brute force","dp","dsu","games","greedy","implementation","math"],"title":"Permutation Coloring Game"}
 {"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2277A","tags":["greedy"],"title":"Subset Selecting"}
 {"difficulty":null,"platform":"codeforces","points":750.0,"problem_id":"2277B","tags":["constructive algorithms","greedy"],"title":"Sequence Decreasing"}
-{"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2277C","tags":["dfs and similar","graphs","greedy","trees"],"title":"Edge Addeleting"}
+{"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2277C","tags":["dfs and similar","greedy","trees"],"title":"Edge Addeleting"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2277D1","tags":[],"title":"Number Operating (Easy Version)"}
 {"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2277D2","tags":["bitmasks","brute force","divide and conquer","dp"],"title":"Number Operating (Hard Version)"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
