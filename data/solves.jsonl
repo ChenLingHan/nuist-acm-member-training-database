@@ -5232,6 +5232,7 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792501251.0092757,"platform":"qoj","problem_id":"7736","solved_at":1792500907.0,"source":"qoj-authenticated","title":"Red Black Tree"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792483738.9062016,"platform":"qoj","problem_id":"7744","solved_at":1792483488.0,"source":"qoj-authenticated","title":"Elevator"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792487963.9551399,"platform":"qoj","problem_id":"7745","solved_at":1792487504.0,"source":"qoj-authenticated","title":"Trapping Rain Water"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793188283.046327,"platform":"qoj","problem_id":"7895","solved_at":1793187703.0,"source":"qoj-authenticated","title":"Graph Partitioning 2"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793179797.1341443,"platform":"qoj","problem_id":"7904","solved_at":1793179710.0,"source":"qoj-authenticated","title":"Rainbow Subarray"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984166,"platform":"qoj","problem_id":"8077","solved_at":1788433494.0,"source":"qoj-profile","title":"Alice and Bob"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793091564.806244,"platform":"qoj","problem_id":"8235","solved_at":1793090938.0,"source":"qoj-authenticated","title":"Top Cluster"}
@@ -8076,6 +8077,7 @@
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.042632,"platform":"codeforces","problem_id":"2260A","solved_at":1788878517.0,"source":"codeforces-api","title":"Monocarp's Contest"}
 {"account_id":"a51","difficulty":900,"member_id":"m21","observed_at":1792127076.0425975,"platform":"codeforces","problem_id":"2260B","solved_at":1788881404.0,"source":"codeforces-api","title":"Monocarp and Projects"}
 {"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1792127076.041951,"platform":"codeforces","problem_id":"2260C","solved_at":1790577420.0,"source":"codeforces-api","title":"Maximize XOR, Minimize Operations"}
+{"account_id":"a51","difficulty":1300,"member_id":"m21","observed_at":1793188320.825521,"platform":"codeforces","problem_id":"2261D1","solved_at":1793188207.0,"source":"codeforces-api","title":"Come Be My Friend, Don't Be So Scared (Easy Version)"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.042464,"platform":"codeforces","problem_id":"2264B","solved_at":1790164558.0,"source":"codeforces-api","title":"Knife's Pill Farm"}
 {"account_id":"a51","difficulty":1400,"member_id":"m21","observed_at":1793182137.1399567,"platform":"codeforces","problem_id":"2264C","solved_at":1793181583.0,"source":"codeforces-api","title":"Madamant's Skating Dynasty"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0425646,"platform":"codeforces","problem_id":"2266A","solved_at":1790002790.0,"source":"codeforces-api","title":"Good Contest"}
@@ -9516,6 +9518,7 @@
 {"account_id":"a74","difficulty":1600,"member_id":"m32","observed_at":1792127097.137407,"platform":"codeforces","problem_id":"2063C","solved_at":1774292378.0,"source":"codeforces-api","title":"Remove Exactly Two"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1450963,"platform":"codeforces","problem_id":"2069C","solved_at":1773239357.0,"source":"codeforces-api","title":"Beautiful Sequence"}
 {"account_id":"a74","difficulty":1100,"member_id":"m32","observed_at":1792127097.1280801,"platform":"codeforces","problem_id":"2071B","solved_at":1785923864.0,"source":"codeforces-api","title":"Perfecto"}
+{"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1793188656.895753,"platform":"codeforces","problem_id":"2072A","solved_at":1793188387.0,"source":"codeforces-api","title":"New World, New Me, New Array"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.162113,"platform":"codeforces","problem_id":"2074A","solved_at":1766208808.0,"source":"codeforces-api","title":"Draw a Square"}
 {"account_id":"a74","difficulty":800,"member_id":"m32","observed_at":1792127097.1614838,"platform":"codeforces","problem_id":"2074B","solved_at":1766209351.0,"source":"codeforces-api","title":"The Third Side"}
 {"account_id":"a74","difficulty":1100,"member_id":"m32","observed_at":1792127097.1619327,"platform":"codeforces","problem_id":"2074C","solved_at":1766214998.0,"source":"codeforces-api","title":"XOR and Triangle"}
