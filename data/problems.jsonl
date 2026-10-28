@@ -1131,6 +1131,7 @@
 {"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"1562B","tags":["brute force","constructive algorithms","implementation","math","number theory"],"title":"Scenes From a Memory"}
 {"difficulty":2000,"platform":"codeforces","points":1750.0,"problem_id":"1567D","tags":["constructive algorithms","greedy","implementation","math"],"title":"Expression Evaluation Error"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"1569C","tags":["combinatorics","math"],"title":"Jury Meeting"}
+{"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1569D","tags":["binary search","data structures","implementation","sortings","two pointers"],"title":"Inconvenient Pairs"}
 {"difficulty":2000,"platform":"codeforces","points":1500.0,"problem_id":"156C","tags":["combinatorics","dp"],"title":"Cipher"}
 {"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"1571D","tags":["*special","brute force","constructive algorithms","implementation","math"],"title":"Sweepstake"}
 {"difficulty":2700,"platform":"codeforces","points":1750.0,"problem_id":"1572C","tags":["dp","greedy"],"title":"Paint"}
@@ -1476,6 +1477,7 @@
 {"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"1721D","tags":["bitmasks","dfs and similar","divide and conquer","greedy","sortings"],"title":"Maximum AND"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1722A","tags":["implementation"],"title":"Spell Check"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1722B","tags":["implementation"],"title":"Colourblindness"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1722E","tags":["brute force","data structures","dp","implementation"],"title":"Counting Rectangles"}
 {"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"1722G","tags":["bitmasks","constructive algorithms","greedy"],"title":"Even-Odd XOR"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"1725C","tags":["binary search","combinatorics","geometry","math","two pointers"],"title":"Circular Mirror"}
 {"difficulty":2500,"platform":"codeforces","points":null,"problem_id":"1725E","tags":["combinatorics","data structures","dp","math","number theory","trees"],"title":"Electrical Efficiency"}
@@ -3470,6 +3472,7 @@
 {"difficulty":1300,"platform":"codeforces","points":750.0,"problem_id":"2249A","tags":["brute force","greedy","implementation"],"title":"Rank Subsequence"}
 {"difficulty":1700,"platform":"codeforces","points":1250.0,"problem_id":"2249B","tags":["combinatorics","implementation","math"],"title":"Permutation Cuts"}
 {"difficulty":2000,"platform":"codeforces","points":1750.0,"problem_id":"2249C","tags":["data structures","dfs and similar","dsu","implementation","two pointers"],"title":"Double-Rift Dial"}
+{"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"224B","tags":["bitmasks","implementation","two pointers"],"title":"Array"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2250A","tags":["brute force","implementation","math"],"title":"Threshold Movement"}
 {"difficulty":1000,"platform":"codeforces","points":750.0,"problem_id":"2250B","tags":["constructive algorithms"],"title":"String Construction"}
 {"difficulty":1300,"platform":"codeforces","points":1500.0,"problem_id":"2250C","tags":["brute force","greedy","implementation"],"title":"Rank Subsequence"}

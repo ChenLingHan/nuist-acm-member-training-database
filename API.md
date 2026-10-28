@@ -1,3 +1,28 @@
+
+## 大文件与分片读取（storage_version=1）
+
+逻辑字段仍采用 api_version=2；物理下载格式由 data/index.json 的 storage_version 标识。
+小文件保留原格式。超过 16 MiB 的表 JSON 改为分片清单：storage="sharded"、revision、count、parts。
+按 parts 顺序读取每个 path，将其 items 连接，即为完整表；每片约 8 MiB，所有片的 revision 应与 index 一致。
+data/dataset.json 也可能是清单，tables 给出各表入口；不再保证该地址直接包含全部数组。
+完整无损 JSON 快照在 index.paths.dataset_gzip（若存在），下载后 gzip 解压得到原版完整对象，字段未减少。
+超过 16 MiB 的 JSONL 用 .jsonl.gz 发布，原路径与压缩路径映射在 index.compressed_files。
+SHA-256 始终校验下载文件本身（压缩文件先校验，再解压）。建议固定同一提交 SHA 读取全部文件。
+data/training-public.sqlite3 与看板 data/dashboard.json 保持原用法。所有分片均纳入 index.files 校验清单。
+最新 Python 示例 examples/read_data.py 会自动选择完整压缩快照。
+
+```javascript
+async function readTable(base, path, revision) {
+  const data = await fetch(base + path).then(r => { if (!r.ok) throw Error(r.status); return r.json(); });
+  if (data.revision !== revision) throw Error('Snapshot changed; retry or pin a commit');
+  if (data.storage !== 'sharded') return data.items;
+  const rows = [];
+  for (const part of data.parts) rows.push(...await readTable(base, part.path, revision));
+  if (rows.length !== data.count) throw Error('Incomplete table');
+  return rows;
+}
+```
+
 # 静态数据接口 v2
 
 本仓库提供无需鉴权、无需后端服务的只读文件接口，独立于展示页面。v1 大屏接口继续兼容。无 POST、服务端筛选或分页查询接口；URL 后增加 handle 等查询参数不会筛选数据，请客户端筛选。
