@@ -4,6 +4,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"100216E","tags":[],"title":"Shortest Path"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"100357K","tags":[],"title":"Parse Tree"}
 {"difficulty":2300,"platform":"codeforces","points":2000.0,"problem_id":"1004D","tags":["brute force","constructive algorithms","implementation"],"title":"Sonya and Matrix"}
+{"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1005C","tags":["brute force","greedy","implementation"],"title":"Summarize to the Power of Two"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"100651B","tags":[],"title":"Anti-prime Sequences"}
 {"difficulty":3200,"platform":"codeforces","points":2250.0,"problem_id":"1007D","tags":["2-sat","data structures","trees"],"title":"Ants"}
 {"difficulty":3400,"platform":"codeforces","points":2500.0,"problem_id":"1007E","tags":["dp"],"title":"Mini Metro"}
@@ -3841,6 +3842,7 @@
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"607A","tags":["binary search","dp"],"title":"Chain Reaction"}
 {"difficulty":1900,"platform":"codeforces","points":1250.0,"problem_id":"607B","tags":["dp"],"title":"Zuma"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"609A","tags":["greedy","implementation","sortings"],"title":"USB Flash Drives"}
+{"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"609E","tags":["data structures","dfs and similar","dsu","graphs","trees"],"title":"Minimum spanning tree for each edge"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"612C","tags":["data structures","expression parsing","math"],"title":"Replace To Make Regular Bracket Sequence"}
 {"difficulty":2800,"platform":"codeforces","points":2000.0,"problem_id":"613D","tags":["dfs and similar","divide and conquer","dp","graphs","sortings","trees"],"title":"Kingdom and its Cities"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"617A","tags":["math"],"title":"Elephant"}

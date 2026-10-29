@@ -912,6 +912,7 @@
 {"account_id":"a8","difficulty":1100,"member_id":"m4","observed_at":1792073909.830527,"platform":"codeforces","problem_id":"252A","solved_at":1789621933.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a8","difficulty":1300,"member_id":"m4","observed_at":1792073909.8306744,"platform":"codeforces","problem_id":"257B","solved_at":1789095308.0,"source":"codeforces-api","title":"Playing Cubes"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1792138703.9011204,"platform":"codeforces","problem_id":"264B","solved_at":1792138634.0,"source":"codeforces-api","title":"Good Sequences"}
+{"account_id":"a8","difficulty":1800,"member_id":"m4","observed_at":1793279071.6748123,"platform":"codeforces","problem_id":"300C","solved_at":1793278659.0,"source":"codeforces-api","title":"Beautiful Numbers"}
 {"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792073909.833322,"platform":"codeforces","problem_id":"319B","solved_at":1761565461.0,"source":"codeforces-api","title":"Psychos in a Line"}
 {"account_id":"a8","difficulty":2300,"member_id":"m4","observed_at":1792832826.8091743,"platform":"codeforces","problem_id":"327E","solved_at":1792832695.0,"source":"codeforces-api","title":"Axis Walking"}
 {"account_id":"a8","difficulty":2000,"member_id":"m4","observed_at":1792073909.830087,"platform":"codeforces","problem_id":"371E","solved_at":1790780404.0,"source":"codeforces-api","title":"Subway Innovation"}
@@ -7559,6 +7560,7 @@
 {"account_id":"a48","difficulty":1300,"member_id":"m20","observed_at":1792127074.1399286,"platform":"codeforces","problem_id":"2260C","solved_at":1791986659.0,"source":"codeforces-api","title":"Maximize XOR, Minimize Operations"}
 {"account_id":"a48","difficulty":1700,"member_id":"m20","observed_at":1792127074.139904,"platform":"codeforces","problem_id":"2260D","solved_at":1791988173.0,"source":"codeforces-api","title":"Signs of Prefix Sums"}
 {"account_id":"a48","difficulty":800,"member_id":"m20","observed_at":1793277864.3715832,"platform":"codeforces","problem_id":"2263A","solved_at":1793277514.0,"source":"codeforces-api","title":"Min Max Game"}
+{"account_id":"a48","difficulty":900,"member_id":"m20","observed_at":1793279085.457146,"platform":"codeforces","problem_id":"2263B","solved_at":1793278531.0,"source":"codeforces-api","title":"Min Matrices"}
 {"account_id":"a48","difficulty":1400,"member_id":"m20","observed_at":1792485085.378504,"platform":"codeforces","problem_id":"2264C","solved_at":1792484314.0,"source":"codeforces-api","title":"Madamant's Skating Dynasty"}
 {"account_id":"a48","difficulty":1900,"member_id":"m20","observed_at":1792485812.8302543,"platform":"codeforces","problem_id":"2264D","solved_at":1792485082.0,"source":"codeforces-api","title":"Dr. Agos's Dark Mode"}
 {"account_id":"a48","difficulty":2200,"member_id":"m20","observed_at":1792487203.2895775,"platform":"codeforces","problem_id":"2264E1","solved_at":1792486778.0,"source":"codeforces-api","title":"A Prime Flood (Easy Version)"}
@@ -10024,6 +10026,7 @@
 {"account_id":"a78","difficulty":null,"member_id":"m34","observed_at":1792119781.594402,"platform":"qoj","problem_id":"9378","solved_at":1788149656.0,"source":"qoj-profile","title":"Strange Binary"}
 {"account_id":"a78","difficulty":null,"member_id":"m34","observed_at":1792119781.5944078,"platform":"qoj","problem_id":"9379","solved_at":1788148212.0,"source":"qoj-profile","title":"Stacking of Goods"}
 {"account_id":"a78","difficulty":null,"member_id":"m34","observed_at":1792119781.5944157,"platform":"qoj","problem_id":"9381","solved_at":1788152170.0,"source":"qoj-profile","title":"502 Bad Gateway"}
+{"account_id":"a79","difficulty":1300,"member_id":"m34","observed_at":1793278985.0877829,"platform":"codeforces","problem_id":"1005C","solved_at":1793278453.0,"source":"codeforces-api","title":"Summarize to the Power of Two"}
 {"account_id":"a79","difficulty":2300,"member_id":"m34","observed_at":1792650244.1577232,"platform":"codeforces","problem_id":"1009F","solved_at":1792649863.0,"source":"codeforces-api","title":"Dominant Indices"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.452883,"platform":"codeforces","problem_id":"103118C","solved_at":1784446032.0,"source":"codeforces-api","title":"Cat Virus"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4528897,"platform":"codeforces","problem_id":"103118D","solved_at":1784443405.0,"source":"codeforces-api","title":"Dyson Box"}
