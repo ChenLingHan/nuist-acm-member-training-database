@@ -10363,6 +10363,7 @@
 {"accepted_at":1793159187.0,"account_id":"a52","difficulty":3,"observed_at":1793159562.4669693,"problem_id":"P3884","submission_id":"306322934","title":"[JLOI2009] 二叉树问题"}
 {"accepted_at":1793168510.0,"account_id":"a52","difficulty":3,"observed_at":1793177657.9198961,"problem_id":"P1364","submission_id":"306344054","title":"医院设置"}
 {"accepted_at":1793255499.0,"account_id":"a52","difficulty":2,"observed_at":1793255853.297148,"problem_id":"P5318","submission_id":"306591737","title":"【深基18.例3】查找文献"}
+{"accepted_at":1793259866.0,"account_id":"a52","difficulty":3,"observed_at":1793260155.1487045,"problem_id":"P3916","submission_id":"306609427","title":"图的遍历"}
 {"accepted_at":1792818487.0,"account_id":"a53","difficulty":1900,"observed_at":1792818515.756751,"problem_id":"817D","submission_id":"395790136","title":"Imbalanced Array"}
 {"accepted_at":1792818546.0,"account_id":"a53","difficulty":1900,"observed_at":1792819124.6014917,"problem_id":"817D","submission_id":"395790202","title":"Imbalanced Array"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
@@ -18018,6 +18019,7 @@
 {"accepted_at":1793168494.0,"account_id":"a107","difficulty":null,"observed_at":1793173136.9474742,"problem_id":"2272A","submission_id":"396376308","title":"Maximize One MEX"}
 {"accepted_at":1793169827.0,"account_id":"a107","difficulty":null,"observed_at":1793173136.9473488,"problem_id":"2272B","submission_id":"396379204","title":"Frogs Jump"}
 {"accepted_at":1793176120.0,"account_id":"a107","difficulty":null,"observed_at":1793177729.3208501,"problem_id":"2272C","submission_id":"396391685","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793259920.0,"account_id":"a107","difficulty":null,"observed_at":1793260313.1694438,"problem_id":"2272D","submission_id":"396520121","title":"Connecting the Conflicts"}
 {"accepted_at":1790974501.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.856845,"problem_id":"P2393","submission_id":"300531850","title":"yyy loves Maths II"}
 {"accepted_at":1790974905.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.8567226,"problem_id":"P2393","submission_id":"300531873","title":"yyy loves Maths II"}
 {"accepted_at":1792223627.0,"account_id":"a108","difficulty":3,"observed_at":1792223767.5046532,"problem_id":"P7911","submission_id":"303639248","title":"[CSP-J 2021] 网络连接"}
@@ -20156,6 +20158,7 @@
 {"accepted_at":1788620411.0,"account_id":"a126","difficulty":1600,"observed_at":1792148522.0626593,"problem_id":"2258B2","submission_id":"389487893","title":"Carrot Chopdown (Hard Version)"}
 {"accepted_at":1788929202.0,"account_id":"a126","difficulty":null,"observed_at":1792148522.0624764,"problem_id":"103118K","submission_id":"389992302","title":"Piggy Calculator"}
 {"accepted_at":1793198097.0,"account_id":"a126","difficulty":2300,"observed_at":1793198167.0491567,"problem_id":"893F","submission_id":"396432202","title":"Subtree Minimum Query"}
+{"accepted_at":1793260205.0,"account_id":"a126","difficulty":null,"observed_at":1793260229.4126365,"problem_id":"2272A","submission_id":"396520622","title":"Maximize One MEX"}
 {"accepted_at":1714052887.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.1360486,"problem_id":"B2002","submission_id":"157045919","title":"Hello,World!"}
 {"accepted_at":1785224893.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.136022,"problem_id":"P1001","submission_id":"289139885","title":"A+B Problem"}
 {"accepted_at":1785227005.0,"account_id":"a127","difficulty":3,"observed_at":1792153945.1359923,"problem_id":"P1007","submission_id":"289153728","title":"独木桥"}
