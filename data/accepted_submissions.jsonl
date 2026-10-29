@@ -1134,6 +1134,7 @@
 {"accepted_at":1793102738.0,"account_id":"a6","difficulty":5,"observed_at":1793103031.6744173,"problem_id":"P1654","submission_id":"306211319","title":"OSU!"}
 {"accepted_at":1793104630.0,"account_id":"a6","difficulty":5,"observed_at":1793104878.2728977,"problem_id":"P4550","submission_id":"306227157","title":"收集邮票"}
 {"accepted_at":1793254643.0,"account_id":"a6","difficulty":5,"observed_at":1793255153.6824126,"problem_id":"P3807","submission_id":"306589308","title":"【模板】卢卡斯定理 / Lucas 定理"}
+{"accepted_at":1793258002.0,"account_id":"a6","difficulty":3,"observed_at":1793258213.811264,"problem_id":"P2822","submission_id":"306601255","title":"[NOIP 2016 提高组] 组合数问题"}
 {"accepted_at":1787839150.0,"account_id":"a7","difficulty":null,"observed_at":1792073548.062167,"problem_id":"14309","submission_id":"2825838","title":"Knapsack Problem"}
 {"accepted_at":1787880883.0,"account_id":"a7","difficulty":null,"observed_at":1792073548.0621014,"problem_id":"14307","submission_id":"2826906","title":"Sorting"}
 {"accepted_at":1756365334.0,"account_id":"a8","difficulty":800,"observed_at":1792073909.8335257,"problem_id":"4A","submission_id":"335895502","title":"Watermelon"}
@@ -10330,6 +10331,7 @@
 {"accepted_at":1793206459.0,"account_id":"a51","difficulty":1400,"observed_at":1793206913.7932038,"problem_id":"2245C","submission_id":"396459632","title":"MEXOR"}
 {"accepted_at":1793219522.0,"account_id":"a51","difficulty":1400,"observed_at":1793219768.7258873,"problem_id":"2244E","submission_id":"396480032","title":"Masha and the Garland"}
 {"accepted_at":1793222232.0,"account_id":"a51","difficulty":1300,"observed_at":1793222803.7182808,"problem_id":"2239A","submission_id":"396483082","title":"Nim Game Is XOR Game"}
+{"accepted_at":1793258153.0,"account_id":"a51","difficulty":1400,"observed_at":1793258482.7195692,"problem_id":"2233C","submission_id":"396516639","title":"Cost of a Bracket Sequence"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
@@ -22232,6 +22234,7 @@
 {"accepted_at":1793176911.0,"account_id":"a150","difficulty":1700,"observed_at":1793177692.366275,"problem_id":"1835A","submission_id":"396393082","title":"k-th equality"}
 {"accepted_at":1793180174.0,"account_id":"a150","difficulty":2300,"observed_at":1793180788.9534245,"problem_id":"727E","submission_id":"396399065","title":"Games on a CD"}
 {"accepted_at":1793183623.0,"account_id":"a150","difficulty":1700,"observed_at":1793183874.4593341,"problem_id":"1835A","submission_id":"396404517","title":"k-th equality"}
+{"accepted_at":1793258014.0,"account_id":"a150","difficulty":1100,"observed_at":1793258343.2370565,"problem_id":"1382B","submission_id":"396516354","title":"Sequential Nim"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
@@ -23114,6 +23117,7 @@
 {"accepted_at":1793089000.0,"account_id":"a156","difficulty":null,"observed_at":1793089076.2724903,"problem_id":"2263","submission_id":"3291800","title":"Three-Axis Views"}
 {"accepted_at":1793093639.0,"account_id":"a156","difficulty":null,"observed_at":1793093903.857492,"problem_id":"2264","submission_id":"3292805","title":"Secrets of Legendary Treasure"}
 {"accepted_at":1793094902.0,"account_id":"a156","difficulty":null,"observed_at":1793095111.8144443,"problem_id":"2272","submission_id":"3292999","title":"Formica Sokobanica"}
+{"accepted_at":1793257576.0,"account_id":"a156","difficulty":null,"observed_at":1793257742.2305293,"problem_id":"14719","submission_id":"3310565","title":"Planting Trees"}
 {"accepted_at":1692411795.0,"account_id":"a157","difficulty":1800,"observed_at":1792148595.2594764,"problem_id":"1554D","submission_id":"219512324","title":"Diane"}
 {"accepted_at":1694410514.0,"account_id":"a157","difficulty":2100,"observed_at":1792148595.2594526,"problem_id":"1207F","submission_id":"222855540","title":"Remainder Problem"}
 {"accepted_at":1695307140.0,"account_id":"a157","difficulty":800,"observed_at":1792148595.2594142,"problem_id":"1873A","submission_id":"224319986","title":"Short Sort"}

@@ -746,6 +746,7 @@
 {"account_id":"a6","difficulty":6,"member_id":"m4","observed_at":1792073220.8357534,"platform":"luogu","problem_id":"P2403","solved_at":1781846686.0,"source":"luogu-practice-snapshot","title":"[SDOI2010] 所驼门王的宝藏"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792753836.6514986,"platform":"luogu","problem_id":"P2622","solved_at":1792753764.0,"source":"luogu-record-list","title":"关灯问题 II"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792131640.4450734,"platform":"luogu","problem_id":"P2782","solved_at":1792131248.0,"source":"luogu-record-list","title":"友好城市"}
+{"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1793258213.8111792,"platform":"luogu","problem_id":"P2822","solved_at":1793258002.0,"source":"luogu-record-list","title":"[NOIP 2016 提高组] 组合数问题"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8357897,"platform":"luogu","problem_id":"P2926","solved_at":1769158882.0,"source":"luogu-practice-snapshot","title":"[USACO08DEC] Patting Heads S"}
 {"account_id":"a6","difficulty":2,"member_id":"m4","observed_at":1792073220.8357952,"platform":"luogu","problem_id":"P2945","solved_at":1769839676.0,"source":"luogu-practice-snapshot","title":"[USACO09MAR] Sand Castle S"}
 {"account_id":"a6","difficulty":3,"member_id":"m4","observed_at":1792073220.8358018,"platform":"luogu","problem_id":"P2949","solved_at":1770450650.0,"source":"luogu-practice-snapshot","title":"[USACO09OPEN] Work Scheduling G"}
@@ -8042,6 +8043,7 @@
 {"account_id":"a51","difficulty":1100,"member_id":"m21","observed_at":1792127076.0414665,"platform":"codeforces","problem_id":"2231B","solved_at":1791097037.0,"source":"codeforces-api","title":"Another Sorting Problem"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0441275,"platform":"codeforces","problem_id":"2232A","solved_at":1780154284.0,"source":"codeforces-api","title":"Convergence"}
 {"account_id":"a51","difficulty":900,"member_id":"m21","observed_at":1792127076.0440836,"platform":"codeforces","problem_id":"2232B","solved_at":1780156523.0,"source":"codeforces-api","title":"Cake Leveling"}
+{"account_id":"a51","difficulty":1400,"member_id":"m21","observed_at":1793258482.7194824,"platform":"codeforces","problem_id":"2233C","solved_at":1793258153.0,"source":"codeforces-api","title":"Cost of a Bracket Sequence"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0440266,"platform":"codeforces","problem_id":"2234A","solved_at":1780843911.0,"source":"codeforces-api","title":"Euclid, Sequence and Two Numbers"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0439615,"platform":"codeforces","problem_id":"2236A","solved_at":1781275314.0,"source":"codeforces-api","title":"Games on the Train"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0439181,"platform":"codeforces","problem_id":"2236B","solved_at":1781276118.0,"source":"codeforces-api","title":"Tatar TV Show"}
@@ -17362,6 +17364,7 @@
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1211143,"platform":"codeforces","problem_id":"1305C","solved_at":1769501209.0,"source":"codeforces-api","title":"Kuroni and Impossible Calculation"}
 {"account_id":"a150","difficulty":1300,"member_id":"m66","observed_at":1792148545.1208549,"platform":"codeforces","problem_id":"1326C","solved_at":1769585799.0,"source":"codeforces-api","title":"Permutation Partitions"}
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792148545.1185353,"platform":"codeforces","problem_id":"1363B","solved_at":1790766752.0,"source":"codeforces-api","title":"Subsequence Hate"}
+{"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1793258343.236964,"platform":"codeforces","problem_id":"1382B","solved_at":1793258014.0,"source":"codeforces-api","title":"Sequential Nim"}
 {"account_id":"a150","difficulty":2400,"member_id":"m66","observed_at":1792148545.1181235,"platform":"codeforces","problem_id":"1443E","solved_at":1791508912.0,"source":"codeforces-api","title":"Long Permutation"}
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1191201,"platform":"codeforces","problem_id":"1452D","solved_at":1790166066.0,"source":"codeforces-api","title":"Radio Towers"}
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792148545.118724,"platform":"codeforces","problem_id":"1468D","solved_at":1789632991.0,"source":"codeforces-api","title":"Firecrackers"}
@@ -18098,6 +18101,7 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388903,"platform":"qoj","problem_id":"14716","solved_at":1762724792.0,"source":"qoj-profile","title":"K-Coverage"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638892,"platform":"qoj","problem_id":"14717","solved_at":1761647642.0,"source":"qoj-profile","title":"Label Matching"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638894,"platform":"qoj","problem_id":"14718","solved_at":1762745979.0,"source":"qoj-profile","title":"Meeting for Meals"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1793257742.2304351,"platform":"qoj","problem_id":"14719","solved_at":1793257576.0,"source":"qoj-authenticated","title":"Planting Trees"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388955,"platform":"qoj","problem_id":"14813","solved_at":1789296562.0,"source":"qoj-profile","title":"Many Convex Polygons"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792387833.1620822,"platform":"qoj","problem_id":"15315","solved_at":1792387378.0,"source":"qoj-authenticated","title":"Hamu"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792356932.3120458,"platform":"qoj","problem_id":"15318","solved_at":1792356445.0,"source":"qoj-authenticated","title":"Flower's land 3"}

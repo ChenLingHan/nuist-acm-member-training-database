@@ -887,6 +887,7 @@
 {"difficulty":2800,"platform":"codeforces","points":2250.0,"problem_id":"1375G","tags":["brute force","constructive algorithms","dfs and similar","graph matchings","graphs","trees"],"title":"Tree Modification"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"1380C","tags":["brute force","dp","greedy","implementation","sortings"],"title":"Create The Teams"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"1381A2","tags":["constructive algorithms","data structures","implementation","strings","two pointers"],"title":"Prefix Flip (Hard Version)"}
+{"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"1382B","tags":["dp","games"],"title":"Sequential Nim"}
 {"difficulty":3200,"platform":"codeforces","points":2250.0,"problem_id":"1383F","tags":["flows","graphs"],"title":"Special Edges"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1385A","tags":["math"],"title":"Three Pairwise Maximums"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1385B","tags":["greedy"],"title":"Restore the Permutation by Merger"}
@@ -8494,6 +8495,7 @@
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14716","tags":[],"title":"K-Coverage"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14717","tags":[],"title":"Label Matching"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14718","tags":[],"title":"Meeting for Meals"}
+{"difficulty":null,"platform":"qoj","points":null,"problem_id":"14719","tags":[],"title":"Planting Trees"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14721","tags":[],"title":"Not Aqre"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14723","tags":[],"title":"Magic Trick"}
 {"difficulty":null,"platform":"qoj","points":null,"problem_id":"14724","tags":[],"title":"Divide and Conquer"}
