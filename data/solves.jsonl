@@ -6587,6 +6587,7 @@
 {"account_id":"a43","difficulty":2100,"member_id":"m18","observed_at":1792127069.7660959,"platform":"codeforces","problem_id":"2257E","solved_at":1787059046.0,"source":"codeforces-api","title":"Busy Beaver"}
 {"account_id":"a43","difficulty":2200,"member_id":"m18","observed_at":1792127069.7660658,"platform":"codeforces","problem_id":"2264E1","solved_at":1789561408.0,"source":"codeforces-api","title":"A Prime Flood (Easy Version)"}
 {"account_id":"a43","difficulty":2700,"member_id":"m18","observed_at":1792127069.7660475,"platform":"codeforces","problem_id":"2264E2","solved_at":1789641108.0,"source":"codeforces-api","title":"A Prime Flood (Hard Version)"}
+{"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1793262058.7894375,"platform":"codeforces","problem_id":"2272A","solved_at":1793262009.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a43","difficulty":1900,"member_id":"m18","observed_at":1792127069.7694082,"platform":"codeforces","problem_id":"229C","solved_at":1663593157.0,"source":"codeforces-api","title":"Triangles"}
 {"account_id":"a43","difficulty":2600,"member_id":"m18","observed_at":1792127069.7687144,"platform":"codeforces","problem_id":"258D","solved_at":1665641885.0,"source":"codeforces-api","title":"Little Elephant and Broken Sorting"}
 {"account_id":"a43","difficulty":2200,"member_id":"m18","observed_at":1792127069.7670054,"platform":"codeforces","problem_id":"280C","solved_at":1769769205.0,"source":"codeforces-api","title":"Game on Tree"}
@@ -14929,6 +14930,7 @@
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0404558,"platform":"luogu","problem_id":"P1036","solved_at":1766217049.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 选数"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0407057,"platform":"luogu","problem_id":"P1044","solved_at":1766229132.0,"source":"luogu-practice-snapshot","title":"[NOIP 2003 普及组] 栈"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0407252,"platform":"luogu","problem_id":"P1048","solved_at":1766567804.0,"source":"luogu-practice-snapshot","title":"[NOIP 2005 普及组] 采药"}
+{"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1793262229.6292148,"platform":"luogu","problem_id":"P1059","solved_at":1793261655.0,"source":"luogu-record-list","title":"[NOIP 2006 普及组] 明明的随机数"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0407405,"platform":"luogu","problem_id":"P1100","solved_at":1764320946.0,"source":"luogu-practice-snapshot","title":"高低位交换"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0407538,"platform":"luogu","problem_id":"P1101","solved_at":1766825083.0,"source":"luogu-practice-snapshot","title":"单词方阵"}
 {"account_id":"a113","difficulty":2,"member_id":"m50","observed_at":1792149022.0407667,"platform":"luogu","problem_id":"P1104","solved_at":1764327655.0,"source":"luogu-practice-snapshot","title":"生日"}

@@ -8692,6 +8692,7 @@
 {"accepted_at":1792567437.0,"account_id":"a43","difficulty":null,"observed_at":1792568089.1590133,"problem_id":"105588L","submission_id":"395428473","title":"Last Chance: Threads of Despair"}
 {"accepted_at":1792574694.0,"account_id":"a43","difficulty":null,"observed_at":1792574797.063801,"problem_id":"105588C","submission_id":"395441525","title":"Coin"}
 {"accepted_at":1792575222.0,"account_id":"a43","difficulty":null,"observed_at":1792575404.0927386,"problem_id":"105588G","submission_id":"395442426","title":"GCD"}
+{"accepted_at":1793262009.0,"account_id":"a43","difficulty":null,"observed_at":1793262058.789533,"problem_id":"2272A","submission_id":"396523722","title":"Maximize One MEX"}
 {"accepted_at":1696602220.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.218047,"problem_id":"P1002","submission_id":"128071541","title":"[NOIP 2002 普及组] 过河卒"}
 {"accepted_at":1696684872.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.2180235,"problem_id":"P1003","submission_id":"128191951","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1696685762.0,"account_id":"a44","difficulty":2,"observed_at":1792158462.217994,"problem_id":"P1008","submission_id":"128195570","title":"[NOIP 1998 普及组] 三连击"}
@@ -18995,6 +18996,7 @@
 {"accepted_at":1792805366.0,"account_id":"a113","difficulty":2,"observed_at":1792805570.3263514,"problem_id":"P1165","submission_id":"305150227","title":"日志分析"}
 {"accepted_at":1792807864.0,"account_id":"a113","difficulty":5,"observed_at":1792808025.579197,"problem_id":"P3805","submission_id":"305168043","title":"【模板】Manacher"}
 {"accepted_at":1793086478.0,"account_id":"a113","difficulty":4,"observed_at":1793086634.435076,"problem_id":"P7410","submission_id":"306128376","title":"[USACO21FEB] Just Green Enough S"}
+{"accepted_at":1793261655.0,"account_id":"a113","difficulty":2,"observed_at":1793262229.6292996,"problem_id":"P1059","submission_id":"306617629","title":"[NOIP 2006 普及组] 明明的随机数"}
 {"accepted_at":1777950218.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.377437,"problem_id":"2227B","submission_id":"373556590","title":"Party Monster"}
 {"accepted_at":1777952290.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.3774219,"problem_id":"2227A","submission_id":"373558124","title":"Koshary"}
 {"accepted_at":1777958811.0,"account_id":"a114","difficulty":800,"observed_at":1792148515.3774068,"problem_id":"2227C","submission_id":"373563322","title":"Snowfall"}
