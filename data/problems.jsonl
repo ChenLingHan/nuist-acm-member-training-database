@@ -1050,6 +1050,7 @@
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1512C","tags":["constructive algorithms","implementation","strings"],"title":"A-B Palindrome"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1512D","tags":["constructive algorithms","data structures","greedy"],"title":"Corrupted Array"}
 {"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"1512G","tags":["brute force","dp","math","number theory"],"title":"Short Task"}
+{"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1513C","tags":["dp","matrices"],"title":"Add One"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1514C","tags":["greedy","number theory"],"title":"Product 1 Modulo N"}
 {"difficulty":2200,"platform":"codeforces","points":2750.0,"problem_id":"1515E","tags":["combinatorics","dp","math"],"title":"Phoenix and Computers"}
 {"difficulty":3400,"platform":"codeforces","points":5000.0,"problem_id":"1515I","tags":["binary search","data structures","sortings"],"title":"Phoenix and Diamonds"}
