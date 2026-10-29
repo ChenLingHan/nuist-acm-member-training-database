@@ -812,6 +812,7 @@
 {"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"1326D1","tags":["hashing","string suffix structures","strings"],"title":"Prefix-Suffix Palindrome (Easy version)"}
 {"difficulty":1800,"platform":"codeforces","points":1000.0,"problem_id":"1326D2","tags":["binary search","greedy","hashing","string suffix structures","strings"],"title":"Prefix-Suffix Palindrome (Hard version)"}
 {"difficulty":3200,"platform":"codeforces","points":1500.0,"problem_id":"1326F2","tags":["bitmasks","dp","math"],"title":"Wise Men (Hard Version)"}
+{"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1327C","tags":["constructive algorithms","implementation"],"title":"Game with Chips"}
 {"difficulty":1800,"platform":"codeforces","points":null,"problem_id":"1327E","tags":["combinatorics","dp","math"],"title":"Count The Blocks"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1328A","tags":["math"],"title":"Divisibility Problem"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1328B","tags":["binary search","brute force","combinatorics","implementation","math"],"title":"K-th Beautiful String"}
