@@ -1892,6 +1892,7 @@
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9743001,"platform":"luogu","problem_id":"P1241","solved_at":1789393097.0,"source":"luogu-practice-snapshot","title":"括号序列"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.9743125,"platform":"luogu","problem_id":"P1247","solved_at":1789052338.0,"source":"luogu-practice-snapshot","title":"取火柴游戏"}
 {"account_id":"a20","difficulty":4,"member_id":"m9","observed_at":1792079285.9743233,"platform":"luogu","problem_id":"P1290","solved_at":1789100049.0,"source":"luogu-practice-snapshot","title":"欧几里德的游戏"}
+{"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1793240352.7876217,"platform":"luogu","problem_id":"P1305","solved_at":1793240046.0,"source":"luogu-record-list","title":"新二叉树"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9743335,"platform":"luogu","problem_id":"P1308","solved_at":1789648594.0,"source":"luogu-practice-snapshot","title":"[NOIP 2011 普及组] 统计单词数"}
 {"account_id":"a20","difficulty":2,"member_id":"m9","observed_at":1792079285.9743447,"platform":"luogu","problem_id":"P1328","solved_at":1789534077.0,"source":"luogu-practice-snapshot","title":"[NOIP 2014 提高组] 生活大爆炸版石头剪刀布"}
 {"account_id":"a20","difficulty":3,"member_id":"m9","observed_at":1792079285.9743552,"platform":"luogu","problem_id":"P1330","solved_at":1790165142.0,"source":"luogu-practice-snapshot","title":"封锁阳光大学"}
@@ -20502,6 +20503,7 @@
 {"account_id":"a167","difficulty":1900,"member_id":"m73","observed_at":1792832275.7024658,"platform":"codeforces","problem_id":"817D","solved_at":1792831648.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1792497324.6944377,"platform":"luogu","problem_id":"B3614","solved_at":1792496796.0,"source":"luogu-record-list","title":"【模板】栈"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792150282.5806243,"platform":"luogu","problem_id":"P1001","solved_at":1789722723.0,"source":"luogu-practice-snapshot","title":"A+B Problem"}
+{"account_id":"a168","difficulty":3,"member_id":"m74","observed_at":1793240291.9533708,"platform":"luogu","problem_id":"P1160","solved_at":1793239823.0,"source":"luogu-record-list","title":"队列安排"}
 {"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1792805158.8956316,"platform":"luogu","problem_id":"P1165","solved_at":1792804661.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a168","difficulty":1,"member_id":"m74","observed_at":1792803328.8697052,"platform":"luogu","problem_id":"P1897","solved_at":1792802842.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a168","difficulty":2,"member_id":"m74","observed_at":1793107200.8316636,"platform":"luogu","problem_id":"P1996","solved_at":1793106698.0,"source":"luogu-record-list","title":"约瑟夫问题"}
