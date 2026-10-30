@@ -3508,6 +3508,7 @@
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"2254F","tags":["bitmasks","constructive algorithms","math","sortings"],"title":"Whiplash"}
 {"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"2254G","tags":["data structures","dfs and similar","dp","greedy","sortings","trees"],"title":"Nightcrawler"}
 {"difficulty":1200,"platform":"codeforces","points":500.0,"problem_id":"2255A","tags":["games","greedy","implementation"],"title":"Hot Potatoes at the Fairy Warehouse"}
+{"difficulty":1600,"platform":"codeforces","points":1000.0,"problem_id":"2255B","tags":["combinatorics","math"],"title":"A Ribbon for Tomorrow"}
 {"difficulty":2100,"platform":"codeforces","points":1750.0,"problem_id":"2255C","tags":["communication","constructive algorithms","expression parsing","greedy","interactive","math","number theory"],"title":"Even If the World Turns"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2256A","tags":["math","sortings"],"title":"Three Numbers on the Blackboard"}
 {"difficulty":1000,"platform":"codeforces","points":1000.0,"problem_id":"2256B","tags":["implementation","math"],"title":"Domino Tiles"}
