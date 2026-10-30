@@ -715,6 +715,7 @@
 {"difficulty":3000,"platform":"codeforces","points":null,"problem_id":"1218G","tags":["constructive algorithms","graphs","shortest paths"],"title":"Alpha planetary system"}
 {"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"121B","tags":["strings"],"title":"Lucky Transformation"}
 {"difficulty":2000,"platform":"codeforces","points":2000.0,"problem_id":"1223D","tags":["dp","greedy","two pointers"],"title":"Sequence Sorting"}
+{"difficulty":1800,"platform":"codeforces","points":2000.0,"problem_id":"1225D","tags":["hashing","math","number theory"],"title":"Power Products"}
 {"difficulty":2500,"platform":"codeforces","points":3250.0,"problem_id":"1225F","tags":["constructive algorithms","greedy","trees"],"title":"Tree Factory"}
 {"difficulty":3100,"platform":"codeforces","points":1500.0,"problem_id":"1229E1","tags":["brute force","probabilities"],"title":"Marek and Matching (easy version)"}
 {"difficulty":3200,"platform":"codeforces","points":1250.0,"problem_id":"1229E2","tags":["brute force","probabilities"],"title":"Marek and Matching (hard version)"}
