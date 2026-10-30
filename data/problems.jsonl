@@ -3840,6 +3840,7 @@
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"5E","tags":["data structures"],"title":"Bindian Signalizing"}
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"600E","tags":["data structures","dfs and similar","dsu","trees"],"title":"Lomsat gelral"}
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"601A","tags":["graphs","shortest paths"],"title":"The Two Routes"}
+{"difficulty":2200,"platform":"codeforces","points":1500.0,"problem_id":"603C","tags":["games","math"],"title":"Lieges of Legendre"}
 {"difficulty":2700,"platform":"codeforces","points":2500.0,"problem_id":"605E","tags":["probabilities","shortest paths"],"title":"Intergalaxy Trips"}
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"607A","tags":["binary search","dp"],"title":"Chain Reaction"}
 {"difficulty":1900,"platform":"codeforces","points":1250.0,"problem_id":"607B","tags":["dp"],"title":"Zuma"}
