@@ -13154,6 +13154,7 @@
 {"accepted_at":1791989633.0,"account_id":"a82","difficulty":1400,"observed_at":1792127103.8041494,"problem_id":"2276D","submission_id":"394547163","title":"Caveman"}
 {"accepted_at":1791990843.0,"account_id":"a82","difficulty":1800,"observed_at":1792127103.8041334,"problem_id":"2276E","submission_id":"394560224","title":"Good Substrings"}
 {"accepted_at":1791992375.0,"account_id":"a82","difficulty":2400,"observed_at":1792127103.8040614,"problem_id":"2276F","submission_id":"394573659","title":"Permutation Coloring Game"}
+{"accepted_at":1793441182.0,"account_id":"a82","difficulty":null,"observed_at":1793441223.2626452,"problem_id":"105143B","submission_id":"396783561","title":"Countless Me"}
 {"accepted_at":1777725184.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6522186,"problem_id":"P1000","submission_id":"276358382","title":"超级玛丽游戏"}
 {"accepted_at":1777728661.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.652194,"problem_id":"P1001","submission_id":"276365634","title":"A+B Problem"}
 {"accepted_at":1777730179.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6521673,"problem_id":"P1035","submission_id":"276368133","title":"[NOIP 2002 普及组] 级数求和"}
@@ -20235,6 +20236,7 @@
 {"accepted_at":1793261229.0,"account_id":"a126","difficulty":null,"observed_at":1793261446.791242,"problem_id":"2272B","submission_id":"396522393","title":"Frogs Jump"}
 {"accepted_at":1793263062.0,"account_id":"a126","difficulty":null,"observed_at":1793263284.6655724,"problem_id":"2272C","submission_id":"396525472","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793271023.0,"account_id":"a126","difficulty":null,"observed_at":1793271242.257012,"problem_id":"2272D","submission_id":"396542494","title":"Connecting the Conflicts"}
+{"accepted_at":1793440863.0,"account_id":"a126","difficulty":null,"observed_at":1793441353.303672,"problem_id":"105143B","submission_id":"396783024","title":"Countless Me"}
 {"accepted_at":1714052887.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.1360486,"problem_id":"B2002","submission_id":"157045919","title":"Hello,World!"}
 {"accepted_at":1785224893.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.136022,"problem_id":"P1001","submission_id":"289139885","title":"A+B Problem"}
 {"accepted_at":1785227005.0,"account_id":"a127","difficulty":3,"observed_at":1792153945.1359923,"problem_id":"P1007","submission_id":"289153728","title":"独木桥"}
