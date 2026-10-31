@@ -10453,6 +10453,8 @@
 {"accepted_at":1793459859.0,"account_id":"a55","difficulty":null,"observed_at":1793460191.4375086,"problem_id":"2278A","submission_id":"396852664","title":"Fraction and Six"}
 {"accepted_at":1793461021.0,"account_id":"a55","difficulty":null,"observed_at":1793461411.0224977,"problem_id":"2278B","submission_id":"396869126","title":"Stakes and Shapes"}
 {"accepted_at":1793462340.0,"account_id":"a55","difficulty":null,"observed_at":1793462637.1990101,"problem_id":"2278C","submission_id":"396883633","title":"Math and Physics"}
+{"accepted_at":1793463785.0,"account_id":"a55","difficulty":null,"observed_at":1793463858.929019,"problem_id":"2278D","submission_id":"396896911","title":"Lock and Unlock"}
+{"accepted_at":1793463837.0,"account_id":"a55","difficulty":null,"observed_at":1793463858.9288876,"problem_id":"2278D","submission_id":"396897310","title":"Lock and Unlock"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -12300,6 +12302,7 @@
 {"accepted_at":1793458313.0,"account_id":"a74","difficulty":null,"observed_at":1793458772.0896852,"problem_id":"2278B","submission_id":"396823369","title":"Stakes and Shapes"}
 {"accepted_at":1793459241.0,"account_id":"a74","difficulty":null,"observed_at":1793459405.6626773,"problem_id":"2278C","submission_id":"396841898","title":"Math and Physics"}
 {"accepted_at":1793461844.0,"account_id":"a74","difficulty":null,"observed_at":1793462462.501892,"problem_id":"2278D","submission_id":"396878519","title":"Lock and Unlock"}
+{"accepted_at":1793463058.0,"account_id":"a74","difficulty":null,"observed_at":1793463679.7580574,"problem_id":"2278E","submission_id":"396891191","title":"Swap and Negate"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
@@ -13178,6 +13181,7 @@
 {"accepted_at":1793441182.0,"account_id":"a82","difficulty":null,"observed_at":1793441223.2626452,"problem_id":"105143B","submission_id":"396783561","title":"Countless Me"}
 {"accepted_at":1793441740.0,"account_id":"a82","difficulty":null,"observed_at":1793441832.5507324,"problem_id":"105143I","submission_id":"396784432","title":"Cyclic Apple Strings"}
 {"accepted_at":1793442050.0,"account_id":"a82","difficulty":null,"observed_at":1793442441.0470822,"problem_id":"105143K","submission_id":"396784886","title":"Party Games"}
+{"accepted_at":1793463059.0,"account_id":"a82","difficulty":null,"observed_at":1793463531.7926373,"problem_id":"105143K","submission_id":"396891200","title":"Party Games"}
 {"accepted_at":1777725184.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6522186,"problem_id":"P1000","submission_id":"276358382","title":"超级玛丽游戏"}
 {"accepted_at":1777728661.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.652194,"problem_id":"P1001","submission_id":"276365634","title":"A+B Problem"}
 {"accepted_at":1777730179.0,"account_id":"a83","difficulty":1,"observed_at":1792154301.6521673,"problem_id":"P1035","submission_id":"276368133","title":"[NOIP 2002 普及组] 级数求和"}
