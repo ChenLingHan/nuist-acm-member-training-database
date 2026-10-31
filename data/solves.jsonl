@@ -8220,6 +8220,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792844569.9372141,"platform":"codeforces","problem_id":"2277B","solved_at":1792844103.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793460191.4374018,"platform":"codeforces","problem_id":"2278A","solved_at":1793459859.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793461411.0223978,"platform":"codeforces","problem_id":"2278B","solved_at":1793461021.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793462637.1989162,"platform":"codeforces","problem_id":"2278C","solved_at":1793462340.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a55","difficulty":1900,"member_id":"m23","observed_at":1792824984.8450022,"platform":"codeforces","problem_id":"817D","solved_at":1792824590.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5646367,"platform":"luogu","problem_id":"B2002","solved_at":1790816323.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -9893,6 +9894,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458141.0606246,"platform":"codeforces","problem_id":"2278A","solved_at":1793457923.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458772.0895603,"platform":"codeforces","problem_id":"2278B","solved_at":1793458313.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793459405.6625764,"platform":"codeforces","problem_id":"2278C","solved_at":1793459241.0,"source":"codeforces-api","title":"Math and Physics"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793462462.501786,"platform":"codeforces","problem_id":"2278D","solved_at":1793461844.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.1282372,"platform":"codeforces","problem_id":"271D","solved_at":1785812259.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1507368,"platform":"codeforces","problem_id":"2A","solved_at":1771227342.0,"source":"codeforces-api","title":"Winner"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.155163,"platform":"codeforces","problem_id":"300C","solved_at":1769569170.0,"source":"codeforces-api","title":"Beautiful Numbers"}
@@ -12939,6 +12941,7 @@
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793459952.13338,"platform":"codeforces","problem_id":"2278B","solved_at":1793459834.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793461168.5737445,"platform":"codeforces","problem_id":"2278C","solved_at":1793460610.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793461168.5715973,"platform":"codeforces","problem_id":"2278D","solved_at":1793460955.0,"source":"codeforces-api","title":"Lock and Unlock"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793462398.410787,"platform":"codeforces","problem_id":"2278E","solved_at":1793461766.0,"source":"codeforces-api","title":"Swap and Negate"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}
@@ -21244,6 +21247,7 @@
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793457674.6645563,"platform":"codeforces","problem_id":"2278A","solved_at":1793457604.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793458352.9353747,"platform":"codeforces","problem_id":"2278B","solved_at":1793458278.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793459006.6596897,"platform":"codeforces","problem_id":"2278C","solved_at":1793458995.0,"source":"codeforces-api","title":"Math and Physics"}
+{"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793462729.3190591,"platform":"codeforces","problem_id":"2278D","solved_at":1793462134.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a181","difficulty":800,"member_id":"m79","observed_at":1792167449.7725596,"platform":"codeforces","problem_id":"266B","solved_at":1790252636.0,"source":"codeforces-api","title":"Queue at the School"}
 {"account_id":"a181","difficulty":1200,"member_id":"m79","observed_at":1792167449.774108,"platform":"codeforces","problem_id":"327A","solved_at":1786723555.0,"source":"codeforces-api","title":"Flipping Game"}
 {"account_id":"a181","difficulty":1000,"member_id":"m79","observed_at":1792167449.772178,"platform":"codeforces","problem_id":"339B","solved_at":1790868345.0,"source":"codeforces-api","title":"Xenia and Ringroad"}
