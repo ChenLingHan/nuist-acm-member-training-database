@@ -8149,6 +8149,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792840923.8780022,"platform":"codeforces","problem_id":"2277A","solved_at":1792840918.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792842161.3479402,"platform":"codeforces","problem_id":"2277B","solved_at":1792841745.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792843385.4927897,"platform":"codeforces","problem_id":"2277C","solved_at":1792843278.0,"source":"codeforces-api","title":"Edge Addeleting"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458287.2228296,"platform":"codeforces","problem_id":"2278A","solved_at":1793458028.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -8914,6 +8915,7 @@
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.100993,"platform":"codeforces","problem_id":"2276A","solved_at":1791989411.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1792844431.0727503,"platform":"codeforces","problem_id":"2277A","solved_at":1792844388.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1792847474.5013623,"platform":"codeforces","problem_id":"2277B","solved_at":1792847006.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793458426.0057037,"platform":"codeforces","problem_id":"2278A","solved_at":1793458409.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1013665,"platform":"codeforces","problem_id":"228A","solved_at":1790691230.0,"source":"codeforces-api","title":"Is your horseshoe on the other hoof?"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
@@ -9877,6 +9879,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793015050.77896,"platform":"codeforces","problem_id":"2277B","solved_at":1793014855.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793015050.7787414,"platform":"codeforces","problem_id":"2277C","solved_at":1793014881.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458141.0606246,"platform":"codeforces","problem_id":"2278A","solved_at":1793457923.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458772.0895603,"platform":"codeforces","problem_id":"2278B","solved_at":1793458313.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.1282372,"platform":"codeforces","problem_id":"271D","solved_at":1785812259.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1507368,"platform":"codeforces","problem_id":"2A","solved_at":1771227342.0,"source":"codeforces-api","title":"Winner"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.155163,"platform":"codeforces","problem_id":"300C","solved_at":1769569170.0,"source":"codeforces-api","title":"Beautiful Numbers"}
@@ -21219,6 +21222,7 @@
 {"account_id":"a181","difficulty":1000,"member_id":"m79","observed_at":1792167449.771549,"platform":"codeforces","problem_id":"2276B","solved_at":1791990579.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a181","difficulty":1100,"member_id":"m79","observed_at":1792167449.7720017,"platform":"codeforces","problem_id":"2276C","solved_at":1791989868.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793457674.6645563,"platform":"codeforces","problem_id":"2278A","solved_at":1793457604.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793458352.9353747,"platform":"codeforces","problem_id":"2278B","solved_at":1793458278.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a181","difficulty":800,"member_id":"m79","observed_at":1792167449.7725596,"platform":"codeforces","problem_id":"266B","solved_at":1790252636.0,"source":"codeforces-api","title":"Queue at the School"}
 {"account_id":"a181","difficulty":1200,"member_id":"m79","observed_at":1792167449.774108,"platform":"codeforces","problem_id":"327A","solved_at":1786723555.0,"source":"codeforces-api","title":"Flipping Game"}
 {"account_id":"a181","difficulty":1000,"member_id":"m79","observed_at":1792167449.772178,"platform":"codeforces","problem_id":"339B","solved_at":1790868345.0,"source":"codeforces-api","title":"Xenia and Ringroad"}

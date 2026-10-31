@@ -3624,6 +3624,8 @@
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2277D1","tags":[],"title":"Number Operating (Easy Version)"}
 {"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2277D2","tags":["bitmasks","brute force","divide and conquer","dp"],"title":"Number Operating (Hard Version)"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278A","tags":[],"title":"Fraction and Six"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278B","tags":[],"title":"Stakes and Shapes"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278C","tags":[],"title":"Math and Physics"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
