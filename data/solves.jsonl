@@ -5967,6 +5967,7 @@
 {"account_id":"a40","difficulty":1100,"member_id":"m17","observed_at":1792127067.5860624,"platform":"codeforces","problem_id":"2276C","solved_at":1792053442.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793458943.0216374,"platform":"codeforces","problem_id":"2278A","solved_at":1793458295.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793458943.021402,"platform":"codeforces","problem_id":"2278B","solved_at":1793458936.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793460806.67444,"platform":"codeforces","problem_id":"2278C","solved_at":1793460201.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a40","difficulty":1800,"member_id":"m17","observed_at":1792127067.5858257,"platform":"codeforces","problem_id":"471D","solved_at":1792065092.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a40","difficulty":1900,"member_id":"m17","observed_at":1793013697.0734355,"platform":"codeforces","problem_id":"817D","solved_at":1793013432.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a41","difficulty":1,"member_id":"m18","observed_at":1792129791.953466,"platform":"luogu","problem_id":"AT_abc016_2","solved_at":1521118386.0,"source":"luogu-practice-snapshot","title":"[ABC016B] A±B Problem"}
@@ -8156,6 +8157,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458287.2228296,"platform":"codeforces","problem_id":"2278A","solved_at":1793458028.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458968.8440845,"platform":"codeforces","problem_id":"2278B","solved_at":1793458399.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793459588.5794988,"platform":"codeforces","problem_id":"2278C","solved_at":1793459053.0,"source":"codeforces-api","title":"Math and Physics"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793460826.9911938,"platform":"codeforces","problem_id":"2278D","solved_at":1793460449.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -16448,6 +16450,7 @@
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793028746.45435,"platform":"codeforces","problem_id":"2272A","solved_at":1793028652.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793458812.4679163,"platform":"codeforces","problem_id":"2278A","solved_at":1793458386.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793459423.749242,"platform":"codeforces","problem_id":"2278B","solved_at":1793459112.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793460644.030094,"platform":"codeforces","problem_id":"2278C","solved_at":1793460405.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
 {"account_id":"a136","difficulty":1900,"member_id":"m60","observed_at":1792807987.845412,"platform":"codeforces","problem_id":"817D","solved_at":1792807555.0,"source":"codeforces-api","title":"Imbalanced Array"}
