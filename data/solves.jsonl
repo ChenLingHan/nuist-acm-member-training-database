@@ -5922,6 +5922,8 @@
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792840477.8747497,"platform":"codeforces","problem_id":"2277A","solved_at":1792840128.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792841703.8482797,"platform":"codeforces","problem_id":"2277B","solved_at":1792841542.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1792842313.904872,"platform":"codeforces","problem_id":"2277C","solved_at":1792841898.0,"source":"codeforces-api","title":"Edge Addeleting"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1793460236.5002158,"platform":"codeforces","problem_id":"2278A","solved_at":1793459890.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1793460236.5004447,"platform":"codeforces","problem_id":"2278B","solved_at":1793459602.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792945017.2800927,"platform":"luogu","problem_id":"P1046","solved_at":1792944975.0,"source":"luogu-record-list","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"account_id":"a37","difficulty":2,"member_id":"m16","observed_at":1792809463.298421,"platform":"luogu","problem_id":"P1165","solved_at":1792808877.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792943797.6976664,"platform":"luogu","problem_id":"P1425","solved_at":1792943602.0,"source":"luogu-record-list","title":"小鱼的游泳时间"}
@@ -8213,6 +8215,7 @@
 {"account_id":"a55","difficulty":1300,"member_id":"m23","observed_at":1793108860.5522394,"platform":"codeforces","problem_id":"2273A","solved_at":1793108797.0,"source":"codeforces-api","title":"Lavencia Oranges"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792842114.3738103,"platform":"codeforces","problem_id":"2277A","solved_at":1792841765.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1792844569.9372141,"platform":"codeforces","problem_id":"2277B","solved_at":1792844103.0,"source":"codeforces-api","title":"Sequence Decreasing"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793460191.4374018,"platform":"codeforces","problem_id":"2278A","solved_at":1793459859.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a55","difficulty":1900,"member_id":"m23","observed_at":1792824984.8450022,"platform":"codeforces","problem_id":"817D","solved_at":1792824590.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5646367,"platform":"luogu","problem_id":"B2002","solved_at":1790816323.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -12927,6 +12930,8 @@
 {"account_id":"a98","difficulty":1400,"member_id":"m43","observed_at":1792148496.6040075,"platform":"codeforces","problem_id":"1883G1","solved_at":1697983029.0,"source":"codeforces-api","title":"Dances (Easy version)"}
 {"account_id":"a98","difficulty":800,"member_id":"m43","observed_at":1792148496.6038527,"platform":"codeforces","problem_id":"2276A","solved_at":1791989362.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a98","difficulty":1100,"member_id":"m43","observed_at":1792148496.6037781,"platform":"codeforces","problem_id":"2276C","solved_at":1791990411.0,"source":"codeforces-api","title":"Subarrays"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793459952.1336734,"platform":"codeforces","problem_id":"2278A","solved_at":1793459502.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793459952.13338,"platform":"codeforces","problem_id":"2278B","solved_at":1793459834.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}

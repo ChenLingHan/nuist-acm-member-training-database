@@ -7969,6 +7969,8 @@
 {"accepted_at":1793027831.0,"account_id":"a36","difficulty":null,"observed_at":1793028055.3001904,"problem_id":"2272A","submission_id":"396141381","title":"Maximize One MEX"}
 {"accepted_at":1793028054.0,"account_id":"a36","difficulty":null,"observed_at":1793028663.9764404,"problem_id":"2272B","submission_id":"396143042","title":"Frogs Jump"}
 {"accepted_at":1793028489.0,"account_id":"a36","difficulty":null,"observed_at":1793028663.9763138,"problem_id":"2272C","submission_id":"396146412","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793459602.0,"account_id":"a36","difficulty":null,"observed_at":1793460236.5004528,"problem_id":"2278B","submission_id":"396848495","title":"Stakes and Shapes"}
+{"accepted_at":1793459890.0,"account_id":"a36","difficulty":null,"observed_at":1793460236.5003276,"problem_id":"2278A","submission_id":"396853163","title":"Fraction and Six"}
 {"accepted_at":1792762251.0,"account_id":"a37","difficulty":1,"observed_at":1792762289.66419,"problem_id":"P1739","submission_id":"305090389","title":"表达式括号匹配"}
 {"accepted_at":1792764580.0,"account_id":"a37","difficulty":2,"observed_at":1792764743.48393,"problem_id":"P1449","submission_id":"305103319","title":"后缀表达式"}
 {"accepted_at":1792805163.0,"account_id":"a37","difficulty":1,"observed_at":1792805197.539181,"problem_id":"P1897","submission_id":"305148967","title":"电梯里的尴尬"}
@@ -10445,6 +10447,7 @@
 {"accepted_at":1793269831.0,"account_id":"a55","difficulty":1600,"observed_at":1793269976.6621127,"problem_id":"1527C","submission_id":"396540110","title":"Sequence Pair Weight"}
 {"accepted_at":1793324257.0,"account_id":"a55","difficulty":1600,"observed_at":1793324418.998948,"problem_id":"1527C","submission_id":"396631787","title":"Sequence Pair Weight"}
 {"accepted_at":1793408167.0,"account_id":"a55","difficulty":800,"observed_at":1793408792.8612895,"problem_id":"2036B","submission_id":"396751898","title":"Startup"}
+{"accepted_at":1793459859.0,"account_id":"a55","difficulty":null,"observed_at":1793460191.4375086,"problem_id":"2278A","submission_id":"396852664","title":"Fraction and Six"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -16464,6 +16467,8 @@
 {"accepted_at":1793412010.0,"account_id":"a98","difficulty":1300,"observed_at":1793412374.6010594,"problem_id":"1005C","submission_id":"396753627","title":"Summarize to the Power of Two"}
 {"accepted_at":1793416208.0,"account_id":"a98","difficulty":1800,"observed_at":1793416304.378515,"problem_id":"1225D","submission_id":"396755975","title":"Power Products"}
 {"accepted_at":1793419728.0,"account_id":"a98","difficulty":2000,"observed_at":1793419988.7058325,"problem_id":"842C","submission_id":"396758169","title":"Ilya And The Tree"}
+{"accepted_at":1793459502.0,"account_id":"a98","difficulty":null,"observed_at":1793459952.1336849,"problem_id":"2278A","submission_id":"396846749","title":"Fraction and Six"}
+{"accepted_at":1793459834.0,"account_id":"a98","difficulty":null,"observed_at":1793459952.1334827,"problem_id":"2278B","submission_id":"396852286","title":"Stakes and Shapes"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
