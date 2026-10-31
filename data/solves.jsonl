@@ -8153,6 +8153,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792843385.4927897,"platform":"codeforces","problem_id":"2277C","solved_at":1792843278.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458287.2228296,"platform":"codeforces","problem_id":"2278A","solved_at":1793458028.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458968.8440845,"platform":"codeforces","problem_id":"2278B","solved_at":1793458399.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793459588.5794988,"platform":"codeforces","problem_id":"2278C","solved_at":1793459053.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -9883,6 +9884,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793015050.7787414,"platform":"codeforces","problem_id":"2277C","solved_at":1793014881.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458141.0606246,"platform":"codeforces","problem_id":"2278A","solved_at":1793457923.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793458772.0895603,"platform":"codeforces","problem_id":"2278B","solved_at":1793458313.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1793459405.6625764,"platform":"codeforces","problem_id":"2278C","solved_at":1793459241.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.1282372,"platform":"codeforces","problem_id":"271D","solved_at":1785812259.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1507368,"platform":"codeforces","problem_id":"2A","solved_at":1771227342.0,"source":"codeforces-api","title":"Winner"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.155163,"platform":"codeforces","problem_id":"300C","solved_at":1769569170.0,"source":"codeforces-api","title":"Beautiful Numbers"}
@@ -16440,6 +16442,7 @@
 {"account_id":"a136","difficulty":800,"member_id":"m60","observed_at":1793237991.8583524,"platform":"codeforces","problem_id":"1703B","solved_at":1793237899.0,"source":"codeforces-api","title":"ICPC Balloons"}
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793028746.45435,"platform":"codeforces","problem_id":"2272A","solved_at":1793028652.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793458812.4679163,"platform":"codeforces","problem_id":"2278A","solved_at":1793458386.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793459423.749242,"platform":"codeforces","problem_id":"2278B","solved_at":1793459112.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
 {"account_id":"a136","difficulty":1900,"member_id":"m60","observed_at":1792807987.845412,"platform":"codeforces","problem_id":"817D","solved_at":1792807555.0,"source":"codeforces-api","title":"Imbalanced Array"}

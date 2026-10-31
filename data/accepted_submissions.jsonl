@@ -10363,6 +10363,7 @@
 {"accepted_at":1793449685.0,"account_id":"a51","difficulty":1200,"observed_at":1793450029.9777145,"problem_id":"2224B","submission_id":"396796290","title":"Zhily and Mex and Max"}
 {"accepted_at":1793458028.0,"account_id":"a51","difficulty":null,"observed_at":1793458287.2229297,"problem_id":"2278A","submission_id":"396817407","title":"Fraction and Six"}
 {"accepted_at":1793458399.0,"account_id":"a51","difficulty":null,"observed_at":1793458968.8462884,"problem_id":"2278B","submission_id":"396825278","title":"Stakes and Shapes"}
+{"accepted_at":1793459053.0,"account_id":"a51","difficulty":null,"observed_at":1793459588.579595,"problem_id":"2278C","submission_id":"396838524","title":"Math and Physics"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
@@ -12288,6 +12289,7 @@
 {"accepted_at":1793432262.0,"account_id":"a74","difficulty":1700,"observed_at":1793432641.2507136,"problem_id":"489D","submission_id":"396770215","title":"Unbearable Controversy of Being"}
 {"accepted_at":1793457923.0,"account_id":"a74","difficulty":null,"observed_at":1793458141.0608613,"problem_id":"2278A","submission_id":"396815294","title":"Fraction and Six"}
 {"accepted_at":1793458313.0,"account_id":"a74","difficulty":null,"observed_at":1793458772.0896852,"problem_id":"2278B","submission_id":"396823369","title":"Stakes and Shapes"}
+{"accepted_at":1793459241.0,"account_id":"a74","difficulty":null,"observed_at":1793459405.6626773,"problem_id":"2278C","submission_id":"396841898","title":"Math and Physics"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
@@ -20649,6 +20651,7 @@
 {"accepted_at":1793028652.0,"account_id":"a136","difficulty":null,"observed_at":1793028746.4544451,"problem_id":"2272A","submission_id":"396147580","title":"Maximize One MEX"}
 {"accepted_at":1793237899.0,"account_id":"a136","difficulty":800,"observed_at":1793237991.8584478,"problem_id":"1703B","submission_id":"396492594","title":"ICPC Balloons"}
 {"accepted_at":1793458386.0,"account_id":"a136","difficulty":null,"observed_at":1793458812.4680169,"problem_id":"2278A","submission_id":"396825015","title":"Fraction and Six"}
+{"accepted_at":1793459112.0,"account_id":"a136","difficulty":null,"observed_at":1793459423.749339,"problem_id":"2278B","submission_id":"396839592","title":"Stakes and Shapes"}
 {"accepted_at":1533354321.0,"account_id":"a137","difficulty":4,"observed_at":1792159561.5435557,"problem_id":"P1379","submission_id":"9275822","title":"八数码难题"}
 {"accepted_at":1533366539.0,"account_id":"a137","difficulty":2,"observed_at":1792159561.543501,"problem_id":"P1060","submission_id":"9282337","title":"[NOIP 2006 普及组] 开心的金明"}
 {"accepted_at":1533445145.0,"account_id":"a137","difficulty":1,"observed_at":1792159561.543474,"problem_id":"P1000","submission_id":"9314221","title":"超级玛丽游戏"}
