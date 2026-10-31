@@ -5963,6 +5963,8 @@
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.586101,"platform":"codeforces","problem_id":"2274A","solved_at":1791902997.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a40","difficulty":800,"member_id":"m17","observed_at":1792127067.5860856,"platform":"codeforces","problem_id":"2276A","solved_at":1791989234.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a40","difficulty":1100,"member_id":"m17","observed_at":1792127067.5860624,"platform":"codeforces","problem_id":"2276C","solved_at":1792053442.0,"source":"codeforces-api","title":"Subarrays"}
+{"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793458943.0216374,"platform":"codeforces","problem_id":"2278A","solved_at":1793458295.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a40","difficulty":null,"member_id":"m17","observed_at":1793458943.021402,"platform":"codeforces","problem_id":"2278B","solved_at":1793458936.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a40","difficulty":1800,"member_id":"m17","observed_at":1792127067.5858257,"platform":"codeforces","problem_id":"471D","solved_at":1792065092.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a40","difficulty":1900,"member_id":"m17","observed_at":1793013697.0734355,"platform":"codeforces","problem_id":"817D","solved_at":1793013432.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a41","difficulty":1,"member_id":"m18","observed_at":1792129791.953466,"platform":"luogu","problem_id":"AT_abc016_2","solved_at":1521118386.0,"source":"luogu-practice-snapshot","title":"[ABC016B] A±B Problem"}
@@ -8150,6 +8152,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792842161.3479402,"platform":"codeforces","problem_id":"2277B","solved_at":1792841745.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1792843385.4927897,"platform":"codeforces","problem_id":"2277C","solved_at":1792843278.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458287.2228296,"platform":"codeforces","problem_id":"2278A","solved_at":1793458028.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793458968.8440845,"platform":"codeforces","problem_id":"2278B","solved_at":1793458399.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -16436,6 +16439,7 @@
 {"account_id":"a133","difficulty":5,"member_id":"m59","observed_at":1792812611.4683685,"platform":"luogu","problem_id":"P3805","solved_at":1792812203.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a136","difficulty":800,"member_id":"m60","observed_at":1793237991.8583524,"platform":"codeforces","problem_id":"1703B","solved_at":1793237899.0,"source":"codeforces-api","title":"ICPC Balloons"}
 {"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793028746.45435,"platform":"codeforces","problem_id":"2272A","solved_at":1793028652.0,"source":"codeforces-api","title":"Maximize One MEX"}
+{"account_id":"a136","difficulty":null,"member_id":"m60","observed_at":1793458812.4679163,"platform":"codeforces","problem_id":"2278A","solved_at":1793458386.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a136","difficulty":1100,"member_id":"m60","observed_at":1792148529.9025261,"platform":"codeforces","problem_id":"690A1","solved_at":1709866572.0,"source":"codeforces-api","title":"Collective Mindsets (easy)"}
 {"account_id":"a136","difficulty":2300,"member_id":"m60","observed_at":1792148529.9020858,"platform":"codeforces","problem_id":"690A2","solved_at":1709867784.0,"source":"codeforces-api","title":"Collective Mindsets (medium)"}
 {"account_id":"a136","difficulty":1900,"member_id":"m60","observed_at":1792807987.845412,"platform":"codeforces","problem_id":"817D","solved_at":1792807555.0,"source":"codeforces-api","title":"Imbalanced Array"}
@@ -21223,6 +21227,7 @@
 {"account_id":"a181","difficulty":1100,"member_id":"m79","observed_at":1792167449.7720017,"platform":"codeforces","problem_id":"2276C","solved_at":1791989868.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793457674.6645563,"platform":"codeforces","problem_id":"2278A","solved_at":1793457604.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793458352.9353747,"platform":"codeforces","problem_id":"2278B","solved_at":1793458278.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1793459006.6596897,"platform":"codeforces","problem_id":"2278C","solved_at":1793458995.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a181","difficulty":800,"member_id":"m79","observed_at":1792167449.7725596,"platform":"codeforces","problem_id":"266B","solved_at":1790252636.0,"source":"codeforces-api","title":"Queue at the School"}
 {"account_id":"a181","difficulty":1200,"member_id":"m79","observed_at":1792167449.774108,"platform":"codeforces","problem_id":"327A","solved_at":1786723555.0,"source":"codeforces-api","title":"Flipping Game"}
 {"account_id":"a181","difficulty":1000,"member_id":"m79","observed_at":1792167449.772178,"platform":"codeforces","problem_id":"339B","solved_at":1790868345.0,"source":"codeforces-api","title":"Xenia and Ringroad"}

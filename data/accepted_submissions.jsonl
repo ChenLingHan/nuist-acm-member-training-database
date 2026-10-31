@@ -8027,6 +8027,8 @@
 {"accepted_at":1793013432.0,"account_id":"a40","difficulty":1900,"observed_at":1793013697.0735204,"problem_id":"817D","submission_id":"396096651","title":"Imbalanced Array"}
 {"accepted_at":1793030407.0,"account_id":"a40","difficulty":null,"observed_at":1793030857.9730785,"problem_id":"2272A","submission_id":"396159405","title":"Maximize One MEX"}
 {"accepted_at":1793203707.0,"account_id":"a40","difficulty":null,"observed_at":1793203821.605027,"problem_id":"2272A","submission_id":"396454431","title":"Maximize One MEX"}
+{"accepted_at":1793458295.0,"account_id":"a40","difficulty":null,"observed_at":1793458943.0216563,"problem_id":"2278A","submission_id":"396822962","title":"Fraction and Six"}
+{"accepted_at":1793458936.0,"account_id":"a40","difficulty":null,"observed_at":1793458943.0215085,"problem_id":"2278B","submission_id":"396836220","title":"Stakes and Shapes"}
 {"accepted_at":1497787060.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001384,"problem_id":"P1000","submission_id":"2380116","title":"超级玛丽游戏"}
 {"accepted_at":1497787234.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.6001163,"problem_id":"P1001","submission_id":"2380138","title":"A+B Problem"}
 {"accepted_at":1497787953.0,"account_id":"a41","difficulty":1,"observed_at":1792165090.60002,"problem_id":"P1421","submission_id":"2380225","title":"小玉买文具"}
@@ -10360,6 +10362,7 @@
 {"accepted_at":1793446927.0,"account_id":"a51","difficulty":1200,"observed_at":1793447255.2557554,"problem_id":"2227D","submission_id":"396791974","title":"Palindromex"}
 {"accepted_at":1793449685.0,"account_id":"a51","difficulty":1200,"observed_at":1793450029.9777145,"problem_id":"2224B","submission_id":"396796290","title":"Zhily and Mex and Max"}
 {"accepted_at":1793458028.0,"account_id":"a51","difficulty":null,"observed_at":1793458287.2229297,"problem_id":"2278A","submission_id":"396817407","title":"Fraction and Six"}
+{"accepted_at":1793458399.0,"account_id":"a51","difficulty":null,"observed_at":1793458968.8462884,"problem_id":"2278B","submission_id":"396825278","title":"Stakes and Shapes"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
@@ -20645,6 +20648,7 @@
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
 {"accepted_at":1793028652.0,"account_id":"a136","difficulty":null,"observed_at":1793028746.4544451,"problem_id":"2272A","submission_id":"396147580","title":"Maximize One MEX"}
 {"accepted_at":1793237899.0,"account_id":"a136","difficulty":800,"observed_at":1793237991.8584478,"problem_id":"1703B","submission_id":"396492594","title":"ICPC Balloons"}
+{"accepted_at":1793458386.0,"account_id":"a136","difficulty":null,"observed_at":1793458812.4680169,"problem_id":"2278A","submission_id":"396825015","title":"Fraction and Six"}
 {"accepted_at":1533354321.0,"account_id":"a137","difficulty":4,"observed_at":1792159561.5435557,"problem_id":"P1379","submission_id":"9275822","title":"八数码难题"}
 {"accepted_at":1533366539.0,"account_id":"a137","difficulty":2,"observed_at":1792159561.543501,"problem_id":"P1060","submission_id":"9282337","title":"[NOIP 2006 普及组] 开心的金明"}
 {"accepted_at":1533445145.0,"account_id":"a137","difficulty":1,"observed_at":1792159561.543474,"problem_id":"P1000","submission_id":"9314221","title":"超级玛丽游戏"}
@@ -26382,6 +26386,7 @@
 {"accepted_at":1791990579.0,"account_id":"a181","difficulty":1000,"observed_at":1792167449.771801,"problem_id":"2276B","submission_id":"394557554","title":"Replace and Compress"}
 {"accepted_at":1793457604.0,"account_id":"a181","difficulty":null,"observed_at":1793457674.6646564,"problem_id":"2278A","submission_id":"396809776","title":"Fraction and Six"}
 {"accepted_at":1793458278.0,"account_id":"a181","difficulty":null,"observed_at":1793458352.9354744,"problem_id":"2278B","submission_id":"396822615","title":"Stakes and Shapes"}
+{"accepted_at":1793458995.0,"account_id":"a181","difficulty":null,"observed_at":1793459006.6638546,"problem_id":"2278C","submission_id":"396837349","title":"Math and Physics"}
 {"accepted_at":1628356497.0,"account_id":"a182","difficulty":1,"observed_at":1792486977.5351207,"problem_id":"P2670","submission_id":"55254742","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1660744880.0,"account_id":"a182","difficulty":4,"observed_at":1792486977.535091,"problem_id":"P3956","submission_id":"84207506","title":"[NOIP 2017 普及组] 棋盘"}
 {"accepted_at":1660830172.0,"account_id":"a182","difficulty":2,"observed_at":1792486977.5349858,"problem_id":"P1216","submission_id":"84338438","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}
