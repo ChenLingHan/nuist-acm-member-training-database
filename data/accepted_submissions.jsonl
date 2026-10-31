@@ -11315,6 +11315,7 @@
 {"accepted_at":1792844388.0,"account_id":"a62","difficulty":null,"observed_at":1792844431.072848,"problem_id":"2277A","submission_id":"395856612","title":"Subset Selecting"}
 {"accepted_at":1792847006.0,"account_id":"a62","difficulty":null,"observed_at":1792847474.501458,"problem_id":"2277B","submission_id":"395866642","title":"Sequence Decreasing"}
 {"accepted_at":1793458409.0,"account_id":"a62","difficulty":null,"observed_at":1793458426.005807,"problem_id":"2278A","submission_id":"396825486","title":"Fraction and Six"}
+{"accepted_at":1793460396.0,"account_id":"a62","difficulty":null,"observed_at":1793460937.125755,"problem_id":"2278B","submission_id":"396860875","title":"Stakes and Shapes"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
@@ -16471,6 +16472,8 @@
 {"accepted_at":1793419728.0,"account_id":"a98","difficulty":2000,"observed_at":1793419988.7058325,"problem_id":"842C","submission_id":"396758169","title":"Ilya And The Tree"}
 {"accepted_at":1793459502.0,"account_id":"a98","difficulty":null,"observed_at":1793459952.1336849,"problem_id":"2278A","submission_id":"396846749","title":"Fraction and Six"}
 {"accepted_at":1793459834.0,"account_id":"a98","difficulty":null,"observed_at":1793459952.1334827,"problem_id":"2278B","submission_id":"396852286","title":"Stakes and Shapes"}
+{"accepted_at":1793460610.0,"account_id":"a98","difficulty":null,"observed_at":1793461168.5737557,"problem_id":"2278C","submission_id":"396863735","title":"Math and Physics"}
+{"accepted_at":1793460955.0,"account_id":"a98","difficulty":null,"observed_at":1793461168.5734923,"problem_id":"2278D","submission_id":"396868340","title":"Lock and Unlock"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}

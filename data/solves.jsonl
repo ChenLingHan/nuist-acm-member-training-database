@@ -8925,6 +8925,7 @@
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1792844431.0727503,"platform":"codeforces","problem_id":"2277A","solved_at":1792844388.0,"source":"codeforces-api","title":"Subset Selecting"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1792847474.5013623,"platform":"codeforces","problem_id":"2277B","solved_at":1792847006.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793458426.0057037,"platform":"codeforces","problem_id":"2278A","solved_at":1793458409.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793460937.1256487,"platform":"codeforces","problem_id":"2278B","solved_at":1793460396.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1013665,"platform":"codeforces","problem_id":"228A","solved_at":1790691230.0,"source":"codeforces-api","title":"Is your horseshoe on the other hoof?"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
@@ -12934,6 +12935,8 @@
 {"account_id":"a98","difficulty":1100,"member_id":"m43","observed_at":1792148496.6037781,"platform":"codeforces","problem_id":"2276C","solved_at":1791990411.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793459952.1336734,"platform":"codeforces","problem_id":"2278A","solved_at":1793459502.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793459952.13338,"platform":"codeforces","problem_id":"2278B","solved_at":1793459834.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793461168.5737445,"platform":"codeforces","problem_id":"2278C","solved_at":1793460610.0,"source":"codeforces-api","title":"Math and Physics"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793461168.5715973,"platform":"codeforces","problem_id":"2278D","solved_at":1793460955.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}
