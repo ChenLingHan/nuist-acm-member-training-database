@@ -820,6 +820,7 @@
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.831535,"platform":"codeforces","problem_id":"106193F","solved_at":1785044183.0,"source":"codeforces-api","title":"Faulty Fraction"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.8315108,"platform":"codeforces","problem_id":"106193H","solved_at":1785056750.0,"source":"codeforces-api","title":"High Score"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.8315275,"platform":"codeforces","problem_id":"106193J","solved_at":1785045911.0,"source":"codeforces-api","title":"Judging Problem"}
+{"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793414725.4278183,"platform":"codeforces","problem_id":"106252B","solved_at":1793414537.0,"source":"codeforces-api","title":"Buggy Painting Software I"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793411077.440294,"platform":"codeforces","problem_id":"106252I","solved_at":1793410817.0,"source":"codeforces-api","title":"Volunteer Simulator"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793413507.5369234,"platform":"codeforces","problem_id":"106252M","solved_at":1793413082.0,"source":"codeforces-api","title":"The End?"}
 {"account_id":"a8","difficulty":2300,"member_id":"m4","observed_at":1792916143.8521018,"platform":"codeforces","problem_id":"1073E","solved_at":1792916012.0,"source":"codeforces-api","title":"Segment Sum"}
@@ -17403,6 +17404,7 @@
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.1202922,"platform":"codeforces","problem_id":"106193F","solved_at":1785044183.0,"source":"codeforces-api","title":"Faulty Fraction"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.12023,"platform":"codeforces","problem_id":"106193H","solved_at":1785056750.0,"source":"codeforces-api","title":"High Score"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.120275,"platform":"codeforces","problem_id":"106193J","solved_at":1785045911.0,"source":"codeforces-api","title":"Judging Problem"}
+{"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793414698.717279,"platform":"codeforces","problem_id":"106252B","solved_at":1793414537.0,"source":"codeforces-api","title":"Buggy Painting Software I"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793411041.6182857,"platform":"codeforces","problem_id":"106252I","solved_at":1793410817.0,"source":"codeforces-api","title":"Volunteer Simulator"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793413483.437205,"platform":"codeforces","problem_id":"106252M","solved_at":1793413082.0,"source":"codeforces-api","title":"The End?"}
 {"account_id":"a150","difficulty":1800,"member_id":"m66","observed_at":1792148545.1180494,"platform":"codeforces","problem_id":"1082D","solved_at":1791527476.0,"source":"codeforces-api","title":"Maximum Diameter Graph"}

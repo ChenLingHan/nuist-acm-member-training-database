@@ -1308,6 +1308,7 @@
 {"accepted_at":1793364949.0,"account_id":"a8","difficulty":1300,"observed_at":1793365545.5827773,"problem_id":"1005C","submission_id":"396686833","title":"Summarize to the Power of Two"}
 {"accepted_at":1793410817.0,"account_id":"a8","difficulty":null,"observed_at":1793411077.4403996,"problem_id":"106252I","submission_id":"396753050","title":"Volunteer Simulator"}
 {"accepted_at":1793413082.0,"account_id":"a8","difficulty":null,"observed_at":1793413507.5370264,"problem_id":"106252M","submission_id":"396754156","title":"The End?"}
+{"accepted_at":1793414537.0,"account_id":"a8","difficulty":null,"observed_at":1793414725.4279158,"problem_id":"106252B","submission_id":"396754978","title":"Buggy Painting Software I"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -22301,6 +22302,7 @@
 {"accepted_at":1793357450.0,"account_id":"a150","difficulty":2200,"observed_at":1793357495.005212,"problem_id":"603C","submission_id":"396673027","title":"Lieges of Legendre"}
 {"accepted_at":1793410817.0,"account_id":"a150","difficulty":null,"observed_at":1793411041.6183884,"problem_id":"106252I","submission_id":"396753050","title":"Volunteer Simulator"}
 {"accepted_at":1793413082.0,"account_id":"a150","difficulty":null,"observed_at":1793413483.4373004,"problem_id":"106252M","submission_id":"396754156","title":"The End?"}
+{"accepted_at":1793414537.0,"account_id":"a150","difficulty":null,"observed_at":1793414698.7173755,"problem_id":"106252B","submission_id":"396754978","title":"Buggy Painting Software I"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
