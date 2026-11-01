@@ -3625,8 +3625,8 @@
 {"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2277C","tags":["dfs and similar","greedy","trees"],"title":"Edge Addeleting"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2277D1","tags":["binary search","bitmasks","brute force","greedy"],"title":"Number Operating (Easy Version)"}
 {"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2277D2","tags":["bitmasks","brute force","divide and conquer","dp"],"title":"Number Operating (Hard Version)"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278A","tags":["implementation","sortings"],"title":"Fraction and Six"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278B","tags":["constructive algorithms"],"title":"Stakes and Shapes"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278A","tags":["implementation","sortings","strings"],"title":"Fraction and Six"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278B","tags":["constructive algorithms","greedy"],"title":"Stakes and Shapes"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278C","tags":["greedy"],"title":"Math and Physics"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278D","tags":["greedy"],"title":"Lock and Unlock"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278E","tags":["constructive algorithms","greedy"],"title":"Swap and Negate"}
