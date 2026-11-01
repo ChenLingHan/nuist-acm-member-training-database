@@ -1531,6 +1531,7 @@
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075180.9972878,"platform":"codeforces","problem_id":"2274A","solved_at":1791904519.0,"source":"codeforces-api","title":"The Projections of Paco"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792855885.1769779,"platform":"codeforces","problem_id":"2277C","solved_at":1792855450.0,"source":"codeforces-api","title":"Edge Addeleting"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1793510689.0899498,"platform":"codeforces","problem_id":"2278A","solved_at":1793510173.0,"source":"codeforces-api","title":"Fraction and Six"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1793511296.3070238,"platform":"codeforces","problem_id":"2278B","solved_at":1793510788.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.017075,"platform":"codeforces","problem_id":"22A","solved_at":1767107778.0,"source":"codeforces-api","title":"Second Order Statistics"}
 {"account_id":"a11","difficulty":1300,"member_id":"m5","observed_at":1792075181.0070984,"platform":"codeforces","problem_id":"230B","solved_at":1779895541.0,"source":"codeforces-api","title":"T-primes"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.019827,"platform":"codeforces","problem_id":"231A","solved_at":1766138910.0,"source":"codeforces-api","title":"Team"}
@@ -10121,6 +10122,7 @@
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4527912,"platform":"codeforces","problem_id":"105487L","solved_at":1785743536.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.452798,"platform":"codeforces","problem_id":"105487M","solved_at":1785739779.0,"source":"codeforces-api","title":"Covering a Tree"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793507245.425757,"platform":"codeforces","problem_id":"105578D","solved_at":1793507163.0,"source":"codeforces-api","title":"Dot Product Game"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793511542.0988925,"platform":"codeforces","problem_id":"105578E","solved_at":1793510879.0,"source":"codeforces-api","title":"Light Up the Grid"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793503533.8788915,"platform":"codeforces","problem_id":"105578J","solved_at":1793503077.0,"source":"codeforces-api","title":"Make Them Believe"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4529803,"platform":"codeforces","problem_id":"105945D","solved_at":1778067123.0,"source":"codeforces-api","title":"Spell Generation"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.452972,"platform":"codeforces","problem_id":"105945F","solved_at":1778071993.0,"source":"codeforces-api","title":"Ranking Prediction"}
@@ -17457,6 +17459,7 @@
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.1201308,"platform":"codeforces","problem_id":"105487L","solved_at":1785743536.0,"source":"codeforces-api","title":"Puzzle"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.1201513,"platform":"codeforces","problem_id":"105487M","solved_at":1785739779.0,"source":"codeforces-api","title":"Covering a Tree"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793507208.2339363,"platform":"codeforces","problem_id":"105578D","solved_at":1793507163.0,"source":"codeforces-api","title":"Dot Product Game"}
+{"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793511549.725651,"platform":"codeforces","problem_id":"105578E","solved_at":1793510879.0,"source":"codeforces-api","title":"Light Up the Grid"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793503511.02513,"platform":"codeforces","problem_id":"105578J","solved_at":1793503077.0,"source":"codeforces-api","title":"Make Them Believe"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.120522,"platform":"codeforces","problem_id":"105945D","solved_at":1778067123.0,"source":"codeforces-api","title":"Spell Generation"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.120492,"platform":"codeforces","problem_id":"105945F","solved_at":1778071993.0,"source":"codeforces-api","title":"Ranking Prediction"}

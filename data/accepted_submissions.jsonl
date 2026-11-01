@@ -2009,6 +2009,7 @@
 {"accepted_at":1793264995.0,"account_id":"a11","difficulty":1600,"observed_at":1793265307.913772,"problem_id":"1513C","submission_id":"396529768","title":"Add One"}
 {"accepted_at":1793266399.0,"account_id":"a11","difficulty":1600,"observed_at":1793266550.5008745,"problem_id":"1603B","submission_id":"396533759","title":"Moderate Modular Mode"}
 {"accepted_at":1793510173.0,"account_id":"a11","difficulty":null,"observed_at":1793510689.1357658,"problem_id":"2278A","submission_id":"396968435","title":"Fraction and Six"}
+{"accepted_at":1793510788.0,"account_id":"a11","difficulty":null,"observed_at":1793511296.3071187,"problem_id":"2278B","submission_id":"396968982","title":"Stakes and Shapes"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -12684,6 +12685,7 @@
 {"accepted_at":1793433381.0,"account_id":"a79","difficulty":null,"observed_at":1793433741.6186955,"problem_id":"106252A","submission_id":"396771774","title":"Square Kingdom"}
 {"accepted_at":1793503077.0,"account_id":"a79","difficulty":null,"observed_at":1793503533.8789968,"problem_id":"105578J","submission_id":"396943144","title":"Make Them Believe"}
 {"accepted_at":1793507163.0,"account_id":"a79","difficulty":null,"observed_at":1793507245.425857,"problem_id":"105578D","submission_id":"396946172","title":"Dot Product Game"}
+{"accepted_at":1793510879.0,"account_id":"a79","difficulty":null,"observed_at":1793511542.0989933,"problem_id":"105578E","submission_id":"396969084","title":"Light Up the Grid"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
@@ -22370,6 +22372,7 @@
 {"accepted_at":1793419778.0,"account_id":"a150","difficulty":null,"observed_at":1793420194.6260827,"problem_id":"106252K","submission_id":"396758195","title":"Relay Jump"}
 {"accepted_at":1793503077.0,"account_id":"a150","difficulty":null,"observed_at":1793503511.0252268,"problem_id":"105578J","submission_id":"396943144","title":"Make Them Believe"}
 {"accepted_at":1793507163.0,"account_id":"a150","difficulty":null,"observed_at":1793507208.234037,"problem_id":"105578D","submission_id":"396946172","title":"Dot Product Game"}
+{"accepted_at":1793510879.0,"account_id":"a150","difficulty":null,"observed_at":1793511549.7257462,"problem_id":"105578E","submission_id":"396969084","title":"Light Up the Grid"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
