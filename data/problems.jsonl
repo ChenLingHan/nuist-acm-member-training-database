@@ -3930,6 +3930,7 @@
 {"difficulty":3000,"platform":"codeforces","points":2500.0,"problem_id":"739E","tags":["brute force","data structures","dp","flows","math","probabilities","sortings"],"title":"Gosha is hunting"}
 {"difficulty":1600,"platform":"codeforces","points":1000.0,"problem_id":"741B","tags":["dfs and similar","dp","dsu"],"title":"Arpa's weak amphitheater and Mehrdad's valuable Hoses"}
 {"difficulty":2900,"platform":"codeforces","points":2000.0,"problem_id":"741D","tags":["data structures","dfs and similar","trees"],"title":"Arpa’s letter-marked tree and Mehrdad’s Dokhtar-kosh paths"}
+{"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"742A","tags":["implementation","math","number theory"],"title":"Arpa’s hard exam and Mehrdad’s naive cheat"}
 {"difficulty":3200,"platform":"codeforces","points":3250.0,"problem_id":"750G","tags":["bitmasks","brute force","combinatorics","dp"],"title":"New Year and Binary Tree Paths"}
 {"difficulty":3500,"platform":"codeforces","points":3500.0,"problem_id":"750H","tags":["dfs and similar","dsu","graphs","interactive"],"title":"New Year and Snowy Grid"}
 {"difficulty":1200,"platform":"codeforces","points":500.0,"problem_id":"754A","tags":["constructive algorithms","greedy","implementation"],"title":"Lesha and array splitting"}
