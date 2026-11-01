@@ -1308,6 +1308,7 @@
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1669F","tags":["binary search","data structures","greedy","two pointers"],"title":"Eating Candies"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1669G","tags":["dfs and similar","implementation"],"title":"Fall Down"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1669H","tags":["bitmasks","greedy","math"],"title":"Maximal AND"}
+{"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"166E","tags":["dp","math","matrices"],"title":"Tetrahedron"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1670A","tags":["greedy","implementation","sortings"],"title":"Prof. Slim"}
 {"difficulty":2400,"platform":"codeforces","points":3000.0,"problem_id":"1670F","tags":["bitmasks","combinatorics","dp"],"title":"Jee, You See?"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1671A","tags":["implementation"],"title":"String Building"}
