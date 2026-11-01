@@ -3850,6 +3850,7 @@
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"5C","tags":["constructive algorithms","data structures","dp","greedy","sortings","strings"],"title":"Longest Regular Bracket Sequence"}
 {"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"5D","tags":["implementation","math"],"title":"Follow Traffic Rules"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"5E","tags":["data structures"],"title":"Bindian Signalizing"}
+{"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"600B","tags":["binary search","data structures","sortings","two pointers"],"title":"Queries about less or equal elements"}
 {"difficulty":2300,"platform":"codeforces","points":null,"problem_id":"600E","tags":["data structures","dfs and similar","dsu","trees"],"title":"Lomsat gelral"}
 {"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"601A","tags":["graphs","shortest paths"],"title":"The Two Routes"}
 {"difficulty":2200,"platform":"codeforces","points":1500.0,"problem_id":"603C","tags":["games","math"],"title":"Lieges of Legendre"}
