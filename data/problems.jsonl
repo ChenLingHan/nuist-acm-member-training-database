@@ -1165,6 +1165,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"158A","tags":["*special","implementation"],"title":"Next Round"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"158B","tags":["*special","greedy","implementation"],"title":"Taxi"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1593B","tags":["dfs and similar","dp","greedy","math"],"title":"Make it Divisible by 25"}
+{"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1598C","tags":["data structures","dp","implementation","math","two pointers"],"title":"Delete Two Elements"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"1599C","tags":["combinatorics","math","probabilities","ternary search"],"title":"Bubble Strike"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"15C","tags":["games"],"title":"Industrial Nim"}
 {"difficulty":2600,"platform":"codeforces","points":null,"problem_id":"15E","tags":["combinatorics","dp"],"title":"Triangles"}
