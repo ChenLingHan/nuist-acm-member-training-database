@@ -2076,6 +2076,7 @@
 {"accepted_at":1793027177.0,"account_id":"a16","difficulty":null,"observed_at":1793027658.7715635,"problem_id":"2272A","submission_id":"396135836","title":"Maximize One MEX"}
 {"accepted_at":1793028303.0,"account_id":"a16","difficulty":null,"observed_at":1793028886.7344322,"problem_id":"2272B","submission_id":"396145010","title":"Frogs Jump"}
 {"accepted_at":1793033361.0,"account_id":"a16","difficulty":null,"observed_at":1793034404.2325838,"problem_id":"2272C","submission_id":"396185956","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793804268.0,"account_id":"a16","difficulty":null,"observed_at":1793804379.9475381,"problem_id":"2283A","submission_id":"397352412","title":"Numbers on the Board"}
 {"accepted_at":1638248850.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602791,"problem_id":"P1000","submission_id":"63952289","title":"超级玛丽游戏"}
 {"accepted_at":1638248934.0,"account_id":"a17","difficulty":1,"observed_at":1792162038.0602527,"problem_id":"P1001","submission_id":"63952366","title":"A+B Problem"}
 {"accepted_at":1638249069.0,"account_id":"a17","difficulty":2,"observed_at":1792162038.0601962,"problem_id":"P1008","submission_id":"63952522","title":"[NOIP 1998 普及组] 三连击"}
@@ -10406,6 +10407,7 @@
 {"accepted_at":1793790760.0,"account_id":"a51","difficulty":1500,"observed_at":1793790993.7604928,"problem_id":"2275E","submission_id":"397324837","title":"Repentance Is Already on the Way"}
 {"accepted_at":1793792984.0,"account_id":"a51","difficulty":1500,"observed_at":1793793433.4998314,"problem_id":"2254E","submission_id":"397328113","title":"Chronostasis"}
 {"accepted_at":1793797652.0,"account_id":"a51","difficulty":1500,"observed_at":1793797744.7865362,"problem_id":"2253C","submission_id":"397336189","title":"Sum of Distinct Values in a Matrix"}
+{"accepted_at":1793803983.0,"account_id":"a51","difficulty":null,"observed_at":1793804475.792201,"problem_id":"2283A","submission_id":"397348882","title":"Numbers on the Board"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
@@ -11369,6 +11371,7 @@
 {"accepted_at":1793702241.0,"account_id":"a62","difficulty":1000,"observed_at":1793702596.093768,"problem_id":"1690D","submission_id":"397220454","title":"Black and White Stripe"}
 {"accepted_at":1793705188.0,"account_id":"a62","difficulty":1600,"observed_at":1793705700.047411,"problem_id":"2258B2","submission_id":"397224880","title":"Carrot Chopdown (Hard Version)"}
 {"accepted_at":1793722216.0,"account_id":"a62","difficulty":1100,"observed_at":1793722297.4133139,"problem_id":"456A","submission_id":"397256122","title":"Laptops"}
+{"accepted_at":1793804131.0,"account_id":"a62","difficulty":null,"observed_at":1793804254.3983777,"problem_id":"2283A","submission_id":"397350657","title":"Numbers on the Board"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}

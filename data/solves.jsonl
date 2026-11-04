@@ -1602,6 +1602,7 @@
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793027658.7714603,"platform":"codeforces","problem_id":"2272A","solved_at":1793027177.0,"source":"codeforces-api","title":"Maximize One MEX"}
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793028886.7174351,"platform":"codeforces","problem_id":"2272B","solved_at":1793028303.0,"source":"codeforces-api","title":"Frogs Jump"}
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793034404.2324908,"platform":"codeforces","problem_id":"2272C","solved_at":1793033361.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
+{"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793804379.9474382,"platform":"codeforces","problem_id":"2283A","solved_at":1793804268.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a16","difficulty":1900,"member_id":"m7","observed_at":1792811651.818478,"platform":"codeforces","problem_id":"817D","solved_at":1792811250.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a16","difficulty":1500,"member_id":"m7","observed_at":1792077554.3268685,"platform":"codeforces","problem_id":"91B","solved_at":1761380429.0,"source":"codeforces-api","title":"Queue"}
 {"account_id":"a17","difficulty":1,"member_id":"m8","observed_at":1792077926.0857232,"platform":"luogu","problem_id":"B2001","solved_at":1638852640.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
@@ -8199,6 +8200,7 @@
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793459588.5794988,"platform":"codeforces","problem_id":"2278C","solved_at":1793459053.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793460826.9911938,"platform":"codeforces","problem_id":"2278D","solved_at":1793460449.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793464504.8541787,"platform":"codeforces","problem_id":"2278E","solved_at":1793464098.0,"source":"codeforces-api","title":"Swap and Negate"}
+{"account_id":"a51","difficulty":null,"member_id":"m21","observed_at":1793804475.792096,"platform":"codeforces","problem_id":"2283A","solved_at":1793803983.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0410507,"platform":"codeforces","problem_id":"522A","solved_at":1791907285.0,"source":"codeforces-api","title":"Reposts"}
 {"account_id":"a51","difficulty":1700,"member_id":"m21","observed_at":1792782226.1984212,"platform":"codeforces","problem_id":"622C","solved_at":1792781943.0,"source":"codeforces-api","title":"Not Equal on a Segment"}
 {"account_id":"a52","difficulty":1,"member_id":"m22","observed_at":1792196984.6692836,"platform":"luogu","problem_id":"P1001","solved_at":1792196831.0,"source":"luogu-record-list","title":"A+B Problem"}
@@ -8975,6 +8977,7 @@
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1792847474.5013623,"platform":"codeforces","problem_id":"2277B","solved_at":1792847006.0,"source":"codeforces-api","title":"Sequence Decreasing"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793458426.0057037,"platform":"codeforces","problem_id":"2278A","solved_at":1793458409.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793460937.1256487,"platform":"codeforces","problem_id":"2278B","solved_at":1793460396.0,"source":"codeforces-api","title":"Stakes and Shapes"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793804254.398265,"platform":"codeforces","problem_id":"2283A","solved_at":1793804131.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1013665,"platform":"codeforces","problem_id":"228A","solved_at":1790691230.0,"source":"codeforces-api","title":"Is your horseshoe on the other hoof?"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
