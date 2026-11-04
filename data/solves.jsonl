@@ -1604,6 +1604,7 @@
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793034404.2324908,"platform":"codeforces","problem_id":"2272C","solved_at":1793033361.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793804379.9474382,"platform":"codeforces","problem_id":"2283A","solved_at":1793804268.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793806230.9353359,"platform":"codeforces","problem_id":"2283B","solved_at":1793806081.0,"source":"codeforces-api","title":"Rhythmic String"}
+{"account_id":"a16","difficulty":null,"member_id":"m7","observed_at":1793809908.0254312,"platform":"codeforces","problem_id":"2283C","solved_at":1793809475.0,"source":"codeforces-api","title":"Big XOR"}
 {"account_id":"a16","difficulty":1900,"member_id":"m7","observed_at":1792811651.818478,"platform":"codeforces","problem_id":"817D","solved_at":1792811250.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a16","difficulty":1500,"member_id":"m7","observed_at":1792077554.3268685,"platform":"codeforces","problem_id":"91B","solved_at":1761380429.0,"source":"codeforces-api","title":"Queue"}
 {"account_id":"a17","difficulty":1,"member_id":"m8","observed_at":1792077926.0857232,"platform":"luogu","problem_id":"B2001","solved_at":1638852640.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
@@ -9411,6 +9412,7 @@
 {"account_id":"a71","difficulty":1500,"member_id":"m30","observed_at":1793245992.6472425,"platform":"codeforces","problem_id":"1296C","solved_at":1793245960.0,"source":"codeforces-api","title":"Yet Another Walking Robot"}
 {"account_id":"a71","difficulty":1600,"member_id":"m30","observed_at":1793252147.635876,"platform":"codeforces","problem_id":"1527C","solved_at":1793251899.0,"source":"codeforces-api","title":"Sequence Pair Weight"}
 {"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1793805501.9329343,"platform":"codeforces","problem_id":"2283A","solved_at":1793805202.0,"source":"codeforces-api","title":"Numbers on the Board"}
+{"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1793809825.0925632,"platform":"codeforces","problem_id":"2283B","solved_at":1793809676.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a71","difficulty":1900,"member_id":"m30","observed_at":1793019545.9632373,"platform":"codeforces","problem_id":"817D","solved_at":1793019117.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1793014070.9378963,"platform":"luogu","problem_id":"B3631","solved_at":1793013507.0,"source":"luogu-record-list","title":"单向链表"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792130059.5312717,"platform":"luogu","problem_id":"P1002","solved_at":1792068426.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 过河卒"}
@@ -13018,6 +13020,7 @@
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793804648.4733183,"platform":"codeforces","problem_id":"2283B","solved_at":1793804466.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793807102.6181657,"platform":"codeforces","problem_id":"2283C","solved_at":1793806533.0,"source":"codeforces-api","title":"Big XOR"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793808357.054619,"platform":"codeforces","problem_id":"2283D","solved_at":1793808181.0,"source":"codeforces-api","title":"Black, Gray and White"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793810185.7877457,"platform":"codeforces","problem_id":"2283F","solved_at":1793810123.0,"source":"codeforces-api","title":"Minimize the Graph"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}
