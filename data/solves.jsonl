@@ -9405,6 +9405,7 @@
 {"account_id":"a70","difficulty":3,"member_id":"m30","observed_at":1792204726.8661346,"platform":"luogu","problem_id":"P7911","solved_at":1792204492.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a71","difficulty":1500,"member_id":"m30","observed_at":1793245992.6472425,"platform":"codeforces","problem_id":"1296C","solved_at":1793245960.0,"source":"codeforces-api","title":"Yet Another Walking Robot"}
 {"account_id":"a71","difficulty":1600,"member_id":"m30","observed_at":1793252147.635876,"platform":"codeforces","problem_id":"1527C","solved_at":1793251899.0,"source":"codeforces-api","title":"Sequence Pair Weight"}
+{"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1793805501.9329343,"platform":"codeforces","problem_id":"2283A","solved_at":1793805202.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a71","difficulty":1900,"member_id":"m30","observed_at":1793019545.9632373,"platform":"codeforces","problem_id":"817D","solved_at":1793019117.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1793014070.9378963,"platform":"luogu","problem_id":"B3631","solved_at":1793013507.0,"source":"luogu-record-list","title":"单向链表"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1792130059.5312717,"platform":"luogu","problem_id":"P1002","solved_at":1792068426.0,"source":"luogu-practice-snapshot","title":"[NOIP 2002 普及组] 过河卒"}
@@ -21142,6 +21143,7 @@
 {"account_id":"a180","difficulty":1600,"member_id":"m39","observed_at":1793167528.5712764,"platform":"codeforces","problem_id":"1722E","solved_at":1793167027.0,"source":"codeforces-api","title":"Counting Rectangles"}
 {"account_id":"a180","difficulty":800,"member_id":"m39","observed_at":1792167379.616174,"platform":"codeforces","problem_id":"2276A","solved_at":1791989258.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a180","difficulty":1100,"member_id":"m39","observed_at":1792167379.6160786,"platform":"codeforces","problem_id":"2276C","solved_at":1791992066.0,"source":"codeforces-api","title":"Subarrays"}
+{"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1793805348.8691525,"platform":"codeforces","problem_id":"2283A","solved_at":1793805309.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a180","difficulty":1100,"member_id":"m39","observed_at":1793116701.6455016,"platform":"codeforces","problem_id":"363B","solved_at":1793116533.0,"source":"codeforces-api","title":"Fence"}
 {"account_id":"a180","difficulty":1200,"member_id":"m39","observed_at":1793120988.6814728,"platform":"codeforces","problem_id":"433B","solved_at":1793120419.0,"source":"codeforces-api","title":"Kuriyama Mirai's Stones"}
 {"account_id":"a180","difficulty":1800,"member_id":"m39","observed_at":1792167379.6156557,"platform":"codeforces","problem_id":"471D","solved_at":1792153741.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
