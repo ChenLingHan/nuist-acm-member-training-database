@@ -10497,6 +10497,7 @@
 {"accepted_at":1793463785.0,"account_id":"a55","difficulty":null,"observed_at":1793463858.929019,"problem_id":"2278D","submission_id":"396896911","title":"Lock and Unlock"}
 {"accepted_at":1793463837.0,"account_id":"a55","difficulty":null,"observed_at":1793463858.9288876,"problem_id":"2278D","submission_id":"396897310","title":"Lock and Unlock"}
 {"accepted_at":1793805229.0,"account_id":"a55","difficulty":null,"observed_at":1793805762.202964,"problem_id":"2283A","submission_id":"397362496","title":"Numbers on the Board"}
+{"accepted_at":1793806497.0,"account_id":"a55","difficulty":null,"observed_at":1793807008.8119123,"problem_id":"2283B","submission_id":"397372565","title":"Rhythmic String"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11375,6 +11376,7 @@
 {"accepted_at":1793705188.0,"account_id":"a62","difficulty":1600,"observed_at":1793705700.047411,"problem_id":"2258B2","submission_id":"397224880","title":"Carrot Chopdown (Hard Version)"}
 {"accepted_at":1793722216.0,"account_id":"a62","difficulty":1100,"observed_at":1793722297.4133139,"problem_id":"456A","submission_id":"397256122","title":"Laptops"}
 {"accepted_at":1793804131.0,"account_id":"a62","difficulty":null,"observed_at":1793804254.3983777,"problem_id":"2283A","submission_id":"397350657","title":"Numbers on the Board"}
+{"accepted_at":1793806704.0,"account_id":"a62","difficulty":null,"observed_at":1793806723.8227327,"problem_id":"2283B","submission_id":"397373970","title":"Rhythmic String"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
@@ -16553,6 +16555,7 @@
 {"accepted_at":1793525206.0,"account_id":"a98","difficulty":null,"observed_at":1793525591.7698345,"problem_id":"2278E","submission_id":"396990023","title":"Swap and Negate"}
 {"accepted_at":1793804165.0,"account_id":"a98","difficulty":null,"observed_at":1793804648.479577,"problem_id":"2283A","submission_id":"397351105","title":"Numbers on the Board"}
 {"accepted_at":1793804466.0,"account_id":"a98","difficulty":null,"observed_at":1793804648.4793904,"problem_id":"2283B","submission_id":"397354750","title":"Rhythmic String"}
+{"accepted_at":1793806533.0,"account_id":"a98","difficulty":null,"observed_at":1793807102.618262,"problem_id":"2283C","submission_id":"397372814","title":"Big XOR"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}

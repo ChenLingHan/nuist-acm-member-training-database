@@ -8267,6 +8267,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793462637.1989162,"platform":"codeforces","problem_id":"2278C","solved_at":1793462340.0,"source":"codeforces-api","title":"Math and Physics"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793463858.9287815,"platform":"codeforces","problem_id":"2278D","solved_at":1793463785.0,"source":"codeforces-api","title":"Lock and Unlock"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793805762.2028418,"platform":"codeforces","problem_id":"2283A","solved_at":1793805229.0,"source":"codeforces-api","title":"Numbers on the Board"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793807008.8118157,"platform":"codeforces","problem_id":"2283B","solved_at":1793806497.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
 {"account_id":"a55","difficulty":1900,"member_id":"m23","observed_at":1792824984.8450022,"platform":"codeforces","problem_id":"817D","solved_at":1792824590.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a56","difficulty":1,"member_id":"m24","observed_at":1792129828.5646367,"platform":"luogu","problem_id":"B2002","solved_at":1790816323.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
@@ -8981,6 +8982,7 @@
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793458426.0057037,"platform":"codeforces","problem_id":"2278A","solved_at":1793458409.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793460937.1256487,"platform":"codeforces","problem_id":"2278B","solved_at":1793460396.0,"source":"codeforces-api","title":"Stakes and Shapes"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793804254.398265,"platform":"codeforces","problem_id":"2283A","solved_at":1793804131.0,"source":"codeforces-api","title":"Numbers on the Board"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1793806723.822637,"platform":"codeforces","problem_id":"2283B","solved_at":1793806704.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1013665,"platform":"codeforces","problem_id":"228A","solved_at":1790691230.0,"source":"codeforces-api","title":"Is your horseshoe on the other hoof?"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
@@ -13013,6 +13015,7 @@
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793465441.3044775,"platform":"codeforces","problem_id":"2278G","solved_at":1793464911.0,"source":"codeforces-api","title":"0s and 1s"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793804648.4795554,"platform":"codeforces","problem_id":"2283A","solved_at":1793804165.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793804648.4733183,"platform":"codeforces","problem_id":"2283B","solved_at":1793804466.0,"source":"codeforces-api","title":"Rhythmic String"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1793807102.6181657,"platform":"codeforces","problem_id":"2283C","solved_at":1793806533.0,"source":"codeforces-api","title":"Big XOR"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}
