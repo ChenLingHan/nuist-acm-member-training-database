@@ -1212,6 +1212,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.999898,"platform":"codeforces","problem_id":"103495I","solved_at":1786857497.0,"source":"codeforces-api","title":"Fake Walsh Transform"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.9998522,"platform":"codeforces","problem_id":"103495J","solved_at":1786863846.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.999867,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1793866471.5158474,"platform":"codeforces","problem_id":"104128G","solved_at":1793866169.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1793863417.8751228,"platform":"codeforces","problem_id":"104128I","solved_at":1793862984.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0210977,"platform":"codeforces","problem_id":"104396F","solved_at":1763893141.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792485438.55591,"platform":"codeforces","problem_id":"104459A","solved_at":1792484995.0,"source":"codeforces-api","title":"Sekiro"}
@@ -7647,6 +7648,7 @@
 {"account_id":"a48","difficulty":1300,"member_id":"m20","observed_at":1793858107.6335173,"platform":"codeforces","problem_id":"2275D","solved_at":1793857823.0,"source":"codeforces-api","title":"Precision Alignment"}
 {"account_id":"a48","difficulty":1500,"member_id":"m20","observed_at":1793860567.273412,"platform":"codeforces","problem_id":"2275E","solved_at":1793860465.0,"source":"codeforces-api","title":"Repentance Is Already on the Way"}
 {"account_id":"a48","difficulty":1800,"member_id":"m20","observed_at":1793862414.2163098,"platform":"codeforces","problem_id":"2275F","solved_at":1793861955.0,"source":"codeforces-api","title":"Tea Blend"}
+{"account_id":"a48","difficulty":2400,"member_id":"m20","observed_at":1793866734.9836493,"platform":"codeforces","problem_id":"2275H","solved_at":1793866423.0,"source":"codeforces-api","title":"A Problem to Warm Up the Eyebrows"}
 {"account_id":"a48","difficulty":800,"member_id":"m20","observed_at":1792127074.1398737,"platform":"codeforces","problem_id":"2276A","solved_at":1792044504.0,"source":"codeforces-api","title":"Perfect Sandwiches"}
 {"account_id":"a48","difficulty":1000,"member_id":"m20","observed_at":1792127074.1398149,"platform":"codeforces","problem_id":"2276B","solved_at":1792057500.0,"source":"codeforces-api","title":"Replace and Compress"}
 {"account_id":"a48","difficulty":1100,"member_id":"m20","observed_at":1792127074.139859,"platform":"codeforces","problem_id":"2276C","solved_at":1792057485.0,"source":"codeforces-api","title":"Subarrays"}
@@ -11175,6 +11177,7 @@
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1139467,"platform":"codeforces","problem_id":"103495J","solved_at":1786863846.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1139548,"platform":"codeforces","problem_id":"103495K","solved_at":1786860306.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a87","difficulty":2100,"member_id":"m37","observed_at":1792127108.1186893,"platform":"codeforces","problem_id":"103D","solved_at":1774703660.0,"source":"codeforces-api","title":"Time to Raid Cowavans"}
+{"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1793866625.35632,"platform":"codeforces","problem_id":"104128G","solved_at":1793866169.0,"source":"codeforces-api","title":"Inscryption"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1793863548.3694468,"platform":"codeforces","problem_id":"104128I","solved_at":1793862984.0,"source":"codeforces-api","title":"Perfect Palindrome"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1269703,"platform":"codeforces","problem_id":"104172K","solved_at":1769272542.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a87","difficulty":null,"member_id":"m37","observed_at":1792127108.1176841,"platform":"codeforces","problem_id":"104396A","solved_at":1778677165.0,"source":"codeforces-api","title":"Today's Word"}
