@@ -1315,6 +1315,7 @@
 {"accepted_at":1793510879.0,"account_id":"a8","difficulty":null,"observed_at":1793511626.9616232,"problem_id":"105578E","submission_id":"396969084","title":"Light Up the Grid"}
 {"accepted_at":1793853038.0,"account_id":"a8","difficulty":null,"observed_at":1793853151.6426148,"problem_id":"104869C","submission_id":"397432931","title":"Swiss Stage"}
 {"accepted_at":1793856496.0,"account_id":"a8","difficulty":null,"observed_at":1793856858.7593687,"problem_id":"104869J","submission_id":"397436253","title":"Graft and Transplant"}
+{"accepted_at":1793860747.0,"account_id":"a8","difficulty":null,"observed_at":1793861155.0361645,"problem_id":"104869E","submission_id":"397441350","title":"Sheep Eat Wolves"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -18213,6 +18214,7 @@
 {"accepted_at":1793176120.0,"account_id":"a107","difficulty":null,"observed_at":1793177729.3208501,"problem_id":"2272C","submission_id":"396391685","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793259920.0,"account_id":"a107","difficulty":null,"observed_at":1793260313.1694438,"problem_id":"2272D","submission_id":"396520121","title":"Connecting the Conflicts"}
 {"accepted_at":1793279286.0,"account_id":"a107","difficulty":2100,"observed_at":1793279917.6237984,"problem_id":"609E","submission_id":"396565236","title":"Minimum spanning tree for each edge"}
+{"accepted_at":1793860581.0,"account_id":"a107","difficulty":2000,"observed_at":1793861025.5901613,"problem_id":"877E","submission_id":"397441104","title":"Danil and a Part-time Job"}
 {"accepted_at":1790974501.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.856845,"problem_id":"P2393","submission_id":"300531850","title":"yyy loves Maths II"}
 {"accepted_at":1790974905.0,"account_id":"a108","difficulty":1,"observed_at":1792153036.8567226,"problem_id":"P2393","submission_id":"300531873","title":"yyy loves Maths II"}
 {"accepted_at":1792223627.0,"account_id":"a108","difficulty":3,"observed_at":1792223767.5046532,"problem_id":"P7911","submission_id":"303639248","title":"[CSP-J 2021] 网络连接"}
@@ -22461,6 +22463,7 @@
 {"accepted_at":1793619167.0,"account_id":"a150","difficulty":1500,"observed_at":1793619630.5362244,"problem_id":"1738C","submission_id":"397112732","title":"Even Number Addicts"}
 {"accepted_at":1793853038.0,"account_id":"a150","difficulty":null,"observed_at":1793853093.4483492,"problem_id":"104869C","submission_id":"397432931","title":"Swiss Stage"}
 {"accepted_at":1793856496.0,"account_id":"a150","difficulty":null,"observed_at":1793856799.3431683,"problem_id":"104869J","submission_id":"397436253","title":"Graft and Transplant"}
+{"accepted_at":1793860747.0,"account_id":"a150","difficulty":null,"observed_at":1793861097.498208,"problem_id":"104869E","submission_id":"397441350","title":"Sheep Eat Wolves"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
