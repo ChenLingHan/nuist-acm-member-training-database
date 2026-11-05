@@ -5334,6 +5334,8 @@
 {"accepted_at":1793848112.0,"account_id":"a30","difficulty":null,"observed_at":1793848672.4471111,"problem_id":"104901D","submission_id":"397426641","title":"Largest Digit"}
 {"accepted_at":1793849559.0,"account_id":"a30","difficulty":null,"observed_at":1793849891.025202,"problem_id":"104901I","submission_id":"397429500","title":"Strange Sorting"}
 {"accepted_at":1793852741.0,"account_id":"a30","difficulty":null,"observed_at":1793852961.522603,"problem_id":"104901A","submission_id":"397432449","title":"Many Many Heads"}
+{"accepted_at":1793862223.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9422362,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
+{"accepted_at":1793862429.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9421067,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -21086,6 +21088,8 @@
 {"accepted_at":1793848112.0,"account_id":"a139","difficulty":null,"observed_at":1793848710.4186327,"problem_id":"104901D","submission_id":"397426641","title":"Largest Digit"}
 {"accepted_at":1793849559.0,"account_id":"a139","difficulty":null,"observed_at":1793849937.714582,"problem_id":"104901I","submission_id":"397429500","title":"Strange Sorting"}
 {"accepted_at":1793852741.0,"account_id":"a139","difficulty":null,"observed_at":1793852996.9983268,"problem_id":"104901A","submission_id":"397432449","title":"Many Many Heads"}
+{"accepted_at":1793862223.0,"account_id":"a139","difficulty":null,"observed_at":1793862859.8719637,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
+{"accepted_at":1793862429.0,"account_id":"a139","difficulty":null,"observed_at":1793862859.791644,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1760451389.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.872015,"problem_id":"4A","submission_id":"343714408","title":"Watermelon"}
 {"accepted_at":1760452642.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719974,"problem_id":"71A","submission_id":"343717895","title":"Way Too Long Words"}
 {"accepted_at":1760593208.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719797,"problem_id":"2148A","submission_id":"343964436","title":"Sublime Sequence"}
