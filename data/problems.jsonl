@@ -3635,11 +3635,11 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278E","tags":["constructive algorithms","greedy"],"title":"Swap and Negate"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278G","tags":["bitmasks","dfs and similar","dp","hashing","number theory","trees"],"title":"0s and 1s"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283A","tags":[],"title":"Numbers on the Board"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283B","tags":[],"title":"Rhythmic String"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283C","tags":[],"title":"Big XOR"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283D","tags":[],"title":"Black, Gray and White"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283F","tags":[],"title":"Minimize the Graph"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283A","tags":["2-sat","binary search","bitmasks","brute force","chinese remainder theorem","combinatorics","communication","constructive algorithms","data structures","dfs and similar","divide and conquer","dp","dsu","expression parsing","fft","flows","games","geometry","graph matchings","graphs","greedy","hashing","implementation","interactive","math","matrices","meet-in-the-middle","number theory","probabilities","schedules","shortest paths","sortings","string suffix structures","strings","ternary search","trees","two pointers"],"title":"Numbers on the Board"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283B","tags":["brute force","number theory"],"title":"Rhythmic String"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283C","tags":["bitmasks","constructive algorithms"],"title":"Big XOR"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283D","tags":["brute force","constructive algorithms","dfs and similar"],"title":"Black, Gray and White"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283F","tags":["brute force","data structures","greedy"],"title":"Minimize the Graph"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
 {"difficulty":1900,"platform":"codeforces","points":1000.0,"problem_id":"229C","tags":["combinatorics","graphs","math"],"title":"Triangles"}
