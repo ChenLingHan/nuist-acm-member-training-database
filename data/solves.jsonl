@@ -10181,6 +10181,7 @@
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4521985,"platform":"codeforces","problem_id":"103495K","solved_at":1786860601.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4533668,"platform":"codeforces","problem_id":"104396F","solved_at":1763779231.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793853373.6940095,"platform":"codeforces","problem_id":"104869C","solved_at":1793853038.0,"source":"codeforces-api","title":"Swiss Stage"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793861316.2994428,"platform":"codeforces","problem_id":"104869E","solved_at":1793860747.0,"source":"codeforces-api","title":"Sheep Eat Wolves"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793857034.0301569,"platform":"codeforces","problem_id":"104869J","solved_at":1793856496.0,"source":"codeforces-api","title":"Graft and Transplant"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.452966,"platform":"codeforces","problem_id":"105161F","solved_at":1778672103.0,"source":"codeforces-api","title":"Download Speed Monitor"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4529443,"platform":"codeforces","problem_id":"105161G","solved_at":1778674017.0,"source":"codeforces-api","title":"Download Time Monitor"}
@@ -15907,6 +15908,7 @@
 {"account_id":"a126","difficulty":800,"member_id":"m56","observed_at":1792148567.6433244,"platform":"codeforces","problem_id":"1744B","solved_at":1722846473.0,"source":"codeforces-api","title":"Even-Odd Increments "}
 {"account_id":"a126","difficulty":1000,"member_id":"m56","observed_at":1792148567.6433096,"platform":"codeforces","problem_id":"1744C","solved_at":1722848117.0,"source":"codeforces-api","title":"Traffic Light"}
 {"account_id":"a126","difficulty":1200,"member_id":"m56","observed_at":1792148567.6432912,"platform":"codeforces","problem_id":"1744D","solved_at":1722851020.0,"source":"codeforces-api","title":"Divisibility by 2^n"}
+{"account_id":"a126","difficulty":1200,"member_id":"m56","observed_at":1793861283.5935616,"platform":"codeforces","problem_id":"1747C","solved_at":1793860926.0,"source":"codeforces-api","title":"Swap Game"}
 {"account_id":"a126","difficulty":2400,"member_id":"m56","observed_at":1792148567.6417506,"platform":"codeforces","problem_id":"1749E","solved_at":1736501758.0,"source":"codeforces-api","title":"Cactus Wall"}
 {"account_id":"a126","difficulty":800,"member_id":"m56","observed_at":1792148522.0752094,"platform":"codeforces","problem_id":"1805A","solved_at":1742623578.0,"source":"codeforces-api","title":"We Need the Zero"}
 {"account_id":"a126","difficulty":1700,"member_id":"m56","observed_at":1792148522.0750523,"platform":"codeforces","problem_id":"1884C","solved_at":1743927086.0,"source":"codeforces-api","title":"Medium Design"}
