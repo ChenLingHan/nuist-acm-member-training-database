@@ -7670,6 +7670,7 @@
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793867355.219527,"platform":"codeforces","problem_id":"2283A","solved_at":1793866838.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793867966.3700771,"platform":"codeforces","problem_id":"2283B","solved_at":1793867457.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793872856.692845,"platform":"codeforces","problem_id":"2283C","solved_at":1793872281.0,"source":"codeforces-api","title":"Big XOR"}
+{"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793874074.4470575,"platform":"codeforces","problem_id":"2283D","solved_at":1793873693.0,"source":"codeforces-api","title":"Black, Gray and White"}
 {"account_id":"a48","difficulty":2000,"member_id":"m20","observed_at":1792127074.1408877,"platform":"codeforces","problem_id":"235B","solved_at":1789546126.0,"source":"codeforces-api","title":"Let's Play Osu!"}
 {"account_id":"a48","difficulty":2200,"member_id":"m20","observed_at":1792127074.1409504,"platform":"codeforces","problem_id":"280C","solved_at":1789474769.0,"source":"codeforces-api","title":"Game on Tree"}
 {"account_id":"a48","difficulty":1500,"member_id":"m20","observed_at":1792127074.1416392,"platform":"codeforces","problem_id":"356A","solved_at":1787831080.0,"source":"codeforces-api","title":"Knight Tournament"}
@@ -14230,6 +14231,7 @@
 {"account_id":"a107","difficulty":2000,"member_id":"m47","observed_at":1792148507.3948567,"platform":"codeforces","problem_id":"242E","solved_at":1790672083.0,"source":"codeforces-api","title":"XOR on Segment"}
 {"account_id":"a107","difficulty":1800,"member_id":"m47","observed_at":1792148507.3962336,"platform":"codeforces","problem_id":"371D","solved_at":1762778970.0,"source":"codeforces-api","title":"Vessels"}
 {"account_id":"a107","difficulty":2400,"member_id":"m47","observed_at":1792148507.3949184,"platform":"codeforces","problem_id":"375D","solved_at":1788434325.0,"source":"codeforces-api","title":"Tree and Queries"}
+{"account_id":"a107","difficulty":2000,"member_id":"m47","observed_at":1793873866.4874096,"platform":"codeforces","problem_id":"383C","solved_at":1793873439.0,"source":"codeforces-api","title":"Propagating tree"}
 {"account_id":"a107","difficulty":2200,"member_id":"m47","observed_at":1792148507.394668,"platform":"codeforces","problem_id":"431E","solved_at":1792069689.0,"source":"codeforces-api","title":"Chemistry Experiment"}
 {"account_id":"a107","difficulty":2300,"member_id":"m47","observed_at":1792148507.3948636,"platform":"codeforces","problem_id":"438D","solved_at":1790523075.0,"source":"codeforces-api","title":"The Child and Sequence"}
 {"account_id":"a107","difficulty":1700,"member_id":"m47","observed_at":1792148507.3957584,"platform":"codeforces","problem_id":"466C","solved_at":1769240646.0,"source":"codeforces-api","title":"Number of Ways"}
