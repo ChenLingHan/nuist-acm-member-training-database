@@ -7671,6 +7671,7 @@
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793867966.3700771,"platform":"codeforces","problem_id":"2283B","solved_at":1793867457.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793872856.692845,"platform":"codeforces","problem_id":"2283C","solved_at":1793872281.0,"source":"codeforces-api","title":"Big XOR"}
 {"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793874074.4470575,"platform":"codeforces","problem_id":"2283D","solved_at":1793873693.0,"source":"codeforces-api","title":"Black, Gray and White"}
+{"account_id":"a48","difficulty":null,"member_id":"m20","observed_at":1793875317.0196187,"platform":"codeforces","problem_id":"2283E","solved_at":1793875116.0,"source":"codeforces-api","title":"Partition of a Binary String"}
 {"account_id":"a48","difficulty":2000,"member_id":"m20","observed_at":1792127074.1408877,"platform":"codeforces","problem_id":"235B","solved_at":1789546126.0,"source":"codeforces-api","title":"Let's Play Osu!"}
 {"account_id":"a48","difficulty":2200,"member_id":"m20","observed_at":1792127074.1409504,"platform":"codeforces","problem_id":"280C","solved_at":1789474769.0,"source":"codeforces-api","title":"Game on Tree"}
 {"account_id":"a48","difficulty":1500,"member_id":"m20","observed_at":1792127074.1416392,"platform":"codeforces","problem_id":"356A","solved_at":1787831080.0,"source":"codeforces-api","title":"Knight Tournament"}
@@ -16764,6 +16765,7 @@
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1793862859.791537,"platform":"codeforces","problem_id":"104901G","solved_at":1793862429.0,"source":"codeforces-api","title":"Gifts from Knowledge"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1793849937.7144735,"platform":"codeforces","problem_id":"104901I","solved_at":1793849559.0,"source":"codeforces-api","title":"Strange Sorting"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1793862859.8719468,"platform":"codeforces","problem_id":"104901K","solved_at":1793862223.0,"source":"codeforces-api","title":"Rainbow Subarray"}
+{"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1793875685.2913315,"platform":"codeforces","problem_id":"104901M","solved_at":1793875592.0,"source":"codeforces-api","title":"Almost Convex"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0775006,"platform":"codeforces","problem_id":"105161F","solved_at":1778393111.0,"source":"codeforces-api","title":"Download Speed Monitor"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0774443,"platform":"codeforces","problem_id":"105161G","solved_at":1778398775.0,"source":"codeforces-api","title":"Download Time Monitor"}
 {"account_id":"a139","difficulty":null,"member_id":"m61","observed_at":1792148534.0774674,"platform":"codeforces","problem_id":"105161I","solved_at":1778396876.0,"source":"codeforces-api","title":"Integer Reaction"}
