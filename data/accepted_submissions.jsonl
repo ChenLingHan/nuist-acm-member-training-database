@@ -16635,6 +16635,7 @@
 {"accepted_at":1793808181.0,"account_id":"a98","difficulty":null,"observed_at":1793808357.0547352,"problem_id":"2283D","submission_id":"397382530","title":"Black, Gray and White"}
 {"accepted_at":1793810123.0,"account_id":"a98","difficulty":null,"observed_at":1793810185.7878597,"problem_id":"2283F","submission_id":"397392134","title":"Minimize the Graph"}
 {"accepted_at":1793976668.0,"account_id":"a98","difficulty":null,"observed_at":1793976863.4298196,"problem_id":"2284A1","submission_id":"397594959","title":"15K4JR3B (Easy Version)"}
+{"accepted_at":1793977218.0,"account_id":"a98","difficulty":null,"observed_at":1793977474.5264883,"problem_id":"2284B","submission_id":"397600573","title":"Introduction to the Niche Internet"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -26359,6 +26360,8 @@
 {"accepted_at":1793029490.0,"account_id":"a176","difficulty":null,"observed_at":1793029818.491967,"problem_id":"2272C","submission_id":"396153525","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793031629.0,"account_id":"a176","difficulty":null,"observed_at":1793032261.9235663,"problem_id":"2272D","submission_id":"396170515","title":"Connecting the Conflicts"}
 {"accepted_at":1793975953.0,"account_id":"a176","difficulty":null,"observed_at":1793975992.57824,"problem_id":"2284A1","submission_id":"397586064","title":"15K4JR3B (Easy Version)"}
+{"accepted_at":1793976857.0,"account_id":"a176","difficulty":null,"observed_at":1793977240.319402,"problem_id":"2284B","submission_id":"397596966","title":"Introduction to the Niche Internet"}
+{"accepted_at":1793977180.0,"account_id":"a176","difficulty":null,"observed_at":1793977240.3192804,"problem_id":"2284A2","submission_id":"397600222","title":"15K4JR3B (Hard Version)"}
 {"accepted_at":1791879768.0,"account_id":"a177","difficulty":1,"observed_at":1792163340.8166044,"problem_id":"P1000","submission_id":"302817914","title":"超级玛丽游戏"}
 {"accepted_at":1791880112.0,"account_id":"a177","difficulty":1,"observed_at":1792163340.8165925,"problem_id":"P1001","submission_id":"302818967","title":"A+B Problem"}
 {"accepted_at":1791884822.0,"account_id":"a177","difficulty":2,"observed_at":1792163340.8165805,"problem_id":"P1002","submission_id":"302836523","title":"[NOIP 2002 普及组] 过河卒"}
