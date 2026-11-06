@@ -3575,6 +3575,7 @@
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"2266D","tags":["constructive algorithms","data structures","math","sortings"],"title":"Falling Concrete"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"2266E","tags":["brute force","dp","math","number theory"],"title":"Prime Destruction"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"2266F","tags":["binary search","brute force","greedy","implementation","math","sortings"],"title":"MEX Replacement"}
+{"difficulty":2200,"platform":"codeforces","points":null,"problem_id":"2266G","tags":["dfs and similar","dp","greedy","math","number theory","trees"],"title":"Modular Tree"}
 {"difficulty":800,"platform":"codeforces","points":250.0,"problem_id":"2267A","tags":["greedy","strings"],"title":"Turn Into a Palindrome"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"2267B","tags":["brute force","constructive algorithms","sortings"],"title":"Fashionable Array"}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"2267C","tags":["greedy","math","number theory"],"title":"GCD Treasury"}
