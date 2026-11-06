@@ -797,6 +797,7 @@
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.8309023,"platform":"codeforces","problem_id":"103495J","solved_at":1786868924.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.830918,"platform":"codeforces","problem_id":"103495K","solved_at":1786860601.0,"source":"codeforces-api","title":"Longest Continuous 1"}
 {"account_id":"a8","difficulty":1900,"member_id":"m4","observed_at":1792908782.4220474,"platform":"codeforces","problem_id":"1036C","solved_at":1792908519.0,"source":"codeforces-api","title":"Classy Numbers"}
+{"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793940841.216216,"platform":"codeforces","problem_id":"104160C","solved_at":1793940257.0,"source":"codeforces-api","title":"Clamped Sequence"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793939619.358669,"platform":"codeforces","problem_id":"104160D","solved_at":1793939293.0,"source":"codeforces-api","title":"DRX vs. T1"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1792073909.832637,"platform":"codeforces","problem_id":"104172K","solved_at":1769240889.0,"source":"codeforces-api","title":"Maximum GCD"}
 {"account_id":"a8","difficulty":null,"member_id":"m4","observed_at":1793853151.6425068,"platform":"codeforces","problem_id":"104869C","solved_at":1793853038.0,"source":"codeforces-api","title":"Swiss Stage"}
@@ -17571,6 +17572,7 @@
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.1198204,"platform":"codeforces","problem_id":"103495I","solved_at":1786858110.0,"source":"codeforces-api","title":"Fake Walsh Transform"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.119766,"platform":"codeforces","problem_id":"103495J","solved_at":1786868924.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1792148545.119802,"platform":"codeforces","problem_id":"103495K","solved_at":1786860601.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793940734.6438053,"platform":"codeforces","problem_id":"104160C","solved_at":1793940257.0,"source":"codeforces-api","title":"Clamped Sequence"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793939516.5592575,"platform":"codeforces","problem_id":"104160D","solved_at":1793939293.0,"source":"codeforces-api","title":"DRX vs. T1"}
 {"account_id":"a150","difficulty":1200,"member_id":"m66","observed_at":1792148545.1193576,"platform":"codeforces","problem_id":"1042B","solved_at":1789902491.0,"source":"codeforces-api","title":"Vitamins"}
 {"account_id":"a150","difficulty":null,"member_id":"m66","observed_at":1793853093.448242,"platform":"codeforces","problem_id":"104869C","solved_at":1793853038.0,"source":"codeforces-api","title":"Swiss Stage"}
