@@ -5343,6 +5343,7 @@
 {"accepted_at":1793852741.0,"account_id":"a30","difficulty":null,"observed_at":1793852961.522603,"problem_id":"104901A","submission_id":"397432449","title":"Many Many Heads"}
 {"accepted_at":1793862223.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9422362,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
 {"accepted_at":1793862429.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9421067,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
+{"accepted_at":1793942696.0,"account_id":"a30","difficulty":null,"observed_at":1793943081.900353,"problem_id":"104128I","submission_id":"397537976","title":"Perfect Palindrome"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -9895,6 +9896,7 @@
 {"accepted_at":1793933967.0,"account_id":"a48","difficulty":2000,"observed_at":1793934060.2376692,"problem_id":"2266F","submission_id":"397532102","title":"MEX Replacement"}
 {"accepted_at":1793937047.0,"account_id":"a48","difficulty":2200,"observed_at":1793937131.449005,"problem_id":"2266G","submission_id":"397534075","title":"Modular Tree"}
 {"accepted_at":1793939878.0,"account_id":"a48","difficulty":1200,"observed_at":1793940222.9932094,"problem_id":"2259D","submission_id":"397535920","title":"MEX Multiset"}
+{"accepted_at":1793942981.0,"account_id":"a48","difficulty":1500,"observed_at":1793943288.668594,"problem_id":"2259E","submission_id":"397538170","title":"Treasure Map Destruction (Constructive Version)"}
 {"accepted_at":1775742439.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0325358,"problem_id":"P1001","submission_id":"272992881","title":"A+B Problem"}
 {"accepted_at":1775743399.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.032508,"problem_id":"P1035","submission_id":"272997626","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1775743873.0,"account_id":"a49","difficulty":1,"observed_at":1792162301.0324302,"problem_id":"P1046","submission_id":"272999802","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -21127,6 +21129,7 @@
 {"accepted_at":1793862223.0,"account_id":"a139","difficulty":null,"observed_at":1793862859.8719637,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
 {"accepted_at":1793862429.0,"account_id":"a139","difficulty":null,"observed_at":1793862859.791644,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1793875592.0,"account_id":"a139","difficulty":null,"observed_at":1793875685.291436,"problem_id":"104901M","submission_id":"397462222","title":"Almost Convex"}
+{"accepted_at":1793942696.0,"account_id":"a139","difficulty":null,"observed_at":1793943131.7916775,"problem_id":"104128I","submission_id":"397537976","title":"Perfect Palindrome"}
 {"accepted_at":1760451389.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.872015,"problem_id":"4A","submission_id":"343714408","title":"Watermelon"}
 {"accepted_at":1760452642.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719974,"problem_id":"71A","submission_id":"343717895","title":"Way Too Long Words"}
 {"accepted_at":1760593208.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719797,"problem_id":"2148A","submission_id":"343964436","title":"Sublime Sequence"}
