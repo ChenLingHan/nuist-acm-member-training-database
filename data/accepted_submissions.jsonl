@@ -16637,6 +16637,7 @@
 {"accepted_at":1793976668.0,"account_id":"a98","difficulty":null,"observed_at":1793976863.4298196,"problem_id":"2284A1","submission_id":"397594959","title":"15K4JR3B (Easy Version)"}
 {"accepted_at":1793977218.0,"account_id":"a98","difficulty":null,"observed_at":1793977474.5264883,"problem_id":"2284B","submission_id":"397600573","title":"Introduction to the Niche Internet"}
 {"accepted_at":1793978672.0,"account_id":"a98","difficulty":null,"observed_at":1793978928.7495747,"problem_id":"2284A2","submission_id":"397612724","title":"15K4JR3B (Hard Version)"}
+{"accepted_at":1793979173.0,"account_id":"a98","difficulty":null,"observed_at":1793979537.9273164,"problem_id":"2284C1","submission_id":"397616317","title":"Disgusting + GCD (Constructive Version)"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -20428,6 +20429,7 @@
 {"accepted_at":1793440863.0,"account_id":"a126","difficulty":null,"observed_at":1793441353.303672,"problem_id":"105143B","submission_id":"396783024","title":"Countless Me"}
 {"accepted_at":1793441371.0,"account_id":"a126","difficulty":null,"observed_at":1793441961.9644282,"problem_id":"105143I","submission_id":"396783829","title":"Cyclic Apple Strings"}
 {"accepted_at":1793860926.0,"account_id":"a126","difficulty":1200,"observed_at":1793861283.593655,"problem_id":"1747C","submission_id":"397441604","title":"Swap Game"}
+{"accepted_at":1793978317.0,"account_id":"a126","difficulty":1600,"observed_at":1793979213.1356134,"problem_id":"722C","submission_id":"397610013","title":"Destroying Array"}
 {"accepted_at":1714052887.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.1360486,"problem_id":"B2002","submission_id":"157045919","title":"Hello,World!"}
 {"accepted_at":1785224893.0,"account_id":"a127","difficulty":1,"observed_at":1792153945.136022,"problem_id":"P1001","submission_id":"289139885","title":"A+B Problem"}
 {"accepted_at":1785227005.0,"account_id":"a127","difficulty":3,"observed_at":1792153945.1359923,"problem_id":"P1007","submission_id":"289153728","title":"独木桥"}
