@@ -7609,6 +7609,7 @@
 {"account_id":"a48","difficulty":1600,"member_id":"m20","observed_at":1792127074.1412678,"platform":"codeforces","problem_id":"2258B2","solved_at":1788866145.0,"source":"codeforces-api","title":"Carrot Chopdown (Hard Version)"}
 {"account_id":"a48","difficulty":1600,"member_id":"m20","observed_at":1792127074.1412344,"platform":"codeforces","problem_id":"2258C","solved_at":1788868569.0,"source":"codeforces-api","title":"Far Cities"}
 {"account_id":"a48","difficulty":2400,"member_id":"m20","observed_at":1792127074.1412008,"platform":"codeforces","problem_id":"2258E","solved_at":1788871685.0,"source":"codeforces-api","title":"DivMEX"}
+{"account_id":"a48","difficulty":1200,"member_id":"m20","observed_at":1793940222.993124,"platform":"codeforces","problem_id":"2259D","solved_at":1793939878.0,"source":"codeforces-api","title":"MEX Multiset"}
 {"account_id":"a48","difficulty":800,"member_id":"m20","observed_at":1792127074.1399834,"platform":"codeforces","problem_id":"2260A","solved_at":1791985723.0,"source":"codeforces-api","title":"Monocarp's Contest"}
 {"account_id":"a48","difficulty":900,"member_id":"m20","observed_at":1792127074.1399565,"platform":"codeforces","problem_id":"2260B","solved_at":1791986406.0,"source":"codeforces-api","title":"Monocarp and Projects"}
 {"account_id":"a48","difficulty":1300,"member_id":"m20","observed_at":1792127074.1399286,"platform":"codeforces","problem_id":"2260C","solved_at":1791986659.0,"source":"codeforces-api","title":"Maximize XOR, Minimize Operations"}
@@ -10205,6 +10206,7 @@
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4522042,"platform":"codeforces","problem_id":"103495I","solved_at":1786858110.0,"source":"codeforces-api","title":"Fake Walsh Transform"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4521852,"platform":"codeforces","problem_id":"103495J","solved_at":1786868924.0,"source":"codeforces-api","title":"Anti-merge"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4521985,"platform":"codeforces","problem_id":"103495K","solved_at":1786860601.0,"source":"codeforces-api","title":"Longest Continuous 1"}
+{"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793940444.6022658,"platform":"codeforces","problem_id":"104160C","solved_at":1793940257.0,"source":"codeforces-api","title":"Clamped Sequence"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793939833.0891604,"platform":"codeforces","problem_id":"104160D","solved_at":1793939293.0,"source":"codeforces-api","title":"DRX vs. T1"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1792127101.4533668,"platform":"codeforces","problem_id":"104396F","solved_at":1763779231.0,"source":"codeforces-api","title":"Timaeus"}
 {"account_id":"a79","difficulty":null,"member_id":"m34","observed_at":1793853373.6940095,"platform":"codeforces","problem_id":"104869C","solved_at":1793853038.0,"source":"codeforces-api","title":"Swiss Stage"}
