@@ -3113,6 +3113,8 @@
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"2167D","tags":["brute force","implementation","math","number theory"],"title":"Yet Another Array Problem"}
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"2167E","tags":["binary search","data structures","geometry","greedy","implementation"],"title":"khba Loves to Sleep!"}
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"2167F","tags":["dfs and similar","dp","math","trees"],"title":"Tree, TREE!!!"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2168A1","tags":["communication","constructive algorithms","interactive"],"title":"Encode and Decode (Easy Version)"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2168A2","tags":["bitmasks","communication","interactive","math"],"title":"Encode and Decode (Hard Version)"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"2169A","tags":["greedy","implementation"],"title":"Alice and Bob"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"2169B","tags":["greedy","implementation"],"title":"Drifting Away"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"2169C","tags":["dp","greedy","math","two pointers"],"title":"Range Operation"}
