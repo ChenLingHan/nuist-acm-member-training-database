@@ -5344,6 +5344,7 @@
 {"accepted_at":1793862223.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9422362,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
 {"accepted_at":1793862429.0,"account_id":"a30","difficulty":null,"observed_at":1793862820.9421067,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1793942696.0,"account_id":"a30","difficulty":null,"observed_at":1793943081.900353,"problem_id":"104128I","submission_id":"397537976","title":"Perfect Palindrome"}
+{"accepted_at":1793950070.0,"account_id":"a30","difficulty":null,"observed_at":1793950414.2132967,"problem_id":"104128G","submission_id":"397545717","title":"Inscryption"}
 {"accepted_at":1587796739.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503844,"problem_id":"P1001","submission_id":"33099983","title":"A+B Problem"}
 {"accepted_at":1587797300.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.1503036,"problem_id":"P1000","submission_id":"33100412","title":"超级玛丽游戏"}
 {"accepted_at":1587797809.0,"account_id":"a31","difficulty":1,"observed_at":1792168679.150217,"problem_id":"P1035","submission_id":"33100805","title":"[NOIP 2002 普及组] 级数求和"}
@@ -20804,6 +20805,7 @@
 {"accepted_at":1793862223.0,"account_id":"a132","difficulty":null,"observed_at":1793862658.9037993,"problem_id":"104901K","submission_id":"397443448","title":"Rainbow Subarray"}
 {"accepted_at":1793862429.0,"account_id":"a132","difficulty":null,"observed_at":1793862658.9036512,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1793942696.0,"account_id":"a132","difficulty":null,"observed_at":1793942952.1527305,"problem_id":"104128I","submission_id":"397537976","title":"Perfect Palindrome"}
+{"accepted_at":1793950070.0,"account_id":"a132","difficulty":null,"observed_at":1793950289.9434552,"problem_id":"104128G","submission_id":"397545717","title":"Inscryption"}
 {"accepted_at":1792807644.0,"account_id":"a133","difficulty":1,"observed_at":1792807692.1934242,"problem_id":"P1897","submission_id":"305166367","title":"电梯里的尴尬"}
 {"accepted_at":1792808375.0,"account_id":"a133","difficulty":2,"observed_at":1792808913.2778113,"problem_id":"P1165","submission_id":"305172076","title":"日志分析"}
 {"accepted_at":1792809549.0,"account_id":"a133","difficulty":2,"observed_at":1792810130.9384167,"problem_id":"P1165","submission_id":"305181913","title":"日志分析"}
@@ -21135,6 +21137,7 @@
 {"accepted_at":1793862429.0,"account_id":"a139","difficulty":null,"observed_at":1793862859.791644,"problem_id":"104901G","submission_id":"397443788","title":"Gifts from Knowledge"}
 {"accepted_at":1793875592.0,"account_id":"a139","difficulty":null,"observed_at":1793875685.291436,"problem_id":"104901M","submission_id":"397462222","title":"Almost Convex"}
 {"accepted_at":1793942696.0,"account_id":"a139","difficulty":null,"observed_at":1793943131.7916775,"problem_id":"104128I","submission_id":"397537976","title":"Perfect Palindrome"}
+{"accepted_at":1793950070.0,"account_id":"a139","difficulty":null,"observed_at":1793950467.331489,"problem_id":"104128G","submission_id":"397545717","title":"Inscryption"}
 {"accepted_at":1760451389.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.872015,"problem_id":"4A","submission_id":"343714408","title":"Watermelon"}
 {"accepted_at":1760452642.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719974,"problem_id":"71A","submission_id":"343717895","title":"Way Too Long Words"}
 {"accepted_at":1760593208.0,"account_id":"a140","difficulty":800,"observed_at":1792148538.8719797,"problem_id":"2148A","submission_id":"343964436","title":"Sublime Sequence"}
