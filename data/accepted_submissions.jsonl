@@ -2057,6 +2057,7 @@
 {"accepted_at":1794753625.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7627044,"problem_id":"2285A","submission_id":"398665607","title":"Composite Permutation"}
 {"accepted_at":1794755530.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7626772,"problem_id":"2285B","submission_id":"398679252","title":"Diverse String"}
 {"accepted_at":1794758422.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7625284,"problem_id":"2285C","submission_id":"398691198","title":"Max Substitution"}
+{"accepted_at":1794929114.0,"account_id":"a11","difficulty":1600,"observed_at":1794929724.6696963,"problem_id":"722C","submission_id":"398957321","title":"Destroying Array"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -10763,6 +10764,7 @@
 {"accepted_at":1794755489.0,"account_id":"a55","difficulty":1200,"observed_at":1794920658.2581463,"problem_id":"2268A","submission_id":"398679043","title":"K Is Important"}
 {"accepted_at":1794825261.0,"account_id":"a55","difficulty":null,"observed_at":1794920658.2579796,"problem_id":"2285B","submission_id":"398765423","title":"Diverse String"}
 {"accepted_at":1794925351.0,"account_id":"a55","difficulty":800,"observed_at":1794925549.9137359,"problem_id":"32B","submission_id":"398951177","title":"Borze"}
+{"accepted_at":1794929460.0,"account_id":"a55","difficulty":1500,"observed_at":1794929829.4925249,"problem_id":"91B","submission_id":"398957908","title":"Queue"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11672,6 +11674,7 @@
 {"accepted_at":1794796785.0,"account_id":"a62","difficulty":null,"observed_at":1794920703.2390726,"problem_id":"2285A","submission_id":"398734997","title":"Composite Permutation"}
 {"accepted_at":1794828446.0,"account_id":"a62","difficulty":null,"observed_at":1794920703.2389524,"problem_id":"2285B","submission_id":"398769969","title":"Diverse String"}
 {"accepted_at":1794923966.0,"account_id":"a62","difficulty":1300,"observed_at":1794924374.393575,"problem_id":"1476B","submission_id":"398947006","title":"Inflation"}
+{"accepted_at":1794928757.0,"account_id":"a62","difficulty":1400,"observed_at":1794929274.5457284,"problem_id":"816B","submission_id":"398956733","title":"Karen and Coffee"}
 {"accepted_at":1730367606.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.1655369,"problem_id":"P1007","submission_id":"185947705","title":"独木桥"}
 {"accepted_at":1730368896.0,"account_id":"a63","difficulty":3,"observed_at":1792155642.165504,"problem_id":"P1025","submission_id":"185952023","title":"[NOIP 2001 提高组] 数的划分"}
 {"accepted_at":1730453913.0,"account_id":"a63","difficulty":4,"observed_at":1792155642.165478,"problem_id":"P1012","submission_id":"186115770","title":"[NOIP 1998 提高组] 拼数"}
