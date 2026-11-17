@@ -435,6 +435,10 @@
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792664976.892051,"platform":"qoj","problem_id":"5420","solved_at":1792664770.0,"source":"qoj-authenticated","title":"Inscryption"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792664976.8714967,"platform":"qoj","problem_id":"5422","solved_at":1792664800.0,"source":"qoj-authenticated","title":"Perfect Palindrome"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792674631.6097622,"platform":"qoj","problem_id":"5426","solved_at":1792674055.0,"source":"qoj-authenticated","title":"Drain the Water Tank"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921154.591519,"platform":"qoj","problem_id":"6431","solved_at":1793853377.0,"source":"qoj-authenticated","title":"Oops, It's Yesterday Twice More"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921145.4090846,"platform":"qoj","problem_id":"6433","solved_at":1793864275.0,"source":"qoj-authenticated","title":"Klee in Solitary Confinement"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921145.4088566,"platform":"qoj","problem_id":"6434","solved_at":1793869695.0,"source":"qoj-authenticated","title":"Paimon Sorting"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921154.5913079,"platform":"qoj","problem_id":"6443","solved_at":1793854615.0,"source":"qoj-authenticated","title":"Windblume Festival"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792112410.1552567,"platform":"qoj","problem_id":"7733","solved_at":1791193770.0,"source":"qoj-authenticated","title":"Cool, It’s Yesterday Four Times More"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117147,"platform":"qoj","problem_id":"7735","solved_at":1791212860.0,"source":"qoj-profile","title":"Primitive Root"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792112410.1552525,"platform":"qoj","problem_id":"7738","solved_at":1791269004.0,"source":"qoj-authenticated","title":"Equivalent Rewriting"}
@@ -446,6 +450,10 @@
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117476,"platform":"qoj","problem_id":"8974","solved_at":1788006717.0,"source":"qoj-profile","title":"Country Meow"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.711751,"platform":"qoj","problem_id":"8977","solved_at":1788006743.0,"source":"qoj-profile","title":"Pyramid"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117543,"platform":"qoj","problem_id":"9574","solved_at":1790608246.0,"source":"qoj-profile","title":"Strips"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6635447,"platform":"qoj","problem_id":"9726","solved_at":1793947752.0,"source":"qoj-authenticated","title":"AUS"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6633155,"platform":"qoj","problem_id":"9730","solved_at":1793956501.0,"source":"qoj-authenticated","title":"Elevator II"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6635182,"platform":"qoj","problem_id":"9733","solved_at":1793954410.0,"source":"qoj-authenticated","title":"Heavy-light Decomposition"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6635783,"platform":"qoj","problem_id":"9736","solved_at":1793945768.0,"source":"qoj-authenticated","title":"Kind of Bingo"}
 {"account_id":"a4","difficulty":1,"member_id":"m2","observed_at":1792071697.4457192,"platform":"luogu","problem_id":"B2001","solved_at":1786434077.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
 {"account_id":"a4","difficulty":1,"member_id":"m2","observed_at":1792071697.4457273,"platform":"luogu","problem_id":"B2002","solved_at":1786434160.0,"source":"luogu-practice-snapshot","title":"Hello,World!"}
 {"account_id":"a4","difficulty":1,"member_id":"m2","observed_at":1792071697.445735,"platform":"luogu","problem_id":"B2003","solved_at":1786434241.0,"source":"luogu-practice-snapshot","title":"输出第二个整数"}
@@ -2830,6 +2838,9 @@
 {"account_id":"a22","difficulty":3,"member_id":"m10","observed_at":1792080362.5700808,"platform":"luogu","problem_id":"UVA719","solved_at":1679623641.0,"source":"luogu-practice-snapshot","title":"Glass Beads"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792080669.2099345,"platform":"qoj","problem_id":"18429","solved_at":1791967595.0,"source":"qoj-authenticated","title":"Sequence Operations"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792080669.209711,"platform":"qoj","problem_id":"18430","solved_at":1791969712.0,"source":"qoj-authenticated","title":"Believe in You"}
+{"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1794921179.8455772,"platform":"qoj","problem_id":"23656","solved_at":null,"source":"qoj-profile","title":"23656"}
+{"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1794921179.845587,"platform":"qoj","problem_id":"23659","solved_at":null,"source":"qoj-profile","title":"23659"}
+{"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1794921179.8455942,"platform":"qoj","problem_id":"23666","solved_at":null,"source":"qoj-profile","title":"23666"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792080669.209998,"platform":"qoj","problem_id":"6355","solved_at":1726061231.0,"source":"qoj-authenticated","title":"5"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792114454.93168,"platform":"qoj","problem_id":"7631","solved_at":1719911996.0,"source":"qoj-profile","title":"Inverted"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792114454.9316924,"platform":"qoj","problem_id":"8043","solved_at":1722774616.0,"source":"qoj-profile","title":"Middle Race"}
@@ -5328,6 +5339,8 @@
 {"account_id":"a31","difficulty":4,"member_id":"m13","observed_at":1792131579.7406974,"platform":"luogu","problem_id":"UVA658","solved_at":1626271337.0,"source":"luogu-practice-snapshot","title":"这不是bug，而是特性 It's not a Bug, it's a Feature!"}
 {"account_id":"a31","difficulty":1,"member_id":"m13","observed_at":1792131579.7407062,"platform":"luogu","problem_id":"UVA756","solved_at":1626875520.0,"source":"luogu-practice-snapshot","title":"Biorhythms"}
 {"account_id":"a31","difficulty":5,"member_id":"m13","observed_at":1792131579.740715,"platform":"luogu","problem_id":"UVA820","solved_at":1626688182.0,"source":"luogu-practice-snapshot","title":"因特网带宽 Internet Bandwidth"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921138.168423,"platform":"qoj","problem_id":"10738","solved_at":1793782656.0,"source":"qoj-authenticated","title":"One Must Imagine Sisyphus Happy"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921138.1686323,"platform":"qoj","problem_id":"10742","solved_at":1793778320.0,"source":"qoj-authenticated","title":"Path Summing Problem"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098354,"platform":"qoj","problem_id":"1171","solved_at":1689855639.0,"source":"qoj-profile","title":"Integer Array Shuffle"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984745,"platform":"qoj","problem_id":"14321","solved_at":1788436549.0,"source":"qoj-profile","title":"Tree Shuffling"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984821,"platform":"qoj","problem_id":"14524","solved_at":1789649312.0,"source":"qoj-profile","title":"种树"}
@@ -5364,14 +5377,19 @@
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793179797.1341443,"platform":"qoj","problem_id":"7904","solved_at":1793179710.0,"source":"qoj-authenticated","title":"Rainbow Subarray"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984166,"platform":"qoj","problem_id":"8077","solved_at":1788433494.0,"source":"qoj-profile","title":"Alice and Bob"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793091564.806244,"platform":"qoj","problem_id":"8235","solved_at":1793090938.0,"source":"qoj-authenticated","title":"Top Cluster"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921150.0286748,"platform":"qoj","problem_id":"8236","solved_at":1793711248.0,"source":"qoj-profile","title":"Snake Move"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1793088540.3264885,"platform":"qoj","problem_id":"8242","solved_at":1793088372.0,"source":"qoj-authenticated","title":"V-Diagram"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984223,"platform":"qoj","problem_id":"9040","solved_at":1791810187.0,"source":"qoj-profile","title":"Decrease and Swap"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921009.7740214,"platform":"qoj","problem_id":"9523","solved_at":1794473168.0,"source":"qoj-authenticated","title":"Marble Race"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921009.7740612,"platform":"qoj","problem_id":"9528","solved_at":1794468442.0,"source":"qoj-authenticated","title":"New Energy Vehicle"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921009.7738075,"platform":"qoj","problem_id":"9530","solved_at":1794483315.0,"source":"qoj-authenticated","title":"A Game On Tree"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984285,"platform":"qoj","problem_id":"9536","solved_at":1791618313.0,"source":"qoj-profile","title":"Athlete Welcome Ceremony"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098435,"platform":"qoj","problem_id":"9539","solved_at":1791622628.0,"source":"qoj-profile","title":"Disrupting Communications"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984402,"platform":"qoj","problem_id":"9553","solved_at":1791964469.0,"source":"qoj-profile","title":"The Hermit"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984461,"platform":"qoj","problem_id":"9555","solved_at":1791974309.0,"source":"qoj-profile","title":"Strength"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984516,"platform":"qoj","problem_id":"9566","solved_at":1790757417.0,"source":"qoj-profile","title":"Topology"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098457,"platform":"qoj","problem_id":"9570","solved_at":1790750355.0,"source":"qoj-profile","title":"Binary Tree"}
+{"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1794921150.0287716,"platform":"qoj","problem_id":"9735","solved_at":1793705164.0,"source":"qoj-profile","title":"Japanese Bands"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.0984626,"platform":"qoj","problem_id":"9864","solved_at":1791889846.0,"source":"qoj-profile","title":"Coin"}
 {"account_id":"a32","difficulty":null,"member_id":"m13","observed_at":1792116027.098468,"platform":"qoj","problem_id":"9866","solved_at":1791882479.0,"source":"qoj-profile","title":"Extracting Weights"}
 {"account_id":"a33","difficulty":2100,"member_id":"m13","observed_at":1792127172.4274478,"platform":"codeforces","problem_id":"1000E","solved_at":1637897220.0,"source":"codeforces-api","title":"We Need More Bosses"}
@@ -6606,6 +6624,9 @@
 {"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1793526221.5823705,"platform":"qoj","problem_id":"23594","solved_at":null,"source":"qoj-profile","title":"23594"}
 {"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1793526221.5823803,"platform":"qoj","problem_id":"23596","solved_at":null,"source":"qoj-profile","title":"23596"}
 {"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1793526221.5823877,"platform":"qoj","problem_id":"23600","solved_at":null,"source":"qoj-profile","title":"23600"}
+{"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1794921006.8463175,"platform":"qoj","problem_id":"23656","solved_at":null,"source":"qoj-profile","title":"23656"}
+{"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1794921006.846327,"platform":"qoj","problem_id":"23659","solved_at":null,"source":"qoj-profile","title":"23659"}
+{"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1794921006.8463342,"platform":"qoj","problem_id":"23666","solved_at":null,"source":"qoj-profile","title":"23666"}
 {"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1792116956.7469537,"platform":"qoj","problem_id":"9308","solved_at":1757051565.0,"source":"qoj-profile","title":"World Cup"}
 {"account_id":"a42","difficulty":null,"member_id":"m18","observed_at":1792116956.747087,"platform":"qoj","problem_id":"9320","solved_at":1757051360.0,"source":"qoj-profile","title":"Find the Easiest Problem"}
 {"account_id":"a43","difficulty":null,"member_id":"m18","observed_at":1792127069.7676456,"platform":"codeforces","problem_id":"104639A","solved_at":1757136659.0,"source":"codeforces-api","title":"Qualifiers Ranking Rules"}
@@ -7263,6 +7284,10 @@
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1792925104.6586866,"platform":"qoj","problem_id":"20057","solved_at":null,"source":"qoj-profile","title":"20057"}
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1792117323.7824814,"platform":"qoj","problem_id":"20236","solved_at":1789215292.0,"source":"qoj-profile","title":"All Closed"}
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1792117323.7825482,"platform":"qoj","problem_id":"20239","solved_at":1789214394.0,"source":"qoj-profile","title":"Divide and Conquer"}
+{"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1794921011.3470838,"platform":"qoj","problem_id":"5435","solved_at":1794101373.0,"source":"qoj-authenticated","title":"Clamped Sequence"}
+{"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1794921011.3471227,"platform":"qoj","problem_id":"5436","solved_at":1794100104.0,"source":"qoj-authenticated","title":"DRX vs. T1"}
+{"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1794921011.345919,"platform":"qoj","problem_id":"5438","solved_at":1794114519.0,"source":"qoj-authenticated","title":"Half Mixed"}
+{"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1794921011.3470404,"platform":"qoj","problem_id":"5444","solved_at":1794106230.0,"source":"qoj-authenticated","title":"Tavern Chess"}
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1793277719.4673872,"platform":"qoj","problem_id":"6669","solved_at":1793277363.0,"source":"qoj-authenticated","title":"Mapa"}
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1792117323.7820573,"platform":"qoj","problem_id":"9251","solved_at":1771982982.0,"source":"qoj-profile","title":"Graph Changing"}
 {"account_id":"a47","difficulty":null,"member_id":"m20","observed_at":1792117323.7823274,"platform":"qoj","problem_id":"9308","solved_at":1755580480.0,"source":"qoj-profile","title":"World Cup"}
@@ -14393,6 +14418,7 @@
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.3171308,"platform":"luogu","problem_id":"P9484","solved_at":1764385738.0,"source":"luogu-practice-snapshot","title":"「LAOI-1」GCD"}
 {"account_id":"a105","difficulty":2,"member_id":"m47","observed_at":1792148927.317171,"platform":"luogu","problem_id":"P9752","solved_at":1769841110.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2023] 密码锁"}
 {"account_id":"a106","difficulty":null,"member_id":"m47","observed_at":1792148430.4319253,"platform":"qoj","problem_id":"14803","solved_at":1791621353.0,"source":"qoj-profile","title":"Distributing Candies"}
+{"account_id":"a106","difficulty":null,"member_id":"m47","observed_at":1794921132.169659,"platform":"qoj","problem_id":"23659","solved_at":null,"source":"qoj-profile","title":"23659"}
 {"account_id":"a106","difficulty":null,"member_id":"m47","observed_at":1793273936.5019922,"platform":"qoj","problem_id":"9038","solved_at":1793273771.0,"source":"qoj-authenticated","title":"Basic Graph Algorithm"}
 {"account_id":"a107","difficulty":2100,"member_id":"m47","observed_at":1792148507.3951695,"platform":"codeforces","problem_id":"1000E","solved_at":1763558036.0,"source":"codeforces-api","title":"We Need More Bosses"}
 {"account_id":"a107","difficulty":null,"member_id":"m47","observed_at":1792148507.39488,"platform":"codeforces","problem_id":"101987K","solved_at":1789650522.0,"source":"codeforces-api","title":"TV Show Game"}
@@ -18764,6 +18790,7 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388652,"platform":"qoj","problem_id":"14508","solved_at":1792143403.0,"source":"qoj-profile","title":"珍珠链"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388693,"platform":"qoj","problem_id":"14511","solved_at":1792146292.0,"source":"qoj-profile","title":"不许偷吃"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388712,"platform":"qoj","problem_id":"14512","solved_at":1792142265.0,"source":"qoj-profile","title":"羽球比赛"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921156.6601157,"platform":"qoj","problem_id":"14531","solved_at":1793705491.0,"source":"qoj-authenticated","title":"找最小"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638873,"platform":"qoj","problem_id":"14551","solved_at":1789467995.0,"source":"qoj-profile","title":"看比赛回放"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388748,"platform":"qoj","problem_id":"14691","solved_at":1789657950.0,"source":"qoj-profile","title":"Killing Bits"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638877,"platform":"qoj","problem_id":"14706","solved_at":1761647741.0,"source":"qoj-profile","title":"A Lot of Paintings"}
@@ -18781,6 +18808,7 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792387833.1620822,"platform":"qoj","problem_id":"15315","solved_at":1792387378.0,"source":"qoj-authenticated","title":"Hamu"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792356932.3120458,"platform":"qoj","problem_id":"15318","solved_at":1792356445.0,"source":"qoj-authenticated","title":"Flower's land 3"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638898,"platform":"qoj","problem_id":"15437","solved_at":1791859789.0,"source":"qoj-profile","title":"Find the Circuit"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921121.3187783,"platform":"qoj","problem_id":"15543","solved_at":1794388166.0,"source":"qoj-authenticated","title":"Necklace"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388998,"platform":"qoj","problem_id":"17470","solved_at":1779294281.0,"source":"qoj-profile","title":"High-Dimensional Geometry"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6389015,"platform":"qoj","problem_id":"17473","solved_at":1779206731.0,"source":"qoj-profile","title":"Treasure Island"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6389036,"platform":"qoj","problem_id":"17477","solved_at":1792096821.0,"source":"qoj-profile","title":"Two-Player Game"}
@@ -18834,6 +18862,8 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387763,"platform":"qoj","problem_id":"7900","solved_at":1763032011.0,"source":"qoj-profile","title":"Gifts from Knowledge"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387784,"platform":"qoj","problem_id":"7902","solved_at":1763019626.0,"source":"qoj-profile","title":"Strange Sorting"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792645687.916739,"platform":"qoj","problem_id":"7906","solved_at":1792645596.0,"source":"qoj-authenticated","title":"Almost Convex"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921121.3187344,"platform":"qoj","problem_id":"8034","solved_at":1794515098.0,"source":"qoj-authenticated","title":"Ban or Pick, What's the Trick"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921121.3185203,"platform":"qoj","problem_id":"8038","solved_at":1794556627.0,"source":"qoj-authenticated","title":"Hammer to Fall"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.63878,"platform":"qoj","problem_id":"8075","solved_at":1788067982.0,"source":"qoj-profile","title":"Transitivity"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638782,"platform":"qoj","problem_id":"8077","solved_at":1788293257.0,"source":"qoj-profile","title":"Alice and Bob"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638784,"platform":"qoj","problem_id":"8078","solved_at":1788125749.0,"source":"qoj-profile","title":"Spanning Tree"}
@@ -18841,6 +18871,7 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387875,"platform":"qoj","problem_id":"8081","solved_at":1788022902.0,"source":"qoj-profile","title":"Minimum Manhattan Distance"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387932,"platform":"qoj","problem_id":"8082","solved_at":1788220520.0,"source":"qoj-profile","title":"Minimum Euclidean Distance"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387956,"platform":"qoj","problem_id":"8230","solved_at":1775469133.0,"source":"qoj-profile","title":"Submissions"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921147.3102987,"platform":"qoj","problem_id":"8234","solved_at":1793768427.0,"source":"qoj-authenticated","title":"Period of a String"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387975,"platform":"qoj","problem_id":"8316","solved_at":1788297076.0,"source":"qoj-profile","title":"Random Permutation"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6387997,"platform":"qoj","problem_id":"8328","solved_at":1790144916.0,"source":"qoj-profile","title":"A Good Problem"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388016,"platform":"qoj","problem_id":"8332","solved_at":1790160250.0,"source":"qoj-profile","title":"Two in One"}
@@ -18855,13 +18886,17 @@
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638819,"platform":"qoj","problem_id":"9308","solved_at":1787902223.0,"source":"qoj-profile","title":"World Cup"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388211,"platform":"qoj","problem_id":"9315","solved_at":1792089556.0,"source":"qoj-profile","title":"Rainbow Bracket Sequence"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388228,"platform":"qoj","problem_id":"9372","solved_at":1788957855.0,"source":"qoj-profile","title":"Prefix of Suffixes"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921147.310278,"platform":"qoj","problem_id":"9434","solved_at":1793869184.0,"source":"qoj-authenticated","title":"Italian Cuisine"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388247,"platform":"qoj","problem_id":"9545","solved_at":1791115691.0,"source":"qoj-profile","title":"Magical Set"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388266,"platform":"qoj","problem_id":"9565","solved_at":1762848734.0,"source":"qoj-profile","title":"Birthday Gift"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388285,"platform":"qoj","problem_id":"9568","solved_at":1762775642.0,"source":"qoj-profile","title":"Left Shifting 3"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.6388304,"platform":"qoj","problem_id":"9573","solved_at":1762785253.0,"source":"qoj-profile","title":"Social Media"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638832,"platform":"qoj","problem_id":"9574","solved_at":1762835806.0,"source":"qoj-profile","title":"Strips"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921147.3099997,"platform":"qoj","problem_id":"9576","solved_at":1794287028.0,"source":"qoj-authenticated","title":"Ordainer of Inexorable Judgment"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638834,"platform":"qoj","problem_id":"9664","solved_at":1790989880.0,"source":"qoj-profile","title":"Link Summon"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921147.3102295,"platform":"qoj","problem_id":"9778","solved_at":1793883925.0,"source":"qoj-authenticated","title":"Brotato"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1793287966.2746496,"platform":"qoj","problem_id":"9814","solved_at":1793287847.0,"source":"qoj-authenticated","title":"Dutch Democracy"}
+{"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1794921147.3102567,"platform":"qoj","problem_id":"9864","solved_at":1793875147.0,"source":"qoj-authenticated","title":"Coin"}
 {"account_id":"a156","difficulty":null,"member_id":"m69","observed_at":1792148458.638836,"platform":"qoj","problem_id":"9866","solved_at":1788793364.0,"source":"qoj-profile","title":"Extracting Weights"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1792148549.4526324,"platform":"codeforces","problem_id":"102832A","solved_at":1785137154.0,"source":"codeforces-api","title":"Krypton"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1792148549.4526014,"platform":"codeforces","problem_id":"102832D","solved_at":1785138181.0,"source":"codeforces-api","title":"Meaningless Sequence"}
