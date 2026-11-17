@@ -10295,6 +10295,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.8241735,"platform":"codeforces","problem_id":"2285A","solved_at":1794842829.0,"source":"codeforces-api","title":"Composite Permutation"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.82413,"platform":"codeforces","problem_id":"2285B","solved_at":1794843910.0,"source":"codeforces-api","title":"Diverse String"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.823912,"platform":"codeforces","problem_id":"2285C","solved_at":1794844514.0,"source":"codeforces-api","title":"Max Substitution"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794921971.2052238,"platform":"codeforces","problem_id":"2285D","solved_at":1794921515.0,"source":"codeforces-api","title":"Reverse Partition"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.8245142,"platform":"codeforces","problem_id":"2290A","solved_at":1794494568.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.8244908,"platform":"codeforces","problem_id":"2290B","solved_at":1794494813.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.8244672,"platform":"codeforces","problem_id":"2290C","solved_at":1794495531.0,"source":"codeforces-api","title":"Books on a Shelf"}
@@ -14646,6 +14647,7 @@
 {"account_id":"a108","difficulty":3,"member_id":"m48","observed_at":1792223767.5040576,"platform":"luogu","problem_id":"P7911","solved_at":1792223627.0,"source":"luogu-record-list","title":"[CSP-J 2021] 网络连接"}
 {"account_id":"a109","difficulty":1200,"member_id":"m48","observed_at":1794920488.0920768,"platform":"codeforces","problem_id":"1355B","solved_at":1794919638.0,"source":"codeforces-api","title":"Young Explorers"}
 {"account_id":"a109","difficulty":1600,"member_id":"m48","observed_at":1794920488.0923412,"platform":"codeforces","problem_id":"1707A","solved_at":1794917471.0,"source":"codeforces-api","title":"Doremy's IQ"}
+{"account_id":"a109","difficulty":1200,"member_id":"m48","observed_at":1794921709.129689,"platform":"codeforces","problem_id":"1747C","solved_at":1794921151.0,"source":"codeforces-api","title":"Swap Game"}
 {"account_id":"a109","difficulty":null,"member_id":"m48","observed_at":1794920488.092564,"platform":"codeforces","problem_id":"2290A","solved_at":1794494627.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a109","difficulty":null,"member_id":"m48","observed_at":1794920488.0925386,"platform":"codeforces","problem_id":"2290B","solved_at":1794495050.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a109","difficulty":null,"member_id":"m48","observed_at":1794920488.0925114,"platform":"codeforces","problem_id":"2290C","solved_at":1794496679.0,"source":"codeforces-api","title":"Books on a Shelf"}
