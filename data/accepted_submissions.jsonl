@@ -10958,6 +10958,12 @@
 {"accepted_at":1792140161.0,"account_id":"a59","difficulty":1600,"observed_at":1792140548.3105829,"problem_id":"1352G","submission_id":"394788259","title":"Special Permutation"}
 {"accepted_at":1792559913.0,"account_id":"a59","difficulty":null,"observed_at":1792560529.7574184,"problem_id":"104128I","submission_id":"395416395","title":"Perfect Palindrome"}
 {"accepted_at":1792563998.0,"account_id":"a59","difficulty":null,"observed_at":1792564268.3896825,"problem_id":"104128G","submission_id":"395422014","title":"Inscryption"}
+{"accepted_at":1794494481.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.8104258,"problem_id":"2290A","submission_id":"398250892","title":"Three Piles"}
+{"accepted_at":1794494885.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.8104038,"problem_id":"2290B","submission_id":"398262644","title":"Stubborn Pen"}
+{"accepted_at":1794496543.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.8103802,"problem_id":"2290C","submission_id":"398294684","title":"Books on a Shelf"}
+{"accepted_at":1794497596.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.810357,"problem_id":"2290D","submission_id":"398309217","title":"Letters Down"}
+{"accepted_at":1794499240.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.8103302,"problem_id":"2290E","submission_id":"398326902","title":"Avalanche"}
+{"accepted_at":1794501880.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.810196,"problem_id":"2290F","submission_id":"398347606","title":"Value Counters"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
@@ -19814,6 +19820,20 @@
 {"accepted_at":1793028272.0,"account_id":"a124","difficulty":null,"observed_at":1793028442.1677244,"problem_id":"2272C","submission_id":"396144746","title":"Yet Another Black Cell Problem"}
 {"accepted_at":1793029334.0,"account_id":"a124","difficulty":null,"observed_at":1793029659.9014552,"problem_id":"2272D","submission_id":"396152448","title":"Connecting the Conflicts"}
 {"accepted_at":1793030849.0,"account_id":"a124","difficulty":null,"observed_at":1793030967.36093,"problem_id":"2272F","submission_id":"396162011","title":"Tree Reduction Game"}
+{"accepted_at":1793803798.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9023645,"problem_id":"2283A","submission_id":"397347011","title":"Numbers on the Board"}
+{"accepted_at":1793804273.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9023423,"problem_id":"2283B","submission_id":"397352475","title":"Rhythmic String"}
+{"accepted_at":1793805730.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9023154,"problem_id":"2283C","submission_id":"397366809","title":"Big XOR"}
+{"accepted_at":1793806683.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9022923,"problem_id":"2283D","submission_id":"397373811","title":"Black, Gray and White"}
+{"accepted_at":1793808298.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9022706,"problem_id":"2283E","submission_id":"397383154","title":"Partition of a Binary String"}
+{"accepted_at":1793810077.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9022484,"problem_id":"2283F","submission_id":"397391909","title":"Minimize the Graph"}
+{"accepted_at":1793975889.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9022267,"problem_id":"2284A1","submission_id":"397584931","title":"15K4JR3B (Easy Version)"}
+{"accepted_at":1793976342.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9022045,"problem_id":"2284A2","submission_id":"397591326","title":"15K4JR3B (Hard Version)"}
+{"accepted_at":1793976941.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.902182,"problem_id":"2284B","submission_id":"397597829","title":"Introduction to the Niche Internet"}
+{"accepted_at":1793977474.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9021587,"problem_id":"2284C1","submission_id":"397602933","title":"Disgusting + GCD (Constructive Version)"}
+{"accepted_at":1793979431.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9021275,"problem_id":"2284C2","submission_id":"397618044","title":"Disgusting + GCD (Checker Version)"}
+{"accepted_at":1794063438.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9021032,"problem_id":"2279A","submission_id":"397746187","title":"Reverse and Double"}
+{"accepted_at":1794065778.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9020755,"problem_id":"2279B","submission_id":"397760740","title":"Balanced Subsets"}
+{"accepted_at":1794069844.0,"account_id":"a124","difficulty":null,"observed_at":1794920409.9019465,"problem_id":"2279C","submission_id":"397775635","title":"Anti-Productive"}
 {"accepted_at":1744521559.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687415,"problem_id":"P12132","submission_id":"213553321","title":"[蓝桥杯 2025 省 B] 可分解的正整数"}
 {"accepted_at":1751885589.0,"account_id":"a125","difficulty":2,"observed_at":1792153920.1687157,"problem_id":"B2139","submission_id":"222827579","title":"区间内的真素数"}
 {"accepted_at":1758884127.0,"account_id":"a125","difficulty":3,"observed_at":1792153920.168701,"problem_id":"P1518","submission_id":"237048136","title":"[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two"}
@@ -25906,6 +25926,9 @@
 {"accepted_at":1793026490.0,"account_id":"a164","difficulty":null,"observed_at":1793027096.53848,"problem_id":"2272A","submission_id":"396126606","title":"Maximize One MEX"}
 {"accepted_at":1793028696.0,"account_id":"a164","difficulty":null,"observed_at":1793028940.7151659,"problem_id":"2272B","submission_id":"396147899","title":"Frogs Jump"}
 {"accepted_at":1793034763.0,"account_id":"a164","difficulty":null,"observed_at":1793035131.9283214,"problem_id":"2272C","submission_id":"396201737","title":"Yet Another Black Cell Problem"}
+{"accepted_at":1793862984.0,"account_id":"a164","difficulty":null,"observed_at":1794920417.142408,"problem_id":"104128I","submission_id":"397444477","title":"Perfect Palindrome"}
+{"accepted_at":1793866169.0,"account_id":"a164","difficulty":null,"observed_at":1794920417.1423805,"problem_id":"104128G","submission_id":"397448416","title":"Inscryption"}
+{"accepted_at":1793872966.0,"account_id":"a164","difficulty":null,"observed_at":1794920417.1422508,"problem_id":"104128A","submission_id":"397458573","title":"Stop, Yesterday Please No More"}
 {"accepted_at":1699691204.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1270413,"problem_id":"B3869","submission_id":"134540660","title":"[GESP202309 四级] 进制转换"}
 {"accepted_at":1700298041.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.1269932,"problem_id":"B3870","submission_id":"135740502","title":"[GESP202309 四级] 变长编码"}
 {"accepted_at":1703322186.0,"account_id":"a165","difficulty":2,"observed_at":1792153350.126949,"problem_id":"P8597","submission_id":"140702758","title":"[蓝桥杯 2013 省 B] 翻硬币"}

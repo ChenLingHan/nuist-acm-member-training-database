@@ -3642,6 +3642,10 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278D","tags":["greedy"],"title":"Lock and Unlock"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278E","tags":["constructive algorithms","greedy"],"title":"Swap and Negate"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2278G","tags":["bitmasks","dfs and similar","dp","hashing","number theory","trees"],"title":"0s and 1s"}
+{"difficulty":null,"platform":"codeforces","points":750.0,"problem_id":"2279A","tags":["binary search","brute force","data structures","implementation"],"title":"Reverse and Double"}
+{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2279B","tags":["bitmasks","combinatorics","dp"],"title":"Balanced Subsets"}
+{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2279C","tags":["brute force","greedy","math","sortings"],"title":"Anti-Productive"}
+{"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2279E","tags":["brute force","dfs and similar","matrices","meet-in-the-middle"],"title":"Save Me!"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283A","tags":["greedy","math","two pointers"],"title":"Numbers on the Board"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283B","tags":["brute force","number theory"],"title":"Rhythmic String"}
@@ -3655,6 +3659,12 @@
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2284C1","tags":[],"title":"Disgusting + GCD (Constructive Version)"}
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2284C2","tags":[],"title":"Disgusting + GCD (Checker Version)"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290A","tags":["implementation","math"],"title":"Three Piles"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290B","tags":["implementation","strings"],"title":"Stubborn Pen"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290C","tags":["constructive algorithms","greedy","sortings"],"title":"Books on a Shelf"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290D","tags":["data structures","dsu","greedy","implementation","strings"],"title":"Letters Down"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290E","tags":["dp","games","math"],"title":"Avalanche"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290F","tags":["binary search","constructive algorithms","math"],"title":"Value Counters"}
 {"difficulty":1700,"platform":"codeforces","points":500.0,"problem_id":"229B","tags":["binary search","data structures","graphs","shortest paths"],"title":"Planets"}
 {"difficulty":1900,"platform":"codeforces","points":1000.0,"problem_id":"229C","tags":["combinatorics","graphs","math"],"title":"Triangles"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"22A","tags":["brute force"],"title":"Second Order Statistics"}
