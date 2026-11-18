@@ -1344,6 +1344,7 @@
 {"accepted_at":1794474348.0,"account_id":"a8","difficulty":1500,"observed_at":1794920502.0832329,"problem_id":"1372C","submission_id":"398207503","title":"Omkar and Baseball"}
 {"accepted_at":1794476235.0,"account_id":"a8","difficulty":1500,"observed_at":1794920502.0831094,"problem_id":"1368C","submission_id":"398210210","title":"Even Picture"}
 {"accepted_at":1795002650.0,"account_id":"a8","difficulty":1500,"observed_at":1795003476.6244938,"problem_id":"1850G","submission_id":"399036611","title":"The Morning Star"}
+{"accepted_at":1795004144.0,"account_id":"a8","difficulty":1700,"observed_at":1795004693.057676,"problem_id":"1118E","submission_id":"399039083","title":"Yet Another Ball Problem"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -14536,6 +14537,7 @@
 {"accepted_at":1794618119.0,"account_id":"a94","difficulty":1400,"observed_at":1794920472.344151,"problem_id":"538B","submission_id":"398490368","title":"Quasi Binary"}
 {"accepted_at":1794817858.0,"account_id":"a94","difficulty":1600,"observed_at":1794920472.3441153,"problem_id":"1707A","submission_id":"398755133","title":"Doremy's IQ"}
 {"accepted_at":1794818051.0,"account_id":"a94","difficulty":1600,"observed_at":1794920472.3439524,"problem_id":"1707A","submission_id":"398755393","title":"Doremy's IQ"}
+{"accepted_at":1795004499.0,"account_id":"a94","difficulty":1600,"observed_at":1795004586.620158,"problem_id":"722C","submission_id":"399039689","title":"Destroying Array"}
 {"accepted_at":1791873578.0,"account_id":"a95","difficulty":4,"observed_at":1792153452.4680367,"problem_id":"P1265","submission_id":"302801976","title":"公路修建"}
 {"accepted_at":1791897747.0,"account_id":"a95","difficulty":3,"observed_at":1792153452.468016,"problem_id":"P4779","submission_id":"302896883","title":"【模板】单源最短路径（标准版）"}
 {"accepted_at":1791899265.0,"account_id":"a95","difficulty":3,"observed_at":1792153452.4679954,"problem_id":"P3366","submission_id":"302904578","title":"【模板】最小生成树"}
