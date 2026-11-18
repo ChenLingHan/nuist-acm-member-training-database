@@ -439,6 +439,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105657K","tags":[],"title":"Kind of Bingo"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105657M","tags":[],"title":"Make It Divisible"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105789H","tags":[],"title":"Horrible Restaurants"}
+{"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"1057A","tags":["*special","dfs and similar","trees"],"title":"Bmail Computer Network"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105887A","tags":[],"title":"题目背景是 GPT 给的"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105887C","tags":[],"title":"区域划分"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"105887F","tags":[],"title":"赢麻了"}
@@ -3689,14 +3690,14 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283A","tags":["greedy","math","two pointers"],"title":"Numbers on the Board"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283B","tags":["brute force","number theory"],"title":"Rhythmic String"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283C","tags":["bitmasks","constructive algorithms"],"title":"Big XOR"}
-{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283D","tags":["brute force","constructive algorithms","dfs and similar"],"title":"Black, Gray and White"}
+{"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283D","tags":["brute force","constructive algorithms","dfs and similar","trees"],"title":"Black, Gray and White"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283E","tags":["combinatorics","dp"],"title":"Partition of a Binary String"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2283F","tags":["brute force","data structures","graphs","greedy"],"title":"Minimize the Graph"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2284A1","tags":[],"title":"15K4JR3B (Easy Version)"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2284A2","tags":[],"title":"15K4JR3B (Hard Version)"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2284B","tags":[],"title":"Introduction to the Niche Internet"}
-{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2284C1","tags":[],"title":"Disgusting + GCD (Constructive Version)"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2284C2","tags":[],"title":"Disgusting + GCD (Checker Version)"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2284A1","tags":["greedy","math","number theory"],"title":"15K4JR3B (Easy Version)"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2284A2","tags":["greedy","math","number theory"],"title":"15K4JR3B (Hard Version)"}
+{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2284B","tags":["constructive algorithms","greedy","sortings"],"title":"Introduction to the Niche Internet"}
+{"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2284C1","tags":["constructive algorithms","dp","graphs","greedy","math","number theory"],"title":"Disgusting + GCD (Constructive Version)"}
+{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2284C2","tags":["brute force","dp","graphs","greedy","math","number theory"],"title":"Disgusting + GCD (Checker Version)"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2284D","tags":["communication","constructive algorithms","dfs and similar","graphs","interactive","math","trees"],"title":"The Theorem of Two Cans"}
 {"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2285A","tags":["constructive algorithms","math"],"title":"Composite Permutation"}
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2285B","tags":["combinatorics","math","strings"],"title":"Diverse String"}
