@@ -4117,6 +4117,7 @@
 {"difficulty":1900,"platform":"codeforces","points":2000.0,"problem_id":"928C","tags":["*special","graphs","implementation"],"title":"Dependency management"}
 {"difficulty":1900,"platform":"codeforces","points":1500.0,"problem_id":"930C","tags":["data structures","dp"],"title":"Teodor is not a liar!"}
 {"difficulty":2900,"platform":"codeforces","points":2500.0,"problem_id":"930E","tags":["data structures","dp","math"],"title":"Coins Exhibition"}
+{"difficulty":1300,"platform":"codeforces","points":1000.0,"problem_id":"932B","tags":["binary search","data structures","dfs and similar"],"title":"Recursive Queries"}
 {"difficulty":2400,"platform":"codeforces","points":2500.0,"problem_id":"932E","tags":["combinatorics","dp","math"],"title":"Team Work"}
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"938D","tags":["data structures","graphs","shortest paths"],"title":"Buy a Ticket"}
 {"difficulty":2400,"platform":"codeforces","points":2750.0,"problem_id":"939F","tags":["data structures","dp"],"title":"Cutlet"}
