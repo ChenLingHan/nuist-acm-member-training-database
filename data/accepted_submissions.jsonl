@@ -1343,6 +1343,7 @@
 {"accepted_at":1794472871.0,"account_id":"a8","difficulty":1400,"observed_at":1794920502.0832722,"problem_id":"1761C","submission_id":"398205532","title":"Set Construction"}
 {"accepted_at":1794474348.0,"account_id":"a8","difficulty":1500,"observed_at":1794920502.0832329,"problem_id":"1372C","submission_id":"398207503","title":"Omkar and Baseball"}
 {"accepted_at":1794476235.0,"account_id":"a8","difficulty":1500,"observed_at":1794920502.0831094,"problem_id":"1368C","submission_id":"398210210","title":"Even Picture"}
+{"accepted_at":1795002650.0,"account_id":"a8","difficulty":1500,"observed_at":1795003476.6244938,"problem_id":"1850G","submission_id":"399036611","title":"The Morning Star"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -10771,6 +10772,7 @@
 {"accepted_at":1794979906.0,"account_id":"a55","difficulty":1300,"observed_at":1794980125.4266627,"problem_id":"932B","submission_id":"399005976","title":"Recursive Queries"}
 {"accepted_at":1794991263.0,"account_id":"a55","difficulty":1100,"observed_at":1794991687.365919,"problem_id":"706B","submission_id":"399019645","title":"Interesting drink"}
 {"accepted_at":1794994167.0,"account_id":"a55","difficulty":900,"observed_at":1794994727.604078,"problem_id":"1138A","submission_id":"399023641","title":"Sushi for Two"}
+{"accepted_at":1795002887.0,"account_id":"a55","difficulty":900,"observed_at":1795003289.9640026,"problem_id":"1057A","submission_id":"399036971","title":"Bmail Computer Network"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
