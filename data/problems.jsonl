@@ -948,6 +948,7 @@
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1409A","tags":["greedy","math"],"title":"Yet Another Two Integers Problem"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1415A","tags":["brute force","math"],"title":"Prison Break"}
 {"difficulty":1100,"platform":"codeforces","points":1250.0,"problem_id":"1415B","tags":["brute force","greedy"],"title":"Repainting Street"}
+{"difficulty":2000,"platform":"codeforces","points":1000.0,"problem_id":"1416B","tags":["constructive algorithms","greedy","math"],"title":"Make Them Equal"}
 {"difficulty":3200,"platform":"codeforces","points":2250.0,"problem_id":"1416E","tags":["binary search","data structures","dp","greedy"],"title":"Split"}
 {"difficulty":900,"platform":"codeforces","points":500.0,"problem_id":"1419A","tags":["games","greedy","implementation"],"title":"Digit Game"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"1419B","tags":["brute force","constructive algorithms","greedy","implementation","math"],"title":"Stairs"}
