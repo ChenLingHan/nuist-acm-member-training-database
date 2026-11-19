@@ -3911,6 +3911,7 @@
 {"difficulty":3100,"platform":"codeforces","points":3000.0,"problem_id":"538G","tags":["constructive algorithms","math","sortings"],"title":"Berserk Robot "}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"544B","tags":["constructive algorithms","implementation"],"title":"Sea and Islands"}
 {"difficulty":1500,"platform":"codeforces","points":1750.0,"problem_id":"545C","tags":["dp","greedy"],"title":"Woodcutters"}
+{"difficulty":1300,"platform":"codeforces","points":1750.0,"problem_id":"545D","tags":["greedy","implementation","sortings"],"title":"Queue"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"546A","tags":["brute force","implementation","math"],"title":"Soldier and Bananas"}
 {"difficulty":1900,"platform":"codeforces","points":1000.0,"problem_id":"547B","tags":["binary search","data structures","dp","dsu"],"title":"Mike and Feet"}
 {"difficulty":2800,"platform":"codeforces","points":2500.0,"problem_id":"547E","tags":["data structures","string suffix structures","strings","trees"],"title":"Mike and Friends"}
