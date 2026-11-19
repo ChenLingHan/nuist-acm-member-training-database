@@ -1700,6 +1700,7 @@
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1775C","tags":["bitmasks","math"],"title":"Interesting Sequence"}
 {"difficulty":1800,"platform":"codeforces","points":2000.0,"problem_id":"1775D","tags":["dfs and similar","graphs","math","number theory","shortest paths"],"title":"Friendly Spiders"}
 {"difficulty":2100,"platform":"codeforces","points":2250.0,"problem_id":"1775E","tags":["greedy","implementation"],"title":"The Human Equation"}
+{"difficulty":1500,"platform":"codeforces","points":null,"problem_id":"1776L","tags":["binary search","math"],"title":"Controllers"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1777A","tags":["greedy","math"],"title":"Everybody Likes Good Arrays!"}
 {"difficulty":900,"platform":"codeforces","points":1000.0,"problem_id":"1777B","tags":["combinatorics","greedy","math"],"title":"Emordnilap"}
 {"difficulty":1700,"platform":"codeforces","points":1500.0,"problem_id":"1777C","tags":["binary search","math","number theory","sortings","two pointers"],"title":"Quiz Master"}
