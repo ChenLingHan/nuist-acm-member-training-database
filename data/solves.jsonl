@@ -10417,6 +10417,7 @@
 {"account_id":"a76","difficulty":null,"member_id":"m33","observed_at":1793031232.363043,"platform":"codeforces","problem_id":"2272C","solved_at":1793030885.0,"source":"codeforces-api","title":"Yet Another Black Cell Problem"}
 {"account_id":"a76","difficulty":800,"member_id":"m33","observed_at":1795153839.408378,"platform":"codeforces","problem_id":"2275A","solved_at":1795153323.0,"source":"codeforces-api","title":"In Search of Convenience"}
 {"account_id":"a76","difficulty":800,"member_id":"m33","observed_at":1795154445.925381,"platform":"codeforces","problem_id":"2275B","solved_at":1795154192.0,"source":"codeforces-api","title":"Did Not Go to Print"}
+{"account_id":"a76","difficulty":1000,"member_id":"m33","observed_at":1795156272.1685827,"platform":"codeforces","problem_id":"2275C","solved_at":1795156166.0,"source":"codeforces-api","title":"Unrequited Love"}
 {"account_id":"a76","difficulty":null,"member_id":"m33","observed_at":1793611079.6796458,"platform":"codeforces","problem_id":"2278A","solved_at":1793610532.0,"source":"codeforces-api","title":"Fraction and Six"}
 {"account_id":"a76","difficulty":null,"member_id":"m33","observed_at":1794920725.2249482,"platform":"codeforces","problem_id":"2285A","solved_at":1794754877.0,"source":"codeforces-api","title":"Composite Permutation"}
 {"account_id":"a76","difficulty":null,"member_id":"m33","observed_at":1794920725.2247264,"platform":"codeforces","problem_id":"2285B","solved_at":1794757525.0,"source":"codeforces-api","title":"Diverse String"}
@@ -18100,6 +18101,7 @@
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792406037.341791,"platform":"codeforces","problem_id":"126B","solved_at":1792405952.0,"source":"codeforces-api","title":"Password"}
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1181939,"platform":"codeforces","problem_id":"1288C","solved_at":1769497283.0,"source":"codeforces-api","title":"Two Arrays"}
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.1211143,"platform":"codeforces","problem_id":"1305C","solved_at":1769501209.0,"source":"codeforces-api","title":"Kuroni and Impossible Calculation"}
+{"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1795156266.850853,"platform":"codeforces","problem_id":"1323B","solved_at":1795155671.0,"source":"codeforces-api","title":"Count Subrectangles"}
 {"account_id":"a150","difficulty":1300,"member_id":"m66","observed_at":1792148545.1208549,"platform":"codeforces","problem_id":"1326C","solved_at":1769585799.0,"source":"codeforces-api","title":"Permutation Partitions"}
 {"account_id":"a150","difficulty":1400,"member_id":"m66","observed_at":1792148545.1185353,"platform":"codeforces","problem_id":"1363B","solved_at":1790766752.0,"source":"codeforces-api","title":"Subsequence Hate"}
 {"account_id":"a150","difficulty":1100,"member_id":"m66","observed_at":1793258343.236964,"platform":"codeforces","problem_id":"1382B","solved_at":1793258014.0,"source":"codeforces-api","title":"Sequential Nim"}

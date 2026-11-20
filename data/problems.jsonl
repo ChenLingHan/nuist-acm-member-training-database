@@ -822,6 +822,7 @@
 {"difficulty":2100,"platform":"codeforces","points":1000.0,"problem_id":"1322B","tags":["binary search","bitmasks","constructive algorithms","data structures","math","sortings"],"title":"Present"}
 {"difficulty":2300,"platform":"codeforces","points":1500.0,"problem_id":"1322C","tags":["graphs","hashing","math","number theory"],"title":"Instant Noodles"}
 {"difficulty":2800,"platform":"codeforces","points":2000.0,"problem_id":"1322D","tags":["bitmasks","dp"],"title":"Reality Show"}
+{"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"1323B","tags":["binary search","greedy","implementation"],"title":"Count Subrectangles"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1324A","tags":["implementation","number theory"],"title":"Yet Another Tetris Problem"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1324B","tags":["brute force","strings"],"title":"Yet Another Palindrome Problem"}
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1324C","tags":["binary search","data structures","dfs and similar","greedy","implementation"],"title":"Frog Jumps"}
