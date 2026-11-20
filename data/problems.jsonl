@@ -1391,6 +1391,7 @@
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1688A","tags":["bitmasks","brute force"],"title":"Cirno's Perfect Bitmasks Classroom"}
 {"difficulty":800,"platform":"codeforces","points":750.0,"problem_id":"1688B","tags":["bitmasks","constructive algorithms","greedy","sortings"],"title":"Patchouli's Magical Talisman"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"1689A","tags":["brute force","greedy","implementation","sortings","two pointers"],"title":"Lex String"}
+{"difficulty":1900,"platform":"codeforces","points":1750.0,"problem_id":"1689D","tags":["data structures","dp","geometry","shortest paths"],"title":"Lena and Matrix"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1690A","tags":["constructive algorithms","greedy"],"title":"Print a Pedestal (Codeforces logo?)"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1690B","tags":["greedy","implementation"],"title":"Array Decrements"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1690C","tags":["data structures","greedy","implementation"],"title":"Restoring the Duration of Tasks"}
