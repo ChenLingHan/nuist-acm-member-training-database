@@ -8386,6 +8386,7 @@
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0427418,"platform":"codeforces","problem_id":"2257C","solved_at":1786981214.0,"source":"codeforces-api","title":"Spying on the Beaver"}
 {"account_id":"a51","difficulty":800,"member_id":"m21","observed_at":1792127076.0427067,"platform":"codeforces","problem_id":"2258A","solved_at":1788014535.0,"source":"codeforces-api","title":"Odd Eraser"}
 {"account_id":"a51","difficulty":900,"member_id":"m21","observed_at":1792127076.0426714,"platform":"codeforces","problem_id":"2258B1","solved_at":1788017718.0,"source":"codeforces-api","title":"Carrot Chopdown (Easy Version)"}
+{"account_id":"a51","difficulty":1600,"member_id":"m21","observed_at":1795162868.131274,"platform":"codeforces","problem_id":"2258C","solved_at":1795162490.0,"source":"codeforces-api","title":"Far Cities"}
 {"account_id":"a51","difficulty":1000,"member_id":"m21","observed_at":1792127076.0424309,"platform":"codeforces","problem_id":"2259C","solved_at":1790166747.0,"source":"codeforces-api","title":"101"}
 {"account_id":"a51","difficulty":1200,"member_id":"m21","observed_at":1792127076.0423675,"platform":"codeforces","problem_id":"2259D","solved_at":1790174801.0,"source":"codeforces-api","title":"MEX Multiset"}
 {"account_id":"a51","difficulty":1500,"member_id":"m21","observed_at":1794920654.4302864,"platform":"codeforces","problem_id":"2259E","solved_at":1794323204.0,"source":"codeforces-api","title":"Treasure Map Destruction (Constructive Version)"}
@@ -18121,6 +18122,7 @@
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1795158098.193425,"platform":"codeforces","problem_id":"1619E","solved_at":1795158056.0,"source":"codeforces-api","title":"MEX and Increments"}
 {"account_id":"a150","difficulty":1500,"member_id":"m66","observed_at":1792148545.118591,"platform":"codeforces","problem_id":"1630A","solved_at":1790671147.0,"source":"codeforces-api","title":"And Matching"}
 {"account_id":"a150","difficulty":1600,"member_id":"m66","observed_at":1792148545.119033,"platform":"codeforces","problem_id":"1658D1","solved_at":1790238496.0,"source":"codeforces-api","title":"388535 (Easy Version)"}
+{"account_id":"a150","difficulty":1900,"member_id":"m66","observed_at":1795162364.4824643,"platform":"codeforces","problem_id":"1689D","solved_at":1795162002.0,"source":"codeforces-api","title":"Lena and Matrix"}
 {"account_id":"a150","difficulty":1700,"member_id":"m66","observed_at":1792148545.1183214,"platform":"codeforces","problem_id":"1690F","solved_at":1790929146.0,"source":"codeforces-api","title":"Shifting String"}
 {"account_id":"a150","difficulty":1900,"member_id":"m66","observed_at":1792148545.1187584,"platform":"codeforces","problem_id":"1701D","solved_at":1790558287.0,"source":"codeforces-api","title":"Permutation Restoration"}
 {"account_id":"a150","difficulty":1900,"member_id":"m66","observed_at":1792148545.1184402,"platform":"codeforces","problem_id":"1707B","solved_at":1790842303.0,"source":"codeforces-api","title":"Difference Array"}
