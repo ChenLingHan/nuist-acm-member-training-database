@@ -866,6 +866,7 @@
 {"account_id":"a8","difficulty":1600,"member_id":"m4","observed_at":1792073909.8298788,"platform":"codeforces","problem_id":"1255C","solved_at":1791271695.0,"source":"codeforces-api","title":"League of Leesins"}
 {"account_id":"a8","difficulty":1600,"member_id":"m4","observed_at":1793345342.7143624,"platform":"codeforces","problem_id":"1288C","solved_at":1793345138.0,"source":"codeforces-api","title":"Two Arrays"}
 {"account_id":"a8","difficulty":1700,"member_id":"m4","observed_at":1793360024.5306776,"platform":"codeforces","problem_id":"1312D","solved_at":1793359794.0,"source":"codeforces-api","title":"Count the Arrays"}
+{"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1795163565.0102432,"platform":"codeforces","problem_id":"1323B","solved_at":1795163476.0,"source":"codeforces-api","title":"Count Subrectangles"}
 {"account_id":"a8","difficulty":1800,"member_id":"m4","observed_at":1792653474.7099109,"platform":"codeforces","problem_id":"1324F","solved_at":1792652792.0,"source":"codeforces-api","title":"Maximum White Subtree"}
 {"account_id":"a8","difficulty":1400,"member_id":"m4","observed_at":1792073909.8301442,"platform":"codeforces","problem_id":"1363B","solved_at":1790772278.0,"source":"codeforces-api","title":"Subsequence Hate"}
 {"account_id":"a8","difficulty":1500,"member_id":"m4","observed_at":1794920502.083018,"platform":"codeforces","problem_id":"1368C","solved_at":1794476235.0,"source":"codeforces-api","title":"Even Picture"}
@@ -3198,6 +3199,7 @@
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1122274,"platform":"codeforces","problem_id":"105901A","solved_at":1791956507.0,"source":"codeforces-api","title":"Problem Setting"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1118977,"platform":"codeforces","problem_id":"105901I","solved_at":1791962568.0,"source":"codeforces-api","title":"Bingo 3"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1792082819.1122012,"platform":"codeforces","problem_id":"105901L","solved_at":1791960410.0,"source":"codeforces-api","title":"Subsequence"}
+{"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795163523.098217,"platform":"codeforces","problem_id":"106794A","solved_at":1795163059.0,"source":"codeforces-api","title":"Hastorius and the Haunted Candies"}
 {"account_id":"a27","difficulty":800,"member_id":"m11","observed_at":1792082819.1128027,"platform":"codeforces","problem_id":"2267A","solved_at":1790347677.0,"source":"codeforces-api","title":"Turn Into a Palindrome"}
 {"account_id":"a27","difficulty":800,"member_id":"m11","observed_at":1792082819.1126995,"platform":"codeforces","problem_id":"2267B","solved_at":1790349469.0,"source":"codeforces-api","title":"Fashionable Array"}
 {"account_id":"a27","difficulty":1200,"member_id":"m11","observed_at":1792082819.11267,"platform":"codeforces","problem_id":"2267C","solved_at":1790409508.0,"source":"codeforces-api","title":"GCD Treasury"}

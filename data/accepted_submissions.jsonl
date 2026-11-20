@@ -1349,6 +1349,7 @@
 {"accepted_at":1795087079.0,"account_id":"a8","difficulty":1600,"observed_at":1795087212.720586,"problem_id":"1610C","submission_id":"399126238","title":"Keshi Is Throwing a Party"}
 {"accepted_at":1795090271.0,"account_id":"a8","difficulty":1800,"observed_at":1795090866.9712508,"problem_id":"1845D","submission_id":"399131674","title":"Rating System"}
 {"accepted_at":1795160704.0,"account_id":"a8","difficulty":2000,"observed_at":1795161114.4693663,"problem_id":"1416B","submission_id":"399204967","title":"Make Them Equal"}
+{"accepted_at":1795163476.0,"account_id":"a8","difficulty":1500,"observed_at":1795163565.0103276,"problem_id":"1323B","submission_id":"399208626","title":"Count Subrectangles"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -4303,6 +4304,7 @@
 {"accepted_at":1794754153.0,"account_id":"a27","difficulty":null,"observed_at":1794920643.125733,"problem_id":"2285A","submission_id":"398671030","title":"Composite Permutation"}
 {"accepted_at":1794758283.0,"account_id":"a27","difficulty":null,"observed_at":1794920643.1255958,"problem_id":"2285B","submission_id":"398690666","title":"Diverse String"}
 {"accepted_at":1795094405.0,"account_id":"a27","difficulty":1400,"observed_at":1795094469.4715374,"problem_id":"2276D","submission_id":"399139127","title":"Caveman"}
+{"accepted_at":1795163059.0,"account_id":"a27","difficulty":null,"observed_at":1795163523.0983279,"problem_id":"106794A","submission_id":"399208045","title":"Hastorius and the Haunted Candies"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -23029,6 +23031,7 @@
 {"accepted_at":1795158056.0,"account_id":"a150","difficulty":1700,"observed_at":1795158098.1935127,"problem_id":"1619E","submission_id":"399201880","title":"MEX and Increments"}
 {"accepted_at":1795162002.0,"account_id":"a150","difficulty":1900,"observed_at":1795162364.48255,"problem_id":"1689D","submission_id":"399206589","title":"Lena and Matrix"}
 {"accepted_at":1795162899.0,"account_id":"a150","difficulty":1500,"observed_at":1795162971.6172483,"problem_id":"1323B","submission_id":"399207849","title":"Count Subrectangles"}
+{"accepted_at":1795162969.0,"account_id":"a150","difficulty":1500,"observed_at":1795163586.8851898,"problem_id":"1323B","submission_id":"399207935","title":"Count Subrectangles"}
 {"accepted_at":1640331112.0,"account_id":"a151","difficulty":5,"observed_at":1792156836.1432106,"problem_id":"P1074","submission_id":"65657307","title":"[NOIP 2009 提高组] 靶形数独"}
 {"accepted_at":1642322056.0,"account_id":"a151","difficulty":4,"observed_at":1792156836.143155,"problem_id":"P6909","submission_id":"66901814","title":"[ICPC 2015 WF] Keyboarding"}
 {"accepted_at":1643172270.0,"account_id":"a151","difficulty":4,"observed_at":1792156835.1336248,"problem_id":"P4667","submission_id":"67990253","title":"[BalticOI 2011] Switch the Lamp On (Day1)"}
