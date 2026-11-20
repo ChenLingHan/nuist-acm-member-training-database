@@ -1348,6 +1348,7 @@
 {"accepted_at":1795083258.0,"account_id":"a8","difficulty":1500,"observed_at":1795083563.2374763,"problem_id":"1776L","submission_id":"399120692","title":"Controllers"}
 {"accepted_at":1795087079.0,"account_id":"a8","difficulty":1600,"observed_at":1795087212.720586,"problem_id":"1610C","submission_id":"399126238","title":"Keshi Is Throwing a Party"}
 {"accepted_at":1795090271.0,"account_id":"a8","difficulty":1800,"observed_at":1795090866.9712508,"problem_id":"1845D","submission_id":"399131674","title":"Rating System"}
+{"accepted_at":1795160704.0,"account_id":"a8","difficulty":2000,"observed_at":1795161114.4693663,"problem_id":"1416B","submission_id":"399204967","title":"Make Them Equal"}
 {"accepted_at":1757640672.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153972,"problem_id":"P1000","submission_id":"235068445","title":"超级玛丽游戏"}
 {"accepted_at":1757653588.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.1539457,"problem_id":"P1001","submission_id":"235081572","title":"A+B Problem"}
 {"accepted_at":1757655108.0,"account_id":"a9","difficulty":1,"observed_at":1792161167.153917,"problem_id":"P1035","submission_id":"235083496","title":"[NOIP 2002 普及组] 级数求和"}
@@ -13202,6 +13203,7 @@
 {"accepted_at":1795069917.0,"account_id":"a79","difficulty":1600,"observed_at":1795070217.8619874,"problem_id":"1610C","submission_id":"399101467","title":"Keshi Is Throwing a Party"}
 {"accepted_at":1795081917.0,"account_id":"a79","difficulty":1800,"observed_at":1795082428.6132169,"problem_id":"1845D","submission_id":"399118857","title":"Rating System"}
 {"accepted_at":1795086900.0,"account_id":"a79","difficulty":2000,"observed_at":1795087293.2036424,"problem_id":"1416B","submission_id":"399125950","title":"Make Them Equal"}
+{"accepted_at":1795161037.0,"account_id":"a79","difficulty":1500,"observed_at":1795161187.461099,"problem_id":"1323B","submission_id":"399205362","title":"Count Subrectangles"}
 {"accepted_at":1724936405.0,"account_id":"a80","difficulty":1,"observed_at":1792160177.3481815,"problem_id":"P1000","submission_id":"175295959","title":"超级玛丽游戏"}
 {"accepted_at":1724936613.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.153667,"problem_id":"B2002","submission_id":"175296522","title":"Hello,World!"}
 {"accepted_at":1724936745.0,"account_id":"a80","difficulty":1,"observed_at":1792159678.1536179,"problem_id":"P1001","submission_id":"175296904","title":"A+B Problem"}
