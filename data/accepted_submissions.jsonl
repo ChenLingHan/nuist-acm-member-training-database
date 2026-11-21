@@ -4249,6 +4249,7 @@
 {"accepted_at":1795007380.0,"account_id":"a24","difficulty":null,"observed_at":1795007968.9733994,"problem_id":"2290H","submission_id":"399044780","title":"Extra Road"}
 {"accepted_at":1795273526.0,"account_id":"a24","difficulty":null,"observed_at":1795273832.3426309,"problem_id":"2288A","submission_id":"399368065","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795274846.0,"account_id":"a24","difficulty":null,"observed_at":1795275062.417947,"problem_id":"2288B1","submission_id":"399375670","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
+{"accepted_at":1795276146.0,"account_id":"a24","difficulty":null,"observed_at":1795276278.5643928,"problem_id":"2288C","submission_id":"399382327","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -4322,6 +4323,7 @@
 {"accepted_at":1795273117.0,"account_id":"a27","difficulty":null,"observed_at":1795273285.755503,"problem_id":"2288A","submission_id":"399365580","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795274034.0,"account_id":"a27","difficulty":null,"observed_at":1795274501.5965025,"problem_id":"2288B1","submission_id":"399371110","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795275357.0,"account_id":"a27","difficulty":null,"observed_at":1795275743.0681133,"problem_id":"2288B2","submission_id":"399378365","title":"Yukari Yakumo and the Boundary Stones (Hard Version)"}
+{"accepted_at":1795276258.0,"account_id":"a27","difficulty":null,"observed_at":1795276351.1266022,"problem_id":"2288C","submission_id":"399382874","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -11233,6 +11235,7 @@
 {"accepted_at":1795250556.0,"account_id":"a59","difficulty":null,"observed_at":1795250857.2174244,"problem_id":"2284A2","submission_id":"399313215","title":"15K4JR3B (Hard Version)"}
 {"accepted_at":1795272810.0,"account_id":"a59","difficulty":null,"observed_at":1795273394.2170649,"problem_id":"2288A","submission_id":"399363818","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795275486.0,"account_id":"a59","difficulty":null,"observed_at":1795275831.0309625,"problem_id":"2288B1","submission_id":"399379046","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
+{"accepted_at":1795276369.0,"account_id":"a59","difficulty":null,"observed_at":1795276439.3153105,"problem_id":"2288C","submission_id":"399383390","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
