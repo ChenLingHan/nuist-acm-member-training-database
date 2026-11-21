@@ -3223,6 +3223,7 @@
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1794920643.1257236,"platform":"codeforces","problem_id":"2285A","solved_at":1794754153.0,"source":"codeforces-api","title":"Composite Permutation"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1794920643.125495,"platform":"codeforces","problem_id":"2285B","solved_at":1794758283.0,"source":"codeforces-api","title":"Diverse String"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795273285.7554107,"platform":"codeforces","problem_id":"2288A","solved_at":1795273117.0,"source":"codeforces-api","title":"Youmu Konpaku and the Duel"}
+{"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795274501.5964067,"platform":"codeforces","problem_id":"2288B1","solved_at":1795274034.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"account_id":"a27","difficulty":1900,"member_id":"m11","observed_at":1792809067.5749955,"platform":"codeforces","problem_id":"817D","solved_at":1792808893.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4203541,"platform":"luogu","problem_id":"AT_arc117_c","solved_at":1697200604.0,"source":"luogu-practice-snapshot","title":"[ARC117C] Tricolor Pyramid"}
 {"account_id":"a28","difficulty":1,"member_id":"m12","observed_at":1792083216.419754,"platform":"luogu","problem_id":"B2001","solved_at":1663054427.0,"source":"luogu-practice-snapshot","title":"入门测试题目"}
@@ -8549,6 +8550,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793805762.2028418,"platform":"codeforces","problem_id":"2283A","solved_at":1793805229.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1793807008.8118157,"platform":"codeforces","problem_id":"2283B","solved_at":1793806497.0,"source":"codeforces-api","title":"Rhythmic String"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.257878,"platform":"codeforces","problem_id":"2285B","solved_at":1794825261.0,"source":"codeforces-api","title":"Diverse String"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795274505.859464,"platform":"codeforces","problem_id":"2288A","solved_at":1795274056.0,"source":"codeforces-api","title":"Youmu Konpaku and the Duel"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2585104,"platform":"codeforces","problem_id":"2290A","solved_at":1794494787.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584877,"platform":"codeforces","problem_id":"2290B","solved_at":1794495266.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584653,"platform":"codeforces","problem_id":"2290C","solved_at":1794497232.0,"source":"codeforces-api","title":"Books on a Shelf"}

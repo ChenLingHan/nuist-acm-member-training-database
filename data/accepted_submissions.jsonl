@@ -4319,6 +4319,7 @@
 {"accepted_at":1795249047.0,"account_id":"a27","difficulty":null,"observed_at":1795249531.2138112,"problem_id":"2284A2","submission_id":"399310584","title":"15K4JR3B (Hard Version)"}
 {"accepted_at":1795250807.0,"account_id":"a27","difficulty":null,"observed_at":1795251357.7792583,"problem_id":"2284B","submission_id":"399313710","title":"Introduction to the Niche Internet"}
 {"accepted_at":1795273117.0,"account_id":"a27","difficulty":null,"observed_at":1795273285.755503,"problem_id":"2288A","submission_id":"399365580","title":"Youmu Konpaku and the Duel"}
+{"accepted_at":1795274034.0,"account_id":"a27","difficulty":null,"observed_at":1795274501.5965025,"problem_id":"2288B1","submission_id":"399371110","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -10817,6 +10818,7 @@
 {"accepted_at":1795184732.0,"account_id":"a55","difficulty":1600,"observed_at":1795184789.3558629,"problem_id":"1707A","submission_id":"399243983","title":"Doremy's IQ"}
 {"accepted_at":1795187007.0,"account_id":"a55","difficulty":900,"observed_at":1795187227.4878633,"problem_id":"1057A","submission_id":"399247932","title":"Bmail Computer Network"}
 {"accepted_at":1795264564.0,"account_id":"a55","difficulty":1600,"observed_at":1795264757.197196,"problem_id":"1707A","submission_id":"399335618","title":"Doremy's IQ"}
+{"accepted_at":1795274056.0,"account_id":"a55","difficulty":null,"observed_at":1795274505.8595634,"problem_id":"2288A","submission_id":"399371240","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
