@@ -3988,6 +3988,7 @@
 {"difficulty":1500,"platform":"codeforces","points":500.0,"problem_id":"670D2","tags":["binary search","implementation"],"title":"Magic Powder - 2"}
 {"difficulty":1800,"platform":"codeforces","points":500.0,"problem_id":"671A","tags":["dp","geometry","greedy","implementation"],"title":"Recycling Bottles"}
 {"difficulty":3300,"platform":"codeforces","points":3000.0,"problem_id":"671E","tags":["data structures","greedy"],"title":"Organizing a Race"}
+{"difficulty":1500,"platform":"codeforces","points":1500.0,"problem_id":"676C","tags":["binary search","dp","strings","two pointers"],"title":"Vasya and String"}
 {"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"678D","tags":["math","number theory"],"title":"Iterated Linear Function"}
 {"difficulty":2600,"platform":"codeforces","points":1500.0,"problem_id":"67C","tags":["dp"],"title":"Sequence of Balls"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"682C","tags":["dfs and similar","dp","graphs","trees"],"title":"Alyona and the Tree"}

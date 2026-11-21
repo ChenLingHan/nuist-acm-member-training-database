@@ -4314,6 +4314,7 @@
 {"accepted_at":1795169713.0,"account_id":"a27","difficulty":null,"observed_at":1795170264.1957304,"problem_id":"106794C","submission_id":"399218361","title":"Nightmare on Sixth Street"}
 {"accepted_at":1795244265.0,"account_id":"a27","difficulty":null,"observed_at":1795244660.6198118,"problem_id":"2284A1","submission_id":"399303801","title":"15K4JR3B (Easy Version)"}
 {"accepted_at":1795249047.0,"account_id":"a27","difficulty":null,"observed_at":1795249531.2138112,"problem_id":"2284A2","submission_id":"399310584","title":"15K4JR3B (Hard Version)"}
+{"accepted_at":1795250807.0,"account_id":"a27","difficulty":null,"observed_at":1795251357.7792583,"problem_id":"2284B","submission_id":"399313710","title":"Introduction to the Niche Internet"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -11218,6 +11219,7 @@
 {"accepted_at":1794501880.0,"account_id":"a59","difficulty":null,"observed_at":1794920429.810196,"problem_id":"2290F","submission_id":"398347606","title":"Value Counters"}
 {"accepted_at":1794988571.0,"account_id":"a59","difficulty":null,"observed_at":1794988760.4747987,"problem_id":"2284A1","submission_id":"399016125","title":"15K4JR3B (Easy Version)"}
 {"accepted_at":1795069075.0,"account_id":"a59","difficulty":null,"observed_at":1795069163.5473104,"problem_id":"2285A","submission_id":"399100442","title":"Composite Permutation"}
+{"accepted_at":1795250556.0,"account_id":"a59","difficulty":null,"observed_at":1795250857.2174244,"problem_id":"2284A2","submission_id":"399313215","title":"15K4JR3B (Hard Version)"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
