@@ -1319,6 +1319,7 @@
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"1659A","tags":["constructive algorithms","greedy","implementation","math"],"title":"Red Versus Blue"}
 {"difficulty":1300,"platform":"codeforces","points":750.0,"problem_id":"1659B","tags":["bitmasks","constructive algorithms","greedy","strings"],"title":"Bit Flipping"}
 {"difficulty":1500,"platform":"codeforces","points":1500.0,"problem_id":"1659C","tags":["binary search","brute force","dp","greedy","implementation","math"],"title":"Line Empire"}
+{"difficulty":1500,"platform":"codeforces","points":1000.0,"problem_id":"165B","tags":["binary search","implementation"],"title":"Burning Midnight Oil"}
 {"difficulty":2100,"platform":"codeforces","points":2000.0,"problem_id":"165D","tags":["data structures","dsu","trees"],"title":"Beard Graph"}
 {"difficulty":2200,"platform":"codeforces","points":2500.0,"problem_id":"165E","tags":["bitmasks","brute force","dfs and similar","dp"],"title":"Compatible Numbers"}
 {"difficulty":800,"platform":"codeforces","points":null,"problem_id":"1660A","tags":["greedy","math"],"title":"Vasya and Coins"}
