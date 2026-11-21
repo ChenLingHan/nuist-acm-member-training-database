@@ -897,6 +897,7 @@
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1363C","tags":["games","trees"],"title":"Game On Leaves"}
 {"difficulty":1200,"platform":"codeforces","points":750.0,"problem_id":"1364A","tags":["brute force","data structures","number theory","two pointers"],"title":"XXXXX"}
 {"difficulty":2800,"platform":"codeforces","points":3000.0,"problem_id":"1365G","tags":["bitmasks","combinatorics","constructive algorithms","interactive","math"],"title":"Secure Password"}
+{"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1366A","tags":["binary search","greedy","math"],"title":"Shovels and Swords"}
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1366B","tags":["math","two pointers"],"title":"Shuffle"}
 {"difficulty":2700,"platform":"codeforces","points":null,"problem_id":"1366F","tags":["binary search","dp","geometry","graphs"],"title":"Jog Around The Graph"}
 {"difficulty":2700,"platform":"codeforces","points":null,"problem_id":"1366G","tags":["data structures","dp","strings"],"title":"Construct the String"}
@@ -3715,7 +3716,7 @@
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2285B","tags":["combinatorics","math","strings"],"title":"Diverse String"}
 {"difficulty":null,"platform":"codeforces","points":1500.0,"problem_id":"2285C","tags":["combinatorics","data structures","math","sortings","two pointers"],"title":"Max Substitution"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2285D","tags":["binary search","combinatorics","data structures","math"],"title":"Reverse Partition"}
-{"difficulty":null,"platform":"codeforces","points":2500.0,"problem_id":"2285E","tags":["data structures","greedy","implementation","two pointers"],"title":"Arithmetic Subarray"}
+{"difficulty":null,"platform":"codeforces","points":2500.0,"problem_id":"2285E","tags":["data structures","greedy","implementation","sortings","two pointers"],"title":"Arithmetic Subarray"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290A","tags":["implementation","math"],"title":"Three Piles"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290B","tags":["implementation","strings"],"title":"Stubborn Pen"}
