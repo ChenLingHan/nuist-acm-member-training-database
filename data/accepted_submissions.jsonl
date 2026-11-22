@@ -2072,6 +2072,7 @@
 {"accepted_at":1794758422.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7625284,"problem_id":"2285C","submission_id":"398691198","title":"Max Substitution"}
 {"accepted_at":1794929114.0,"account_id":"a11","difficulty":1600,"observed_at":1794929724.6696963,"problem_id":"722C","submission_id":"398957321","title":"Destroying Array"}
 {"accepted_at":1795338670.0,"account_id":"a11","difficulty":null,"observed_at":1795338957.2434855,"problem_id":"2289A","submission_id":"399448520","title":"Problem from Dolgoderevenskoye"}
+{"accepted_at":1795339289.0,"account_id":"a11","difficulty":null,"observed_at":1795339564.3096814,"problem_id":"2289B","submission_id":"399452266","title":"Problem from Chebarkul"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -4252,6 +4253,7 @@
 {"accepted_at":1795274846.0,"account_id":"a24","difficulty":null,"observed_at":1795275062.417947,"problem_id":"2288B1","submission_id":"399375670","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795276146.0,"account_id":"a24","difficulty":null,"observed_at":1795276278.5643928,"problem_id":"2288C","submission_id":"399382327","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1795338695.0,"account_id":"a24","difficulty":null,"observed_at":1795339230.6879556,"problem_id":"2289A","submission_id":"399448665","title":"Problem from Dolgoderevenskoye"}
+{"accepted_at":1795339822.0,"account_id":"a24","difficulty":null,"observed_at":1795339839.4442537,"problem_id":"2289B","submission_id":"399455128","title":"Problem from Chebarkul"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -17136,6 +17138,8 @@
 {"accepted_at":1795273208.0,"account_id":"a98","difficulty":null,"observed_at":1795273262.2980824,"problem_id":"2288C","submission_id":"399366137","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1795275254.0,"account_id":"a98","difficulty":null,"observed_at":1795275721.293308,"problem_id":"2288D","submission_id":"399377827","title":"Satori Komeiji and the Metro"}
 {"accepted_at":1795278876.0,"account_id":"a98","difficulty":null,"observed_at":1795279389.5648656,"problem_id":"2288B1","submission_id":"399394562","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
+{"accepted_at":1795339535.0,"account_id":"a98","difficulty":null,"observed_at":1795339872.065157,"problem_id":"2289D","submission_id":"399453670","title":"Problem from Yuzhnouralsk"}
+{"accepted_at":1795339734.0,"account_id":"a98","difficulty":null,"observed_at":1795339872.0650291,"problem_id":"2289A","submission_id":"399454687","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -27047,6 +27051,7 @@
 {"accepted_at":1794495686.0,"account_id":"a180","difficulty":null,"observed_at":1794920467.004419,"problem_id":"2290B","submission_id":"398280184","title":"Stubborn Pen"}
 {"accepted_at":1794497592.0,"account_id":"a180","difficulty":null,"observed_at":1794920467.0041933,"problem_id":"2290C","submission_id":"398309167","title":"Books on a Shelf"}
 {"accepted_at":1795273529.0,"account_id":"a180","difficulty":null,"observed_at":1795274130.6711018,"problem_id":"2288A","submission_id":"399368086","title":"Youmu Konpaku and the Duel"}
+{"accepted_at":1795339484.0,"account_id":"a180","difficulty":null,"observed_at":1795340076.4201586,"problem_id":"2289A","submission_id":"399453375","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1769003977.0,"account_id":"a181","difficulty":900,"observed_at":1792167449.781802,"problem_id":"1972B","submission_id":"359073670","title":"Coin Games"}
 {"accepted_at":1769182126.0,"account_id":"a181","difficulty":800,"observed_at":1792167449.7817562,"problem_id":"2189A","submission_id":"359404451","title":"Table with Numbers"}
 {"accepted_at":1769185752.0,"account_id":"a181","difficulty":1200,"observed_at":1792167449.781708,"problem_id":"2189B","submission_id":"359442625","title":"The Curse of the Frog"}
@@ -27254,6 +27259,7 @@
 {"accepted_at":1795272688.0,"account_id":"a181","difficulty":null,"observed_at":1795273300.8292103,"problem_id":"2288A","submission_id":"399363050","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795273789.0,"account_id":"a181","difficulty":null,"observed_at":1795273908.7527924,"problem_id":"2288B1","submission_id":"399369672","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795275152.0,"account_id":"a181","difficulty":null,"observed_at":1795275759.3957696,"problem_id":"2288C","submission_id":"399377295","title":"Reimu Hakurei and the Youkai"}
+{"accepted_at":1795339648.0,"account_id":"a181","difficulty":null,"observed_at":1795339938.2474525,"problem_id":"2289A","submission_id":"399454277","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1628356497.0,"account_id":"a182","difficulty":1,"observed_at":1792486977.5351207,"problem_id":"P2670","submission_id":"55254742","title":"[NOIP 2015 普及组] 扫雷游戏"}
 {"accepted_at":1660744880.0,"account_id":"a182","difficulty":4,"observed_at":1792486977.535091,"problem_id":"P3956","submission_id":"84207506","title":"[NOIP 2017 普及组] 棋盘"}
 {"accepted_at":1660830172.0,"account_id":"a182","difficulty":2,"observed_at":1792486977.5349858,"problem_id":"P1216","submission_id":"84338438","title":"[IOI 1994 / USACO1.5] 数字三角形 Number Triangles"}

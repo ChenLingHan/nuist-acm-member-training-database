@@ -1584,6 +1584,7 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1794920540.7626681,"platform":"codeforces","problem_id":"2285B","solved_at":1794755530.0,"source":"codeforces-api","title":"Diverse String"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1794920540.7624216,"platform":"codeforces","problem_id":"2285C","solved_at":1794758422.0,"source":"codeforces-api","title":"Max Substitution"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1795338957.2433898,"platform":"codeforces","problem_id":"2289A","solved_at":1795338670.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
+{"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1795339564.3095844,"platform":"codeforces","problem_id":"2289B","solved_at":1795339289.0,"source":"codeforces-api","title":"Problem from Chebarkul"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.017075,"platform":"codeforces","problem_id":"22A","solved_at":1767107778.0,"source":"codeforces-api","title":"Second Order Statistics"}
 {"account_id":"a11","difficulty":1300,"member_id":"m5","observed_at":1792075181.0070984,"platform":"codeforces","problem_id":"230B","solved_at":1779895541.0,"source":"codeforces-api","title":"T-primes"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.019827,"platform":"codeforces","problem_id":"231A","solved_at":1766138910.0,"source":"codeforces-api","title":"Team"}
@@ -3133,6 +3134,7 @@
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795275062.417828,"platform":"codeforces","problem_id":"2288B1","solved_at":1795274846.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795276278.5642915,"platform":"codeforces","problem_id":"2288C","solved_at":1795276146.0,"source":"codeforces-api","title":"Reimu Hakurei and the Youkai"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795339230.6878333,"platform":"codeforces","problem_id":"2289A","solved_at":1795338695.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
+{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795339839.4441555,"platform":"codeforces","problem_id":"2289B","solved_at":1795339822.0,"source":"codeforces-api","title":"Problem from Chebarkul"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795002487.1525662,"platform":"codeforces","problem_id":"2290G2","solved_at":1795002329.0,"source":"codeforces-api","title":"Lakeside Trail (Hard Version)"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795007968.9732969,"platform":"codeforces","problem_id":"2290H","solved_at":1795007380.0,"source":"codeforces-api","title":"Extra Road"}
 {"account_id":"a24","difficulty":2400,"member_id":"m10","observed_at":1792081262.3190646,"platform":"codeforces","problem_id":"246E","solved_at":1706067325.0,"source":"codeforces-api","title":"Blood Cousins Return"}
@@ -13554,6 +13556,8 @@
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795279389.5647728,"platform":"codeforces","problem_id":"2288B1","solved_at":1795278876.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795273262.2979863,"platform":"codeforces","problem_id":"2288C","solved_at":1795273208.0,"source":"codeforces-api","title":"Reimu Hakurei and the Youkai"}
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795275721.2932131,"platform":"codeforces","problem_id":"2288D","solved_at":1795275254.0,"source":"codeforces-api","title":"Satori Komeiji and the Metro"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795339872.064936,"platform":"codeforces","problem_id":"2289A","solved_at":1795339734.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
+{"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795339872.0651488,"platform":"codeforces","problem_id":"2289D","solved_at":1795339535.0,"source":"codeforces-api","title":"Problem from Yuzhnouralsk"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":1800,"member_id":"m43","observed_at":1794920705.5162241,"platform":"codeforces","problem_id":"271D","solved_at":1794018170.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
@@ -21836,6 +21840,7 @@
 {"account_id":"a180","difficulty":1100,"member_id":"m39","observed_at":1792167379.6160786,"platform":"codeforces","problem_id":"2276C","solved_at":1791992066.0,"source":"codeforces-api","title":"Subarrays"}
 {"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1793805348.8691525,"platform":"codeforces","problem_id":"2283A","solved_at":1793805309.0,"source":"codeforces-api","title":"Numbers on the Board"}
 {"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1795274130.6710005,"platform":"codeforces","problem_id":"2288A","solved_at":1795273529.0,"source":"codeforces-api","title":"Youmu Konpaku and the Duel"}
+{"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1795340076.4200616,"platform":"codeforces","problem_id":"2289A","solved_at":1795339484.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
 {"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1794920467.0044417,"platform":"codeforces","problem_id":"2290A","solved_at":1794494642.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1794920467.0044081,"platform":"codeforces","problem_id":"2290B","solved_at":1794495686.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a180","difficulty":null,"member_id":"m39","observed_at":1794920466.9436364,"platform":"codeforces","problem_id":"2290C","solved_at":1794497592.0,"source":"codeforces-api","title":"Books on a Shelf"}
@@ -22029,6 +22034,7 @@
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1795273300.8291109,"platform":"codeforces","problem_id":"2288A","solved_at":1795272688.0,"source":"codeforces-api","title":"Youmu Konpaku and the Duel"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1795273908.7526877,"platform":"codeforces","problem_id":"2288B1","solved_at":1795273789.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1795275759.3936248,"platform":"codeforces","problem_id":"2288C","solved_at":1795275152.0,"source":"codeforces-api","title":"Reimu Hakurei and the Youkai"}
+{"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1795339938.2473505,"platform":"codeforces","problem_id":"2289A","solved_at":1795339648.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1794920640.191831,"platform":"codeforces","problem_id":"2290A","solved_at":1794499772.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1794920640.1918015,"platform":"codeforces","problem_id":"2290B","solved_at":1794500071.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a181","difficulty":null,"member_id":"m79","observed_at":1794920640.1918797,"platform":"codeforces","problem_id":"2290C","solved_at":1794497965.0,"source":"codeforces-api","title":"Books on a Shelf"}
