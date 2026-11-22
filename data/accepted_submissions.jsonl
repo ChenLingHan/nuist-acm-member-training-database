@@ -4254,6 +4254,7 @@
 {"accepted_at":1795276146.0,"account_id":"a24","difficulty":null,"observed_at":1795276278.5643928,"problem_id":"2288C","submission_id":"399382327","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1795338695.0,"account_id":"a24","difficulty":null,"observed_at":1795339230.6879556,"problem_id":"2289A","submission_id":"399448665","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1795339822.0,"account_id":"a24","difficulty":null,"observed_at":1795339839.4442537,"problem_id":"2289B","submission_id":"399455128","title":"Problem from Chebarkul"}
+{"accepted_at":1795341593.0,"account_id":"a24","difficulty":null,"observed_at":1795341667.127382,"problem_id":"2289C","submission_id":"399462427","title":"Problem from Ust-Katav"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -10834,6 +10835,7 @@
 {"accepted_at":1795274056.0,"account_id":"a55","difficulty":null,"observed_at":1795274505.8595634,"problem_id":"2288A","submission_id":"399371240","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795276466.0,"account_id":"a55","difficulty":null,"observed_at":1795276976.1448944,"problem_id":"2288B1","submission_id":"399383791","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795278043.0,"account_id":"a55","difficulty":null,"observed_at":1795278193.7230477,"problem_id":"2288C","submission_id":"399390718","title":"Reimu Hakurei and the Youkai"}
+{"accepted_at":1795340978.0,"account_id":"a55","difficulty":null,"observed_at":1795341418.778087,"problem_id":"2289B","submission_id":"399460046","title":"Problem from Chebarkul"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
