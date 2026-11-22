@@ -2071,6 +2071,7 @@
 {"accepted_at":1794755530.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7626772,"problem_id":"2285B","submission_id":"398679252","title":"Diverse String"}
 {"accepted_at":1794758422.0,"account_id":"a11","difficulty":null,"observed_at":1794920540.7625284,"problem_id":"2285C","submission_id":"398691198","title":"Max Substitution"}
 {"accepted_at":1794929114.0,"account_id":"a11","difficulty":1600,"observed_at":1794929724.6696963,"problem_id":"722C","submission_id":"398957321","title":"Destroying Array"}
+{"accepted_at":1795338670.0,"account_id":"a11","difficulty":null,"observed_at":1795338957.2434855,"problem_id":"2289A","submission_id":"399448520","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -4250,6 +4251,7 @@
 {"accepted_at":1795273526.0,"account_id":"a24","difficulty":null,"observed_at":1795273832.3426309,"problem_id":"2288A","submission_id":"399368065","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795274846.0,"account_id":"a24","difficulty":null,"observed_at":1795275062.417947,"problem_id":"2288B1","submission_id":"399375670","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795276146.0,"account_id":"a24","difficulty":null,"observed_at":1795276278.5643928,"problem_id":"2288C","submission_id":"399382327","title":"Reimu Hakurei and the Youkai"}
+{"accepted_at":1795338695.0,"account_id":"a24","difficulty":null,"observed_at":1795339230.6879556,"problem_id":"2289A","submission_id":"399448665","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1723101512.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0678115,"problem_id":"P1182","submission_id":"171381518","title":"数列分段 Section II"}
 {"accepted_at":1723192183.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.067804,"problem_id":"P1168","submission_id":"171622198","title":"中位数"}
 {"accepted_at":1723193429.0,"account_id":"a25","difficulty":3,"observed_at":1792153061.0677886,"problem_id":"P1168","submission_id":"171629459","title":"中位数"}
@@ -10678,6 +10680,7 @@
 {"accepted_at":1795275274.0,"account_id":"a51","difficulty":null,"observed_at":1795275713.7405205,"problem_id":"2288B1","submission_id":"399377943","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795277681.0,"account_id":"a51","difficulty":null,"observed_at":1795278158.0306723,"problem_id":"2288C","submission_id":"399389084","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1795327670.0,"account_id":"a51","difficulty":1600,"observed_at":1795327694.1620848,"problem_id":"2242D","submission_id":"399432021","title":"Two Digit Strings"}
+{"accepted_at":1795338924.0,"account_id":"a51","difficulty":null,"observed_at":1795339259.6014624,"problem_id":"2289A","submission_id":"399450125","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1787884373.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4100204,"problem_id":"P1003","submission_id":"295702436","title":"[NOIP 2011 提高组] 铺地毯"}
 {"accepted_at":1791797026.0,"account_id":"a52","difficulty":2,"observed_at":1792147554.4099772,"problem_id":"P2141","submission_id":"302675546","title":"[NOIP 2014 普及组] 珠心算测验"}
 {"accepted_at":1792052667.0,"account_id":"a52","difficulty":4,"observed_at":1792147554.4099462,"problem_id":"P3375","submission_id":"303172657","title":"【模板】KMP"}
