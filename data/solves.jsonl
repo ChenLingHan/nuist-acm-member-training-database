@@ -450,6 +450,12 @@
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117443,"platform":"qoj","problem_id":"8971","solved_at":1788006703.0,"source":"qoj-profile","title":"Adrien and Austin"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117476,"platform":"qoj","problem_id":"8974","solved_at":1788006717.0,"source":"qoj-profile","title":"Country Meow"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.711751,"platform":"qoj","problem_id":"8977","solved_at":1788006743.0,"source":"qoj-profile","title":"Pyramid"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360028.0911136,"platform":"qoj","problem_id":"9422","solved_at":1795319115.0,"source":"qoj-authenticated","title":"Two-star Contest"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360132.3148448,"platform":"qoj","problem_id":"9423","solved_at":1795312600.0,"source":"qoj-profile","title":"Gold Medal"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360028.0910618,"platform":"qoj","problem_id":"9426","solved_at":1795324981.0,"source":"qoj-authenticated","title":"Relearn through Review"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360132.3148623,"platform":"qoj","problem_id":"9428","solved_at":1795313482.0,"source":"qoj-profile","title":"Be Positive"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360028.0910883,"platform":"qoj","problem_id":"9430","solved_at":1795320265.0,"source":"qoj-authenticated","title":"Left Shifting 2"}
+{"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1795360028.0908537,"platform":"qoj","problem_id":"9434","solved_at":1795329455.0,"source":"qoj-authenticated","title":"Italian Cuisine"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1792121073.7117543,"platform":"qoj","problem_id":"9574","solved_at":1790608246.0,"source":"qoj-profile","title":"Strips"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6635447,"platform":"qoj","problem_id":"9726","solved_at":1793947752.0,"source":"qoj-authenticated","title":"AUS"}
 {"account_id":"a3","difficulty":null,"member_id":"m1","observed_at":1794921092.6633155,"platform":"qoj","problem_id":"9730","solved_at":1793956501.0,"source":"qoj-authenticated","title":"Elevator II"}
@@ -22784,3 +22790,5 @@
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1792929216.3733451,"platform":"qoj","problem_id":"22914","solved_at":1792928907.0,"source":"qoj-authenticated","title":"遍历"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1793536763.614968,"platform":"qoj","problem_id":"23596","solved_at":1793536338.0,"source":"qoj-authenticated","title":"Enclose the Point"}
 {"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1793519261.1906066,"platform":"qoj","problem_id":"23600","solved_at":1793519174.0,"source":"qoj-authenticated","title":"Invisible Edges"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1795360129.7162497,"platform":"qoj","problem_id":"23659","solved_at":1795093801.0,"source":"qoj-authenticated","title":"Travel Plan"}
+{"account_id":"a184","difficulty":null,"member_id":"m80","observed_at":1795360138.540168,"platform":"qoj","problem_id":"23662","solved_at":1795089605.0,"source":"qoj-authenticated","title":"Shuffle Playlist"}
