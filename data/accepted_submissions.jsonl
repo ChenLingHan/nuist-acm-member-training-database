@@ -2073,6 +2073,7 @@
 {"accepted_at":1794929114.0,"account_id":"a11","difficulty":1600,"observed_at":1794929724.6696963,"problem_id":"722C","submission_id":"398957321","title":"Destroying Array"}
 {"accepted_at":1795338670.0,"account_id":"a11","difficulty":null,"observed_at":1795338957.2434855,"problem_id":"2289A","submission_id":"399448520","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1795339289.0,"account_id":"a11","difficulty":null,"observed_at":1795339564.3096814,"problem_id":"2289B","submission_id":"399452266","title":"Problem from Chebarkul"}
+{"accepted_at":1795342098.0,"account_id":"a11","difficulty":null,"observed_at":1795342607.4389532,"problem_id":"2289C","submission_id":"399464271","title":"Problem from Ust-Katav"}
 {"accepted_at":1728831772.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.4480174,"problem_id":"B2001","submission_id":"182000848","title":"入门测试题目"}
 {"accepted_at":1728920922.0,"account_id":"a12","difficulty":1,"observed_at":1792128793.447983,"problem_id":"P1000","submission_id":"182193920","title":"超级玛丽游戏"}
 {"accepted_at":1728922102.0,"account_id":"a12","difficulty":2,"observed_at":1792128793.4479506,"problem_id":"P1002","submission_id":"182195562","title":"[NOIP 2002 普及组] 过河卒"}
@@ -17144,6 +17145,7 @@
 {"accepted_at":1795339535.0,"account_id":"a98","difficulty":null,"observed_at":1795339872.065157,"problem_id":"2289D","submission_id":"399453670","title":"Problem from Yuzhnouralsk"}
 {"accepted_at":1795339734.0,"account_id":"a98","difficulty":null,"observed_at":1795339872.0650291,"problem_id":"2289A","submission_id":"399454687","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1795340362.0,"account_id":"a98","difficulty":null,"observed_at":1795340480.9342916,"problem_id":"2289C","submission_id":"399457563","title":"Problem from Ust-Katav"}
+{"accepted_at":1795342076.0,"account_id":"a98","difficulty":null,"observed_at":1795342304.027695,"problem_id":"2289B","submission_id":"399464185","title":"Problem from Chebarkul"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -27056,6 +27058,7 @@
 {"accepted_at":1794497592.0,"account_id":"a180","difficulty":null,"observed_at":1794920467.0041933,"problem_id":"2290C","submission_id":"398309167","title":"Books on a Shelf"}
 {"accepted_at":1795273529.0,"account_id":"a180","difficulty":null,"observed_at":1795274130.6711018,"problem_id":"2288A","submission_id":"399368086","title":"Youmu Konpaku and the Duel"}
 {"accepted_at":1795339484.0,"account_id":"a180","difficulty":null,"observed_at":1795340076.4201586,"problem_id":"2289A","submission_id":"399453375","title":"Problem from Dolgoderevenskoye"}
+{"accepted_at":1795342445.0,"account_id":"a180","difficulty":null,"observed_at":1795342507.258015,"problem_id":"2289B","submission_id":"399465610","title":"Problem from Chebarkul"}
 {"accepted_at":1769003977.0,"account_id":"a181","difficulty":900,"observed_at":1792167449.781802,"problem_id":"1972B","submission_id":"359073670","title":"Coin Games"}
 {"accepted_at":1769182126.0,"account_id":"a181","difficulty":800,"observed_at":1792167449.7817562,"problem_id":"2189A","submission_id":"359404451","title":"Table with Numbers"}
 {"accepted_at":1769185752.0,"account_id":"a181","difficulty":1200,"observed_at":1792167449.781708,"problem_id":"2189B","submission_id":"359442625","title":"The Curse of the Frog"}
