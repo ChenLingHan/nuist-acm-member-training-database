@@ -557,6 +557,7 @@
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"106252K","tags":[],"title":"Relay Jump"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"106252M","tags":[],"title":"The End?"}
 {"difficulty":1600,"platform":"codeforces","points":1500.0,"problem_id":"1062C","tags":["greedy","implementation","math"],"title":"Banh-mi"}
+{"difficulty":1800,"platform":"codeforces","points":1000.0,"problem_id":"1063B","tags":["graphs","shortest paths"],"title":"Labyrinth"}
 {"difficulty":3300,"platform":"codeforces","points":2500.0,"problem_id":"1063F","tags":["data structures","dp","string suffix structures"],"title":"String Journey"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"106440B","tags":[],"title":"凸包"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"106440C","tags":[],"title":"消失的元素"}
