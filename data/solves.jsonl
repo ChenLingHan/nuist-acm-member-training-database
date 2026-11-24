@@ -3154,6 +3154,7 @@
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1794934788.8763754,"platform":"codeforces","problem_id":"2285D","solved_at":1794934336.0,"source":"codeforces-api","title":"Reverse Partition"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795273832.342529,"platform":"codeforces","problem_id":"2288A","solved_at":1795273526.0,"source":"codeforces-api","title":"Youmu Konpaku and the Duel"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795275062.417828,"platform":"codeforces","problem_id":"2288B1","solved_at":1795274846.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
+{"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795505443.662147,"platform":"codeforces","problem_id":"2288B2","solved_at":1795505078.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Hard Version)"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795276278.5642915,"platform":"codeforces","problem_id":"2288C","solved_at":1795276146.0,"source":"codeforces-api","title":"Reimu Hakurei and the Youkai"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795339230.6878333,"platform":"codeforces","problem_id":"2289A","solved_at":1795338695.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1795339839.4441555,"platform":"codeforces","problem_id":"2289B","solved_at":1795339822.0,"source":"codeforces-api","title":"Problem from Chebarkul"}
@@ -9247,6 +9248,7 @@
 {"account_id":"a62","difficulty":1100,"member_id":"m26","observed_at":1792127084.1050282,"platform":"codeforces","problem_id":"1490C","solved_at":1782657817.0,"source":"codeforces-api","title":"Sum of Cubes"}
 {"account_id":"a62","difficulty":1500,"member_id":"m26","observed_at":1792127084.1042566,"platform":"codeforces","problem_id":"1490F","solved_at":1784024516.0,"source":"codeforces-api","title":"Equalize the Array"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.1010582,"platform":"codeforces","problem_id":"1512B","solved_at":1791529197.0,"source":"codeforces-api","title":"Almost Rectangle"}
+{"account_id":"a62","difficulty":1400,"member_id":"m26","observed_at":1795505422.863372,"platform":"codeforces","problem_id":"1515C","solved_at":1795505206.0,"source":"codeforces-api","title":"Phoenix and Towers"}
 {"account_id":"a62","difficulty":1200,"member_id":"m26","observed_at":1792127084.1022277,"platform":"codeforces","problem_id":"1520D","solved_at":1789828484.0,"source":"codeforces-api","title":"Same Differences"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.1049526,"platform":"codeforces","problem_id":"1538C","solved_at":1782364493.0,"source":"codeforces-api","title":"Number of Pairs"}
 {"account_id":"a62","difficulty":1400,"member_id":"m26","observed_at":1792127084.1012383,"platform":"codeforces","problem_id":"1579D","solved_at":1790940926.0,"source":"codeforces-api","title":"Productive Meeting"}
