@@ -3696,6 +3696,7 @@
 {"difficulty":null,"platform":"codeforces","points":750.0,"problem_id":"2279A","tags":["binary search","brute force","data structures","implementation"],"title":"Reverse and Double"}
 {"difficulty":null,"platform":"codeforces","points":1000.0,"problem_id":"2279B","tags":["bitmasks","combinatorics","dp"],"title":"Balanced Subsets"}
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2279C","tags":["brute force","greedy","math","sortings"],"title":"Anti-Productive"}
+{"difficulty":null,"platform":"codeforces","points":1750.0,"problem_id":"2279D","tags":["constructive algorithms","dp","graphs","shortest paths"],"title":"Meta Graph"}
 {"difficulty":null,"platform":"codeforces","points":2250.0,"problem_id":"2279E","tags":["brute force","dfs and similar","matrices","meet-in-the-middle"],"title":"Save Me!"}
 {"difficulty":1100,"platform":"codeforces","points":1000.0,"problem_id":"227B","tags":["implementation"],"title":"Effective Approach"}
 {"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2280A","tags":["brute force","implementation"],"title":"Are They the Same?"}

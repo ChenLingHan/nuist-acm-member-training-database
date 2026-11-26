@@ -3925,6 +3925,9 @@
 {"accepted_at":1791967595.0,"account_id":"a23","difficulty":null,"observed_at":1792080669.20995,"problem_id":"18429","submission_id":"3178480","title":"Sequence Operations"}
 {"accepted_at":1791969712.0,"account_id":"a23","difficulty":null,"observed_at":1792080669.209856,"problem_id":"18430","submission_id":"3178926","title":"Believe in You"}
 {"accepted_at":1795427426.0,"account_id":"a23","difficulty":null,"observed_at":1795427805.9943087,"problem_id":"9433","submission_id":"3525753","title":"Trails"}
+{"accepted_at":1795678358.0,"account_id":"a23","difficulty":null,"observed_at":1795678564.4551876,"problem_id":"9426","submission_id":"3547429","title":"Relearn through Review"}
+{"accepted_at":1795678393.0,"account_id":"a23","difficulty":null,"observed_at":1795678564.4551642,"problem_id":"9426","submission_id":"3547442","title":"Relearn through Review"}
+{"accepted_at":1795678460.0,"account_id":"a23","difficulty":null,"observed_at":1795678564.4550476,"problem_id":"9426","submission_id":"3547471","title":"Relearn through Review"}
 {"accepted_at":1683548706.0,"account_id":"a24","difficulty":800,"observed_at":1792081262.3372958,"problem_id":"1825A","submission_id":"205090316","title":"LuoTianyi and the Palindrome String"}
 {"accepted_at":1683550897.0,"account_id":"a24","difficulty":1000,"observed_at":1792081262.3371713,"problem_id":"1825B","submission_id":"205103467","title":"LuoTianyi and the Table"}
 {"accepted_at":1684377887.0,"account_id":"a24","difficulty":3000,"observed_at":1792081262.337022,"problem_id":"1476F","submission_id":"206291419","title":"Lanterns"}
@@ -25788,6 +25791,7 @@
 {"accepted_at":1795505657.0,"account_id":"a157","difficulty":null,"observed_at":1795505745.3582966,"problem_id":"2288E","submission_id":"399672418","title":"Cirno and the Math Problem"}
 {"accepted_at":1795596952.0,"account_id":"a157","difficulty":null,"observed_at":1795597170.4503157,"problem_id":"2279B","submission_id":"399779211","title":"Balanced Subsets"}
 {"accepted_at":1795598003.0,"account_id":"a157","difficulty":null,"observed_at":1795598388.8498878,"problem_id":"2279C","submission_id":"399780571","title":"Anti-Productive"}
+{"accepted_at":1795678536.0,"account_id":"a157","difficulty":null,"observed_at":1795678833.35532,"problem_id":"2279D","submission_id":"399868972","title":"Meta Graph"}
 {"accepted_at":1613023895.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4404154,"problem_id":"P1001","submission_id":"46498545","title":"A+B Problem"}
 {"accepted_at":1613122966.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4401765,"problem_id":"P1046","submission_id":"46521041","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1613123213.0,"account_id":"a158","difficulty":1,"observed_at":1792164229.4401178,"problem_id":"P1089","submission_id":"46521142","title":"[NOIP 2004 提高组] 津津的储蓄计划"}

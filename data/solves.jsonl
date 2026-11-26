@@ -2884,6 +2884,7 @@
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792080669.2099595,"platform":"qoj","problem_id":"8049","solved_at":1727096742.0,"source":"qoj-authenticated","title":"Equal Sums"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792080669.2099833,"platform":"qoj","problem_id":"8328","solved_at":1727053552.0,"source":"qoj-authenticated","title":"A Good Problem"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1792114454.9317102,"platform":"qoj","problem_id":"8822","solved_at":1725524964.0,"source":"qoj-profile","title":"Guess The Sequence 2"}
+{"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1795678564.454946,"platform":"qoj","problem_id":"9426","solved_at":1795678358.0,"source":"qoj-authenticated","title":"Relearn through Review"}
 {"account_id":"a23","difficulty":null,"member_id":"m10","observed_at":1795427805.9942107,"platform":"qoj","problem_id":"9433","solved_at":1795427426.0,"source":"qoj-authenticated","title":"Trails"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792081262.31586,"platform":"codeforces","problem_id":"100216E","solved_at":1721045679.0,"source":"codeforces-api","title":"Shortest Path"}
 {"account_id":"a24","difficulty":null,"member_id":"m10","observed_at":1792081262.315874,"platform":"codeforces","problem_id":"100651B","solved_at":1721045132.0,"source":"codeforces-api","title":"Anti-prime Sequences"}
@@ -20702,6 +20703,7 @@
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1794998060.4097574,"platform":"codeforces","problem_id":"2279A","solved_at":1794997833.0,"source":"codeforces-api","title":"Reverse and Double"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1795597170.4502084,"platform":"codeforces","problem_id":"2279B","solved_at":1795596952.0,"source":"codeforces-api","title":"Balanced Subsets"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1795598388.8497806,"platform":"codeforces","problem_id":"2279C","solved_at":1795598003.0,"source":"codeforces-api","title":"Anti-Productive"}
+{"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1795678833.3552277,"platform":"codeforces","problem_id":"2279D","solved_at":1795678536.0,"source":"codeforces-api","title":"Meta Graph"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1794990754.354516,"platform":"codeforces","problem_id":"2285E","solved_at":1794990326.0,"source":"codeforces-api","title":"Arithmetic Subarray"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1795287677.1926696,"platform":"codeforces","problem_id":"2288B2","solved_at":1795287492.0,"source":"codeforces-api","title":"Yukari Yakumo and the Boundary Stones (Hard Version)"}
 {"account_id":"a157","difficulty":null,"member_id":"m69","observed_at":1795285853.6404696,"platform":"codeforces","problem_id":"2288D","solved_at":1795285305.0,"source":"codeforces-api","title":"Satori Komeiji and the Metro"}
