@@ -3729,10 +3729,10 @@
 {"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2288C","tags":["greedy","sortings"],"title":"Reimu Hakurei and the Youkai"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2288D","tags":["binary search","greedy"],"title":"Satori Komeiji and the Metro"}
 {"difficulty":null,"platform":"codeforces","points":2750.0,"problem_id":"2288E","tags":["bitmasks","dp","math","number theory"],"title":"Cirno and the Math Problem"}
-{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2289A","tags":["math"],"title":"Problem from Dolgoderevenskoye"}
+{"difficulty":null,"platform":"codeforces","points":500.0,"problem_id":"2289A","tags":["math","number theory"],"title":"Problem from Dolgoderevenskoye"}
 {"difficulty":null,"platform":"codeforces","points":750.0,"problem_id":"2289B","tags":["data structures","implementation"],"title":"Problem from Chebarkul"}
-{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2289C","tags":["binary search","data structures","divide and conquer"],"title":"Problem from Ust-Katav"}
-{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2289D","tags":["data structures","greedy","meet-in-the-middle","sortings","two pointers"],"title":"Problem from Yuzhnouralsk"}
+{"difficulty":null,"platform":"codeforces","points":1250.0,"problem_id":"2289C","tags":["binary search","data structures"],"title":"Problem from Ust-Katav"}
+{"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2289D","tags":["data structures","greedy","sortings","two pointers"],"title":"Problem from Yuzhnouralsk"}
 {"difficulty":null,"platform":"codeforces","points":2000.0,"problem_id":"2289E","tags":["brute force","data structures","dp","dsu","trees","two pointers"],"title":"The Problem from Silach"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"228A","tags":["implementation"],"title":"Is your horseshoe on the other hoof?"}
 {"difficulty":null,"platform":"codeforces","points":null,"problem_id":"2290A","tags":["implementation","math"],"title":"Three Piles"}
