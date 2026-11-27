@@ -8187,6 +8187,7 @@
 {"accepted_at":1794622627.0,"account_id":"a36","difficulty":1600,"observed_at":1794920721.0995579,"problem_id":"643B","submission_id":"398492860","title":"Bear and Two Paths"}
 {"accepted_at":1794624489.0,"account_id":"a36","difficulty":1200,"observed_at":1794920721.0995307,"problem_id":"1355B","submission_id":"398494528","title":"Young Explorers"}
 {"accepted_at":1794755256.0,"account_id":"a36","difficulty":null,"observed_at":1794920721.099382,"problem_id":"2285A","submission_id":"398677856","title":"Composite Permutation"}
+{"accepted_at":1795792543.0,"account_id":"a36","difficulty":null,"observed_at":1795792952.0950327,"problem_id":"2292A","submission_id":"400034411","title":"Picnic for Two"}
 {"accepted_at":1792762251.0,"account_id":"a37","difficulty":1,"observed_at":1792762289.66419,"problem_id":"P1739","submission_id":"305090389","title":"表达式括号匹配"}
 {"accepted_at":1792764580.0,"account_id":"a37","difficulty":2,"observed_at":1792764743.48393,"problem_id":"P1449","submission_id":"305103319","title":"后缀表达式"}
 {"accepted_at":1792805163.0,"account_id":"a37","difficulty":1,"observed_at":1792805197.539181,"problem_id":"P1897","submission_id":"305148967","title":"电梯里的尴尬"}
@@ -12266,6 +12267,8 @@
 {"accepted_at":1794494833.0,"account_id":"a71","difficulty":null,"observed_at":1794920533.9423835,"problem_id":"2290B","submission_id":"398261244","title":"Stubborn Pen"}
 {"accepted_at":1794495706.0,"account_id":"a71","difficulty":null,"observed_at":1794920533.942352,"problem_id":"2290C","submission_id":"398280553","title":"Books on a Shelf"}
 {"accepted_at":1794498014.0,"account_id":"a71","difficulty":null,"observed_at":1794920533.9422138,"problem_id":"2290D","submission_id":"398314181","title":"Letters Down"}
+{"accepted_at":1795792547.0,"account_id":"a71","difficulty":null,"observed_at":1795792938.0318725,"problem_id":"2292A","submission_id":"400034443","title":"Picnic for Two"}
+{"accepted_at":1795793597.0,"account_id":"a71","difficulty":null,"observed_at":1795793676.8164947,"problem_id":"2292B","submission_id":"400042494","title":"Grapefruit Juice"}
 {"accepted_at":1789476996.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381396,"problem_id":"P1004","submission_id":"298014105","title":"[NOIP 2000 提高组] 方格取数"}
 {"accepted_at":1791458322.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381212,"problem_id":"P1005","submission_id":"301933959","title":"[NOIP 2007 提高组] 矩阵取数游戏"}
 {"accepted_at":1791470985.0,"account_id":"a72","difficulty":4,"observed_at":1792150395.5381012,"problem_id":"P1006","submission_id":"301995987","title":"[NOIP 2008 提高组] 传纸条"}

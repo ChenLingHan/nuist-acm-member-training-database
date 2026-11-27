@@ -6125,6 +6125,7 @@
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1794920721.0996432,"platform":"codeforces","problem_id":"2290A","solved_at":1794494699.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1794920721.099621,"platform":"codeforces","problem_id":"2290B","solved_at":1794495385.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1794920721.0995975,"platform":"codeforces","problem_id":"2290C","solved_at":1794499121.0,"source":"codeforces-api","title":"Books on a Shelf"}
+{"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1795792952.0949347,"platform":"codeforces","problem_id":"2292A","solved_at":1795792543.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a36","difficulty":1400,"member_id":"m14","observed_at":1794920721.0995753,"platform":"codeforces","problem_id":"538B","solved_at":1794620247.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a36","difficulty":1600,"member_id":"m14","observed_at":1794920721.0995517,"platform":"codeforces","problem_id":"643B","solved_at":1794622627.0,"source":"codeforces-api","title":"Bear and Two Paths"}
 {"account_id":"a37","difficulty":1,"member_id":"m16","observed_at":1792945017.2800927,"platform":"luogu","problem_id":"P1046","solved_at":1792944975.0,"source":"luogu-record-list","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
@@ -9868,6 +9869,8 @@
 {"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1794920533.9423723,"platform":"codeforces","problem_id":"2290B","solved_at":1794494833.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1794920533.9423432,"platform":"codeforces","problem_id":"2290C","solved_at":1794495706.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1794920533.9421065,"platform":"codeforces","problem_id":"2290D","solved_at":1794498014.0,"source":"codeforces-api","title":"Letters Down"}
+{"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1795792938.0111215,"platform":"codeforces","problem_id":"2292A","solved_at":1795792547.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a71","difficulty":null,"member_id":"m30","observed_at":1795793676.8164024,"platform":"codeforces","problem_id":"2292B","solved_at":1795793597.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a71","difficulty":1600,"member_id":"m30","observed_at":1794920533.9424653,"platform":"codeforces","problem_id":"722C","solved_at":1794037136.0,"source":"codeforces-api","title":"Destroying Array"}
 {"account_id":"a71","difficulty":1900,"member_id":"m30","observed_at":1793019545.9632373,"platform":"codeforces","problem_id":"817D","solved_at":1793019117.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a72","difficulty":2,"member_id":"m31","observed_at":1793014070.9378963,"platform":"luogu","problem_id":"B3631","solved_at":1793013507.0,"source":"luogu-record-list","title":"单向链表"}
