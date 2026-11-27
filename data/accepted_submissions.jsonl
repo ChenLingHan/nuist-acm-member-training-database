@@ -11300,6 +11300,7 @@
 {"accepted_at":1795275486.0,"account_id":"a59","difficulty":null,"observed_at":1795275831.0309625,"problem_id":"2288B1","submission_id":"399379046","title":"Yukari Yakumo and the Boundary Stones (Easy Version)"}
 {"accepted_at":1795276369.0,"account_id":"a59","difficulty":null,"observed_at":1795276439.3153105,"problem_id":"2288C","submission_id":"399383390","title":"Reimu Hakurei and the Youkai"}
 {"accepted_at":1795277887.0,"account_id":"a59","difficulty":null,"observed_at":1795278262.4278061,"problem_id":"2288B2","submission_id":"399390055","title":"Yukari Yakumo and the Boundary Stones (Hard Version)"}
+{"accepted_at":1795790414.0,"account_id":"a59","difficulty":null,"observed_at":1795790781.6495845,"problem_id":"2292A","submission_id":"400011880","title":"Picnic for Two"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
@@ -12911,6 +12912,8 @@
 {"accepted_at":1795424613.0,"account_id":"a74","difficulty":null,"observed_at":1795425055.1097527,"problem_id":"2289C","submission_id":"399584907","title":"Problem from Ust-Katav"}
 {"accepted_at":1795425407.0,"account_id":"a74","difficulty":null,"observed_at":1795425661.5888855,"problem_id":"2289D","submission_id":"399585936","title":"Problem from Yuzhnouralsk"}
 {"accepted_at":1795607821.0,"account_id":"a74","difficulty":2000,"observed_at":1795608503.0036705,"problem_id":"842C","submission_id":"399793405","title":"Ilya And The Tree"}
+{"accepted_at":1795790351.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1456854,"problem_id":"2292A","submission_id":"400011167","title":"Picnic for Two"}
+{"accepted_at":1795790753.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1455657,"problem_id":"2292B","submission_id":"400016098","title":"Grapefruit Juice"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}

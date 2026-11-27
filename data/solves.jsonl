@@ -9017,6 +9017,7 @@
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8103507,"platform":"codeforces","problem_id":"2290D","solved_at":1794497596.0,"source":"codeforces-api","title":"Letters Down"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8103209,"platform":"codeforces","problem_id":"2290E","solved_at":1794499240.0,"source":"codeforces-api","title":"Avalanche"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8100798,"platform":"codeforces","problem_id":"2290F","solved_at":1794501880.0,"source":"codeforces-api","title":"Value Counters"}
+{"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795790781.6494825,"platform":"codeforces","problem_id":"2292A","solved_at":1795790414.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a59","difficulty":1500,"member_id":"m25","observed_at":1792127082.0522456,"platform":"codeforces","problem_id":"553A","solved_at":1769588714.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a59","difficulty":1000,"member_id":"m25","observed_at":1792127082.0525355,"platform":"codeforces","problem_id":"577A","solved_at":1769234644.0,"source":"codeforces-api","title":"Multiplication Table"}
 {"account_id":"a59","difficulty":1100,"member_id":"m25","observed_at":1792127082.0523074,"platform":"codeforces","problem_id":"630C","solved_at":1769578455.0,"source":"codeforces-api","title":"Lucky Numbers"}
@@ -10460,6 +10461,8 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1794920747.824442,"platform":"codeforces","problem_id":"2290E","solved_at":1794499550.0,"source":"codeforces-api","title":"Avalanche"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795245942.7127082,"platform":"codeforces","problem_id":"2290F","solved_at":1795245805.0,"source":"codeforces-api","title":"Value Counters"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795256320.303359,"platform":"codeforces","problem_id":"2290G1","solved_at":1795256043.0,"source":"codeforces-api","title":"Lakeside Trail (Easy Version)"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795790828.145677,"platform":"codeforces","problem_id":"2292A","solved_at":1795790351.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795790828.1454647,"platform":"codeforces","problem_id":"2292B","solved_at":1795790753.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a74","difficulty":2000,"member_id":"m32","observed_at":1794920747.8246155,"platform":"codeforces","problem_id":"243B","solved_at":1794360639.0,"source":"codeforces-api","title":"Hydra"}
 {"account_id":"a74","difficulty":1100,"member_id":"m32","observed_at":1794920747.8246815,"platform":"codeforces","problem_id":"252A","solved_at":1794314593.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.1282372,"platform":"codeforces","problem_id":"271D","solved_at":1785812259.0,"source":"codeforces-api","title":"Good Substrings"}
