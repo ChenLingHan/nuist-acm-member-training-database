@@ -2102,6 +2102,7 @@
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1794920444.0469415,"platform":"codeforces","problem_id":"2290D","solved_at":1794558527.0,"source":"codeforces-api","title":"Letters Down"}
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1794920444.04691,"platform":"codeforces","problem_id":"2290E","solved_at":1794562584.0,"source":"codeforces-api","title":"Avalanche"}
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1795791734.2772398,"platform":"codeforces","problem_id":"2292A","solved_at":1795791313.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1795793714.4575949,"platform":"codeforces","problem_id":"2292B","solved_at":1795793027.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a21","difficulty":1800,"member_id":"m9","observed_at":1794920444.0470502,"platform":"codeforces","problem_id":"271D","solved_at":1794127977.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a21","difficulty":1400,"member_id":"m9","observed_at":1794920444.0468743,"platform":"codeforces","problem_id":"538B","solved_at":1794619254.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a21","difficulty":1600,"member_id":"m9","observed_at":1794920444.04722,"platform":"codeforces","problem_id":"722C","solved_at":1794019744.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -8623,6 +8624,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791267.8555198,"platform":"codeforces","problem_id":"2292A","solved_at":1795790798.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791876.38669,"platform":"codeforces","problem_id":"2292B","solved_at":1795791704.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795792484.5065718,"platform":"codeforces","problem_id":"2292C","solved_at":1795792255.0,"source":"codeforces-api","title":"Finding Shapes in the Clouds"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795793813.3452554,"platform":"codeforces","problem_id":"2292D","solved_at":1795793743.0,"source":"codeforces-api","title":"Unexpected Precipitation"}
 {"account_id":"a55","difficulty":800,"member_id":"m23","observed_at":1794925549.91365,"platform":"codeforces","problem_id":"32B","solved_at":1794925351.0,"source":"codeforces-api","title":"Borze"}
 {"account_id":"a55","difficulty":1700,"member_id":"m23","observed_at":1794920658.2586002,"platform":"codeforces","problem_id":"460C","solved_at":1794324339.0,"source":"codeforces-api","title":"Present"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
@@ -9400,6 +9402,7 @@
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1794920703.2392626,"platform":"codeforces","problem_id":"2290C","solved_at":1794529876.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1794920703.2392375,"platform":"codeforces","problem_id":"2290D","solved_at":1794533783.0,"source":"codeforces-api","title":"Letters Down"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1795791396.3471203,"platform":"codeforces","problem_id":"2292A","solved_at":1795790849.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1795794475.96278,"platform":"codeforces","problem_id":"2292B","solved_at":1795794372.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.106274,"platform":"codeforces","problem_id":"231A","solved_at":1774196288.0,"source":"codeforces-api","title":"Team"}
@@ -21521,6 +21524,7 @@
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.1750388,"platform":"codeforces","problem_id":"2008B","solved_at":1725425527.0,"source":"codeforces-api","title":"Square or Not"}
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.175023,"platform":"codeforces","problem_id":"2008C","solved_at":1725426012.0,"source":"codeforces-api","title":"Longest Good Array"}
 {"account_id":"a172","difficulty":null,"member_id":"m57","observed_at":1795792377.5174809,"platform":"codeforces","problem_id":"2292A","solved_at":1795792222.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a172","difficulty":null,"member_id":"m57","observed_at":1795794364.3941658,"platform":"codeforces","problem_id":"2292B","solved_at":1795794169.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a172","difficulty":2000,"member_id":"m57","observed_at":1792156008.1751466,"platform":"codeforces","problem_id":"235B","solved_at":1719315090.0,"source":"codeforces-api","title":"Let's Play Osu!"}
 {"account_id":"a172","difficulty":2200,"member_id":"m57","observed_at":1792156008.1751783,"platform":"codeforces","problem_id":"280C","solved_at":1718415262.0,"source":"codeforces-api","title":"Game on Tree"}
 {"account_id":"a172","difficulty":1500,"member_id":"m57","observed_at":1792156008.1750953,"platform":"codeforces","problem_id":"409H","solved_at":1719752979.0,"source":"codeforces-api","title":"A + B Strikes Back"}
