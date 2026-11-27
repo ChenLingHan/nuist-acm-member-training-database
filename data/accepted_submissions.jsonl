@@ -10890,6 +10890,7 @@
 {"accepted_at":1795781772.0,"account_id":"a55","difficulty":1500,"observed_at":1795782122.0845926,"problem_id":"2106D","submission_id":"399995999","title":"Flower Boy"}
 {"accepted_at":1795790798.0,"account_id":"a55","difficulty":null,"observed_at":1795791267.8556252,"problem_id":"2292A","submission_id":"400016637","title":"Picnic for Two"}
 {"accepted_at":1795791704.0,"account_id":"a55","difficulty":null,"observed_at":1795791876.3867822,"problem_id":"2292B","submission_id":"400026691","title":"Grapefruit Juice"}
+{"accepted_at":1795792255.0,"account_id":"a55","difficulty":null,"observed_at":1795792484.5066736,"problem_id":"2292C","submission_id":"400031868","title":"Finding Shapes in the Clouds"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11305,6 +11306,7 @@
 {"accepted_at":1795277887.0,"account_id":"a59","difficulty":null,"observed_at":1795278262.4278061,"problem_id":"2288B2","submission_id":"399390055","title":"Yukari Yakumo and the Boundary Stones (Hard Version)"}
 {"accepted_at":1795790414.0,"account_id":"a59","difficulty":null,"observed_at":1795790781.6495845,"problem_id":"2292A","submission_id":"400011880","title":"Picnic for Two"}
 {"accepted_at":1795791349.0,"account_id":"a59","difficulty":null,"observed_at":1795791389.2969944,"problem_id":"2292B","submission_id":"400022930","title":"Grapefruit Juice"}
+{"accepted_at":1795792207.0,"account_id":"a59","difficulty":null,"observed_at":1795792619.158389,"problem_id":"2292C","submission_id":"400031452","title":"Finding Shapes in the Clouds"}
 {"accepted_at":1760525477.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8009367,"problem_id":"B2002","submission_id":"240704304","title":"Hello,World!"}
 {"accepted_at":1761389468.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008785,"problem_id":"P1001","submission_id":"243021234","title":"A+B Problem"}
 {"accepted_at":1761737280.0,"account_id":"a60","difficulty":1,"observed_at":1792160153.8008492,"problem_id":"P1000","submission_id":"243982356","title":"超级玛丽游戏"}
@@ -12919,6 +12921,7 @@
 {"accepted_at":1795607821.0,"account_id":"a74","difficulty":2000,"observed_at":1795608503.0036705,"problem_id":"842C","submission_id":"399793405","title":"Ilya And The Tree"}
 {"accepted_at":1795790351.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1456854,"problem_id":"2292A","submission_id":"400011167","title":"Picnic for Two"}
 {"accepted_at":1795790753.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1455657,"problem_id":"2292B","submission_id":"400016098","title":"Grapefruit Juice"}
+{"accepted_at":1795791677.0,"account_id":"a74","difficulty":null,"observed_at":1795792047.954249,"problem_id":"2292C","submission_id":"400026410","title":"Finding Shapes in the Clouds"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
@@ -26688,6 +26691,7 @@
 {"accepted_at":1794021794.0,"account_id":"a172","difficulty":1600,"observed_at":1794920524.825616,"problem_id":"722C","submission_id":"397676499","title":"Destroying Array"}
 {"accepted_at":1794624956.0,"account_id":"a172","difficulty":1400,"observed_at":1794920524.8255904,"problem_id":"538B","submission_id":"398494829","title":"Quasi Binary"}
 {"accepted_at":1794626893.0,"account_id":"a172","difficulty":1600,"observed_at":1794920524.8254745,"problem_id":"1707A","submission_id":"398496015","title":"Doremy's IQ"}
+{"accepted_at":1795792222.0,"account_id":"a172","difficulty":null,"observed_at":1795792377.5175824,"problem_id":"2292A","submission_id":"400031570","title":"Picnic for Two"}
 {"accepted_at":1599977962.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246833,"problem_id":"P5658","submission_id":"38356603","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1599977989.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246804,"problem_id":"P5658","submission_id":"38356618","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1612347524.0,"account_id":"a173","difficulty":6,"observed_at":1792161831.2467597,"problem_id":"P7114","submission_id":"46081163","title":"[NOIP2020] 字符串匹配"}

@@ -8621,6 +8621,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584407,"platform":"codeforces","problem_id":"2290E","solved_at":1794500603.0,"source":"codeforces-api","title":"Avalanche"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791267.8555198,"platform":"codeforces","problem_id":"2292A","solved_at":1795790798.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791876.38669,"platform":"codeforces","problem_id":"2292B","solved_at":1795791704.0,"source":"codeforces-api","title":"Grapefruit Juice"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795792484.5065718,"platform":"codeforces","problem_id":"2292C","solved_at":1795792255.0,"source":"codeforces-api","title":"Finding Shapes in the Clouds"}
 {"account_id":"a55","difficulty":800,"member_id":"m23","observed_at":1794925549.91365,"platform":"codeforces","problem_id":"32B","solved_at":1794925351.0,"source":"codeforces-api","title":"Borze"}
 {"account_id":"a55","difficulty":1700,"member_id":"m23","observed_at":1794920658.2586002,"platform":"codeforces","problem_id":"460C","solved_at":1794324339.0,"source":"codeforces-api","title":"Present"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
@@ -9022,6 +9023,7 @@
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8100798,"platform":"codeforces","problem_id":"2290F","solved_at":1794501880.0,"source":"codeforces-api","title":"Value Counters"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795790781.6494825,"platform":"codeforces","problem_id":"2292A","solved_at":1795790414.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795791389.2968965,"platform":"codeforces","problem_id":"2292B","solved_at":1795791349.0,"source":"codeforces-api","title":"Grapefruit Juice"}
+{"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795792619.158292,"platform":"codeforces","problem_id":"2292C","solved_at":1795792207.0,"source":"codeforces-api","title":"Finding Shapes in the Clouds"}
 {"account_id":"a59","difficulty":1500,"member_id":"m25","observed_at":1792127082.0522456,"platform":"codeforces","problem_id":"553A","solved_at":1769588714.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a59","difficulty":1000,"member_id":"m25","observed_at":1792127082.0525355,"platform":"codeforces","problem_id":"577A","solved_at":1769234644.0,"source":"codeforces-api","title":"Multiplication Table"}
 {"account_id":"a59","difficulty":1100,"member_id":"m25","observed_at":1792127082.0523074,"platform":"codeforces","problem_id":"630C","solved_at":1769578455.0,"source":"codeforces-api","title":"Lucky Numbers"}
@@ -10468,6 +10470,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795256320.303359,"platform":"codeforces","problem_id":"2290G1","solved_at":1795256043.0,"source":"codeforces-api","title":"Lakeside Trail (Easy Version)"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795790828.145677,"platform":"codeforces","problem_id":"2292A","solved_at":1795790351.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795790828.1454647,"platform":"codeforces","problem_id":"2292B","solved_at":1795790753.0,"source":"codeforces-api","title":"Grapefruit Juice"}
+{"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1795792047.9541435,"platform":"codeforces","problem_id":"2292C","solved_at":1795791677.0,"source":"codeforces-api","title":"Finding Shapes in the Clouds"}
 {"account_id":"a74","difficulty":2000,"member_id":"m32","observed_at":1794920747.8246155,"platform":"codeforces","problem_id":"243B","solved_at":1794360639.0,"source":"codeforces-api","title":"Hydra"}
 {"account_id":"a74","difficulty":1100,"member_id":"m32","observed_at":1794920747.8246815,"platform":"codeforces","problem_id":"252A","solved_at":1794314593.0,"source":"codeforces-api","title":"Little Xor"}
 {"account_id":"a74","difficulty":1800,"member_id":"m32","observed_at":1792127097.1282372,"platform":"codeforces","problem_id":"271D","solved_at":1785812259.0,"source":"codeforces-api","title":"Good Substrings"}
@@ -21514,6 +21517,7 @@
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.1750789,"platform":"codeforces","problem_id":"2008A","solved_at":1725423962.0,"source":"codeforces-api","title":"Sakurako's Exam"}
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.1750388,"platform":"codeforces","problem_id":"2008B","solved_at":1725425527.0,"source":"codeforces-api","title":"Square or Not"}
 {"account_id":"a172","difficulty":800,"member_id":"m57","observed_at":1792156008.175023,"platform":"codeforces","problem_id":"2008C","solved_at":1725426012.0,"source":"codeforces-api","title":"Longest Good Array"}
+{"account_id":"a172","difficulty":null,"member_id":"m57","observed_at":1795792377.5174809,"platform":"codeforces","problem_id":"2292A","solved_at":1795792222.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a172","difficulty":2000,"member_id":"m57","observed_at":1792156008.1751466,"platform":"codeforces","problem_id":"235B","solved_at":1719315090.0,"source":"codeforces-api","title":"Let's Play Osu!"}
 {"account_id":"a172","difficulty":2200,"member_id":"m57","observed_at":1792156008.1751783,"platform":"codeforces","problem_id":"280C","solved_at":1718415262.0,"source":"codeforces-api","title":"Game on Tree"}
 {"account_id":"a172","difficulty":1500,"member_id":"m57","observed_at":1792156008.1750953,"platform":"codeforces","problem_id":"409H","solved_at":1719752979.0,"source":"codeforces-api","title":"A + B Strikes Back"}
