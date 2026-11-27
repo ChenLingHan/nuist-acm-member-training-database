@@ -702,6 +702,7 @@
 {"difficulty":2000,"platform":"codeforces","points":null,"problem_id":"1183G","tags":["greedy","implementation","sortings"],"title":"Candy Box (hard version)"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"1183H","tags":["dp","strings"],"title":"Subsequences (hard version)"}
 {"difficulty":1700,"platform":"codeforces","points":750.0,"problem_id":"1185C2","tags":["brute force","data structures","greedy","math"],"title":"Exam in BerSU (hard version)"}
+{"difficulty":2100,"platform":"codeforces","points":2750.0,"problem_id":"1185F","tags":["bitmasks","brute force"],"title":"Two Pizzas"}
 {"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"1187E","tags":["dfs and similar","dp","trees"],"title":"Tree Painting"}
 {"difficulty":3100,"platform":"codeforces","points":2250.0,"problem_id":"1188D","tags":["dp"],"title":"Make Equal"}
 {"difficulty":1000,"platform":"codeforces","points":500.0,"problem_id":"118A","tags":["implementation","strings"],"title":"String Task"}
