@@ -2101,6 +2101,7 @@
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1794920444.046965,"platform":"codeforces","problem_id":"2290C","solved_at":1794496733.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1794920444.0469415,"platform":"codeforces","problem_id":"2290D","solved_at":1794558527.0,"source":"codeforces-api","title":"Letters Down"}
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1794920444.04691,"platform":"codeforces","problem_id":"2290E","solved_at":1794562584.0,"source":"codeforces-api","title":"Avalanche"}
+{"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1795791734.2772398,"platform":"codeforces","problem_id":"2292A","solved_at":1795791313.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a21","difficulty":1800,"member_id":"m9","observed_at":1794920444.0470502,"platform":"codeforces","problem_id":"271D","solved_at":1794127977.0,"source":"codeforces-api","title":"Good Substrings"}
 {"account_id":"a21","difficulty":1400,"member_id":"m9","observed_at":1794920444.0468743,"platform":"codeforces","problem_id":"538B","solved_at":1794619254.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a21","difficulty":1600,"member_id":"m9","observed_at":1794920444.04722,"platform":"codeforces","problem_id":"722C","solved_at":1794019744.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -8618,6 +8619,8 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584877,"platform":"codeforces","problem_id":"2290B","solved_at":1794495266.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584653,"platform":"codeforces","problem_id":"2290C","solved_at":1794497232.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1794920658.2584407,"platform":"codeforces","problem_id":"2290E","solved_at":1794500603.0,"source":"codeforces-api","title":"Avalanche"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791267.8555198,"platform":"codeforces","problem_id":"2292A","solved_at":1795790798.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795791876.38669,"platform":"codeforces","problem_id":"2292B","solved_at":1795791704.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a55","difficulty":800,"member_id":"m23","observed_at":1794925549.91365,"platform":"codeforces","problem_id":"32B","solved_at":1794925351.0,"source":"codeforces-api","title":"Borze"}
 {"account_id":"a55","difficulty":1700,"member_id":"m23","observed_at":1794920658.2586002,"platform":"codeforces","problem_id":"460C","solved_at":1794324339.0,"source":"codeforces-api","title":"Present"}
 {"account_id":"a55","difficulty":1800,"member_id":"m23","observed_at":1792142257.819783,"platform":"codeforces","problem_id":"471D","solved_at":1792142109.0,"source":"codeforces-api","title":"MUH and Cube Walls"}
@@ -9018,6 +9021,7 @@
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8103209,"platform":"codeforces","problem_id":"2290E","solved_at":1794499240.0,"source":"codeforces-api","title":"Avalanche"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1794920429.8100798,"platform":"codeforces","problem_id":"2290F","solved_at":1794501880.0,"source":"codeforces-api","title":"Value Counters"}
 {"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795790781.6494825,"platform":"codeforces","problem_id":"2292A","solved_at":1795790414.0,"source":"codeforces-api","title":"Picnic for Two"}
+{"account_id":"a59","difficulty":null,"member_id":"m25","observed_at":1795791389.2968965,"platform":"codeforces","problem_id":"2292B","solved_at":1795791349.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a59","difficulty":1500,"member_id":"m25","observed_at":1792127082.0522456,"platform":"codeforces","problem_id":"553A","solved_at":1769588714.0,"source":"codeforces-api","title":"Kyoya and Colored Balls"}
 {"account_id":"a59","difficulty":1000,"member_id":"m25","observed_at":1792127082.0525355,"platform":"codeforces","problem_id":"577A","solved_at":1769234644.0,"source":"codeforces-api","title":"Multiplication Table"}
 {"account_id":"a59","difficulty":1100,"member_id":"m25","observed_at":1792127082.0523074,"platform":"codeforces","problem_id":"630C","solved_at":1769578455.0,"source":"codeforces-api","title":"Lucky Numbers"}
@@ -9392,6 +9396,7 @@
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1794920703.2393079,"platform":"codeforces","problem_id":"2290B","solved_at":1794494808.0,"source":"codeforces-api","title":"Stubborn Pen"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1794920703.2392626,"platform":"codeforces","problem_id":"2290C","solved_at":1794529876.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1794920703.2392375,"platform":"codeforces","problem_id":"2290D","solved_at":1794533783.0,"source":"codeforces-api","title":"Letters Down"}
+{"account_id":"a62","difficulty":null,"member_id":"m26","observed_at":1795791396.3471203,"platform":"codeforces","problem_id":"2292A","solved_at":1795790849.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a62","difficulty":1000,"member_id":"m26","observed_at":1792127084.105301,"platform":"codeforces","problem_id":"230A","solved_at":1782443299.0,"source":"codeforces-api","title":"Dragons"}
 {"account_id":"a62","difficulty":1300,"member_id":"m26","observed_at":1792127084.105668,"platform":"codeforces","problem_id":"230B","solved_at":1782028752.0,"source":"codeforces-api","title":"T-primes"}
 {"account_id":"a62","difficulty":800,"member_id":"m26","observed_at":1792127084.106274,"platform":"codeforces","problem_id":"231A","solved_at":1774196288.0,"source":"codeforces-api","title":"Team"}
