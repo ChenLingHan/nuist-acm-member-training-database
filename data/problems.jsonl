@@ -677,6 +677,7 @@
 {"difficulty":1300,"platform":"codeforces","points":null,"problem_id":"1165C","tags":["greedy"],"title":"Good String"}
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1165D","tags":["math","number theory"],"title":"Almost All Divisors"}
 {"difficulty":1600,"platform":"codeforces","points":null,"problem_id":"1165E","tags":["greedy","math","sortings"],"title":"Two Arrays and Sum of Functions"}
+{"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"1167B","tags":["brute force","divide and conquer","interactive","math"],"title":"Lost Numbers"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"1167C","tags":["dfs and similar","dsu","graphs"],"title":"News Distribution"}
 {"difficulty":1900,"platform":"codeforces","points":1000.0,"problem_id":"1168B","tags":["brute force","two pointers"],"title":"Good Triple"}
 {"difficulty":3300,"platform":"codeforces","points":2750.0,"problem_id":"1172F","tags":["data structures"],"title":"Nauuo and Bug"}
