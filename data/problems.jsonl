@@ -3786,6 +3786,7 @@
 {"difficulty":2200,"platform":"codeforces","points":3000.0,"problem_id":"271E","tags":["constructive algorithms","math","number theory"],"title":"Three Horses"}
 {"difficulty":1600,"platform":"codeforces","points":2000.0,"problem_id":"272D","tags":["combinatorics","math","sortings"],"title":"Dima and Two Sequences"}
 {"difficulty":2600,"platform":"codeforces","points":2500.0,"problem_id":"273E","tags":["dp","games"],"title":"Dima and Game"}
+{"difficulty":1500,"platform":"codeforces","points":1500.0,"problem_id":"276C","tags":["data structures","greedy","implementation","sortings"],"title":"Little Girl and Maximum Sum"}
 {"difficulty":2800,"platform":"codeforces","points":3000.0,"problem_id":"277D","tags":["dp","probabilities"],"title":"Google Code Jam"}
 {"difficulty":1400,"platform":"codeforces","points":1000.0,"problem_id":"279B","tags":["binary search","brute force","implementation","two pointers"],"title":"Books"}
 {"difficulty":2000,"platform":"codeforces","points":2500.0,"problem_id":"27E","tags":["brute force","dp","number theory"],"title":"Number With The Given Amount Of Divisors"}
