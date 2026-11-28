@@ -2717,6 +2717,7 @@
 {"accepted_at":1795488721.0,"account_id":"a21","difficulty":1800,"observed_at":1795489202.296815,"problem_id":"1063B","submission_id":"399656885","title":"Labyrinth"}
 {"accepted_at":1795791313.0,"account_id":"a21","difficulty":null,"observed_at":1795791734.2773414,"problem_id":"2292A","submission_id":"400022539","title":"Picnic for Two"}
 {"accepted_at":1795793027.0,"account_id":"a21","difficulty":null,"observed_at":1795793714.4577107,"problem_id":"2292B","submission_id":"400038355","title":"Grapefruit Juice"}
+{"accepted_at":1795826671.0,"account_id":"a21","difficulty":1100,"observed_at":1795832814.6973422,"problem_id":"313B","submission_id":"400142183","title":"Ilya and Queries"}
 {"accepted_at":1606553368.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1292365,"problem_id":"P1001","submission_id":"42770738","title":"A+B Problem"}
 {"accepted_at":1606558540.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.129202,"problem_id":"P1001","submission_id":"42780833","title":"A+B Problem"}
 {"accepted_at":1606558591.0,"account_id":"a22","difficulty":1,"observed_at":1792168047.1291585,"problem_id":"P1001","submission_id":"42780947","title":"A+B Problem"}
@@ -4364,6 +4365,8 @@
 {"accepted_at":1795590849.0,"account_id":"a27","difficulty":null,"observed_at":1795591465.362692,"problem_id":"2289B","submission_id":"399771700","title":"Problem from Chebarkul"}
 {"accepted_at":1795592940.0,"account_id":"a27","difficulty":null,"observed_at":1795593296.0977147,"problem_id":"2289C","submission_id":"399774282","title":"Problem from Ust-Katav"}
 {"accepted_at":1795700987.0,"account_id":"a27","difficulty":null,"observed_at":1795701417.537851,"problem_id":"2280C","submission_id":"399906978","title":"Reverse and Double"}
+{"accepted_at":1795829046.0,"account_id":"a27","difficulty":1600,"observed_at":1795833222.171504,"problem_id":"1109A","submission_id":"400142790","title":"Sasha and a Bit of Relax"}
+{"accepted_at":1795829249.0,"account_id":"a27","difficulty":1100,"observed_at":1795833222.171386,"problem_id":"313B","submission_id":"400142852","title":"Ilya and Queries"}
 {"accepted_at":1597027173.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.722917,"problem_id":"P5660","submission_id":"36717794","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027237.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7227473,"problem_id":"P5660","submission_id":"36717880","title":"[CSP-J 2019] 数字游戏"}
 {"accepted_at":1597027971.0,"account_id":"a28","difficulty":1,"observed_at":1792167159.7217312,"problem_id":"P5015","submission_id":"36718946","title":"[NOIP 2018 普及组] 标题统计"}
@@ -10780,6 +10783,8 @@
 {"accepted_at":1794638906.0,"account_id":"a53","difficulty":1200,"observed_at":1794920620.709158,"problem_id":"1355B","submission_id":"398507765","title":"Young Explorers"}
 {"accepted_at":1794651182.0,"account_id":"a53","difficulty":null,"observed_at":1794920620.708357,"problem_id":"104128G","submission_id":"398529145","title":"Inscryption"}
 {"accepted_at":1795240605.0,"account_id":"a53","difficulty":1900,"observed_at":1795241073.52234,"problem_id":"2275G","submission_id":"399298779","title":"Copper Squander"}
+{"accepted_at":1795826535.0,"account_id":"a53","difficulty":1100,"observed_at":1795832878.333571,"problem_id":"313B","submission_id":"400142141","title":"Ilya and Queries"}
+{"accepted_at":1795826573.0,"account_id":"a53","difficulty":1100,"observed_at":1795832878.3334553,"problem_id":"313B","submission_id":"400142156","title":"Ilya and Queries"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
 {"accepted_at":1790266826.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.293393,"problem_id":"P1001","submission_id":"299099035","title":"A+B Problem"}
 {"accepted_at":1790688554.0,"account_id":"a54","difficulty":2,"observed_at":1792148369.293386,"problem_id":"P1002","submission_id":"299952348","title":"[NOIP 2002 普及组] 过河卒"}
@@ -10896,6 +10901,7 @@
 {"accepted_at":1795792255.0,"account_id":"a55","difficulty":null,"observed_at":1795792484.5066736,"problem_id":"2292C","submission_id":"400031868","title":"Finding Shapes in the Clouds"}
 {"accepted_at":1795793743.0,"account_id":"a55","difficulty":null,"observed_at":1795793813.3453596,"problem_id":"2292D","submission_id":"400043461","title":"Unexpected Precipitation"}
 {"accepted_at":1795797067.0,"account_id":"a55","difficulty":null,"observed_at":1795797482.3992379,"problem_id":"2292E","submission_id":"400061535","title":"Blush"}
+{"accepted_at":1795826729.0,"account_id":"a55","difficulty":1100,"observed_at":1795832836.1313746,"problem_id":"313B","submission_id":"400142194","title":"Ilya and Queries"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11961,6 +11967,8 @@
 {"accepted_at":1794656008.0,"account_id":"a64","difficulty":1200,"observed_at":1794920676.5345829,"problem_id":"1355B","submission_id":"398539301","title":"Young Explorers"}
 {"accepted_at":1795072753.0,"account_id":"a64","difficulty":2000,"observed_at":1795073073.8846273,"problem_id":"1385E","submission_id":"399105118","title":"Directing Edges"}
 {"accepted_at":1795220556.0,"account_id":"a64","difficulty":1600,"observed_at":1795220775.5005763,"problem_id":"1707A","submission_id":"399285846","title":"Doremy's IQ"}
+{"accepted_at":1795826959.0,"account_id":"a64","difficulty":1100,"observed_at":1795832893.6643345,"problem_id":"313B","submission_id":"400142246","title":"Ilya and Queries"}
+{"accepted_at":1795828292.0,"account_id":"a64","difficulty":1100,"observed_at":1795832893.6641784,"problem_id":"313B","submission_id":"400142595","title":"Ilya and Queries"}
 {"accepted_at":1541297725.0,"account_id":"a65","difficulty":3,"observed_at":1792153391.9855702,"problem_id":"P4994","submission_id":"13077862","title":"终于结束的起点"}
 {"accepted_at":1541905792.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1815884,"problem_id":"P5015","submission_id":"13648673","title":"[NOIP 2018 普及组] 标题统计"}
 {"accepted_at":1573919251.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1814945,"problem_id":"P5660","submission_id":"27362663","title":"[CSP-J 2019] 数字游戏"}
@@ -12329,6 +12337,7 @@
 {"accepted_at":1794627011.0,"account_id":"a73","difficulty":1600,"observed_at":1794920465.3050725,"problem_id":"1707A","submission_id":"398496078","title":"Doremy's IQ"}
 {"accepted_at":1795419436.0,"account_id":"a73","difficulty":1600,"observed_at":1795419789.3527572,"problem_id":"377A","submission_id":"399578611","title":"Maze"}
 {"accepted_at":1795767706.0,"account_id":"a73","difficulty":1800,"observed_at":1795768121.4212198,"problem_id":"1063B","submission_id":"399976168","title":"Labyrinth"}
+{"accepted_at":1795826693.0,"account_id":"a73","difficulty":1100,"observed_at":1795832864.4370854,"problem_id":"313B","submission_id":"400142188","title":"Ilya and Queries"}
 {"accepted_at":1761746973.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1631203,"problem_id":"2162A","submission_id":"346476628","title":"Beautiful Average"}
 {"accepted_at":1761785914.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1630282,"problem_id":"2162B","submission_id":"346546845","title":"Beautiful String"}
 {"accepted_at":1761786770.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.162935,"problem_id":"2167A","submission_id":"346547611","title":"Square?"}
@@ -12933,6 +12942,8 @@
 {"accepted_at":1795790351.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1456854,"problem_id":"2292A","submission_id":"400011167","title":"Picnic for Two"}
 {"accepted_at":1795790753.0,"account_id":"a74","difficulty":null,"observed_at":1795790828.1455657,"problem_id":"2292B","submission_id":"400016098","title":"Grapefruit Juice"}
 {"accepted_at":1795791677.0,"account_id":"a74","difficulty":null,"observed_at":1795792047.954249,"problem_id":"2292C","submission_id":"400026410","title":"Finding Shapes in the Clouds"}
+{"accepted_at":1795827637.0,"account_id":"a74","difficulty":1100,"observed_at":1795832519.4820232,"problem_id":"313B","submission_id":"400142419","title":"Ilya and Queries"}
+{"accepted_at":1795830778.0,"account_id":"a74","difficulty":1500,"observed_at":1795833126.693243,"problem_id":"276C","submission_id":"400143274","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
@@ -23347,6 +23358,7 @@
 {"accepted_at":1794641143.0,"account_id":"a153","difficulty":1800,"observed_at":1794920548.2822013,"problem_id":"1398D","submission_id":"398511883","title":"Colored Rectangles"}
 {"accepted_at":1794670410.0,"account_id":"a153","difficulty":1200,"observed_at":1794920548.282173,"problem_id":"1355B","submission_id":"398561821","title":"Young Explorers"}
 {"accepted_at":1794674353.0,"account_id":"a153","difficulty":1200,"observed_at":1794920548.2820415,"problem_id":"1355B","submission_id":"398572445","title":"Young Explorers"}
+{"accepted_at":1795826466.0,"account_id":"a153","difficulty":1100,"observed_at":1795832883.2594037,"problem_id":"313B","submission_id":"400142129","title":"Ilya and Queries"}
 {"accepted_at":1792658779.0,"account_id":"a154","difficulty":1,"observed_at":1792658909.5037622,"problem_id":"P1001","submission_id":"304757881","title":"A+B Problem"}
 {"accepted_at":1792660153.0,"account_id":"a154","difficulty":1,"observed_at":1792660732.0938506,"problem_id":"P14747","submission_id":"304764291","title":"相似字符串"}
 {"accepted_at":1792824141.0,"account_id":"a154","difficulty":1,"observed_at":1792824681.2626302,"problem_id":"P1897","submission_id":"305275251","title":"电梯里的尴尬"}
