@@ -1309,9 +1309,11 @@
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075181.0012174,"platform":"codeforces","problem_id":"106193J","solved_at":1785045016.0,"source":"codeforces-api","title":"Judging Problem"}
 {"account_id":"a11","difficulty":null,"member_id":"m5","observed_at":1792075180.997314,"platform":"codeforces","problem_id":"106745A","solved_at":1791801153.0,"source":"codeforces-api","title":"Delete and Backspace"}
 {"account_id":"a11","difficulty":1200,"member_id":"m5","observed_at":1792127046.6171024,"platform":"codeforces","problem_id":"1104B","solved_at":1792076930.0,"source":"codeforces-api","title":"Game with string"}
+{"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1795835627.730145,"platform":"codeforces","problem_id":"1109A","solved_at":1795835164.0,"source":"codeforces-api","title":"Sasha and a Bit of Relax"}
 {"account_id":"a11","difficulty":1400,"member_id":"m5","observed_at":1792075181.0119953,"platform":"codeforces","problem_id":"111A","solved_at":1770193233.0,"source":"codeforces-api","title":"Petya and Inequiations"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1792921490.3567412,"platform":"codeforces","problem_id":"1234D","solved_at":1792920975.0,"source":"codeforces-api","title":"Distinct Characters Queries"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1793025010.9583917,"platform":"codeforces","problem_id":"1305C","solved_at":1793024794.0,"source":"codeforces-api","title":"Kuroni and Impossible Calculation"}
+{"account_id":"a11","difficulty":1900,"member_id":"m5","observed_at":1795835627.729899,"platform":"codeforces","problem_id":"1307D","solved_at":1795835456.0,"source":"codeforces-api","title":"Cow and Fields"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.0062807,"platform":"codeforces","problem_id":"1325A","solved_at":1781098867.0,"source":"codeforces-api","title":"EhAb AnD gCd"}
 {"account_id":"a11","difficulty":1300,"member_id":"m5","observed_at":1792075181.0126457,"platform":"codeforces","problem_id":"1326C","solved_at":1769600393.0,"source":"codeforces-api","title":"Permutation Partitions"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1793261656.516494,"platform":"codeforces","problem_id":"1327C","solved_at":1793261093.0,"source":"codeforces-api","title":"Game with Chips"}
@@ -1605,6 +1607,8 @@
 {"account_id":"a11","difficulty":1300,"member_id":"m5","observed_at":1792075181.0070984,"platform":"codeforces","problem_id":"230B","solved_at":1779895541.0,"source":"codeforces-api","title":"T-primes"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.019827,"platform":"codeforces","problem_id":"231A","solved_at":1766138910.0,"source":"codeforces-api","title":"Team"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1792075180.998882,"platform":"codeforces","problem_id":"235A","solved_at":1789121457.0,"source":"codeforces-api","title":"LCM Challenge"}
+{"account_id":"a11","difficulty":1500,"member_id":"m5","observed_at":1795835627.7301073,"platform":"codeforces","problem_id":"276C","solved_at":1795835421.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
+{"account_id":"a11","difficulty":1100,"member_id":"m5","observed_at":1795835627.7301688,"platform":"codeforces","problem_id":"313B","solved_at":1795835100.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a11","difficulty":800,"member_id":"m5","observed_at":1792075181.0164375,"platform":"codeforces","problem_id":"32A","solved_at":1767711533.0,"source":"codeforces-api","title":"Reconnaissance"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1792075180.9992824,"platform":"codeforces","problem_id":"371C","solved_at":1788828668.0,"source":"codeforces-api","title":"Hamburgers"}
 {"account_id":"a11","difficulty":1600,"member_id":"m5","observed_at":1792075180.9991927,"platform":"codeforces","problem_id":"377A","solved_at":1788856756.0,"source":"codeforces-api","title":"Maze"}
@@ -1639,6 +1643,7 @@
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.8633273,"platform":"codeforces","problem_id":"2285A","solved_at":1794756168.0,"source":"codeforces-api","title":"Composite Permutation"}
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.8635833,"platform":"codeforces","problem_id":"2290A","solved_at":1794496356.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.86354,"platform":"codeforces","problem_id":"2290B","solved_at":1794497602.0,"source":"codeforces-api","title":"Stubborn Pen"}
+{"account_id":"a14","difficulty":1100,"member_id":"m6","observed_at":1795835188.3902946,"platform":"codeforces","problem_id":"313B","solved_at":1795834600.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310737,"platform":"luogu","problem_id":"B3862","solved_at":1761973505.0,"source":"luogu-practice-snapshot","title":"图的遍历（简单版）"}
 {"account_id":"a15","difficulty":5,"member_id":"m7","observed_at":1792076650.6310804,"platform":"luogu","problem_id":"P10478","solved_at":1770193624.0,"source":"luogu-practice-snapshot","title":"生日礼物"}
 {"account_id":"a15","difficulty":3,"member_id":"m7","observed_at":1792076650.631088,"platform":"luogu","problem_id":"P10909","solved_at":1763178194.0,"source":"luogu-practice-snapshot","title":"[蓝桥杯 2024 国 B] 立定跳远"}
@@ -8635,6 +8640,7 @@
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795792484.5065718,"platform":"codeforces","problem_id":"2292C","solved_at":1795792255.0,"source":"codeforces-api","title":"Finding Shapes in the Clouds"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795793813.3452554,"platform":"codeforces","problem_id":"2292D","solved_at":1795793743.0,"source":"codeforces-api","title":"Unexpected Precipitation"}
 {"account_id":"a55","difficulty":null,"member_id":"m23","observed_at":1795797482.3991287,"platform":"codeforces","problem_id":"2292E","solved_at":1795797067.0,"source":"codeforces-api","title":"Blush"}
+{"account_id":"a55","difficulty":1500,"member_id":"m23","observed_at":1795835884.8568316,"platform":"codeforces","problem_id":"276C","solved_at":1795835668.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a55","difficulty":1100,"member_id":"m23","observed_at":1795832836.1312854,"platform":"codeforces","problem_id":"313B","solved_at":1795826729.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a55","difficulty":800,"member_id":"m23","observed_at":1794925549.91365,"platform":"codeforces","problem_id":"32B","solved_at":1794925351.0,"source":"codeforces-api","title":"Borze"}
 {"account_id":"a55","difficulty":1700,"member_id":"m23","observed_at":1794920658.2586002,"platform":"codeforces","problem_id":"460C","solved_at":1794324339.0,"source":"codeforces-api","title":"Present"}
@@ -21207,6 +21213,7 @@
 {"account_id":"a160","difficulty":6,"member_id":"m71","observed_at":1792150264.8159137,"platform":"luogu","problem_id":"P7914","solved_at":1691032935.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2021] 括号序列"}
 {"account_id":"a160","difficulty":2,"member_id":"m71","observed_at":1792150264.815925,"platform":"luogu","problem_id":"P8814","solved_at":1706144119.0,"source":"luogu-practice-snapshot","title":"[CSP-J 2022] 解密"}
 {"account_id":"a160","difficulty":7,"member_id":"m71","observed_at":1792150264.6485658,"platform":"luogu","problem_id":"P8819","solved_at":1691046131.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2022] 星战"}
+{"account_id":"a162","difficulty":1600,"member_id":"m71","observed_at":1795835851.5475864,"platform":"codeforces","problem_id":"1109A","solved_at":1795835694.0,"source":"codeforces-api","title":"Sasha and a Bit of Relax"}
 {"account_id":"a162","difficulty":1600,"member_id":"m71","observed_at":1794920555.560395,"platform":"codeforces","problem_id":"1707A","solved_at":1794625534.0,"source":"codeforces-api","title":"Doremy's IQ"}
 {"account_id":"a162","difficulty":1200,"member_id":"m71","observed_at":1794920555.560673,"platform":"codeforces","problem_id":"1747C","solved_at":1794017448.0,"source":"codeforces-api","title":"Swap Game"}
 {"account_id":"a162","difficulty":1100,"member_id":"m71","observed_at":1795833412.718397,"platform":"codeforces","problem_id":"313B","solved_at":1795833335.0,"source":"codeforces-api","title":"Ilya and Queries"}
