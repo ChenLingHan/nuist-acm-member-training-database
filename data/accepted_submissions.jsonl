@@ -10918,6 +10918,7 @@
 {"accepted_at":1795826729.0,"account_id":"a55","difficulty":1100,"observed_at":1795832836.1313746,"problem_id":"313B","submission_id":"400142194","title":"Ilya and Queries"}
 {"accepted_at":1795832569.0,"account_id":"a55","difficulty":1100,"observed_at":1795833450.5121748,"problem_id":"313B","submission_id":"400143955","title":"Ilya and Queries"}
 {"accepted_at":1795835668.0,"account_id":"a55","difficulty":1500,"observed_at":1795835884.8569195,"problem_id":"276C","submission_id":"400146619","title":"Little Girl and Maximum Sum"}
+{"accepted_at":1795848612.0,"account_id":"a55","difficulty":1900,"observed_at":1795848715.2111154,"problem_id":"1307D","submission_id":"400166885","title":"Cow and Fields"}
 {"accepted_at":1790816323.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5350244,"problem_id":"B2002","submission_id":"300116637","title":"Hello,World!"}
 {"accepted_at":1790816739.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.535,"problem_id":"B2025","submission_id":"300117395","title":"输出字符菱形"}
 {"accepted_at":1790817898.0,"account_id":"a56","difficulty":1,"observed_at":1792155605.5349705,"problem_id":"P1000","submission_id":"300120108","title":"超级玛丽游戏"}
@@ -11987,6 +11988,7 @@
 {"accepted_at":1795828292.0,"account_id":"a64","difficulty":1100,"observed_at":1795832893.6641784,"problem_id":"313B","submission_id":"400142595","title":"Ilya and Queries"}
 {"accepted_at":1795845592.0,"account_id":"a64","difficulty":1500,"observed_at":1795845714.8351915,"problem_id":"276C","submission_id":"400161521","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1795845658.0,"account_id":"a64","difficulty":1500,"observed_at":1795845714.8350782,"problem_id":"276C","submission_id":"400161624","title":"Little Girl and Maximum Sum"}
+{"accepted_at":1795848367.0,"account_id":"a64","difficulty":1600,"observed_at":1795848760.5265746,"problem_id":"1109A","submission_id":"400166456","title":"Sasha and a Bit of Relax"}
 {"accepted_at":1541297725.0,"account_id":"a65","difficulty":3,"observed_at":1792153391.9855702,"problem_id":"P4994","submission_id":"13077862","title":"终于结束的起点"}
 {"accepted_at":1541905792.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1815884,"problem_id":"P5015","submission_id":"13648673","title":"[NOIP 2018 普及组] 标题统计"}
 {"accepted_at":1573919251.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1814945,"problem_id":"P5660","submission_id":"27362663","title":"[CSP-J 2019] 数字游戏"}
@@ -12356,6 +12358,7 @@
 {"accepted_at":1795419436.0,"account_id":"a73","difficulty":1600,"observed_at":1795419789.3527572,"problem_id":"377A","submission_id":"399578611","title":"Maze"}
 {"accepted_at":1795767706.0,"account_id":"a73","difficulty":1800,"observed_at":1795768121.4212198,"problem_id":"1063B","submission_id":"399976168","title":"Labyrinth"}
 {"accepted_at":1795826693.0,"account_id":"a73","difficulty":1100,"observed_at":1795832864.4370854,"problem_id":"313B","submission_id":"400142188","title":"Ilya and Queries"}
+{"accepted_at":1795849322.0,"account_id":"a73","difficulty":1600,"observed_at":1795849346.9416642,"problem_id":"1109A","submission_id":"400168306","title":"Sasha and a Bit of Relax"}
 {"accepted_at":1761746973.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.1631203,"problem_id":"2162A","submission_id":"346476628","title":"Beautiful Average"}
 {"accepted_at":1761785914.0,"account_id":"a74","difficulty":1000,"observed_at":1792127097.1630282,"problem_id":"2162B","submission_id":"346546845","title":"Beautiful String"}
 {"accepted_at":1761786770.0,"account_id":"a74","difficulty":800,"observed_at":1792127097.162935,"problem_id":"2167A","submission_id":"346547611","title":"Square?"}
@@ -12963,6 +12966,7 @@
 {"accepted_at":1795827637.0,"account_id":"a74","difficulty":1100,"observed_at":1795832519.4820232,"problem_id":"313B","submission_id":"400142419","title":"Ilya and Queries"}
 {"accepted_at":1795830778.0,"account_id":"a74","difficulty":1500,"observed_at":1795833126.693243,"problem_id":"276C","submission_id":"400143274","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1795833449.0,"account_id":"a74","difficulty":1600,"observed_at":1795833735.2577822,"problem_id":"1109A","submission_id":"400144611","title":"Sasha and a Bit of Relax"}
+{"accepted_at":1795848902.0,"account_id":"a74","difficulty":1900,"observed_at":1795848981.9949524,"problem_id":"1307D","submission_id":"400167452","title":"Cow and Fields"}
 {"accepted_at":1790162814.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835334,"problem_id":"P1035","submission_id":"298940917","title":"[NOIP 2002 普及组] 级数求和"}
 {"accepted_at":1790163034.0,"account_id":"a75","difficulty":1,"observed_at":1792150401.6835148,"problem_id":"P1046","submission_id":"298941757","title":"[NOIP 2005 普及组] 陶陶摘苹果"}
 {"accepted_at":1790216330.0,"account_id":"a75","difficulty":2,"observed_at":1792150401.6834967,"problem_id":"B4105","submission_id":"299001311","title":"[CSP-X2024 山东] 消灭怪兽"}
