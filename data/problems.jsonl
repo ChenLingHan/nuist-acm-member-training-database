@@ -3978,6 +3978,7 @@
 {"difficulty":2600,"platform":"codeforces","points":3000.0,"problem_id":"599E","tags":["bitmasks","dp","trees"],"title":"Sandy and Nuts"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"59A","tags":["implementation","strings"],"title":"Word"}
 {"difficulty":1200,"platform":"codeforces","points":1000.0,"problem_id":"59B","tags":["implementation","number theory"],"title":"Fortune Telling"}
+{"difficulty":2000,"platform":"codeforces","points":2500.0,"problem_id":"59E","tags":["graphs","shortest paths"],"title":"Shortest Path"}
 {"difficulty":1000,"platform":"codeforces","points":null,"problem_id":"5A","tags":["implementation"],"title":"Chat Servers Outgoing Traffic"}
 {"difficulty":1900,"platform":"codeforces","points":null,"problem_id":"5C","tags":["constructive algorithms","data structures","dp","greedy","sortings","strings"],"title":"Longest Regular Bracket Sequence"}
 {"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"5D","tags":["implementation","math"],"title":"Follow Traffic Rules"}
