@@ -1021,6 +1021,7 @@
 {"difficulty":1100,"platform":"codeforces","points":null,"problem_id":"1472C","tags":["dp","graphs"],"title":"Long Jumps"}
 {"difficulty":1200,"platform":"codeforces","points":null,"problem_id":"1472D","tags":["dp","games","greedy","sortings"],"title":"Even-Odd Game"}
 {"difficulty":1700,"platform":"codeforces","points":null,"problem_id":"1472E","tags":["binary search","data structures","dp","sortings","two pointers"],"title":"Correct Placement"}
+{"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"1473E","tags":["graphs","shortest paths"],"title":"Minimum Path"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1475A","tags":["math","number theory"],"title":"Odd Divisor"}
 {"difficulty":900,"platform":"codeforces","points":null,"problem_id":"1475B","tags":["brute force","dp","math"],"title":"New Year's Number"}
 {"difficulty":1400,"platform":"codeforces","points":null,"problem_id":"1475C","tags":["combinatorics","graphs","math"],"title":"Ball in Berland"}
