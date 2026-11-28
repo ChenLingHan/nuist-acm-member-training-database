@@ -1643,6 +1643,7 @@
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.8633273,"platform":"codeforces","problem_id":"2285A","solved_at":1794756168.0,"source":"codeforces-api","title":"Composite Permutation"}
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.8635833,"platform":"codeforces","problem_id":"2290A","solved_at":1794496356.0,"source":"codeforces-api","title":"Three Piles"}
 {"account_id":"a14","difficulty":null,"member_id":"m6","observed_at":1794920754.86354,"platform":"codeforces","problem_id":"2290B","solved_at":1794497602.0,"source":"codeforces-api","title":"Stubborn Pen"}
+{"account_id":"a14","difficulty":1500,"member_id":"m6","observed_at":1795837623.6751091,"platform":"codeforces","problem_id":"276C","solved_at":1795837376.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a14","difficulty":1100,"member_id":"m6","observed_at":1795835188.3902946,"platform":"codeforces","problem_id":"313B","solved_at":1795834600.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a15","difficulty":2,"member_id":"m7","observed_at":1792076650.6310737,"platform":"luogu","problem_id":"B3862","solved_at":1761973505.0,"source":"luogu-practice-snapshot","title":"图的遍历（简单版）"}
 {"account_id":"a15","difficulty":5,"member_id":"m7","observed_at":1792076650.6310804,"platform":"luogu","problem_id":"P10478","solved_at":1770193624.0,"source":"luogu-practice-snapshot","title":"生日礼物"}
@@ -12150,6 +12151,7 @@
 {"account_id":"a93","difficulty":5,"member_id":"m41","observed_at":1793105999.42274,"platform":"luogu","problem_id":"P3805","solved_at":1793105990.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a94","difficulty":1600,"member_id":"m41","observed_at":1794920472.343748,"platform":"codeforces","problem_id":"1707A","solved_at":1794817858.0,"source":"codeforces-api","title":"Doremy's IQ"}
 {"account_id":"a94","difficulty":1200,"member_id":"m41","observed_at":1794920472.3441725,"platform":"codeforces","problem_id":"1747C","solved_at":1794017827.0,"source":"codeforces-api","title":"Swap Game"}
+{"account_id":"a94","difficulty":1500,"member_id":"m41","observed_at":1795837631.011994,"platform":"codeforces","problem_id":"276C","solved_at":1795837109.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a94","difficulty":1100,"member_id":"m41","observed_at":1795833374.6739347,"platform":"codeforces","problem_id":"313B","solved_at":1795829009.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a94","difficulty":1400,"member_id":"m41","observed_at":1794920472.3441439,"platform":"codeforces","problem_id":"538B","solved_at":1794618119.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a94","difficulty":1600,"member_id":"m41","observed_at":1795004586.6200612,"platform":"codeforces","problem_id":"722C","solved_at":1795004499.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -13627,6 +13629,7 @@
 {"account_id":"a97","difficulty":4,"member_id":"m43","observed_at":1792148610.1899054,"platform":"luogu","problem_id":"UVA307","solved_at":1667135738.0,"source":"luogu-practice-snapshot","title":"小木棍 Sticks"}
 {"account_id":"a97","difficulty":0,"member_id":"m43","observed_at":1792148610.189909,"platform":"luogu","problem_id":"UVA694","solved_at":1668341277.0,"source":"luogu-practice-snapshot","title":"The Collatz Sequence"}
 {"account_id":"a98","difficulty":1300,"member_id":"m43","observed_at":1793412374.60097,"platform":"codeforces","problem_id":"1005C","solved_at":1793412010.0,"source":"codeforces-api","title":"Summarize to the Power of Two"}
+{"account_id":"a98","difficulty":1600,"member_id":"m43","observed_at":1795836957.5612361,"platform":"codeforces","problem_id":"1109A","solved_at":1795836435.0,"source":"codeforces-api","title":"Sasha and a Bit of Relax"}
 {"account_id":"a98","difficulty":1800,"member_id":"m43","observed_at":1793416304.3784337,"platform":"codeforces","problem_id":"1225D","solved_at":1793416208.0,"source":"codeforces-api","title":"Power Products"}
 {"account_id":"a98","difficulty":1300,"member_id":"m43","observed_at":1792148496.6040459,"platform":"codeforces","problem_id":"1366B","solved_at":1697459005.0,"source":"codeforces-api","title":"Shuffle"}
 {"account_id":"a98","difficulty":1600,"member_id":"m43","observed_at":1794920705.5162816,"platform":"codeforces","problem_id":"1526C2","solved_at":1794013939.0,"source":"codeforces-api","title":"Potions (Hard Version)"}
@@ -17240,6 +17243,7 @@
 {"account_id":"a133","difficulty":2,"member_id":"m59","observed_at":1792808913.2777297,"platform":"luogu","problem_id":"P1165","solved_at":1792808375.0,"source":"luogu-record-list","title":"日志分析"}
 {"account_id":"a133","difficulty":1,"member_id":"m59","observed_at":1792807692.1933367,"platform":"luogu","problem_id":"P1897","solved_at":1792807644.0,"source":"luogu-record-list","title":"电梯里的尴尬"}
 {"account_id":"a133","difficulty":5,"member_id":"m59","observed_at":1792812611.4683685,"platform":"luogu","problem_id":"P3805","solved_at":1792812203.0,"source":"luogu-record-list","title":"【模板】Manacher"}
+{"account_id":"a135","difficulty":1100,"member_id":"m59","observed_at":1795836981.6198769,"platform":"codeforces","problem_id":"313B","solved_at":1795836556.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a135","difficulty":1400,"member_id":"m59","observed_at":1794920553.4743066,"platform":"codeforces","problem_id":"538B","solved_at":1794627982.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a135","difficulty":1600,"member_id":"m59","observed_at":1794920553.4745014,"platform":"codeforces","problem_id":"722C","solved_at":1794023547.0,"source":"codeforces-api","title":"Destroying Array"}
 {"account_id":"a136","difficulty":800,"member_id":"m60","observed_at":1793237991.8583524,"platform":"codeforces","problem_id":"1703B","solved_at":1793237899.0,"source":"codeforces-api","title":"ICPC Balloons"}

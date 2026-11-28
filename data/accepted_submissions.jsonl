@@ -2118,6 +2118,7 @@
 {"accepted_at":1794497602.0,"account_id":"a14","difficulty":null,"observed_at":1794920754.863549,"problem_id":"2290B","submission_id":"398309299","title":"Stubborn Pen"}
 {"accepted_at":1794756168.0,"account_id":"a14","difficulty":null,"observed_at":1794920754.8634255,"problem_id":"2285A","submission_id":"398682176","title":"Composite Permutation"}
 {"accepted_at":1795834600.0,"account_id":"a14","difficulty":1100,"observed_at":1795835188.3903801,"problem_id":"313B","submission_id":"400145619","title":"Ilya and Queries"}
+{"accepted_at":1795837376.0,"account_id":"a14","difficulty":1500,"observed_at":1795837623.6752062,"problem_id":"276C","submission_id":"400148197","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1760371539.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226588,"problem_id":"P3984","submission_id":"240431884","title":"高兴的津津"}
 {"accepted_at":1760439449.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.8226109,"problem_id":"P3392","submission_id":"240523673","title":"涂条纹"}
 {"accepted_at":1761355194.0,"account_id":"a15","difficulty":2,"observed_at":1792153181.822582,"problem_id":"P1162","submission_id":"242805276","title":"填涂颜色"}
@@ -14768,6 +14769,7 @@
 {"accepted_at":1795004499.0,"account_id":"a94","difficulty":1600,"observed_at":1795004586.620158,"problem_id":"722C","submission_id":"399039689","title":"Destroying Array"}
 {"accepted_at":1795829009.0,"account_id":"a94","difficulty":1100,"observed_at":1795833374.674132,"problem_id":"313B","submission_id":"400142783","title":"Ilya and Queries"}
 {"accepted_at":1795833221.0,"account_id":"a94","difficulty":1100,"observed_at":1795833374.674018,"problem_id":"313B","submission_id":"400144407","title":"Ilya and Queries"}
+{"accepted_at":1795837109.0,"account_id":"a94","difficulty":1500,"observed_at":1795837631.0120773,"problem_id":"276C","submission_id":"400147960","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1791873578.0,"account_id":"a95","difficulty":4,"observed_at":1792153452.4680367,"problem_id":"P1265","submission_id":"302801976","title":"公路修建"}
 {"accepted_at":1791897747.0,"account_id":"a95","difficulty":3,"observed_at":1792153452.468016,"problem_id":"P4779","submission_id":"302896883","title":"【模板】单源最短路径（标准版）"}
 {"accepted_at":1791899265.0,"account_id":"a95","difficulty":3,"observed_at":1792153452.4679954,"problem_id":"P3366","submission_id":"302904578","title":"【模板】最小生成树"}
@@ -17265,6 +17267,7 @@
 {"accepted_at":1795340362.0,"account_id":"a98","difficulty":null,"observed_at":1795340480.9342916,"problem_id":"2289C","submission_id":"399457563","title":"Problem from Ust-Katav"}
 {"accepted_at":1795342076.0,"account_id":"a98","difficulty":null,"observed_at":1795342304.027695,"problem_id":"2289B","submission_id":"399464185","title":"Problem from Chebarkul"}
 {"accepted_at":1795835992.0,"account_id":"a98","difficulty":1100,"observed_at":1795836350.509269,"problem_id":"313B","submission_id":"400146904","title":"Ilya and Queries"}
+{"accepted_at":1795836435.0,"account_id":"a98","difficulty":1600,"observed_at":1795836957.5613859,"problem_id":"1109A","submission_id":"400147323","title":"Sasha and a Bit of Relax"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}
@@ -21504,6 +21507,7 @@
 {"accepted_at":1794023547.0,"account_id":"a135","difficulty":1600,"observed_at":1794920553.47454,"problem_id":"722C","submission_id":"397677936","title":"Destroying Array"}
 {"accepted_at":1794024281.0,"account_id":"a135","difficulty":1600,"observed_at":1794920553.474509,"problem_id":"722C","submission_id":"397678469","title":"Destroying Array"}
 {"accepted_at":1794627982.0,"account_id":"a135","difficulty":1400,"observed_at":1794920553.474397,"problem_id":"538B","submission_id":"398496607","title":"Quasi Binary"}
+{"accepted_at":1795836556.0,"account_id":"a135","difficulty":1100,"observed_at":1795836981.6199656,"problem_id":"313B","submission_id":"400147445","title":"Ilya and Queries"}
 {"accepted_at":1709866572.0,"account_id":"a136","difficulty":1100,"observed_at":1792148529.9025366,"problem_id":"690A1","submission_id":"250150865","title":"Collective Mindsets (easy)"}
 {"accepted_at":1709867784.0,"account_id":"a136","difficulty":2300,"observed_at":1792148529.9023836,"problem_id":"690A2","submission_id":"250151782","title":"Collective Mindsets (medium)"}
 {"accepted_at":1792807555.0,"account_id":"a136","difficulty":1900,"observed_at":1792807987.8456237,"problem_id":"817D","submission_id":"395780298","title":"Imbalanced Array"}
