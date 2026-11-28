@@ -2104,6 +2104,7 @@
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1795791734.2772398,"platform":"codeforces","problem_id":"2292A","solved_at":1795791313.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a21","difficulty":null,"member_id":"m9","observed_at":1795793714.4575949,"platform":"codeforces","problem_id":"2292B","solved_at":1795793027.0,"source":"codeforces-api","title":"Grapefruit Juice"}
 {"account_id":"a21","difficulty":1800,"member_id":"m9","observed_at":1794920444.0470502,"platform":"codeforces","problem_id":"271D","solved_at":1794127977.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a21","difficulty":1500,"member_id":"m9","observed_at":1795833432.8583162,"platform":"codeforces","problem_id":"276C","solved_at":1795831417.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a21","difficulty":1100,"member_id":"m9","observed_at":1795832814.6972597,"platform":"codeforces","problem_id":"313B","solved_at":1795826671.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a21","difficulty":1400,"member_id":"m9","observed_at":1794920444.0468743,"platform":"codeforces","problem_id":"538B","solved_at":1794619254.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a21","difficulty":1600,"member_id":"m9","observed_at":1794920444.04722,"platform":"codeforces","problem_id":"722C","solved_at":1794019744.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -3268,6 +3269,7 @@
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795590247.7986596,"platform":"codeforces","problem_id":"2289A","solved_at":1795589998.0,"source":"codeforces-api","title":"Problem from Dolgoderevenskoye"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795591465.3620222,"platform":"codeforces","problem_id":"2289B","solved_at":1795590849.0,"source":"codeforces-api","title":"Problem from Chebarkul"}
 {"account_id":"a27","difficulty":null,"member_id":"m11","observed_at":1795593296.0976148,"platform":"codeforces","problem_id":"2289C","solved_at":1795592940.0,"source":"codeforces-api","title":"Problem from Ust-Katav"}
+{"account_id":"a27","difficulty":1500,"member_id":"m11","observed_at":1795833831.3510284,"platform":"codeforces","problem_id":"276C","solved_at":1795833170.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a27","difficulty":1100,"member_id":"m11","observed_at":1795833222.1712906,"platform":"codeforces","problem_id":"313B","solved_at":1795829249.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a27","difficulty":1900,"member_id":"m11","observed_at":1792809067.5749955,"platform":"codeforces","problem_id":"817D","solved_at":1792808893.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a28","difficulty":5,"member_id":"m12","observed_at":1792083216.4203541,"platform":"luogu","problem_id":"AT_arc117_c","solved_at":1697200604.0,"source":"luogu-practice-snapshot","title":"[ARC117C] Tricolor Pyramid"}
@@ -8555,6 +8557,7 @@
 {"account_id":"a53","difficulty":1200,"member_id":"m22","observed_at":1794920620.7094681,"platform":"codeforces","problem_id":"1747C","solved_at":1794020370.0,"source":"codeforces-api","title":"Swap Game"}
 {"account_id":"a53","difficulty":1900,"member_id":"m22","observed_at":1795241073.5222561,"platform":"codeforces","problem_id":"2275G","solved_at":1795240605.0,"source":"codeforces-api","title":"Copper Squander"}
 {"account_id":"a53","difficulty":1800,"member_id":"m22","observed_at":1794920620.7094235,"platform":"codeforces","problem_id":"271D","solved_at":1794029391.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a53","difficulty":1500,"member_id":"m22","observed_at":1795834097.564319,"platform":"codeforces","problem_id":"276C","solved_at":1795834006.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a53","difficulty":1100,"member_id":"m22","observed_at":1795832878.3333635,"platform":"codeforces","problem_id":"313B","solved_at":1795826535.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a53","difficulty":1400,"member_id":"m22","observed_at":1794920620.7092564,"platform":"codeforces","problem_id":"538B","solved_at":1794618763.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a53","difficulty":1600,"member_id":"m22","observed_at":1794920620.7094016,"platform":"codeforces","problem_id":"722C","solved_at":1794031724.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -9982,6 +9985,7 @@
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1792127097.1268203,"platform":"codeforces","problem_id":"106725I","solved_at":1791446928.0,"source":"codeforces-api","title":"Integer Triple"}
 {"account_id":"a74","difficulty":null,"member_id":"m32","observed_at":1792127097.1268303,"platform":"codeforces","problem_id":"106725N","solved_at":1791446218.0,"source":"codeforces-api","title":"New CCPC Rule"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1793424646.033139,"platform":"codeforces","problem_id":"1106D","solved_at":1793424480.0,"source":"codeforces-api","title":"Lunar New Year and a Wander"}
+{"account_id":"a74","difficulty":1600,"member_id":"m32","observed_at":1795833735.2577004,"platform":"codeforces","problem_id":"1109A","solved_at":1795833449.0,"source":"codeforces-api","title":"Sasha and a Bit of Relax"}
 {"account_id":"a74","difficulty":1400,"member_id":"m32","observed_at":1792127097.1526186,"platform":"codeforces","problem_id":"111A","solved_at":1770195356.0,"source":"codeforces-api","title":"Petya and Inequiations"}
 {"account_id":"a74","difficulty":1200,"member_id":"m32","observed_at":1792127097.1486595,"platform":"codeforces","problem_id":"1133C","solved_at":1772851137.0,"source":"codeforces-api","title":"Balanced Team"}
 {"account_id":"a74","difficulty":1500,"member_id":"m32","observed_at":1792127097.1534567,"platform":"codeforces","problem_id":"114B","solved_at":1769952476.0,"source":"codeforces-api","title":"PFAST Inc."}
@@ -12136,6 +12140,7 @@
 {"account_id":"a93","difficulty":5,"member_id":"m41","observed_at":1793105999.42274,"platform":"luogu","problem_id":"P3805","solved_at":1793105990.0,"source":"luogu-record-list","title":"【模板】Manacher"}
 {"account_id":"a94","difficulty":1600,"member_id":"m41","observed_at":1794920472.343748,"platform":"codeforces","problem_id":"1707A","solved_at":1794817858.0,"source":"codeforces-api","title":"Doremy's IQ"}
 {"account_id":"a94","difficulty":1200,"member_id":"m41","observed_at":1794920472.3441725,"platform":"codeforces","problem_id":"1747C","solved_at":1794017827.0,"source":"codeforces-api","title":"Swap Game"}
+{"account_id":"a94","difficulty":1100,"member_id":"m41","observed_at":1795833374.6739347,"platform":"codeforces","problem_id":"313B","solved_at":1795829009.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a94","difficulty":1400,"member_id":"m41","observed_at":1794920472.3441439,"platform":"codeforces","problem_id":"538B","solved_at":1794618119.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a94","difficulty":1600,"member_id":"m41","observed_at":1795004586.6200612,"platform":"codeforces","problem_id":"722C","solved_at":1795004499.0,"source":"codeforces-api","title":"Destroying Array"}
 {"account_id":"a94","difficulty":1900,"member_id":"m41","observed_at":1792855286.9656544,"platform":"codeforces","problem_id":"817D","solved_at":1792855082.0,"source":"codeforces-api","title":"Imbalanced Array"}
@@ -18514,6 +18519,7 @@
 {"account_id":"a153","difficulty":null,"member_id":"m67","observed_at":1794920548.2822876,"platform":"codeforces","problem_id":"2290C","solved_at":1794496401.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a153","difficulty":null,"member_id":"m67","observed_at":1794920548.2822535,"platform":"codeforces","problem_id":"2290D","solved_at":1794498131.0,"source":"codeforces-api","title":"Letters Down"}
 {"account_id":"a153","difficulty":1800,"member_id":"m67","observed_at":1794920548.282426,"platform":"codeforces","problem_id":"271D","solved_at":1794035628.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a153","difficulty":1500,"member_id":"m67","observed_at":1795834104.2876601,"platform":"codeforces","problem_id":"276C","solved_at":1795833877.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a153","difficulty":1100,"member_id":"m67","observed_at":1795832883.2593186,"platform":"codeforces","problem_id":"313B","solved_at":1795826466.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a153","difficulty":1400,"member_id":"m67","observed_at":1794920548.2822247,"platform":"codeforces","problem_id":"538B","solved_at":1794620067.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a153","difficulty":1600,"member_id":"m67","observed_at":1794920548.2824686,"platform":"codeforces","problem_id":"722C","solved_at":1794016596.0,"source":"codeforces-api","title":"Destroying Array"}
@@ -21198,6 +21204,7 @@
 {"account_id":"a160","difficulty":7,"member_id":"m71","observed_at":1792150264.6485658,"platform":"luogu","problem_id":"P8819","solved_at":1691046131.0,"source":"luogu-practice-snapshot","title":"[CSP-S 2022] 星战"}
 {"account_id":"a162","difficulty":1600,"member_id":"m71","observed_at":1794920555.560395,"platform":"codeforces","problem_id":"1707A","solved_at":1794625534.0,"source":"codeforces-api","title":"Doremy's IQ"}
 {"account_id":"a162","difficulty":1200,"member_id":"m71","observed_at":1794920555.560673,"platform":"codeforces","problem_id":"1747C","solved_at":1794017448.0,"source":"codeforces-api","title":"Swap Game"}
+{"account_id":"a162","difficulty":1100,"member_id":"m71","observed_at":1795833412.718397,"platform":"codeforces","problem_id":"313B","solved_at":1795833335.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a162","difficulty":1400,"member_id":"m71","observed_at":1794920555.560641,"platform":"codeforces","problem_id":"538B","solved_at":1794620802.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a162","difficulty":1900,"member_id":"m71","observed_at":1792825643.943434,"platform":"codeforces","problem_id":"817D","solved_at":1792825342.0,"source":"codeforces-api","title":"Imbalanced Array"}
 {"account_id":"a163","difficulty":2,"member_id":"m72","observed_at":1792150270.4210362,"platform":"luogu","problem_id":"B3625","solved_at":1774180203.0,"source":"luogu-practice-snapshot","title":"迷宫寻路"}
