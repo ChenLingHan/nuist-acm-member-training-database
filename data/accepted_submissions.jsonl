@@ -11985,6 +11985,8 @@
 {"accepted_at":1795220556.0,"account_id":"a64","difficulty":1600,"observed_at":1795220775.5005763,"problem_id":"1707A","submission_id":"399285846","title":"Doremy's IQ"}
 {"accepted_at":1795826959.0,"account_id":"a64","difficulty":1100,"observed_at":1795832893.6643345,"problem_id":"313B","submission_id":"400142246","title":"Ilya and Queries"}
 {"accepted_at":1795828292.0,"account_id":"a64","difficulty":1100,"observed_at":1795832893.6641784,"problem_id":"313B","submission_id":"400142595","title":"Ilya and Queries"}
+{"accepted_at":1795845592.0,"account_id":"a64","difficulty":1500,"observed_at":1795845714.8351915,"problem_id":"276C","submission_id":"400161521","title":"Little Girl and Maximum Sum"}
+{"accepted_at":1795845658.0,"account_id":"a64","difficulty":1500,"observed_at":1795845714.8350782,"problem_id":"276C","submission_id":"400161624","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1541297725.0,"account_id":"a65","difficulty":3,"observed_at":1792153391.9855702,"problem_id":"P4994","submission_id":"13077862","title":"终于结束的起点"}
 {"accepted_at":1541905792.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1815884,"problem_id":"P5015","submission_id":"13648673","title":"[NOIP 2018 普及组] 标题统计"}
 {"accepted_at":1573919251.0,"account_id":"a65","difficulty":1,"observed_at":1792150390.1814945,"problem_id":"P5660","submission_id":"27362663","title":"[CSP-J 2019] 数字游戏"}
@@ -26753,6 +26755,7 @@
 {"accepted_at":1795795926.0,"account_id":"a172","difficulty":null,"observed_at":1795796197.3960145,"problem_id":"2292D","submission_id":"400056202","title":"Unexpected Precipitation"}
 {"accepted_at":1795841957.0,"account_id":"a172","difficulty":1100,"observed_at":1795842024.975215,"problem_id":"313B","submission_id":"400154249","title":"Ilya and Queries"}
 {"accepted_at":1795843132.0,"account_id":"a172","difficulty":1600,"observed_at":1795843241.165354,"problem_id":"1109A","submission_id":"400157462","title":"Sasha and a Bit of Relax"}
+{"accepted_at":1795845155.0,"account_id":"a172","difficulty":1500,"observed_at":1795845675.359585,"problem_id":"276C","submission_id":"400160790","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1599977962.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246833,"problem_id":"P5658","submission_id":"38356603","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1599977989.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246804,"problem_id":"P5658","submission_id":"38356618","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1612347524.0,"account_id":"a173","difficulty":6,"observed_at":1792161831.2467597,"problem_id":"P7114","submission_id":"46081163","title":"[NOIP2020] 字符串匹配"}
