@@ -638,6 +638,7 @@
 {"difficulty":1500,"platform":"codeforces","points":1500.0,"problem_id":"1106D","tags":["data structures","dfs and similar","graphs","greedy","shortest paths"],"title":"Lunar New Year and a Wander"}
 {"difficulty":2400,"platform":"codeforces","points":null,"problem_id":"1107E","tags":["dp"],"title":"Vasya and Binary String"}
 {"difficulty":2100,"platform":"codeforces","points":null,"problem_id":"1108F","tags":["binary search","dsu","graphs","greedy"],"title":"MST Unification"}
+{"difficulty":1600,"platform":"codeforces","points":500.0,"problem_id":"1109A","tags":["dp","implementation"],"title":"Sasha and a Bit of Relax"}
 {"difficulty":800,"platform":"codeforces","points":500.0,"problem_id":"110A","tags":["implementation"],"title":"Nearly Lucky Number"}
 {"difficulty":2200,"platform":"codeforces","points":2000.0,"problem_id":"1110D","tags":["dp"],"title":"Jongmah"}
 {"difficulty":2200,"platform":"codeforces","points":2500.0,"problem_id":"1110E","tags":["constructive algorithms","math","sortings"],"title":"Magic Stones"}
