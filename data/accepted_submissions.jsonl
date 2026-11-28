@@ -10797,6 +10797,7 @@
 {"accepted_at":1795826535.0,"account_id":"a53","difficulty":1100,"observed_at":1795832878.333571,"problem_id":"313B","submission_id":"400142141","title":"Ilya and Queries"}
 {"accepted_at":1795826573.0,"account_id":"a53","difficulty":1100,"observed_at":1795832878.3334553,"problem_id":"313B","submission_id":"400142156","title":"Ilya and Queries"}
 {"accepted_at":1795834006.0,"account_id":"a53","difficulty":1500,"observed_at":1795834097.5644066,"problem_id":"276C","submission_id":"400145093","title":"Little Girl and Maximum Sum"}
+{"accepted_at":1795841665.0,"account_id":"a53","difficulty":1900,"observed_at":1795842052.3381958,"problem_id":"1307D","submission_id":"400153409","title":"Cow and Fields"}
 {"accepted_at":1771935092.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.2934034,"problem_id":"P1000","submission_id":"263834518","title":"超级玛丽游戏"}
 {"accepted_at":1790266826.0,"account_id":"a54","difficulty":1,"observed_at":1792148369.293393,"problem_id":"P1001","submission_id":"299099035","title":"A+B Problem"}
 {"accepted_at":1790688554.0,"account_id":"a54","difficulty":2,"observed_at":1792148369.293386,"problem_id":"P1002","submission_id":"299952348","title":"[NOIP 2002 普及组] 过河卒"}
@@ -26748,6 +26749,7 @@
 {"accepted_at":1795794169.0,"account_id":"a172","difficulty":null,"observed_at":1795794364.3942666,"problem_id":"2292B","submission_id":"400046289","title":"Grapefruit Juice"}
 {"accepted_at":1795794710.0,"account_id":"a172","difficulty":null,"observed_at":1795794971.3017075,"problem_id":"2292C","submission_id":"400049633","title":"Finding Shapes in the Clouds"}
 {"accepted_at":1795795926.0,"account_id":"a172","difficulty":null,"observed_at":1795796197.3960145,"problem_id":"2292D","submission_id":"400056202","title":"Unexpected Precipitation"}
+{"accepted_at":1795841957.0,"account_id":"a172","difficulty":1100,"observed_at":1795842024.975215,"problem_id":"313B","submission_id":"400154249","title":"Ilya and Queries"}
 {"accepted_at":1599977962.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246833,"problem_id":"P5658","submission_id":"38356603","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1599977989.0,"account_id":"a173","difficulty":4,"observed_at":1792161831.246804,"problem_id":"P5658","submission_id":"38356618","title":"[CSP-S 2019] 括号树"}
 {"accepted_at":1612347524.0,"account_id":"a173","difficulty":6,"observed_at":1792161831.2467597,"problem_id":"P7114","submission_id":"46081163","title":"[NOIP2020] 字符串匹配"}
