@@ -8202,6 +8202,7 @@
 {"accepted_at":1795792543.0,"account_id":"a36","difficulty":null,"observed_at":1795792952.0950327,"problem_id":"2292A","submission_id":"400034411","title":"Picnic for Two"}
 {"accepted_at":1795795717.0,"account_id":"a36","difficulty":null,"observed_at":1795795736.8017292,"problem_id":"2292B","submission_id":"400055133","title":"Grapefruit Juice"}
 {"accepted_at":1795834577.0,"account_id":"a36","difficulty":1100,"observed_at":1795834957.9730687,"problem_id":"313B","submission_id":"400145602","title":"Ilya and Queries"}
+{"accepted_at":1795835836.0,"account_id":"a36","difficulty":1500,"observed_at":1795836176.6260612,"problem_id":"276C","submission_id":"400146764","title":"Little Girl and Maximum Sum"}
 {"accepted_at":1792762251.0,"account_id":"a37","difficulty":1,"observed_at":1792762289.66419,"problem_id":"P1739","submission_id":"305090389","title":"表达式括号匹配"}
 {"accepted_at":1792764580.0,"account_id":"a37","difficulty":2,"observed_at":1792764743.48393,"problem_id":"P1449","submission_id":"305103319","title":"后缀表达式"}
 {"accepted_at":1792805163.0,"account_id":"a37","difficulty":1,"observed_at":1792805197.539181,"problem_id":"P1897","submission_id":"305148967","title":"电梯里的尴尬"}
@@ -17263,6 +17264,7 @@
 {"accepted_at":1795339734.0,"account_id":"a98","difficulty":null,"observed_at":1795339872.0650291,"problem_id":"2289A","submission_id":"399454687","title":"Problem from Dolgoderevenskoye"}
 {"accepted_at":1795340362.0,"account_id":"a98","difficulty":null,"observed_at":1795340480.9342916,"problem_id":"2289C","submission_id":"399457563","title":"Problem from Ust-Katav"}
 {"accepted_at":1795342076.0,"account_id":"a98","difficulty":null,"observed_at":1795342304.027695,"problem_id":"2289B","submission_id":"399464185","title":"Problem from Chebarkul"}
+{"accepted_at":1795835992.0,"account_id":"a98","difficulty":1100,"observed_at":1795836350.509269,"problem_id":"313B","submission_id":"400146904","title":"Ilya and Queries"}
 {"accepted_at":1549683633.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.0658584,"problem_id":"P1001","submission_id":"16133286","title":"A+B Problem"}
 {"accepted_at":1549683929.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065676,"problem_id":"P1000","submission_id":"16133388","title":"超级玛丽游戏"}
 {"accepted_at":1550367060.0,"account_id":"a99","difficulty":1,"observed_at":1792166048.065546,"problem_id":"P1421","submission_id":"16414388","title":"小玉买文具"}

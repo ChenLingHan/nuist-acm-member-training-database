@@ -6138,6 +6138,7 @@
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1794920721.0995975,"platform":"codeforces","problem_id":"2290C","solved_at":1794499121.0,"source":"codeforces-api","title":"Books on a Shelf"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1795792952.0949347,"platform":"codeforces","problem_id":"2292A","solved_at":1795792543.0,"source":"codeforces-api","title":"Picnic for Two"}
 {"account_id":"a36","difficulty":null,"member_id":"m14","observed_at":1795795736.801574,"platform":"codeforces","problem_id":"2292B","solved_at":1795795717.0,"source":"codeforces-api","title":"Grapefruit Juice"}
+{"account_id":"a36","difficulty":1500,"member_id":"m14","observed_at":1795836176.625972,"platform":"codeforces","problem_id":"276C","solved_at":1795835836.0,"source":"codeforces-api","title":"Little Girl and Maximum Sum"}
 {"account_id":"a36","difficulty":1100,"member_id":"m14","observed_at":1795834957.9729877,"platform":"codeforces","problem_id":"313B","solved_at":1795834577.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a36","difficulty":1400,"member_id":"m14","observed_at":1794920721.0995753,"platform":"codeforces","problem_id":"538B","solved_at":1794620247.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a36","difficulty":1600,"member_id":"m14","observed_at":1794920721.0995517,"platform":"codeforces","problem_id":"643B","solved_at":1794622627.0,"source":"codeforces-api","title":"Bear and Two Paths"}
@@ -13673,6 +13674,7 @@
 {"account_id":"a98","difficulty":null,"member_id":"m43","observed_at":1795339872.0651488,"platform":"codeforces","problem_id":"2289D","solved_at":1795339535.0,"source":"codeforces-api","title":"Problem from Yuzhnouralsk"}
 {"account_id":"a98","difficulty":1700,"member_id":"m43","observed_at":1792148496.6040606,"platform":"codeforces","problem_id":"229B","solved_at":1697118166.0,"source":"codeforces-api","title":"Planets"}
 {"account_id":"a98","difficulty":1800,"member_id":"m43","observed_at":1794920705.5162241,"platform":"codeforces","problem_id":"271D","solved_at":1794018170.0,"source":"codeforces-api","title":"Good Substrings"}
+{"account_id":"a98","difficulty":1100,"member_id":"m43","observed_at":1795836350.5091822,"platform":"codeforces","problem_id":"313B","solved_at":1795835992.0,"source":"codeforces-api","title":"Ilya and Queries"}
 {"account_id":"a98","difficulty":2100,"member_id":"m43","observed_at":1792148496.6039474,"platform":"codeforces","problem_id":"343D","solved_at":1698968289.0,"source":"codeforces-api","title":"Water Tree"}
 {"account_id":"a98","difficulty":1400,"member_id":"m43","observed_at":1794920705.5158277,"platform":"codeforces","problem_id":"538B","solved_at":1794637206.0,"source":"codeforces-api","title":"Quasi Binary"}
 {"account_id":"a98","difficulty":2300,"member_id":"m43","observed_at":1792148496.6039798,"platform":"codeforces","problem_id":"558E","solved_at":1698843800.0,"source":"codeforces-api","title":"A Simple Task"}
